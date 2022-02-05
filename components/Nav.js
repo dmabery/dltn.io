@@ -5,13 +5,13 @@ const Nav = () => {
         <nav className="flex flex-row mb-10 mt-10 space-x-4 justify-between">
             <div className="basis-2/3 flex flex-row space-x-4">
                 <Link href="/">
-                    <p className="font-medium py-2 text-slate-700 rounded-lg hover:bg-slate-100 hover:text-slate-900">Home</p>
+                    <p className="font-medium py-2 text-gray-900 rounded-lg hover:bg-slate-100 hover:text-slate-900">Home</p>
                 </Link>
                 <Link href="/ideas">
-                    <p className="font-medium py-2 text-slate-700 rounded-lg hover:bg-slate-100 hover:text-slate-900">Ideas</p>
+                    <p className="font-medium py-2 text-gray-900 rounded-lg hover:bg-slate-100 hover:text-slate-900">Ideas</p>
                 </Link>
                 <Link href="/about">
-                    <p className="font-medium py-2 text-slate-700 rounded-lg hover:bg-slate-100 hover:text-slate-900">About</p>
+                    <p className="font-medium py-2 text-gray-900 rounded-lg hover:bg-slate-100 hover:text-slate-900">About</p>
                 </Link>
             </div>
             <div className="flex justify-items-end">

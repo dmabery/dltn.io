@@ -40,8 +40,8 @@ export const getStaticPaths = async () => {
 
   const PostPage = ({ frontMatter: { title, description }, mdxSource }) => {
       return (
-          <div className="container mx-auto max-w-screen-md prose prose-neutral">
-              <h1 className="text-center text-3xl">{title}</h1>
+          <div className="container mx-auto max-w-screen-sm prose prose-white prose-a:text-slate-400 prose-a:font-bold">
+              <h1 className="text-left text-4xl">{title}</h1>
               <MDXRemote {...mdxSource} components={{ Button, SyntaxHighlighter }} />
           </div>
       )

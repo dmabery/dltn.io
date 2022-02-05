@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      heading: ['Newsreader', 'serif'],
+      heading: ['Inter', 'Sans-Serif'],
+      body: ['Space Mono', 'Monospace']
     }
   },
   plugins: [
