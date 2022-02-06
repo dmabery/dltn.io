@@ -27,13 +27,13 @@ export const getStaticProps = async () => {
 
 const Essays = ({ posts }) => {
     return (
-        <div className="grid grid-cols-2 gap-4">
+        <div className="grid grid-row gap-4">
             {posts.map((post, index) => (
-                <div class="max-w-sm rounded-lg border border-gray-200 shadow-md dark:border-gray-700 mb-4 relative">
+                <div class="rounded-lg dark:border-gray-700 mb-4 relative">
                 <Link href={'/blog/' + post.slug} passHref key={index}>
                     <img class="rounded-t-lg" src={post.frontMatter.thumbnaillUrl} alt="" />
                 </Link>
-                <div class="p-5">
+                <div class="">
                     <Link href={'/blog/' + post.slug} passHref key={index}>
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">{post.frontMatter.title}</h5>
                     </Link>

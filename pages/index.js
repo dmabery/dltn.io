@@ -13,6 +13,10 @@ export default function Home({ posts }) {
         <div className="basis-2/3">
           <h2 className="text-[50px] text-gray-900 font-bold"><span className="underline decoration-slate-500">Dalton</span></h2>
           <p className="text-gray-900">Writer, thinker, video editor, and developer. I study how things work to understand how we got to now. There's some fascinating stuff out there.</p>
+          <br />
+          <Link href="/about">
+            <p className="text-gray-900 text-sm">Read more on <span className="underline decoration-slate-500">about page</span>.</p>
+          </Link>
         </div>
         <div className="basis=1/3 ml-10">
         </div>
@@ -24,8 +28,10 @@ export default function Home({ posts }) {
             <div className="mt-5">
               {posts.map((post, index) => (
                 <Link href={'/blog/' + post.slug} passHref key={index}>
-                <div className="flex max-w-sm content-center text-grey-900 ">
-                      <p className="text-xl underline decoration-slate-500 hover:decoration-white">{post.frontMatter.title}</p>
+                <div className="flex max-w-sm content-center text-slate-500 mb-1">
+                      <ul className="">
+                        <li><p className="text-l underline decoration-slate-500 hover:decoration-white leading-6 font-bold">{post.frontMatter.title}</p></li>
+                      </ul>
               </div>
                 </Link>
               ))}
