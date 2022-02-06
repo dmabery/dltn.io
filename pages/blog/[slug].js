@@ -6,7 +6,7 @@ import matter from 'gray-matter'
 import SyntaxHighlighter from 'react-syntax-highlighter'
 import Button from '../../components/Button'
 
-
+// where to get the dynamic paths from
 export const getStaticPaths = async () => {
     const files = fs.readdirSync(path.join('posts'))
   
@@ -22,6 +22,7 @@ export const getStaticPaths = async () => {
     }
   }
 
+    // where to render the data from
   export const getStaticProps = async ({ params: { slug } }) => {
     const markdownWithMeta = fs.readFileSync(path.join('posts',
       slug + '.mdx'), 'utf-8')
