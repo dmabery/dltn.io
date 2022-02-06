@@ -7,7 +7,7 @@ const Nav = () => {
                 <Link href="/">
                     <p className="font-medium py-2 text-gray-900 rounded-lg hover:bg-slate-100 hover:text-slate-900">Home</p>
                 </Link>
-                <Link href="/ideas">
+                <Link href="/essays">
                     <p className="font-medium py-2 text-gray-900 rounded-lg hover:bg-slate-100 hover:text-slate-900">Ideas</p>
                 </Link>
                 <Link href="/about">
