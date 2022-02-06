@@ -6,10 +6,10 @@ import path from 'path'
 import matter from 'gray-matter'
 
 export const getStaticProps = async () => {
-    const files = fs.readdirSync(path.join('posts'))
+    const files = fs.readdirSync(path.join('notes'))
   
     const posts = files.map(filename => {
-      const markdownWithMeta = fs.readFileSync(path.join('posts', filename), 'utf-8')
+      const markdownWithMeta = fs.readFileSync(path.join('notes', filename), 'utf-8')
       const { data: frontMatter } = matter(markdownWithMeta)
   
       return {
@@ -18,16 +18,17 @@ export const getStaticProps = async () => {
       }
     })
 
-    const sortedPosts = posts.sort((a, b) => b.frontMatter.date - a.frontMatter.date);
+    const sortedNotes = posts.sort((a, b) => b.frontMatter.date - a.frontMatter.date);
 
+  
     return {
       props: {
-        posts: sortedPosts
+        posts: sortedNotes
       }
     }
   }
 
-const Essays = ({ posts }) => {
+const NoteList = ({ posts }) => {
     return (
         <div className="grid grid-row gap-4">
             {posts.map((post, index) => (
@@ -54,4 +55,4 @@ const Essays = ({ posts }) => {
     )
 }
 
-export default Essays;
+export default NoteList;

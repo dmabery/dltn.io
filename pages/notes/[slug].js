@@ -8,7 +8,7 @@ import Button from '../../components/Button'
 
 
 export const getStaticPaths = async () => {
-    const files = fs.readdirSync(path.join('posts'))
+    const files = fs.readdirSync(path.join('notes'))
   
     const paths = files.map(filename => ({
       params: {
@@ -23,7 +23,7 @@ export const getStaticPaths = async () => {
   }
 
   export const getStaticProps = async ({ params: { slug } }) => {
-    const markdownWithMeta = fs.readFileSync(path.join('posts',
+    const markdownWithMeta = fs.readFileSync(path.join('notes',
       slug + '.mdx'), 'utf-8')
   
     const { data: frontMatter, content } = matter(markdownWithMeta)
@@ -38,7 +38,7 @@ export const getStaticPaths = async () => {
     }
   }
 
-  const PostPage = ({ frontMatter: { title, description, tags }, mdxSource }) => {
+  const NotesPage = ({ frontMatter: { title, description, tags }, mdxSource }) => {
       return (
           <div className="container mx-auto max-w-screen-sm prose prose-white prose-a:text-slate-400 prose-a:font-bold">
             <div className="border-b-2 pb-3">
@@ -49,4 +49,4 @@ export const getStaticPaths = async () => {
       )
   }
 
-  export default PostPage;
+  export default NotesPage;
