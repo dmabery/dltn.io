@@ -38,10 +38,15 @@ export default function Home({ posts }) {
               </div>
                 </Link>
               ))}
-            </div>  
+            </div>
         </div>
         <div>
         </div>
+      </div>
+      <div>
+      <div>             
+          <Subscribe />
+          </div>
       </div>
 
     </div>
