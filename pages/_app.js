@@ -3,6 +3,7 @@ import Head from 'next/head'
 import Nav from '../components/Nav'
 import Subscribe from '../components/Subscribe';
 import Footer from '../components/Footer';
+import { MDXProvider } from "@mdx-js/react"
 
 function MyApp({ Component, pageProps }) {
   return (

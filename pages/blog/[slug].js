@@ -5,6 +5,7 @@ import path from 'path'
 import matter from 'gray-matter'
 import SyntaxHighlighter from 'react-syntax-highlighter'
 import Button from '../../components/Button'
+import Subscribe from '../../components/Subscribe'
 
 // where to get the dynamic paths from
 export const getStaticPaths = async () => {
@@ -41,11 +42,11 @@ export const getStaticPaths = async () => {
 
   const PostPage = ({ frontMatter: { title, description, tags }, mdxSource }) => {
       return (
-          <div className="container mx-auto max-w-screen-sm prose prose-white prose-a:text-slate-400 prose-a:font-bold">
+          <div className="container mx-auto max-w-screen-sm prose prose-white prose-a:text-amber-700 prose-a:font-bold">
             <div className="border-b-2 pb-3">
-              <h1 className="text-left text-4xl mt-20 mb-4">{title}</h1>
+              <h1 className="text-left text-4xl mt-5 mb-4">{title}</h1>
             </div>
-              <MDXRemote {...mdxSource} components={{ Button, SyntaxHighlighter }} />
+              <MDXRemote {...mdxSource} components={{ Button, SyntaxHighlighter, Subscribe }} />
           </div>
       )
   }
