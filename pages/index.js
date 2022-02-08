@@ -14,13 +14,13 @@ export default function Home({ posts }) {
     <div className="container">
       <PageTitle
         title="Dalton"
-        description = "Writer, thinker, video editor, and developer. I study how things work to understand how we got to now. There's some fascinating stuff out there."
+        description = "Writer, thinker, video editor, and developer. I'm currently studying history and philosophy to understand how we got to now."
       />
         <div className="flex">
-          <Link href="/about">
-              <p className="text-gray-900 text-sm">Read more on <span className="underline decoration-slate-500 text-slate-500">about page</span>.</p>
+          <Link href="/about" passHref>
+              <p className="text-gray-900 text-sm">Read more on <span className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">about page</span>.</p>
           </Link>
-              <a className="text-gray-900 text-sm ml-1" href="https://publish.obsidian.md/1729/About+these+notes">Or visit my <span className="underline decoration-slate-500 text-slate-500">public brain.</span></a>
+              <a className="text-gray-900 text-sm ml-1" href="https://publish.obsidian.md/1729/About+these+notes">Or visit my <span className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">public brain.</span></a>
         </div>
         
     <PageContent>
@@ -32,7 +32,7 @@ export default function Home({ posts }) {
                       <Link href={`/${post.frontMatter.type}/` + post.slug} passHref key={index}>
                         <div className="flex max-w-sm content-center text-slate-500 mb-2">
                           <ul className="">
-                            <li><p className="text-l underline decoration-slate-500 hover:decoration-white leading-6 font-bold">{post.frontMatter.title}</p></li>
+                            <li><p className="text-l underline decoration-slate-500 hover:decoration-amber-700 leading-6 font-bold hover:decoration-2">{post.frontMatter.title}</p></li>
                           </ul>
                         </div>
                         </Link>
