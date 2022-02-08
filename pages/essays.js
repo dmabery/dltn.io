@@ -1,34 +1,13 @@
 import Image from 'next/image'
 import Link from 'next/link'
 
-import fs from 'fs'
-import path from 'path'
-import matter from 'gray-matter'
-
 import PageTitle from '../components/PageTitle'
 import PageContent from '../components/Layout'
+import filterEssays from '../lib/filterEssays'
 
 export const getStaticProps = async () => {
-    const files = fs.readdirSync(path.join('posts'))
-  
-    const posts = files.map(filename => {
-      const markdownWithMeta = fs.readFileSync(path.join('posts', filename), 'utf-8')
-      const { data: frontMatter } = matter(markdownWithMeta)
-  
-      return {
-        frontMatter,
-        slug: filename.split('.')[0]
-      }
-    })
-
-    const sortedPosts = posts.sort((a, b) => b.frontMatter.date - a.frontMatter.date);
-
-    return {
-      props: {
-        posts: sortedPosts
-      }
-    }
-  }
+  return filterEssays();
+}
 
 const Essays = ({ posts }) => {
     return (
