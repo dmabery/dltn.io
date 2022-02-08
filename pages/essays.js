@@ -14,7 +14,7 @@ const Essays = ({ posts }) => {
       <>
       <PageTitle
         title="All Essays"
-        description="A list of my formal writings."
+        description="A place for my formal writings and essays. Sorted by latest first."
       />
 
       <PageContent>

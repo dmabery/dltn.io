@@ -14,7 +14,7 @@ const NoteList = ({ posts }) => {
       <>
       <PageTitle 
         title="All Notes"
-        description="A place for notes I take on content or quick thoughts I have that aren't ready for full essays yet. There are also some helpful code bits here too."
+        description="A place for notes I take on content or quick thoughts I have that aren't ready for full essays yet. There are also some helpful code bits here too. Sorted by alphabetical order."
       />
 
       <PageContent>
