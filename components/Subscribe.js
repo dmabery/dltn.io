@@ -2,7 +2,7 @@ import Script from 'next/script'
 
 const Subscribe = () => {
     return (
-        <div id="revue-embed" className="p-4 bg-white rounded-lg border border-gray-200 shadow-md sm:p-4 lg:p-6 dark:bg-gray-900 mt-7 mb-7">
+        <div id="revue-embed" className="p-4 bg-white rounded-lg border border-gray-200 shadow-md sm:p-4 lg:p-6 dark:bg-gray-900 mt-10 mb-10">
             <form action="https://www.getrevue.co/profile/maberydalton/add_subscriber" className="space-y-6" method="post" id="revue-form" name="revue-form"  target="_blank">
             <h3 className="text-xl font-medium text-gray-900 dark:text-white -mb-5 -mt-1">Subscribe to The Bookshelf</h3>
             <div className="text-sm text-white">
