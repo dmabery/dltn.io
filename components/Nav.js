@@ -18,7 +18,7 @@ const Nav = () => {
                 </Link>
             </div>
             <div className="flex justify-items-end">
-                <a xlinkHref="http://twitter.com/daltonmabery">
+                <a xlinkHref="http://www.twitter.com/daltonmabery">
                     <svg
                         className="w-6 h-6 text-black fill-current"
                         xmlns="http://www.w3.org/2000/svg"
