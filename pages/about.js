@@ -20,11 +20,11 @@ const AboutMe = () => {
                     
                     - Will Durant, &quot;The Map of Human Character</p>
                     </blockquote>
-                    <p> The legacy I hope to leave behind is similar to that of Albert Einstein's. Not his groundbreaking theroies, but his curiosity and humility. After his death, <i>The New York Times</i> wrote this:</p>
+                    <p> The legacy I hope to leave behind is similar to that of Albert Einstein&#39;s. Not his groundbreaking theroies, but his curiosity and humility. After his death, <i>The New York Times</i> wrote this:</p>
                     <blockquote>
                         <p>Man stands on this diminutive earth, gazes at the myriad of stars and upon billowing ocean and tossing trees–and wonders. What does it all mean? How did it come about? The most thoughtful wonderer who appeared among us in three centuries has passed on in the person of Albert Einstein.</p>
                     </blockquote>
-                    <p>"The most thoughtful wonderer." I love that. I hope those words are used to describe me one day.</p>
+                    <p>&quot;The most thoughtful wonderer.&quot; I love that. I hope those words are used to describe me one day.</p>
                     <hr />
                     <h2>Career</h2>
                     <p>On a professional note, I have a degree in Digital Media &amp; Design from Southeastern University and work as a Digital Creator and Designer for <a className="text-sky-800 underline decoration-amber-700 decoration-2" href="https://fs.blog/">Farnam Street</a>.</p>
