@@ -14,7 +14,7 @@ export default function Home({ posts }) {
     <div className="container">
       <PageTitle
         title="Dalton"
-        description = "Writer, thinker, video editor, and developer. I'm currently studying history and philosophy to understand how we got to now."
+        description = "Writer, thinker, video editor, and developer. I'm insatiably curious and love studying the past to understand how we got to now."
       />
         <div className="flex">
           <Link href="/about" passHref>
@@ -29,7 +29,7 @@ export default function Home({ posts }) {
                 <h3 className="text-3xl text-gray-900 font-bold">Latest posts</h3>
                   <div className="mt-5">
                     {posts.slice(0, 5).map((post, index) => (
-                      <Link href={'/blog/' + post.slug} passHref key={index}>
+                      <Link href={'/essays/' + post.slug} passHref key={index}>
                         <div className="flex max-w-sm content-center text-slate-500 mb-2">
                           <ul className="">
                             <li><p className="text-l underline decoration-slate-500 hover:decoration-amber-700 leading-6 font-bold hover:decoration-2">{post.frontMatter.title}</p></li>

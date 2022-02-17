@@ -7,7 +7,8 @@ module.exports = {
     extend: {},
     fontFamily: {
       heading: ['Inter', 'Sans-Serif'],
-      body: ['Space Mono', 'Monospace']
+      body: ['Space Mono', 'Monospace'],
+      mono: ['monospace']
     }
   },
   plugins: [

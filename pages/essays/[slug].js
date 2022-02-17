@@ -40,11 +40,13 @@ export const getStaticPaths = async () => {
     }
   }
 
-  const PostPage = ({ frontMatter: { title, description, tags }, mdxSource }) => {
+  const PostPage = ({ frontMatter: { title, description, tags, date }, mdxSource }) => {
       return (
-          <div className="container mx-auto max-w-screen-sm prose prose-white prose-a:text-slate-500 prose-a:font-bold prose-a:decoration-amber-700 prose-a:decoration-2">
+          <div className="container mx-auto max-w-screen-sm prose prose-white prose-a:text-sky-800 prose-a:text-sky-800 prose-a:font-bold prose-a:decoration-amber-700 prose-a:decoration-2">
             <div className="border-b-2 pb-3 mb-10">
-              <h1 className="text-left text-4xl mt-7 mb-7">{title}</h1>
+              <h1 className="text-left text-5xl mt-7 mb-4 underline decoration-amber-700 decoration-4">{title}</h1>
+              <div className="text-md">{description}</div>
+              <div className="text-xs mt-4">Published: {date}</div>
             </div>
               <MDXRemote {...mdxSource} components={{ Button, SyntaxHighlighter, Subscribe }} />
           </div>
