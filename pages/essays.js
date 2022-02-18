@@ -14,8 +14,7 @@ const Essays = ({ posts }) => {
       <>
       <PageTitle
         title="All Essays"
-        description="A place for my formal writings and essays. Sorted by latest first."
-      />
+        description="Most of my essays are expanding on an idea I read in a book or heard in a podcast. These essays are a record of my becoming of a person while trying to answer the question, 'What does this all mean?'"      />
 
       <PageContent>
 
