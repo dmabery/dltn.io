@@ -4,6 +4,7 @@ import Nav from '../components/Nav'
 import Subscribe from '../components/Subscribe';
 import Footer from '../components/Footer';
 import { MDXProvider } from "@mdx-js/react"
+import SideNote from '../components/SideNote';
 
 function MyApp({ Component, pageProps }) {
   return (
