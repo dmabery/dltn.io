@@ -4,6 +4,7 @@ import Subscribe from '../components/Subscribe'
 import PageTitle from '../components/PageTitle'
 import PageContent from '../components/Layout'
 import getAllPosts from '../lib/getAllPosts'
+import SideNote from '../components/SideNote'
 
 export const getStaticProps = async () => {
   return getAllPosts();
@@ -22,7 +23,7 @@ export default function Home({ posts }) {
           </Link>
               <a rel="noreferrer" target="_blank" className="text-gray-900 text-sm ml-1" href="https://publish.obsidian.md/1729/About+these+notes">Or visit my <span className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">public brain.</span></a>
         </div>
-        
+              
     <PageContent>
             <div className="grid gap-4 md:grid-cols-3 text-gray-900">
               <div className="col-span-2">

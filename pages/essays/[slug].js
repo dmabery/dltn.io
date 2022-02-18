@@ -6,6 +6,7 @@ import matter from 'gray-matter'
 import SyntaxHighlighter from 'react-syntax-highlighter'
 import Button from '../../components/Button'
 import Subscribe from '../../components/Subscribe'
+import SideNote from '../../components/SideNote'
 
 // where to get the dynamic paths from
 export const getStaticPaths = async () => {
@@ -48,7 +49,7 @@ export const getStaticPaths = async () => {
               <div className="text-md">{description}</div>
               <div className="text-xs mt-4">Published: {date}</div>
             </div>
-              <MDXRemote {...mdxSource} components={{ Button, SyntaxHighlighter, Subscribe }} />
+              <MDXRemote {...mdxSource} components={{ Button, SyntaxHighlighter, Subscribe, SideNote }} />
           </div>
       )
   }
