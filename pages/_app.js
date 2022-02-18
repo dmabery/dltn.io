@@ -11,18 +11,20 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>dalton mabery</title>
-        <link rel="icon" href="/favicon 2.png"></link>
+        <link rel="icon" href="/favicon 3.png"></link>
       </Head>
-      <div className="container mx-auto max-w-screen-md p-5 flex flex-col h-screen justify-between">
-        <nav>
-          <Nav className=""/>
-        </nav>
-        <main className="mb-auto">
-          <Component {...pageProps} />
-        </main>
-        <footer className="h-10">
-          <Footer />
-        </footer>
+      <div className="flex flex-col justify-between">
+        <div className="container mx-auto max-w-screen-md p-5 flex flex-col justify-between">
+          <nav>
+            <Nav className=""/>
+          </nav>
+          <main className="mb-auto">
+            <Component {...pageProps} />
+          </main>
+        </div>
+      <footer className="h-10">
+         <Footer />
+      </footer>
         
       </div>
       
