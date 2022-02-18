@@ -14,8 +14,7 @@ const NoteList = ({ posts }) => {
       <>
       <PageTitle 
         title="All Notes"
-        description="A place for notes I take on content or quick thoughts I have that aren't ready for full essays yet. There are also some helpful code bits here too. Sorted by alphabetical order."
-      />
+        description="Everything I've learned that's worth learning has come from a book or other form of medium. These are those notes. Important: These are not summaries. They are notes from books, articles, speeches, or podcasts that was interesting to me and I knew I'd want to revisit."/>
 
       <PageContent>
         <div className="grid grid-row gap-4">
