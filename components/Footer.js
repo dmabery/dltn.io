@@ -13,7 +13,7 @@ const Footer = () => {
                     <p className="text-xs text-gray-500 pb-1"><a rel="noreferrer" target="_blank" href="https://github.com/dmabery" className=" underline hover:decoration-amber-700 hover:decoration-2">GitHub</a></p>
                 </div>
                 <div className="flex content-center">
-                    <Image src="/on book.png" width={105} height={100} />
+                    <Image src="/reading book.png" width={105} height={100} />
                 </div>
             </div>
         </div>
