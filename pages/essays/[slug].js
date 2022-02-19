@@ -8,6 +8,9 @@ import Button from '../../components/Button'
 import Subscribe from '../../components/Subscribe'
 import SideNote from '../../components/SideNote'
 
+import React,  { useEffect } from "react"
+const prism = require("prismjs")
+
 // where to get the dynamic paths from
 export const getStaticPaths = async () => {
     const files = fs.readdirSync(path.join('posts'))
@@ -42,6 +45,11 @@ export const getStaticPaths = async () => {
   }
 
   const PostPage = ({ frontMatter: { title, description, tags, date }, mdxSource }) => {
+
+    useEffect(() => {
+      prism.highlightAll();
+    }, []);
+
       return (
           <div className="container mx-auto max-w-screen-sm prose prose-white prose-a:text-sky-800 prose-a:text-sky-800 prose-a:font-bold prose-a:decoration-amber-700 prose-a:decoration-2">
             <div className="border-b-2 pb-3 mb-10">
