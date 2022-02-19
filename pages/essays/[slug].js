@@ -57,7 +57,7 @@ export const getStaticPaths = async () => {
               <div className="text-md">{description}</div>
               <div className="text-xs mt-4">Published: {date}</div>
             </div>
-              <MDXRemote {...mdxSource} components={{ Button, SyntaxHighlighter, Subscribe, SideNote }} />
+              <MDXRemote {...mdxSource} components={{ Button, SyntaxHighlighter, Subscribe, SideNote,}} />
           </div>
       )
   }

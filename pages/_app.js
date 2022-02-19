@@ -5,7 +5,10 @@ import Head from 'next/head'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer';
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -13,7 +16,11 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <title>dalton mabery</title>
         <link rel="icon" href="/favicon 3.png"></link>
+<<<<<<< Updated upstream
        
+=======
+        <link href="/styles/Prism.css" rel="stylesheet" />
+>>>>>>> Stashed changes
           
       </Head>
       <div className="flex flex-col justify-between">
