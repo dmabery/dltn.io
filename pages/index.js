@@ -5,6 +5,8 @@ import PageTitle from '../components/PageTitle'
 import PageContent from '../components/Layout'
 import getAllPosts from '../lib/getAllPosts'
 import SideNote from '../components/SideNote'
+import Head from 'next/head';
+import Meta from '../components/Meta'
 
 export const getStaticProps = async () => {
   return getAllPosts();
@@ -13,6 +15,7 @@ export const getStaticProps = async () => {
 export default function Home({ posts }) {
   return (
     <div className="container">
+        <Meta title="Home" description="Insatiably curious" />
       <PageTitle
         title="Dalton"
         description = "Writer, thinker, video editor, and developer. I'm insatiably curious and love studying the past to understand how we got to now."

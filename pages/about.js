@@ -1,9 +1,11 @@
 import PageTitle from "../components/PageTitle";
 import PageContent from "../components/Layout";
+import Meta from "../components/Meta";
 
 const AboutMe = () => {
     return (
         <>
+            <Meta title="About" description="Insatiably curious. Rhythmic creator." />
             <PageTitle 
                 title="About Me"
                 description="Insatiably curious. Rhytmic creator."

@@ -9,13 +9,9 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>dalton mabery</title>
-        <link rel="icon" href="/favicon 3.png"></link>
-
-      
-        <link href="/styles/Prism.css" rel="stylesheet" />
-          
+        <link rel="icon" href="/favicon 3.png" />
       </Head>
+
       <div className="flex flex-col justify-between">
         <div className="container mx-auto max-w-screen-md p-5 flex flex-col justify-between">
           <nav>
