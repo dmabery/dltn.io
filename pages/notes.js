@@ -21,7 +21,7 @@ const NoteList = ({ posts }) => {
       <PageContent>
         <div className="grid grid-row gap-4">
             {posts.map((post, index) => (
-              <PostList post={post} index={index} />
+              <PostList post={post} index={index} key={index} />
             ))}
         </div>
       </PageContent>
