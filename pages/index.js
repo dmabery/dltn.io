@@ -33,8 +33,8 @@ export default function Home({ posts }) {
                 <h3 className="text-3xl text-gray-900 font-bold">Latest posts</h3>
                   <div className="mt-5">
                     {posts.slice(0, 5).map((post, index) => (
-                      <div className="max-w-lg text-slate-500 mb-2">
-                        <Link href={'/essays/' + post.slug} passHref key={index}>
+                      <div className="max-w-lg text-slate-500" key={index}>
+                        <Link href={'/essays/' + post.slug} passHref>
                               <span className="col-span-3 text-l underline decoration-slate-500 hover:decoration-amber-700 leading-6 font-bold hover:decoration-2">{post.frontMatter.title}</span>
                         </Link>
                         <span className="text-xs text-gray-400 ml-1">{post.frontMatter.date}</span>
