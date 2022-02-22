@@ -30,7 +30,7 @@ const AboutMe = () => {
                     <hr />
                     <h2>Career</h2>
                     <p>On a professional note, I have a degree in Digital Media &amp; Design from Southeastern University and work as a Digital Creator and Designer for <a className="text-sky-800 underline decoration-amber-700 decoration-2" href="https://fs.blog/">Farnam Street</a>.</p>
-                    <p>I like to say I&#39;m a &quot;developer in training&quot; as I&#39;m learning programing. I built this site (sort of) from scratch using Ghost as a Content Management System. I customized the design of a template using HTML/CSS and Handlebars, the templating language Ghost uses to render pages. I&#39;m working through a React course as well as learning Solidity to help me understand Web3 and the Blockchain. I plan to launch a micro SaaS product of some sort this year.</p>
+                    <p>I like to say I&#39;m a &quot;developer in training&quot; as I&#39;m learning programming. I built this from scratch using NextJS, MDX, and Tailwind.</p>
                 </div>
             </PageContent>
         </>
