@@ -3,10 +3,10 @@ import Link from 'next/link'
 import Meta from '../components/Meta'
 import PageTitle from '../components/PageTitle'
 import PageContent from '../components/Layout'
-import filterNotes from '../lib/filterNotes'
+import filterPostsByType from '../lib/filterPostsByType'
 
-export const getStaticProps = async (notes) => {
-  return filterNotes();
+export const getStaticProps = async () => {
+  return filterPostsByType('notes');
 }
 
 const NoteList = ({ posts }) => {

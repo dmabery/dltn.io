@@ -3,10 +3,10 @@ import Link from 'next/link'
 import Meta from '../components/Meta'
 import PageTitle from '../components/PageTitle'
 import PageContent from '../components/Layout'
-import filterEssays from '../lib/filterEssays'
+import filterPostsByType from '../lib/filterPostsByType'
 
 export const getStaticProps = async () => {
-  return filterEssays();
+  return filterPostsByType('blog');
 }
 
 const Essays = ({ posts }) => {
