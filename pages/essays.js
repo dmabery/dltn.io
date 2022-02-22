@@ -21,12 +21,13 @@ const Essays = ({ posts }) => {
 
         <div className="grid grid-row gap-4">
             {posts.map((post, index) => (
-                <div className="rounded-lg dark:border-gray-700 mb-4 relative" key={index}>
+                <div className="rounded-lg mb-4" key={index}>
                 <div className="" key={index}>
                     <Link href={'/essays/' + post.slug} passHref key={index}>
                         <h5 className="text-2xl font-bold tracking-tight text-gray-900">{post.frontMatter.title}</h5>
                     </Link>
-                    <p className="mb-4 font-normal text-gray-700 dark:text-gray-400">{post.frontMatter.description}</p>
+                    <p className="mb-2 font-normal text-gray-400">{post.frontMatter.description}</p>
+                    <p className="mb-4 text-sm text-gray-400">Published on: {post.frontMatter.date}</p>
                     <Link href={'/essays/' + post.slug} passHref key={index} class="inline-flex items-center text-sm font-medium text-center text-slate-500 hover:text-slate-900">
                         <div className="text-gray-700 flex flex-column items-center">
                           Read more
