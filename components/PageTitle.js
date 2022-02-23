@@ -2,8 +2,10 @@ import Link from 'next/link'
 import Image from 'next/image';
 
 const PageTitle = ({title, description, image}) => {
+    const condition = image ? 'flex' : 'flex-none sm:flex'
+    
     return (
-        <div className="flex flex-row items-center">
+        <div className={`flex-row items-center ${condition}`}>
             <div className="basis-2/3">
                 <h2 className="text-[50px] text-gray-900 font-bold"><span className="underline decoration-amber-700">{title}</span></h2>
                 {description.length > 0 &&
