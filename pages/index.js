@@ -19,7 +19,7 @@ export default function Home({ posts }) {
       <PageTitle
         title="Dalton"
         image="/ezgif.com-gif-maker.gif"
-        description = "Writer, thinker, video editor, and developer. I'm insatiably curious and love studying the past to understand how we got to now."
+        description = "Writer, thinker, video editor, and developer. I study history and science to understand how we got to now and write about what I learn."
       />
         <div className="flex">
           <Link href="/about" passHref>
