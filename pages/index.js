@@ -18,6 +18,7 @@ export default function Home({ posts }) {
         <Meta title="dalton's site" description="Insatiably curious" />
       <PageTitle
         title="Dalton"
+        image="/ezgif.com-gif-maker.gif"
         description = "Writer, thinker, video editor, and developer. I'm insatiably curious and love studying the past to understand how we got to now."
       />
         <div className="flex">
