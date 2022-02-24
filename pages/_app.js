@@ -13,7 +13,7 @@ function MyApp({ Component, pageProps }) {
       </Head>
 
       <div className="flex flex-col justify-between">
-        <div className="container mx-auto max-w-screen-md p-5 flex flex-col justify-between">
+        <div className="container pr-10 pl-10 mx-auto max-w-screen-md md:p-5 flex flex-col justify-between ">
           <nav>
             <Nav className=""/>
           </nav>
