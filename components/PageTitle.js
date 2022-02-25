@@ -1,7 +1,8 @@
 import Link from 'next/link'
 import Image from 'next/image';
+import { getStaticProps } from '../pages/essays/[slug]';
 
-const PageTitle = ({title, description, image}) => {
+const PageTitle = ({title, description, image, width, height}) => {
     const condition = image ? 'flex' : 'flex-none sm:flex'
     
     return (
@@ -15,7 +16,7 @@ const PageTitle = ({title, description, image}) => {
             </div>
             {image ? (
                 <div className="ml-2"> 
-                <Image src={image} width={175} height={175} loading="lazy" />
+                <Image src={image} width={width ? width : 175} height={height ? height : 175} loading="lazy" />
                 </div>
             ) : <div></div>
             } 
