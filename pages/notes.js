@@ -7,7 +7,7 @@ import filterPostsByType from '../lib/filterPostsByType'
 import PostList from '../components/PostList'
 
 export const getStaticProps = async () => {
-  return filterPostsByType('notes');
+  return filterPostsByType('notes')
 }
 
 const NoteList = ({ posts }) => {
