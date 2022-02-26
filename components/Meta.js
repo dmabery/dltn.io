@@ -13,6 +13,7 @@ const Meta = (props) => {
                 <meta property="og:url" content="https://daltonmabery.com/"/>
                 <meta property="og:image" content={props.image}/>
                 <meta name="twitter:creator" content="@daltonmabery" />
+                <meta name ="twitter:card" content="summary" />
             </Head>
         </>
     )
