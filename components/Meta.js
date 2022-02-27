@@ -5,7 +5,6 @@ const Meta = (props) => {
         <>
             <Head>
                 <title>{props.title}</title>
-                <meta name="twitter:card" content="summary_large_image" />
                 <meta name="description" content={props.description} />
                 <meta property="og:title" content={props.title}/>
                 <meta property="og:site_name" content="dalton's site" />
@@ -13,8 +12,9 @@ const Meta = (props) => {
                 <meta property="og:type" content="website"/>
                 <meta property="og:url" content="https://daltonmabery.com/"/>
                 <meta property="og:image" content={props.image}/>
+                <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:creator" content="@daltonmabery" />
-                <meta name="twitter:image" content={props.image} />
+                <meta name="twitter:image" content={`https://daltonmabery.com/public${props.image}`} />
             </Head>
         </>
     )

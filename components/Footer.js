@@ -11,6 +11,7 @@ const Footer = () => {
                     <p className="text-xs text-gray-500 pb-1"><a rel="noreferrer" target="_blank" href="https://www.instagram.com/dalton.mabery" className=" underline hover:decoration-amber-700 hover:decoration-2">Instagram</a></p>
                     <p className="text-xs text-gray-500 pb-1"><a rel="noreferrer" target="_blank" href="https://www.getrevue.co/profile/maberydalton" className=" underline hover:decoration-amber-700 hover:decoration-2">Newsletter</a></p>
                     <p className="text-xs text-gray-500 pb-1"><a rel="noreferrer" target="_blank" href="https://github.com/dmabery" className=" underline hover:decoration-amber-700 hover:decoration-2">GitHub</a></p>
+                    <p className="text-xs text-gray-500 pb-1"><a rel="noreferrer" target="_blank" href="https://www.indiehackers.com/daltonmabery" className=" underline hover:decoration-amber-700 hover:decoration-2">Indie Hackers</a></p>
                 </div>
                 <div className="flex content-center">
                     <Image src="/reading book.png" width={105} height={100} />
