@@ -11,10 +11,10 @@ const Meta = (props) => {
                 <meta property="og:description" content={props.description}/>
                 <meta property="og:type" content="website"/>
                 <meta property="og:url" content="https://daltonmabery.com/"/>
-                <meta property="og:image" content={`https://github.com/dmabery/personal-blog-nextjs/blob/main/public${props.image}`}/>
+                <meta property="og:image" content={props.image}/>
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:creator" content="@daltonmabery" />
-                <meta name="twitter:image" content={`https://github.com/dmabery/personal-blog-nextjs/blob/main/public${props.image}`} />
+                <meta name="twitter:image" content={props.image} />
             </Head>
         </>
     )
