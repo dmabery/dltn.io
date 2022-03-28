@@ -8,14 +8,17 @@ import PostListSimple from '../components/PostListSimple'
 import Head from 'next/head';
 import Meta from '../components/Meta'
 import { getAllPostsFromContentful } from '../lib/contentfulAPI'
+import { documentToReactComponents } from '@contentful/rich-text-react-renderer'
+import ThoughtDisplay from '../components/ThoughtDisplay'
 
 export const getStaticProps = async () => {
   return getAllPostsFromContentful();
 }
 
 export default function Home(posts) {
+  const thoughts = posts.posts.filter(post => post.sys.contentType.sys.id === 'bookNotes')
+  console.log(thoughts)
   return (
-
     <div className="container">
         <Meta title="dalton's site" description="Insatiably curious" />
       <PageTitle
@@ -25,7 +28,7 @@ export default function Home(posts) {
       />
       <div className="flex">
         <Link href="/about" passHref>
-            <p className="text-gray-900 text-sm">Read more on <span className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">about page</span>.</p>
+            <p className="text-gray-900 text-sm">Read more on <a className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">about page</a>.</p>
         </Link>
             <a rel="noreferrer" target="_blank" className="text-gray-900 text-sm ml-1" href="https://publish.obsidian.md/1729/About+these+notes">Or visit my <span className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">public brain.</span></a>
       </div>
@@ -35,13 +38,22 @@ export default function Home(posts) {
         <div className="col-span-2">
           <h3 className="text-3xl text-gray-900 font-bold mb-5">Latest posts</h3>
             {posts.posts.slice(0, 5).map(post => (
-              <PostListSimple title={post.fields.title} />
-            ))}
+              <PostListSimple title={post.fields.title} slug={post.fields.slug} date={post.sys.createdAt}/>
+            ))} 
         </div>
       </div>
-      <div>             
+      <div>
           <Subscribe />
+      </div>
+
+      <div>
+        <div>
+        <h3 className="text-3xl text-gray-900 font-bold mb-5">Latest thoughts</h3>
+        {thoughts.map(thought => (
+          <ThoughtDisplay title={thought.fields.title} content={thought.fields.content} slug={thought.fields.slug} date={thought.sys.createdAt}/>
+        ))}
         </div>
+      </div>
     </PageContent>
   </div>
   )

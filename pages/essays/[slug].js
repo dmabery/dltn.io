@@ -1,6 +1,7 @@
 import { createClient } from 'contentful'
 import { useEffect } from 'react'
 import Meta from '../../components/Meta'
+import { documentToReactComponents } from '@contentful/rich-text-react-renderer'
 
 
 const prism = require("prismjs")
@@ -21,7 +22,7 @@ export const getStaticPaths = async () => {
   console.log(paths)
   return {
     paths,
-    fallback: false,
+    fallback: true,
   }
 }
 
@@ -34,7 +35,8 @@ export const getStaticProps = async ({params}) => {
   return {
     props: {
       post: items[0]
-    }
+    },
+    revalidate: 1
   }
 }
 
@@ -54,6 +56,7 @@ export const getStaticProps = async ({params}) => {
               <div className="text-md">{post.fields.description}</div>
               <div className="text-xs mt-4">Published: {post.sys.createdAt}</div>
             </div>
+            <div>{documentToReactComponents(post.fields.content)}</div>
           </div>
         </>
       )
