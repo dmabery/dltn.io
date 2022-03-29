@@ -11,7 +11,8 @@ const slugFunction = () => {
         return 'thoughts/';  
     } else if (contentType === 'snippet') {
         return 'essays/';
-   }}
+   }
+}
 
 return (
         <div>

@@ -22,12 +22,12 @@ const NoteList = ({ notes }) => {
       <PageContent>
         <div className="grid grid-cols-4 grid-row gap-4">
             {notes.map((note, index) => (
-              <Link href={'/essays/' + note.fields.slug} passHref >
+              <Link href={'/book-notes/' + note.fields.slug} passHref >
                 <a>
                     <Image
-                      src={`https:` + note.fields.bookCoverImage.fields.file.url}
-                      width={note.fields.bookCoverImage.fields.file.details.image.width}
-                      height={note.fields.bookCoverImage.fields.file.details.image.height}
+                      src={`https:` + note.fields.image.fields.file.url}
+                      width={note.fields.image.fields.file.details.image.width}
+                      height={note.fields.image.fields.file.details.image.height}
                   />
                 </a>
               </Link> 

@@ -10,6 +10,7 @@ import Meta from '../components/Meta'
 import { getAllPostsFromContentful } from '../lib/contentfulAPI'
 import { documentToReactComponents } from '@contentful/rich-text-react-renderer'
 import ThoughtDisplay from '../components/ThoughtDisplay'
+import LittleButton from '../components/LittleButton'
 
 export const getStaticProps = async () => {
   return getAllPostsFromContentful();
@@ -17,7 +18,6 @@ export const getStaticProps = async () => {
 
 export default function Home(posts) {
   const thoughts = posts.posts.filter(post => post.sys.contentType.sys.id === 'tinyThought')
-  console.log(thoughts)
   return (
     <div className="container">
         <Meta title="dalton's site" description="Insatiably curious" />
@@ -28,7 +28,7 @@ export default function Home(posts) {
       />
       <div className="flex">
         <Link href="/about" passHref>
-            <p className="text-gray-900 text-sm">Read more on <a className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">about page</a>.</p>
+            <div className="text-gray-900 text-sm">Read more on <a className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">about page</a>.</div>
         </Link>
             <a rel="noreferrer" target="_blank" className="text-gray-900 text-sm ml-1" href="https://publish.obsidian.md/1729/About+these+notes">Or visit my <span className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">public brain.</span></a>
       </div>
@@ -49,9 +49,10 @@ export default function Home(posts) {
       <div>
         <div>
         <h3 className="text-3xl text-gray-900 font-bold mb-5">Latest thoughts</h3>
-        {thoughts.map(thought => (
-          <ThoughtDisplay title={thought.fields.title} content={thought.fields.content} slug={thought.fields.slug} date={thought.sys.createdAt}/>
+        {thoughts.slice(0,3).map(thought => (
+          <ThoughtDisplay title={thought.fields.title} content={thought.fields.content2} slug={thought.fields.slug} date={thought.sys.createdAt}/>
         ))}
+        <div className="text-gray-900">Read <Link href="/thoughts"><a className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">more thoughts here.</a></Link></div>
         </div>
       </div>
     </PageContent>
