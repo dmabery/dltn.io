@@ -33,7 +33,7 @@ export const getStaticProps = async ({params}) => {
     'fields.slug': params.slug
   })
 
-  console.log(items)
+
   const {code}  = await bundleMDX({
     source: items[0].fields.content2
   })
@@ -51,7 +51,7 @@ export const getStaticProps = async ({params}) => {
     const Component = React.useMemo(() => getMDXComponent(code))
       return (
       <>
-                <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content={<Component className="text-grey-900 prose-dark"  components={{SideNote}}/>}/>
+                <MarkdownPostDisplay title={post.fields.title || 'Title'} description={post.fields.description || 'Description'} date={post.sys.createdAt || 'Date'} content={<Component className="text-grey-900 prose-dark"  components={{SideNote}}/> || 'Content'}/>
         
               </>   
       )
