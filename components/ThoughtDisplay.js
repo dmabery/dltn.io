@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 const ThoughtDisplay = (props) => {
     return (
-        <div className="prose-white max-w-none prose-a:text-amber-700 hover:prose-a:text-slate-500 focus:prose-a:text-gray-900 prose hover:prose-a:underline prose-h1:leading-tight" >
+        <div className="prose-white max-w-none prose-a:text-amber-700 hover:prose-a:text-slate-500 focus:prose-a:text-gray-900 prose hover:prose-a:underline prose-h1:leading-tight" key={props.key} >
         <div className="">
           <Link href={'/thoughts/' + props.slug} passHref><a className="text-left text-2xl mt-7 mb-4 font-bold">{props.title}</a></Link>
           <div className="text-md">{props.description}</div>

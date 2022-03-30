@@ -23,7 +23,7 @@ const Essays = ({ posts }) => {
       <PageContent>
       <div className="grid grid-row gap-4">
         {posts.map((post, index) => (
-              <PostList title={post.fields.title} description={documentToReactComponents(post.fields.description)} date={post.sys.createdAt} slug={post.fields.slug}/>
+              <PostList title={post.fields.title} description={documentToReactComponents(post.fields.description)} date={post.sys.createdAt} slug={post.fields.slug} key={post.sys.id}/>
             ))}
        
         </div>

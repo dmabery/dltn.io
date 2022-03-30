@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 const PostList = (props) => {
     return (
-            <div className="rounded-lg dark:border-gray-700 mb-4 relative">
+            <div className="rounded-lg dark:border-gray-700 mb-4 relative" key={props.key}>
             <div>
                 <Link href={'/essays/' + props.slug} passHref>
                     <h5 className="text-2xl font-bold tracking-tight text-gray-900">{props.title}</h5>

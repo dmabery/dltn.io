@@ -22,7 +22,7 @@ const NoteList = ({ notes }) => {
       <PageContent>
         <div className="grid grid-cols-4 grid-row gap-4">
             {notes.map((note, index) => (
-              <Link href={'/book-notes/' + note.fields.slug} passHref >
+              <Link href={'/book-notes/' + note.fields.slug} passHref key={note.sys.id}>
                 <a>
                     <Image
                       src={`https:` + note.fields.image.fields.file.url}
