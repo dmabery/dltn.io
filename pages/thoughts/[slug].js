@@ -11,7 +11,7 @@ const client = createClient({
 })
 
 export const getStaticPaths = async () => {
-  const res = await client.getEntries({content_type: 'tinyThought'})
+  const res = await client.getEntries()
 
   const paths = res.items.map(item => ({
     params: {
