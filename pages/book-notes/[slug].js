@@ -35,7 +35,7 @@ export const getStaticProps = async ({params}) => {
 
   const { code }  = await bundleMDX({
     source: items[0].fields.content2
-  })
+  }) || {};
 
   return {
     props: {
@@ -47,8 +47,7 @@ export const getStaticProps = async ({params}) => {
 }
 
   const PostPage = ({ post, code }) => {
-    const checkCode = code || {};
-    const Component = React.useMemo(() => getMDXComponent(checkCode), [code])
+    const Component = React.useMemo(() => getMDXComponent(code), [code])
       return (
       <>
                 <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content={<Component className="text-grey-900 prose-dark"  components={{SideNote}}/>}/>
