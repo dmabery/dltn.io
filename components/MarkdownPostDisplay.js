@@ -20,7 +20,7 @@ const MarkdownPostDisplay = (props, children) => {
                     <div className="text-md">{documentToReactComponents(props.description) || ''}</div>
                     <div className="text-xs mt-4">Published: {props.date.slice(0,10)}</div>
                   </div>
-                    {props.content}
+                    {props.content || ''}
                 </div>
               </>
     )
