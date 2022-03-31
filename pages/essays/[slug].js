@@ -11,7 +11,9 @@ const client = createClient({
 })
 
 export const getStaticPaths = async () => {
-  const res = await client.getEntries()
+  const res = await client.getEntries({
+    content_type: 'snippet'
+  })
 
   const paths = res.items.map(item => ({
     params: {
@@ -45,7 +47,7 @@ export const getStaticProps = async ({params}) => {
 }
 
   const PostPage = ({ post, code }) => {
-    const Component = React.useMemo(() => getMDXComponent(code))
+    const Component = React.useMemo(() => getMDXComponent(code), [code])
       return (
       <>
                 <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content={<Component className="text-grey-900 prose-dark"  components={{SideNote}}/>}/>
