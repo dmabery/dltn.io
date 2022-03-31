@@ -32,6 +32,8 @@ export const getStaticProps = async ({params}) => {
     'fields.slug': params.slug
   })
 
+  console.log(items)
+
   const { code }  = await bundleMDX({
     source: items[0].fields.content2
   });
@@ -48,7 +50,7 @@ export const getStaticProps = async ({params}) => {
   const PostPage = ({ post, code }) => {
       return (
       <>
-                <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content="Some words here."/>
+                <MarkdownPostDisplay title={post.fields.title || ''} description={post.fields.description || ''} date={post.sys.createdAt || ''} content="Some words here."/>
         
               </>   
       )
