@@ -11,7 +11,9 @@ const client = createClient({
 })
 
 export const getStaticPaths = async () => {
-  const res = await client.getEntries()
+  const res = await client.getEntries({
+    content_type: 'bookNotes'
+  })
 
   const paths = res.items.map(item => ({
     params: {
@@ -36,6 +38,9 @@ export const getStaticProps = async ({params}) => {
     source: items[0].fields.content2
   })
 
+  
+  console.log(code)
+
   return {
     props: {
       post: items[0],
@@ -49,7 +54,7 @@ export const getStaticProps = async ({params}) => {
     const Component = React.useMemo(() => getMDXComponent(code))
       return (
       <>
-                <MarkdownPostDisplay title={post.fields.title || 'Title'} description={post.fields.description || 'Description'} date={post.sys.createdAt || 'Date'} content={<Component className="text-grey-900 prose-dark"  components={{SideNote}}/> || 'Content'}/>
+                <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content={<Component className="text-grey-900 prose-dark"  components={{SideNote}}/>}/>
         
               </>   
       )
