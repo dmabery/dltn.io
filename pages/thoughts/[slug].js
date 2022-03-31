@@ -47,6 +47,7 @@ export const getStaticProps = async ({params}) => {
 }
 
   const PostPage = ({ post, code }) => {
+    if (!post) return <div>loading</div>
     const Component = getMDXComponent(code) || '';
     console.log(Component)
       return (

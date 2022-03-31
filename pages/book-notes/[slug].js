@@ -22,7 +22,7 @@ export const getStaticPaths = async () => {
 
   return {
     paths,
-    fallback: false,
+    fallback: true,
   }
 }
 
@@ -48,9 +48,12 @@ export const getStaticProps = async ({params}) => {
 }
 
   const PostPage = ({ post, code }) => {
+    if (!post) return <div>loading</div>
+    
+    const Component = React.useMemo(() => getMDXComponent(code), [code])
       return (
       <>
-                <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content="Some words here."/>
+                <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content={<Component components={{SideNote}} />}/>
         
               </>   
       )
