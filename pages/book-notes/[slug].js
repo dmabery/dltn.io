@@ -47,7 +47,7 @@ export const getStaticProps = async ({params}) => {
 }
 
   const PostPage = ({ post, code }) => {
-    const checkCode = code || {}
+    const checkCode = code || {};
     const Component = React.useMemo(() => getMDXComponent(checkCode), [code])
       return (
       <>
