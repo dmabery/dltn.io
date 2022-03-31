@@ -50,7 +50,7 @@ export const getStaticProps = async ({params}) => {
     const Component = getMDXComponent(code)
       return (
       <>
-                <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} key={post.sys.id} content={} />
+                <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} key={post.sys.id} content={<Component className="text-grey-900 prose-dark"  components={{SideNote}}/>} />
         
               </>   
       )
