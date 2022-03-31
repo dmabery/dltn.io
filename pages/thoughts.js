@@ -16,7 +16,6 @@ export const getStaticProps = async () => {
 }
 
 export default function Home(thoughts) {
-  console.log(thoughts)
   return (
     <div className="container">
         <Meta title="dalton's site" description="Insatiably curious" />

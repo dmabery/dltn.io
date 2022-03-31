@@ -11,7 +11,6 @@ export const getStaticProps = async () => {
 }
 
 const NoteList = ({ notes }) => {
-  console.log(notes)
     return (
       <>
       <Meta title="Notes" description="Everything I've learned that's worth learning has come from a book or other form of medium. These are those notes. Important: These are not summaries. They are notes from books, articles, speeches, or podcasts that was interesting to me and I knew I'd want to revisit." />
