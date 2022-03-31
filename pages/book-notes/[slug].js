@@ -5,8 +5,8 @@ import React from 'react'
 import SideNote from '../../components/SideNote'
 
 const client = createClient({
-  space: process.env.CONTENTFUL_SPACE_ID,
-  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN
+  space: 'nk2hkdvz2uym',
+  accessToken: '6gmUFv_IEAMf7g22ceoqgN3885o_x3Z-eB86MAc5esE'
 })
 
 export const getStaticPaths = async () => {
