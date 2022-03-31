@@ -44,7 +44,7 @@ export const getStaticProps = async ({params}) => {
     
       return (
       <>
-                <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content={<Markdown options={{overrides: {SideNote}}}>{post.fields.content2}</Markdown>}/>
+                <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content={<Markdown options={{overrides: {SideNote}}}>"this is some content"</Markdown>}/>
         
               </>   
       )
