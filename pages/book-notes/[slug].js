@@ -41,6 +41,7 @@ export const getStaticProps = async ({params}) => {
 }
 
   const PostPage = ({ post }) => {
+    const post = post || {}
       return (
       <>
                 <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content={<Markdown>{post.fields.content2}</Markdown>}/>
