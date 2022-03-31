@@ -4,7 +4,6 @@ import {getMDXComponent} from 'mdx-bundler/client'
 import MarkdownPostDisplay from '../../components/MarkdownPostDisplay'
 import React from 'react'
 import SideNote from '../../components/SideNote'
-import Markdown from 'markdown-to-jsx'
 
 const client = createClient({
   space: process.env.CONTENTFUL_SPACE_ID,
@@ -34,7 +33,7 @@ export const getStaticProps = async ({params}) => {
     'fields.slug': params.slug
   })
 
-  const {code}  = await bundleMDX({
+  const { code }  = await bundleMDX({
     source: items[0].fields.content2
   })
 
