@@ -1,9 +1,8 @@
 import { createClient } from 'contentful'
-import { bundleMDX } from 'mdx-bundler'
-import {getMDXComponent} from 'mdx-bundler/client'
 import MarkdownPostDisplay from '../../components/MarkdownPostDisplay'
 import React from 'react'
 import SideNote from '../../components/SideNote'
+import Markdown from 'markdown-to-jsx'
 
 const client = createClient({
   space: process.env.CONTENTFUL_SPACE_ID,
@@ -33,28 +32,18 @@ export const getStaticProps = async ({params}) => {
     'fields.slug': params.slug
   })
 
-
-  const {code}  = await bundleMDX({
-    source: items[0].fields.content2
-  })
-
-  
-  console.log(code)
-
   return {
     props: {
       post: items[0],
-      code
     },
     revalidate: 1
   }
 }
 
-  const PostPage = ({ post, code }) => {
-    const Component = getMDXComponent(code)
+  const PostPage = ({ post }) => {
       return (
       <>
-                <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content={<Component className="text-grey-900 prose-dark"  components={{SideNote}}/>}/>
+                <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content={<Markdown>{post.fields.content2}</Markdown>}/>
         
               </>   
       )
