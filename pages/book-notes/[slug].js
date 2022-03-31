@@ -1,6 +1,5 @@
 import { createClient } from 'contentful'
 import { bundleMDX } from 'mdx-bundler'
-import {getMDXComponent} from 'mdx-bundler/client'
 import MarkdownPostDisplay from '../../components/MarkdownPostDisplay'
 import React from 'react'
 import SideNote from '../../components/SideNote'
@@ -35,7 +34,7 @@ export const getStaticProps = async ({params}) => {
 
   const { code }  = await bundleMDX({
     source: items[0].fields.content2
-  }) || {};
+  });
 
   return {
     props: {
@@ -47,10 +46,9 @@ export const getStaticProps = async ({params}) => {
 }
 
   const PostPage = ({ post, code }) => {
-    const Component = React.useMemo(() => getMDXComponent(code), [code])
       return (
       <>
-                <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content={<Component className="text-grey-900 prose-dark"  components={{SideNote}}/>}/>
+                <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content="Some words here."/>
         
               </>   
       )
