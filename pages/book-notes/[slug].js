@@ -49,8 +49,8 @@ export const getStaticProps = async ({params}) => {
 
   const PostPage = ({ post, code }) => {
     if (!post) return <div>loading</div>
-    
-    const Component = React.useMemo(() => getMDXComponent(code), [code])
+
+    const Component = getMDXComponent(code)
       return (
       <>
                 <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content={<Component components={{SideNote}} />}/>
