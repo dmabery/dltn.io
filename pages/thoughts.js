@@ -10,6 +10,7 @@ import Meta from '../components/Meta'
 import { getAllPostsFromContentful, getThoughtsFromContentful } from '../lib/contentfulAPI'
 import { documentToReactComponents } from '@contentful/rich-text-react-renderer'
 import ThoughtDisplay from '../components/ThoughtDisplay'
+import Markdown from 'markdown-to-jsx'
 
 export const getStaticProps = async () => {
   return getThoughtsFromContentful();
@@ -26,7 +27,7 @@ export default function Home(thoughts) {
               
     <PageContent>
       {thoughts.thoughts.map(thought => (
-        <ThoughtDisplay title={thought.fields.title} content={thought.fields.content2} date={thought.sys.createdAt} key={thought.sys.id} slug={thought.fields.slug}  />
+        <ThoughtDisplay title={thought.fields.title} content={<Markdown options={{overrides: {SideNote}}}>{thought.fields.content2}</Markdown>} date={thought.sys.createdAt} key={thought.sys.id} slug={thought.fields.slug}  />
       ))}
   
     </PageContent>

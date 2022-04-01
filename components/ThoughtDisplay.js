@@ -1,5 +1,4 @@
 import { documentToReactComponents } from "@contentful/rich-text-react-renderer";
-import { ReactMarkdown } from "react-markdown/lib/react-markdown";
 import Link from 'next/link'
 
 const ThoughtDisplay = (props) => {
@@ -10,7 +9,7 @@ const ThoughtDisplay = (props) => {
           <div className="text-md">{props.description}</div>
           <div className="text-xs mt-2">Published: {new Date(props.date).toLocaleString()}</div>
         </div>
-        <ReactMarkdown>{props.content}</ReactMarkdown>
+        {props.content}
         <div className="border mt-6 mb-10"></div>
       </div>
     )
