@@ -3,14 +3,10 @@ import Link from 'next/link'
 import Subscribe from '../components/Subscribe'
 import PageTitle from '../components/PageTitle'
 import PageContent from '../components/Layout'
-import SideNote from '../components/SideNote'
 import PostListSimple from '../components/PostListSimple'
-import Head from 'next/head';
 import Meta from '../components/Meta'
 import { getAllPostsFromContentful } from '../lib/contentfulAPI'
-import { documentToReactComponents } from '@contentful/rich-text-react-renderer'
 import ThoughtDisplay from '../components/ThoughtDisplay'
-import LittleButton from '../components/LittleButton'
 
 export const getStaticProps = async () => {
   return getAllPostsFromContentful();

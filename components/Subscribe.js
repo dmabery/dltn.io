@@ -35,7 +35,7 @@ const Subscribe = () => {
             <form action="https://www.getrevue.co/profile/maberydalton/add_subscriber" className="space-y-6" method="post" id="revue-form" name="revue-form"  target="_blank" onSubmit={subscribeMe}>
             <h3 className="text-xl font-medium text-gray-900 dark:text-white -mb-5 -mt-1">Subscribe to The Bookshelf</h3>
             <div className="text-sm text-gray-300">
-                A newsletter for &apos;the most thoughtful wonderers&apos; in the world. I write one idea that helps me see the world differently and share links to things that helped me learn that week.
+                A newsletter for the most thoughtful wonderers in the world. I write one idea that has captivated by brain and helped me see the world in a new way that week. Plus I share thought-provoking links I found during by internet rabbit-holeing.
             </div>
             <div className="flex gap-2">
                 <div className="revue-form-group basis-2/3">
