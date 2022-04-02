@@ -1,18 +1,18 @@
 import { createClient } from 'contentful'
 import { bundleMDX } from 'mdx-bundler'
-import {getMDXComponent} from 'mdx-bundler/client'
+import { getMDXComponent } from 'mdx-bundler/client'
 import MarkdownPostDisplay from '../../components/MarkdownPostDisplay'
 import React from 'react'
 import SideNote from '../../components/SideNote'
 
 const client = createClient({
-  space: process.env.CONTENTFUL_SPACE_ID,
-  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN
+  space: 'nk2hkdvz2uym',
+  accessToken: '6gmUFv_IEAMf7g22ceoqgN3885o_x3Z-eB86MAc5esE'
 })
 
 export const getStaticPaths = async () => {
   const res = await client.getEntries({
-    content_type: 'snippet'
+    content_type: 'bookNotes'
   })
 
   const paths = res.items.map(item => ({
@@ -29,13 +29,15 @@ export const getStaticPaths = async () => {
 
 export const getStaticProps = async ({params}) => {
   const { items } = await client.getEntries({
-    content_type: 'snippet',
+    content_type: 'bookNotes',
     'fields.slug': params.slug
   })
 
-  const {code}  = await bundleMDX({
+  console.log(items)
+
+  const { code }  = await bundleMDX({
     source: items[0].fields.content2
-  })
+  });
 
   return {
     props: {
@@ -48,10 +50,11 @@ export const getStaticProps = async ({params}) => {
 
   const PostPage = ({ post, code }) => {
     if (!post) return <div>loading</div>
+
     const Component = getMDXComponent(code)
       return (
       <>
-                <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content={<Component className="text-grey-900 prose-dark"  components={{SideNote}}/>}/>
+                <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content={<Component components={{SideNote}} />}/>
         
               </>   
       )

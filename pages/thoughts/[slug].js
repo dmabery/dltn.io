@@ -12,7 +12,7 @@ const client = createClient({
 
 export const getStaticPaths = async () => {
   const res = await client.getEntries({
-    content_type: 'snippet'
+    content_type: 'tinyThought'
   })
 
   const paths = res.items.map(item => ({
@@ -29,7 +29,7 @@ export const getStaticPaths = async () => {
 
 export const getStaticProps = async ({params}) => {
   const { items } = await client.getEntries({
-    content_type: 'snippet',
+    content_type: 'tinyThought',
     'fields.slug': params.slug
   })
 
@@ -48,7 +48,8 @@ export const getStaticProps = async ({params}) => {
 
   const PostPage = ({ post, code }) => {
     if (!post) return <div>loading</div>
-    const Component = getMDXComponent(code)
+    const Component = getMDXComponent(code) || '';
+    console.log(Component)
       return (
       <>
                 <MarkdownPostDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content={<Component className="text-grey-900 prose-dark"  components={{SideNote}}/>}/>
