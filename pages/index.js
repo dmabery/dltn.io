@@ -55,6 +55,7 @@ export default function Home(posts) {
         <div className="text-gray-900">Read <Link href="/thoughts"><a className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">more thoughts here.</a></Link></div>
         </div>
       </div>
+
     </PageContent>
   </div>
   )

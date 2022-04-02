@@ -18,7 +18,7 @@ function MyApp({ Component, pageProps }) {
             <Nav className=""/>
           </nav>
           <main className="mb-auto">
-            <Component {...pageProps} />
+              <Component {...pageProps} />
           </main>
         </div>
       <footer className="h-10">

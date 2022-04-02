@@ -1,5 +1,7 @@
 import { documentToReactComponents } from "@contentful/rich-text-react-renderer";
 import Link from 'next/link'
+import Markdown from "markdown-to-jsx";
+import SideNote from "./SideNote";
 
 const ThoughtDisplay = (props) => {
     return (
@@ -9,7 +11,7 @@ const ThoughtDisplay = (props) => {
           <div className="text-md">{props.description}</div>
           <div className="text-xs mt-2">Published: {new Date(props.date).toLocaleString()}</div>
         </div>
-        {props.content}
+        <Markdown options={{overrides: {SideNote}}}>{props.content}</Markdown>
         <div className="border mt-6 mb-10"></div>
       </div>
     )
