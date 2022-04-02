@@ -49,7 +49,7 @@ export default function Home(posts) {
       <div>
         <div>
         <h3 className="text-3xl text-gray-900 font-bold mb-5">Latest thoughts</h3>
-        {thoughts.slice(0,3).map(thought => (
+        {thoughts.slice(0,2).map(thought => (
           <ThoughtDisplay title={thought.fields.title} content={thought.fields.content2} slug={thought.fields.slug} date={thought.sys.createdAt} key={thought.sys.id}/>
         ))}
         <div className="text-gray-900">Read <Link href="/thoughts"><a className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">more thoughts here.</a></Link></div>
