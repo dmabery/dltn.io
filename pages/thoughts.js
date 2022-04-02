@@ -27,7 +27,7 @@ export default function Home(thoughts) {
               
     <PageContent>
       {thoughts.thoughts.map(thought => (
-        <ThoughtDisplay title={thought.fields.title} content={<Markdown options={{overrides: {SideNote}}}>{thought.fields.content2}</Markdown>} date={thought.sys.createdAt} key={thought.sys.id} slug={thought.fields.slug}  />
+        <ThoughtDisplay title={thought.fields.title} content={thought.fields.content2} date={thought.sys.createdAt} key={thought.sys.id} slug={thought.fields.slug}  />
       ))}
   
     </PageContent>
