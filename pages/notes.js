@@ -19,7 +19,7 @@ const NoteList = ({ notes }) => {
         description="Everything I've learned that's worth learning has come from a book or other form of medium. These are those notes. Important: These are not summaries. They are notes from books, articles, speeches, or podcasts that was interesting to me and I knew I'd want to revisit."/>
 
       <PageContent>
-        <div className="grid grid-cols-4 grid-row gap-4">
+        <div className="grid grid-cols-2 md:grid-cols-4 grid-row gap-4">
             {notes.map((note, index) => (
               <Link href={'/book-notes/' + note.fields.slug} passHref key={note.sys.id}>
                 <a>
@@ -27,6 +27,7 @@ const NoteList = ({ notes }) => {
                       src={`https:` + note.fields.image.fields.file.url}
                       width={note.fields.image.fields.file.details.image.width}
                       height={note.fields.image.fields.file.details.image.height}
+                      layout="responsive"
                   />
                 </a>
               </Link> 
