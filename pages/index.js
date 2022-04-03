@@ -7,7 +7,7 @@ import PostListSimple from '../components/PostListSimple'
 import Meta from '../components/Meta'
 import { getAllPostsFromContentful } from '../lib/contentfulAPI'
 import ThoughtDisplay from '../components/ThoughtDisplay'
-
+ 
 export const getStaticProps = async () => {
   return getAllPostsFromContentful();
 }
