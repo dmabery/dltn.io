@@ -8,7 +8,7 @@ const AboutMe = () => {
             <Meta title="About" description="Insatiably curious. Rhythmic creator." />
             <PageTitle 
                 title="About Me"
-                description="Insatiably curious. Rhytmic creator."
+                description="Insatiably curious. Rhythmic creator."
             />
 
             <PageContent>
