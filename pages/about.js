@@ -8,11 +8,11 @@ const AboutMe = () => {
             <Meta title="About" description="Insatiably curious. Rhythmic creator." />
             <PageTitle 
                 title="About Me"
-                description="Insatiably curious. Rhytmic creator."
+                description="Insatiably curious. Rhythmic creator."
             />
 
             <PageContent>
-                <div className="prose">
+                <div className="prose prose-invert prose-strong:text-slate-300 text-slate-400 prose-a:text-amber-700 hover:prose-a:text-amber-700 hover:prose-a:no-underline prose-h1:leading-tight prose-h3:text-slate-300 prose-h4:text-slate-300 sm:prose-h1:leading-tight pr-5 pl-5 md:p-0">
                     <p>My name is Dalton Mabery -- a video editor, developer, reader, writer, thinker, and lover of the curious things in the world. I try to understand how things work through the essential inner dialogue that populates this site and <a className="text-sky-800 underline decoration-amber-700 decoration-2" href="https://twitter.com/daltonmabery">my Twitter</a>. This is a record of my becoming of a person as I explore the intellectual, creative, philosophical, and spiritual questions in this world through extensive research of literature -- both young and old. A private journey made public in seek of the one true question we all ask at some point: <strong><em>who am I and what is all this?</em></strong></p>
                     <p>Whenever I can refer to wisdom from those who lived before me, I do. The following quote comes from Will Durant in <em>The Map of Human Character </em>and was the first time I was able to assign words to the inner motivation that drives me -- <strong>how can we best make sense of everything in the world?</strong></p>
                     <blockquote>

@@ -24,15 +24,15 @@ export default function Home(posts) {
       />
       <div className="flex">
         <Link href="/about" passHref>
-            <div className="text-gray-900 text-sm">Read more on <a className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">about page</a>.</div>
+            <a className="text-slate-300 text-sm">Read more on <span className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">about page.</span></a>
         </Link>
-            <a rel="noreferrer" target="_blank" className="text-gray-900 text-sm ml-1" href="https://publish.obsidian.md/1729/About+these+notes">Or visit my <span className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">public brain.</span></a>
+            <a rel="noreferrer" target="_blank" className="text-slate-100 text-sm ml-1" href="https://publish.obsidian.md/1729/About+these+notes">Or visit my <span className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">public brain.</span></a>
       </div>
               
     <PageContent>
       <div className="grid gap-4 md:grid-cols-3 text-gray-900">
         <div className="col-span-2">
-          <h3 className="text-3xl text-gray-900 font-bold mb-5">Latest posts</h3>
+          <h3 className="text-3xl text-slate-300 font-bold mb-5">Latest posts</h3>
             {posts.posts.slice(0, 5).map(post => (
               <PostListSimple title={post.fields.title} slug={post.fields.slug} date={post.sys.createdAt} contentType={post.sys.contentType.sys.id} key={post.sys.id}/>
             ))} 
@@ -48,7 +48,7 @@ export default function Home(posts) {
         {thoughts.slice(0,2).map(thought => (
           <ThoughtDisplay title={thought.fields.title} content={thought.fields.content2} slug={thought.fields.slug} date={thought.sys.createdAt} key={thought.sys.id}/>
         ))}
-        <div className="text-gray-900">Read <Link href="/thoughts"><a className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">more thoughts here.</a></Link></div>
+        <div className="text-slate-400">Read <Link href="/thoughts"><a className="underline decoration-slate-500 text-amber-700 hover:underline hover:decoration-amber-700 hover:decoration-2">more thoughts here.</a></Link></div>
         </div>
       </div>
 
