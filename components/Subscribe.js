@@ -41,9 +41,9 @@ const Subscribe = () => {
                 <div className="revue-form-group basis-2/3">
                     <input placeholder="Your email address..." type="email" name="member[email]" id="member_email" className="revue-form-field bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white" onChange={changeEmail} />
                 </div>
-                <div className="revue-form-actions basis-1/3">
+                <button className="revue-form-actions basis-1/3">
                     <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit" className="w-full text-white bg-slate-500 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-slate-500 dark:hover:bg-slate-400  00 dark:focus:ring-slate-400"/>
-                </div>
+                </button>
             </div>
             <div className="text-sm text-white">
                 See <a href="https://www.getrevue.co/profile/maberydalton"><span className="text-slate-300 hover:underline hover:decoration-amber-700 hover:decoration-2">past issues</span></a>

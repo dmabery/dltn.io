@@ -28,7 +28,7 @@ export default function Home(posts) {
       />
       <div className="flex">
         <Link href="/about" passHref>
-            <div className="text-slate-300 text-sm">Read more on <a className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">about page</a>.</div>
+            <a className="text-slate-300 text-sm">Read more on <span className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">about page.</span></a>
         </Link>
             <a rel="noreferrer" target="_blank" className="text-slate-100 text-sm ml-1" href="https://publish.obsidian.md/1729/About+these+notes">Or visit my <span className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">public brain.</span></a>
       </div>
