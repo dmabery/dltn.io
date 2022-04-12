@@ -33,9 +33,9 @@ const Subscribe = () => {
     return (
         <div id="revue-embed" className="p-4 bg-white rounded-lg border border-gray-200 shadow-md sm:p-4 lg:p-6 dark:bg-slate-800 mt-10 mb-10">
             <form action="https://www.getrevue.co/profile/maberydalton/add_subscriber" className="space-y-6" method="post" id="revue-form" name="revue-form"  target="_blank" onSubmit={subscribeMe}>
-            <h3 className="text-xl font-medium text-gray-900 dark:text-white -mb-5 -mt-1">Subscribe to The Bookshelf</h3>
+            <h3 className="text-xl font-medium text-gray-900 dark:text-white -mb-5 -mt-1">Subscribe to My Newsletter</h3>
             <div className="text-sm text-gray-300">
-                A newsletter for the most thoughtful wonderers in the world. I write one idea that has captivated by brain and helped me see the world in a new way that week. Plus I share thought-provoking links I found during by internet rabbit-holeing.
+                The Bookshelf is a weekly newsletter for the most thoughtful wonderers in the world. I share the the books, people, and ideas that made the world what it is today.
             </div>
             <div className="flex gap-2">
                 <div className="revue-form-group basis-2/3">

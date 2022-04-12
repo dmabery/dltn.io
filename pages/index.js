@@ -52,6 +52,8 @@ export default function Home(posts) {
         </div>
       </div>
 
+      <script async data-uid="904082c2a2" src="https://daltonmabery.ck.page/904082c2a2/index.js"></script>
+
     </PageContent>
   </div>
   )
