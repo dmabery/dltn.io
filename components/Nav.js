@@ -10,7 +10,7 @@ const links = [
         slug: 'essays'
     },
     {
-        title: 'Thoughts',
+        title: 'Blog',
         slug: 'thoughts'
     },
     {
