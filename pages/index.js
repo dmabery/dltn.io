@@ -51,9 +51,6 @@ export default function Home(posts) {
         <div className="text-slate-400">Read <Link href="/thoughts"><a className="underline decoration-slate-500 text-amber-700 hover:underline hover:decoration-amber-700 hover:decoration-2">more thoughts here.</a></Link></div>
         </div>
       </div>
-
-      <script async data-uid="904082c2a2" src="https://daltonmabery.ck.page/904082c2a2/index.js"></script>
-
     </PageContent>
   </div>
   )
