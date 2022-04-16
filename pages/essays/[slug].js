@@ -41,12 +41,11 @@ export const getStaticProps = async ({params}) => {
 }
 
   const PostPage = ({post}) => {
-    console.log(post)
     if (!post) return <div>loading</div>
   
       return (
       <>
-                <PostTitleDisplay title={post.fields.title} date={post.sys.createdAt} content={post.fields.content2} image={post.fields.image.fields.file.url}/>
+                <PostTitleDisplay title={post.fields.title} date={post.sys.createdAt} content={post.fields.content2} image={post.fields.image.fields.file.url || ''}/>
         
               </>   
       )
