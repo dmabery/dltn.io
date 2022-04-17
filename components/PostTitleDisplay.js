@@ -15,7 +15,7 @@ const PostTitleDisplay = (props, children) => {
 
     return (
              <>
-             <Meta title={props.title || ''} description={props.description || ''} image={`https:${props.image}` || ''} />
+             <Meta title={props.title || ''} description={props.description || ''} image={props.image || ''} />
                 <article className="container mx-auto max-w-screen-sm" >
                   <div className="border-b-2 mb-4 text-slate-100 pb-5 ml-5 mr-5 md:ml-0 mr-0">
                     <h1 className="text-left text-3xl mt-2 decoration-4 font-bold mb-2">{props.title || ''}</h1>
