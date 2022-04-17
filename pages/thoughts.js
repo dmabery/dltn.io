@@ -21,7 +21,7 @@ export default function Home(thoughts) {
     <div className="container">
         <Meta title="dalton's site" description="Insatiably curious" />
       <PageTitle
-        title="Blog"
+        title="Asides"
         description = "Short-form posts to share interesting things I learn or find online. This is similar to a more traditional blog."
       />
               
