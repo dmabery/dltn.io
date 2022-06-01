@@ -5,7 +5,7 @@ const PostList = (props) => {
             <div className="rounded-lg dark:border-gray-700 mb-4 relative" key={props.key}>
             <div>
                 <Link href={'/essays/' + props.slug} passHref>
-                    <a className="text-3xl font-bold tracking-tight text-slate-300">{props.title}</a>
+                    <a className="text-3xl font-bold tracking-tight text-slate-900">{props.title}</a>
                 </Link>
                 <p className="mb-2 font-normal text-slate-400 dark:text-slate-400">{props.description}</p>
                 <p className="mb-4 text-xs text-slate-400">Published on: {props.date.slice(0,10)}</p>

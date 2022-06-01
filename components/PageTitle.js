@@ -8,9 +8,9 @@ const PageTitle = ({title, description, image, width, height}) => {
     return (
         <div className={`flex-row items-center ${condition}`}>
             <div className="basis-2/3">
-                <h2 className="text-[50px] text-slate-300 font-bold"><span className="underline decoration-amber-700">{title}</span></h2>
+                <h2 className="text-[50px] text-slate-900 font-bold"><span className="underline decoration-amber-700">{title}</span></h2>
                 {description.length > 0 &&
-                    <p className="text-slate-300">{description}</p>
+                    <p className="text-slate-900">{description}</p>
                 }
                 <br />
             </div>
