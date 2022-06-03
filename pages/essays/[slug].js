@@ -40,7 +40,7 @@ export const getStaticProps = async ({params}) => {
 }
 
   const PostPage = ({post}) => {
-    const checkImage = post.fields.hasOwnProperty('image') ? `https://` + post.fields.image.fields.file.url : 'https://images.ctfassets.net/nk2hkdvz2uym/5yB87OQ11Ps4rMfWMQay'
+    const checkImage = post.fields.hasOwnProperty('image') ? `https:` + post.fields.image.fields.file.url : 'https://images.ctfassets.net/nk2hkdvz2uym/5yB87OQ11Ps4rMfWMQay'
     if (!post) return <div>loading</div>
       return (
       <>
