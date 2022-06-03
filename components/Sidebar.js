@@ -59,7 +59,7 @@ const Sidebar = ({ children }) => {
           <h3 className="text-sm mb-2 uppercase mt-5">Blogs I like</h3>
           <ul>
           {blogroll.map(blog => (
-            <li><a href={blog.url} key={index} className="text-sm underline text-blue-600 hover:text-amber-700 hover:decoration-amber-700">{blog.title}</a></li>
+            <li key={index}><a href={blog.url} className="text-sm underline text-blue-600 hover:text-amber-700 hover:decoration-amber-700">{blog.title}</a></li>
           ))}
           </ul>
         </div>
