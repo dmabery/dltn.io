@@ -9,7 +9,7 @@ const fetcher = (url) => fetch(url).then(res => res.json())
 const Sidebar = ({ children }) => {
   const { data, error } = useSWR("/api/contentful", fetcher)
   if (error) return <div>Failed to load</div>
-  if (!data) return <div>Loading...</div>
+  if (!data) return <div></div>
 
   const blogroll = [
     {
