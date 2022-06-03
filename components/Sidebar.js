@@ -45,12 +45,11 @@ const Sidebar = ({ children }) => {
       <aside className="md:border-t-none md:border-r w-full md:w-60 p-5">
         <div className="mb-10">
           <h3 className="text-sm mb-2 uppercase" >Subscribe</h3>
-          <p className="text-sm mb-2">Subscribe for exclusive content and early updates.</p>
           <SubscribeSimple />
         </div>
         <hr></hr>
         <div className="mb-10">
-          <h3 className="text-sm mb-2 uppercase mt-5">Latest Essays</h3>
+          <h3 className="text-sm mb-2 uppercase mt-5">Latest Posts</h3>
             {data.items.map(post => (
                <PostListSimple title={post.fields.title} slug={post.fields.slug} date={post.sys.createdAt} contentType={post.sys.contentType.sys.id} key={post.sys.id}/>
             ))}
@@ -60,7 +59,7 @@ const Sidebar = ({ children }) => {
           <h3 className="text-sm mb-2 uppercase mt-5">Blogs I like</h3>
           <ul>
           {blogroll.map(blog => (
-            <li><a href={blog.url} className="text-sm underline text-blue-600">{blog.title}</a></li>
+            <li><a href={blog.url} className="text-sm underline text-blue-600 hover:text-amber-700 hover:decoration-amber-700">{blog.title}</a></li>
           ))}
           </ul>
         </div>
