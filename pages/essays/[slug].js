@@ -1,7 +1,6 @@
 import { createClient } from 'contentful'
 import PostTitleDisplay from '../../components/PostTitleDisplay'
 import React from 'react'
-import SideNote from '../../components/SideNote'
 
 const client = createClient({
   space: process.env.CONTENTFUL_SPACE_ID,

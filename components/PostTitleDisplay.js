@@ -3,7 +3,7 @@ import { useEffect } from 'react'
 import Meta from './Meta';
 const prism = require("prismjs")
 import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
-import SideNote from './SideNote'
+import Callout from './Callout'
 import Markdown from 'markdown-to-jsx';
 import PostContentDisplay from './PostContent';
 import Link from 'next/link';
