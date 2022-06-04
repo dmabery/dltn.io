@@ -47,7 +47,7 @@ const Sidebar = ({ children }) => {
     <div className="min-h-screen flex flex-col">
     <div className="flex flex-col-reverse md:flex-row flex-1">
       <aside className="md:border-t-none md:border-r w-full md:w-60 p-5">
-        <div className="mb-10">
+        <div className="mb-10 mt-5">
           <h3 className="text-sm mb-2 uppercase" >Subscribe</h3>
           <SubscribeSimple />
         </div>
