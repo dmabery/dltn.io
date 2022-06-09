@@ -1,6 +1,7 @@
 import PageTitle from '../components/PageTitle'
 import PageContent from '../components/Layout'
 import Meta from '../components/Meta'
+import { getThoughtsFromContentful } from '../lib/contentfulAPI'
 import ThoughtDisplay from '../components/ThoughtDisplay'
 
 export const getStaticProps = async () => {
