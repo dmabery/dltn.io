@@ -1,9 +1,9 @@
 import Markdown from "markdown-to-jsx"
-import Callout from "./Callout"
+import SideNote from "./SideNote"
 
 const PostContentDisplay = (props) => {
     return (
-        <Markdown options={{overrides: {Callout}}}>{props.content || ''}</Markdown>
+        <Markdown options={{overrides: {SideNote}}}>{props.content || ''}</Markdown>
     )
 }
 

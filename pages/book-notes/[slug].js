@@ -3,6 +3,7 @@ import { bundleMDX } from 'mdx-bundler'
 import { getMDXComponent } from 'mdx-bundler/client'
 import PostTitleDisplay from '../../components/PostTitleDisplay'
 import React from 'react'
+import SideNote from '../../components/SideNote'
 
 
 const client = createClient({

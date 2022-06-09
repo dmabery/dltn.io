@@ -4,7 +4,6 @@ import "../styles/prism-theme.css"
 import Head from 'next/head'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer';
-import Sidebar from '../components/Sidebar';
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -14,12 +13,12 @@ function MyApp({ Component, pageProps }) {
       </Head>
 
       <div className="flex flex-col justify-between">
-        <div className="container mx-auto max-w-screen-lg pl-5 plb-5 pr-5 flex flex-col justify-between ">
+        <div className="container mx-auto max-w-screen-md p-5 flex flex-col justify-between ">
+          <nav>
             <Nav className=""/>
+          </nav>
           <main className="mb-auto">
-              <Sidebar>
-                <Component {...pageProps} />
-              </Sidebar>
+              <Component {...pageProps} />
           </main>
         </div>
       <footer className="h-10">
