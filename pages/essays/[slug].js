@@ -1,6 +1,9 @@
 import { createClient } from 'contentful'
 import PostTitleDisplay from '../../components/PostTitleDisplay'
 import React from 'react'
+import contentful from 'contentful';
+import { documentToHtmlString } from '@contentful/rich-text-html-renderer';
+
 
 const client = createClient({
   space: process.env.CONTENTFUL_SPACE_ID,
@@ -41,10 +44,10 @@ export const getStaticProps = async ({params}) => {
   const PostPage = ({post}) => {
     if (!post) return <div>loading</div>
     const checkImage = post.fields.hasOwnProperty('image') ? `https:` + post.fields.image.fields.file.url : 'https://images.ctfassets.net/nk2hkdvz2uym/5yB87OQ11Ps4rMfWMQay'
-
+    const description = documentToHtmlString(post.fields.description)
       return (
       <>
-                <PostTitleDisplay title={post.fields.title} description={post.fields.description} date={post.sys.createdAt} content={post.fields.content2} image={checkImage}/>
+                <PostTitleDisplay title={post.fields.title} description={description} date={post.sys.createdAt} content={post.fields.content2} image={checkImage}/>
         
               </>   
       )
