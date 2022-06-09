@@ -46,7 +46,7 @@ const Subscribe = () => {
                 </button>
             </div>
             <div className="text-sm text-white">
-                See <a href="https://www.getrevue.co/profile/maberydalton"><span className="text-slate-300 hover:underline hover:decoration-amber-700 hover:decoration-2">past issues</span></a>
+                See <a href="https://www.getrevue.co/profile/maberydalton"><span className="text-slate-900 hover:underline hover:decoration-amber-700 hover:decoration-2">past issues</span></a>
             </div>
             </form>
 

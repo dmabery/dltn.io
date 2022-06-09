@@ -1,16 +1,8 @@
-import Image from 'next/image'
-import Link from 'next/link'
-import Subscribe from '../components/Subscribe'
 import PageTitle from '../components/PageTitle'
 import PageContent from '../components/Layout'
-import SideNote from '../components/SideNote'
-import PostListSimple from '../components/PostListSimple'
-import Head from 'next/head';
 import Meta from '../components/Meta'
-import { getAllPostsFromContentful, getThoughtsFromContentful } from '../lib/contentfulAPI'
-import { documentToReactComponents } from '@contentful/rich-text-react-renderer'
+import { getThoughtsFromContentful } from '../lib/contentfulAPI'
 import ThoughtDisplay from '../components/ThoughtDisplay'
-import Markdown from 'markdown-to-jsx'
 
 export const getStaticProps = async () => {
   return getThoughtsFromContentful();

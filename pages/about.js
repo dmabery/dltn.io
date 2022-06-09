@@ -12,8 +12,8 @@ const AboutMe = () => {
             />
 
             <PageContent>
-                <div className="prose prose-invert prose-strong:text-slate-300 text-slate-400 prose-a:text-amber-700 hover:prose-a:text-amber-700 hover:prose-a:no-underline prose-h1:leading-tight prose-h3:text-slate-300 prose-h4:text-slate-300 sm:prose-h1:leading-tight pr-5 pl-5 md:p-0">
-                    <p>My name is Dalton Mabery -- a video editor, developer, reader, writer, thinker, and lover of the curious things in the world. I try to understand how things work through the essential inner dialogue that populates this site and <a className="text-sky-800 underline decoration-amber-700 decoration-2" href="https://twitter.com/daltonmabery">my Twitter</a>. This is a record of my becoming of a person as I explore the intellectual, creative, philosophical, and spiritual questions in this world through extensive research of literature -- both young and old. A private journey made public in seek of the one true question we all ask at some point: <strong><em>who am I and what is all this?</em></strong></p>
+                <div className="prose prose-strong:text-slate-900 text-slate-900 prose-a:text-blue-700 hover:prose-a:text-amber-700 hover:prose-a:no-underline prose-h1:leading-tight prose-h3:text-slate-900 prose-h4:text-slate-900 sm:prose-h1:leading-tight pr-5 pl-5 md:p-0">
+                    <p>My name is Dalton Mabery -- a video editor, developer, reader, writer, thinker, and lover of the curious things in the world. I try to understand how things work through the essential inner dialogue that populates this site and <a className="text-sky-700 underline" href="https://twitter.com/daltonmabery">my Twitter</a>. This is a record of my becoming of a person as I explore the intellectual, creative, philosophical, and spiritual questions in this world through extensive research of literature -- both young and old. A private journey made public in seek of the one true question we all ask at some point: <strong><em>who am I and what is all this?</em></strong></p>
                     <p>Whenever I can refer to wisdom from those who lived before me, I do. The following quote comes from Will Durant in <em>The Map of Human Character </em>and was the first time I was able to assign words to the inner motivation that drives me -- <strong>how can we best make sense of everything in the world?</strong></p>
                     <blockquote>
                     <p>Therefore I feel that we of this generation give too much time to news about the transient present, too little to the living past. <strong>We are choked with news, and starved of history.</strong> We know a thousand items about the day or yesterday, we learn the events and troubles and heartbreaks of a hundred peoples, the policies and pretensions of a dozen capitals, the victories and defeats of causes, armies, athletic teams. <br /> <br />
@@ -29,7 +29,7 @@ const AboutMe = () => {
                     <p>&quot;The most thoughtful wonderer.&quot; I love that. I hope those words are used to describe me one day.</p>
                     <hr />
                     <h2>Career</h2>
-                    <p>On a professional note, I have a degree in Digital Media &amp; Design from Southeastern University and work as a Digital Creator and Designer for <a className="text-sky-800 underline decoration-amber-700 decoration-2" href="https://fs.blog/">Farnam Street</a>.</p>
+                    <p>On a professional note, I have a degree in Digital Media &amp; Design from Southeastern University and work as a Digital Creator and Designer for <a className="text-sky-700 underline" href="https://fs.blog/">Farnam Street</a>.</p>
                     <p>I like to say I&#39;m a &quot;developer in training&quot; as I&#39;m learning programming. I built this from scratch using NextJS, MDX, and Tailwind.</p>
                 </div>
             </PageContent>
