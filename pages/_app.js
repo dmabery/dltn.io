@@ -14,13 +14,11 @@ function MyApp({ Component, pageProps }) {
       </Head>
 
       <div className="flex flex-col justify-between">
-        <div className="container mx-auto max-w-screen-lg pl-5 plb-5 pr-5 flex flex-col justify-between ">
+        <div className="container mx-auto max-w-screen-lg pl-5 plb-5 pr-5 justify-between ">
             <Nav className=""/>
-          <main className="mb-auto">
-              <Sidebar>
-                <Component {...pageProps} />
-              </Sidebar>
-          </main>
+            <Sidebar>
+                  <Component {...pageProps} />
+            </Sidebar>
         </div>
       <footer className="h-10">
          <Footer />

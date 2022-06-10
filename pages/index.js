@@ -31,7 +31,7 @@ export default function Home(post) {
               <Link href={'/' + slugFunction() + latestPost.fields.slug} passHref><a><h1 className="text-left text-3xl mt-2 decoration-4 font-bold mb-2">{latestPost.fields.title}</h1></a></Link>
               <div className="text-xs text-slate-500">Published: {latestPost.sys.createdAt.slice(0,10)}</div>
           </div>
-          <div className="prose prose-strong:text-slate-900 font-light text-slate-900 prose-a:text-blue-600 hover:prose-a:text-amber-700 prose-h1:leading-tight prose-h3:text-slate-900 prose-h4:text-slate-900 sm:prose-h1:leading-tight prose-a:decoration-dotted hover:prose-a:decoration-amber-700 md:p-0 prose-blockquote:font-medium prose-blockquote:p-3 prose-blockquote:rounded">
+          <div className="prose prose-strong:text-slate-900 font-light text-slate-900 prose-a:text-blue-600 hover:prose-a:text-amber-700 prose-h1:leading-tight prose-h3:text-slate-900 prose-h4:text-slate-900 sm:prose-h1:leading-tight prose-a:decoration-dotted hover:prose-a:decoration-amber-700 md:p-0 prose-blockquote:font-medium prose-blockquote:p-3 prose-blockquote:rounded underline-offset-4">
               <PostContentDisplay content={latestPost.fields.content2} />
             </div>
       </article>

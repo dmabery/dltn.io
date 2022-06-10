@@ -10,7 +10,7 @@ const PageTitle = ({title, description, image, width, height}) => {
             <div className="basis-2/3">
                 <h2 className="text-[50px] text-slate-900 font-bold"><span className="underline decoration-amber-700">{title}</span></h2>
                 {description.length > 0 &&
-                    <p className="text-slate-900">{description}</p>
+                    <p className="text-slate-900 font-light">{description}</p>
                 }
                 <br />
             </div>

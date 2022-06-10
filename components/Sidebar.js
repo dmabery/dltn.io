@@ -3,13 +3,14 @@ import useSWR from "swr";
 import { getAllPostsFromContentful } from "../lib/contentfulAPI";
 import PostListSimple from "./PostListSimple";
 
-const fetcher = (url) => fetch(url).then(res => res.json())
+const fetcher = async (url) => await fetch(url).then(res => res.json())
 
 
 const Sidebar = ({ children }) => {
   const { data, error } = useSWR("/api/contentful", fetcher)
   if (error) return <div>Failed to load</div>
-  if (!data) return <div></div>
+  if (!data) return <div className="flex-1 p-5 md:pl-10 md:pr-10 border-b md:border-b-0"> {children}</div>
+ 
 
   const blogroll = [
     {
