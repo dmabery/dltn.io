@@ -12,8 +12,8 @@ const Meta = (props) => {
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:creator" content="@daltonmabery" />
                 <meta property="og:title" content={props.title}/>
-                <meta property="og:description" content="Understanding more of the world."/>
-                <meta name="description" content={props.description} />
+                <meta property="og:description" content={props.description}/>
+                <meta name="description" content="Understanding more of the world." />
                 <meta property="og:image" content={props.image} />
             </Head>
         </>

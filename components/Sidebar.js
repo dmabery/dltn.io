@@ -2,15 +2,12 @@ import SubscribeSimple from "./SubscribeSimple";
 import useSWR from "swr";
 import { getAllPostsFromContentful } from "../lib/contentfulAPI";
 import PostListSimple from "./PostListSimple";
+import LatestPosts from "./LatesPosts";
 
 const fetcher = async (url) => await fetch(url).then(res => res.json())
 
 
 const Sidebar = ({ children }) => {
-  const { data, error } = useSWR("/api/contentful", fetcher)
-  if (error) return <div>Failed to load</div>
-  if (!data) return <div className="flex-1 p-5 md:pl-10 md:pr-10 border-b md:border-b-0"> {children}</div>
- 
 
   const blogroll = [
     {
@@ -42,8 +39,6 @@ const Sidebar = ({ children }) => {
       url: 'https://www.ribbonfarm.com/'
     }
   ]
-
-  console.log(data)
   return (
     <div className="min-h-screen flex flex-col">
     <div className="flex flex-col-reverse md:flex-row flex-1">
@@ -55,9 +50,7 @@ const Sidebar = ({ children }) => {
         <hr></hr>
         <div className="mb-10">
           <h3 className="text-sm mb-2 uppercase mt-5">Latest Posts</h3>
-            {data.items.map(post => (
-               <PostListSimple title={post.fields.title} slug={post.fields.slug} date={post.sys.createdAt} contentType={post.sys.contentType.sys.id} key={post.sys.id}/>
-            ))}
+            <LatestPosts />
         </div>
         <hr></hr>
         <div className="mb-10">
