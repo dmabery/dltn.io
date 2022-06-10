@@ -9,6 +9,7 @@ const Meta = (props) => {
                 <meta property="og:site_name" content="dalton's site" />
                 <meta property="og:type" content="website"/>
                 <meta property="og:url" content="https://daltonmabery.com/"/>
+                <meta property="twitter:site" content="@daltonmabery" />
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:creator" content="@daltonmabery" />
                 <meta property="og:title" content={props.title}/>
