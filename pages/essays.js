@@ -1,5 +1,3 @@
-import Image from 'next/image'
-import Link from 'next/link'
 import Meta from '../components/Meta'
 import PageTitle from '../components/PageTitle'
 import PageContent from '../components/Layout'

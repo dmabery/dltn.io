@@ -1,7 +1,6 @@
 import { createClient } from 'contentful'
 import PostTitleDisplay from '../../components/PostTitleDisplay'
 import React from 'react'
-import contentful from 'contentful';
 import { documentToHtmlString } from '@contentful/rich-text-html-renderer';
 
 

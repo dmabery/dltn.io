@@ -51,11 +51,11 @@ const Subscribe = () => {
             </form>
 
             { success ?
-            <span>{success}</span>
+            <span className="text-sm ">{success}</span>
 
             :
 
-            <span>{error} </span>
+            <span className="text-xs">{error} </span>
         }
     
 
