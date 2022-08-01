@@ -2,21 +2,21 @@ import Link from 'next/link';
 
 const PostList = (props) => {
     return (
-            <div className="rounded-lg dark:border-gray-700 mb-4 relative" key={props.key}>
-            <div>
-                <Link href={'/essays/' + props.slug} passHref>
-                    <a className="text-3xl font-bold tracking-tight text-slate-300">{props.title}</a>
-                </Link>
-                <p className="mb-2 font-normal text-slate-400 dark:text-slate-400">{props.description}</p>
-                <p className="mb-4 text-xs text-slate-400">Published on: {props.date.slice(0,10)}</p>
-                <Link href={'/essays/' + props.slug} passHref class="inline-flex items-center text-sm font-medium text-center text-slate-500 hover:text-slate-900">
-                    <div className="text-slate-400 flex flex-column items-center">
-                      <a>Read more</a>
-                      <svg className="ml-2 -mr-1 w-4 h-4 hover:ml-3" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
+        <Link href={'/essays/' + props.slug} passHref>
+            <a>
+                <div className="transition-all mb-3 hover:bg-slate-400/50 rounded p-5 border border-slate-400/50 border-2" key={props.key}>
+                    <div>
+                        <div className='flex flex-col justify-between md:flex-row md:justify-between'>
+                            
+                                <a className="text-xl font-bold text-gray-200 md:mb-0 mb-1">{props.title}</a>
+                            
+                            <p className="text-xs text-gray-400">{props.date.slice(0,10)}</p>
+                        </div>
+                        <p className="mt-2 mb-2 font-normal text-gray-400">{props.description}</p>
                     </div>
-                </Link >
-            </div>
-        </div>
+                </div>
+            </a>
+        </Link>
         )
 }
 
