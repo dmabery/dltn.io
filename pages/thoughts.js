@@ -27,7 +27,7 @@ export default function Home(thoughts) {
               
     <PageContent>
       {thoughts.thoughts.map(thought => (
-        <PostListSimple title={thought.fields.title} content={thought.fields.content2} date={thought.sys.createdAt} key={thought.sys.id} slug={thought.fields.slug}  />
+        <PostListSimple title={thought.fields.title} content={thought.fields.content2} date={thought.sys.createdAt} key={thought.sys.id} slug={thought.fields.slug} contentType={thought.sys.contentType.sys.id}  />
       ))}
   
     </PageContent>
