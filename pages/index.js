@@ -20,11 +20,11 @@ export default function Home(posts) {
       <PageTitle
         title="Dalton"
         image="/ezgif.com-gif-maker.gif"
-        description = "Writer, thinker, video editor, and developer. I study history and science to understand how we got to now and write about what I learn."
+        description = "I'm a video editor, designer, developer, and writer currently studying computer science, history, physics, and programming. I write about what I learn."
       />
       <div className="flex">
         <Link href="/about" passHref>
-            <a className="text-slate-300 text-sm">Read more on <span className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">about page.</span></a>
+            <a className="text-slate-300 text-sm">Read more on my <span className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">about page.</span></a>
         </Link>
             <a rel="noreferrer" target="_blank" className="text-slate-100 text-sm ml-1" href="https://publish.obsidian.md/1729/About+these+notes">Or visit my <span className="underline decoration-slate-500 text-slate-500 hover:underline hover:decoration-amber-700 hover:decoration-2">public brain.</span></a>
       </div>
@@ -40,16 +40,6 @@ export default function Home(posts) {
       </div>
       <div>
           <Subscribe />
-      </div>
-
-      <div>
-        <div>
-        <h3 className="text-3xl text-slate-300 font-bold mb-5">Latest asides</h3>
-        {thoughts.slice(0,2).map(thought => (
-          <ThoughtDisplay title={thought.fields.title} content={thought.fields.content2} slug={thought.fields.slug} date={thought.sys.createdAt} key={thought.sys.id}/>
-        ))}
-        <div className="text-slate-400">Read <Link href="/thoughts"><a className="underline decoration-slate-500 text-amber-700 hover:underline hover:decoration-amber-700 hover:decoration-2">more thoughts here.</a></Link></div>
-        </div>
       </div>
     </PageContent>
   </div>

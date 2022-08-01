@@ -22,12 +22,12 @@ export default function Home(thoughts) {
         <Meta title="dalton's site" description="Insatiably curious" />
       <PageTitle
         title="Asides"
-        description = "Short-form posts to share interesting things I learn or find online. This is similar to a more traditional blog."
+        description = "Short-form posts to share interesting things I find online, simple solutions to common problems, and code snippets."
       />
               
     <PageContent>
       {thoughts.thoughts.map(thought => (
-        <ThoughtDisplay title={thought.fields.title} content={thought.fields.content2} date={thought.sys.createdAt} key={thought.sys.id} slug={thought.fields.slug}  />
+        <PostListSimple title={thought.fields.title} content={thought.fields.content2} date={thought.sys.createdAt} key={thought.sys.id} slug={thought.fields.slug}  />
       ))}
   
     </PageContent>
