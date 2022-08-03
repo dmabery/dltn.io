@@ -4,6 +4,8 @@ import { getMDXComponent } from 'mdx-bundler/client'
 import PostTitleDisplay from '../../components/PostTitleDisplay'
 import React from 'react'
 import SideNote from '../../components/SideNote'
+import { documentToHtmlString } from '@contentful/rich-text-html-renderer';
+
 
 
 const client = createClient({
