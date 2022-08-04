@@ -35,7 +35,7 @@ const Subscribe = () => {
             <form action="https://www.getrevue.co/profile/maberydalton/add_subscriber" className="space-y-6" method="post" id="revue-form" name="revue-form"  target="_blank" onSubmit={subscribeMe}>
                 <h3 className="text-xl font-medium text-gray-900 dark:text-white -mb-5 -mt-1">Never miss a post</h3>
                 <div className="text-sm text-gray-300">
-                    Subscribe for weekly posts and exclusive project updates.
+                    If you like these posts, get new ones in your email.
                 </div>
                 <div className="flex gap-2">
                     <div className="revue-form-group basis-2/3">
