@@ -16,7 +16,7 @@ export const getStaticProps = async () => {
   return getThoughtsFromContentful();
 }
 
-export default function Home(thoughts) {
+export default function thoughts(thoughts) {
   return (
     <div className="container">
         <Meta title="dalton's site" description="Insatiably curious" />
