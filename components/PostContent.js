@@ -1,9 +1,10 @@
 import Markdown from "markdown-to-jsx"
 import SideNote from "./SideNote"
+import Subscribe from "./Subscribe"
 
 const PostContentDisplay = (props) => {
     return (
-        <Markdown options={{overrides: {SideNote}}}>{props.content || ''}</Markdown>
+        <Markdown options={{overrides: {SideNote, Subscribe}}}>{props.content || ''}</Markdown>
     )
 }
 
