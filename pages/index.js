@@ -38,9 +38,6 @@ export default function Home(posts) {
             ))} 
         </div>
       </div>
-      <div>
-          <Subscribe />
-      </div>
     </PageContent>
   </div>
   )
