@@ -30,7 +30,7 @@ const AboutMe = () => {
                     <hr />
                     <h2>Career</h2>
                     <p>On a professional note, I have a degree in Digital Media &amp; Design from Southeastern University and work as a Digital Creator and Designer for <a className="text-sky-800 underline decoration-amber-700 decoration-2" href="https://fs.blog/">Farnam Street</a>.</p>
-                    <p>I like to say I&#39;m a &quot;developer in training&quot; as I&#39;m learning programming. I built this from scratch using NextJS, MDX, and Tailwind.</p>
+                    <p>Developer - I built this site using Tailwind and React. I&#39;d like my next job to be as a programmer.</p>
                 </div>
             </PageContent>
         </>
