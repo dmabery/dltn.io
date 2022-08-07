@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 const Footer = () => {
     return (
-        <div className="mt-10 border-t-2 border-amber-700 border-t-4 pt-20 pb-20 bg-slate-900 pl-6 pr-6">
+        <div className="mt-10 border-t-2 border-amber-700 border-t-4 pt-20 pb-20 bg-neutral-900 pl-6 pr-6">
             <div className="container mx-auto max-w-screen-md flex justify-between content-center">
                 <div>
                     <p className="text-slate-100 pb-4">Stay curious.</p>

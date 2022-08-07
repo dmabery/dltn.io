@@ -13,8 +13,8 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  background-color: #0f172a;
-  color: #fafafa;
+  background-color: #191919;
+  color: #191919;
 }
 
 a {
@@ -40,7 +40,5 @@ a {
     @apply mt-3;
   }
 
-  p {
-    @apply mb-5
-  }
+  p {}
 }

@@ -1,7 +1,7 @@
 const PageContent = ({ children }) => {
 
     return (
-        <div className="mt-10">
+        <div className="">
             { children }
         </div>
     )
