@@ -16,11 +16,11 @@ const slugFunction = () => {
 
 return (
         <div>
-            <div className="max-w-lg text-blue-500 mb-1" key={props.key}>
+            <div className="max-w-lg text-blue-500 mb-2" key={props.key}>
             <Link href={slugFunction() + props.slug} passHref>
                    <a><span className="col-span-3 text-l underline underline-offset-2 decoration-slate-500 hover:no-underline leading-6 hover:decoration-2">{props.title}</span></a>
             </Link>
-            <span className="text-xs text-gray-400 ml-1">{props.date.slice(0,10)}</span>
+            <span className="text-xs text-gray-400 ml-1 hidden md:inline">{props.date.slice(0,10)}</span>
             </div>
         </div>
 )}

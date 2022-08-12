@@ -9,11 +9,10 @@ import { getAllPostsFromContentful } from '../lib/contentfulAPI'
 import ThoughtDisplay from '../components/ThoughtDisplay'
  
 export const getStaticProps = async () => {
-  return getAllPostsFromContentful();
+  return getAllPostsFromContentful(5);
 }
 
 export default function Home(posts) {
-  const thoughts = posts.posts.filter(post => post.sys.contentType.sys.id === 'tinyThought')
   return (
     <div className="container">
         <Meta title="dalton's site" description="Insatiably curious" />

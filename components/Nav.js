@@ -6,12 +6,8 @@ const links = [
         slug: ''
     },
     {
-        title: 'Essays',
-        slug: 'essays'
-    },
-    {
-        title: 'Asides',
-        slug: 'thoughts'
+        title: 'Writing',
+        slug: 'writing'
     },
     {
         title: 'Notes',
