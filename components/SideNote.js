@@ -2,16 +2,9 @@ import Image from 'next/image';
 
 const SideNote = (props) => {
     return (
-        <div className="rounded-sm bg-slate-800 m-w-none p-4 border-l-4 border-amber-700 prose mt-4">
-            <div className="flex">
-            <div className="flex-shrink-0 mt-8 mr-2">
-                <Image src="/astronaut waving.png" height={60} width={50}  />
-                </div>
-            <div className="ml-3 pr-10">
-                <p className="text-lg mb-3 font-bold text-slate-100">{props.title}</p>
-                <p className="text-slate-100">{props.content}</p>
-            </div>
-        </div>
+        <div className="mt-4">
+                <div className="text-lg translate-y-6 font-bold text-slate-100 bg-slate-900 inline px-3 py-2 rounded-md ml-5">{props.title}</div>
+                <div className="text-slate-900 bg-slate-100 pl-6 rounded py-2 border border-blue-300">{props.content}</div>
         </div>
         
     )
