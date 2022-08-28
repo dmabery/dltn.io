@@ -16,7 +16,7 @@ const slugFunction = () => {
 
 return (
         <div>
-            <div className="max-w-lg text-blue-500 mb-2" key={props.key}>
+            <div className="max-w-lg text-blue-500 mb-1" key={props.key}>
             <Link href={slugFunction() + props.slug} passHref>
                    <a><span className="col-span-3 underline underline-offset-2 decoration-slate-500 hover:no-underline leading-6 hover:decoration-2">{props.title}</span></a>
             </Link>

@@ -29,14 +29,15 @@ export default function Home(posts) {
       </div>
               
     <PageContent>
-      <div className="grid gap-4 md:grid-cols-3 text-neutral-900900">
+      <div className="grid gap-4 md:grid-cols-3 text-gray-900">
         <div className="col-span-2">
           <h3 className="text-3xl text-slate-300 font-bold mb-5 mt-10">Latest posts</h3>
-            {posts.posts.slice(0, 5).map(post => (
+            {posts.posts.slice(0, 8).map(post => (
               <PostListSimple title={post.fields.title} slug={post.fields.slug} date={post.sys.createdAt} contentType={post.sys.contentType.sys.id} key={post.sys.id}/>
             ))} 
         </div>
       </div>
+      <Subscribe />
     </PageContent>
   </div>
   )
