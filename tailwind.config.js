@@ -8,7 +8,7 @@ module.exports = {
     fontFamily: {
       heading: ['Space Grotesk', 'Sans-Serif'],
       body: ['Inter', 'Monospace'],
-      mono: ['monospace']
+      mono: ['Space Grotesk']
     }
   },
   plugins: [

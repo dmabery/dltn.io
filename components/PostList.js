@@ -8,11 +8,11 @@ const PostList = (props) => {
                     <div>
                         <div className='flex flex-col justify-between md:flex-row md:justify-between'>
                             
-                                <a className="text-xl w-3/4 font-bold text-gray-200 md:mb-0 mb-1">{props.title}</a>
+                                <a className="text-xl w-3/4 font-bold text-neutral-100 md:mb-0 mb-1 hover:text-amber-200 hover:underline">{props.title}</a>
                             
-                            <p className="text-xs text-gray-400">{props.date.slice(0,10)}</p>
+                            <p className="text-xs text-neutral-300">{props.date.slice(0,10)}</p>
                         </div>
-                        <p className="mt-2 mb-2 font-normal text-gray-400">{props.description}</p>
+                        <p className="mt-2 mb-2 font-normal text-neutral-300">{props.description}</p>
                     </div>
                 </div>
             </a>

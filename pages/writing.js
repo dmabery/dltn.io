@@ -36,7 +36,7 @@ const Writing = ({ posts }) => {
         <div className='w-1/4'>
         <h2 className='text-white'>Asides</h2>
           {asides.map((aside, index) => (
-                <PostListSimple title={aside.fields.title} description={documentToReactComponents(aside.fields.description)} date={aside.sys.createdAt} slug={aside.fields.slug} contentType={aside.sys.contentType.sys.id} key={aside.sys.id}/>
+                <PostListSimple title={aside.fields.title} description={documentToReactComponents(aside.fields.description)} date="" slug={aside.fields.slug} contentType={aside.sys.contentType.sys.id} key={aside.sys.id}/>
               ))}
         </div>
         </div>
