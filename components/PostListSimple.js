@@ -20,7 +20,7 @@ return (
             <Link href={slugFunction() + props.slug} passHref>
                    <a><span className="col-span-3 underline underline-offset-2 decoration-slate-500 hover:no-underline leading-6 hover:decoration-2">{props.title}</span></a>
             </Link>
-            <span className="text-xs text-neutral-900 ml-1 hidden md:inline">{props.date.slice(0,10)}</span>
+            <span className="text-xs text-neutral-300 ml-1 hidden md:inline">{props.date.slice(0,10)}</span>
             </div>
         </div>
 )}
