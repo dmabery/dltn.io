@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 const PostListSimple = (props) => {
 
-const contentType = props.contentType;
+const {contentType} = props;
 const slugFunction = () => {
 
     if (contentType === 'bookNotes') {

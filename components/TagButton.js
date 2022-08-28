@@ -1,7 +1,7 @@
-const TagButton = () => {
+const TagButton = (props) => {
     return (
-        <div className='text-white text-sm bg-emerald-800 inline px-1 rounded py-1 mr-2'>Title</div>
+        <div className={`${props.btnColor || 'bg-emerald-800'} text-white text-sm inline px-1 rounded py-1 mr-2`}>Title</div>
     )
-}
+};
 
 export default TagButton;
