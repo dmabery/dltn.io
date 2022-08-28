@@ -31,10 +31,10 @@ const Subscribe = () => {
         }
 
     return (
-        <div id="revue-embed" className="p-4 bg-white rounded-lg border border-gray-200 shadow-md sm:p-4 lg:p-6 dark:bg-slate-800 mt-10 mb-10">
+        <div id="revue-embed" className="p-4 bg-white rounded-lg border border-gray-200 shadow-md sm:p-4 lg:p-6 bg-slate-700 border border-blue-300 mt-10 mb-10">
             <form action="https://www.getrevue.co/profile/maberydalton/add_subscriber" className="space-y-6" method="post" id="revue-form" name="revue-form"  target="_blank" onSubmit={subscribeMe}>
                 <h3 className="text-xl font-medium text-neutral-900 dark:text-white -mb-5 -mt-1">Never miss a post</h3>
-                <div className="text-sm text-neutral-900">
+                <div className="text-sm text-neutral-100">
                     If you like these posts, get new ones in your email.
                 </div>
                 <div className="flex gap-2">

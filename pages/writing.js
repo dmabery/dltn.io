@@ -13,10 +13,7 @@ export const getStaticProps = async () => {
 }
 
 const Writing = ({ posts }) => {
-  const essays = posts.filter(post => post.sys.contentType.sys.id === "snippet")
-  const asides = posts.filter(aside => aside.sys.contentType.sys.id === "tinyThought")
-  console.log(asides)
-  
+  const writing = posts.filter(post => post.sys.contentType.sys.id === "snippet" || post.sys.contentType.sys.id === "tinyThought")
 
     return (
       <>
@@ -27,16 +24,9 @@ const Writing = ({ posts }) => {
 
       <PageContent>
       <div className="flex flex-row gap-6">
-        <div className='w-3/4'>
-          <h2 className='text-white'>Essays</h2>
-          {essays.map((essay, index) => (
-                <PostList title={essay.fields.title} description={documentToReactComponents(essay.fields.description)} date={essay.sys.createdAt} slug={essay.fields.slug} key={essay.sys.id}/>
-              ))}
-        </div>
-        <div className='w-1/4'>
-        <h2 className='text-white'>Asides</h2>
-          {asides.map((aside, index) => (
-                <PostListSimple title={aside.fields.title} description={documentToReactComponents(aside.fields.description)} date="" slug={aside.fields.slug} contentType={aside.sys.contentType.sys.id} key={aside.sys.id}/>
+        <div className=''>
+          {writing.map((writing, index) => (
+                <PostList title={writing.fields.title} description={documentToReactComponents(writing.fields.description)} date={writing.sys.createdAt} slug={writing.fields.slug} key={writing.sys.id}/>
               ))}
         </div>
         </div>

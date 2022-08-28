@@ -2,8 +2,8 @@ import Image from 'next/image'
 
 const Footer = () => {
     return (
-        <div className="mt-10 border-t-2 border-amber-700 border-t-4 pt-20 pb-20 bg-neutral-900 pl-6 pr-6">
-            <div className="container mx-auto max-w-screen-md flex justify-between content-center">
+        <div className="mt-10 pt-20 pb-20 bg-slate-900 pl-6 pr-6">
+            <div className="container mx-auto max-w-screen-md flex justify-between content-center border-t-2 py-5">
                 <div>
                     <p className="text-slate-100 pb-4">Stay curious.</p>
                     <p className="text-xs text-slate-500 pb-1"><a rel="noreferrer" target="_blank" href="https://www.twitter.com/daltonmabery" className=" underline hover:decoration-amber-700 hover:decoration-2">Twitter</a></p>
