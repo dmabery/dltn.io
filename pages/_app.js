@@ -12,8 +12,7 @@ function MyApp({ Component, pageProps }) {
         <link rel="icon" href="/favicon 3.png" />
       </Head>
 
-      <div className="flex flex-col justify-between">
-        <div className="container mx-auto md:max-w-[65%] p-5 flex flex-col">
+      <div className="container px-5 mx-auto max-w-screen-md">
           <nav>
             <Nav className=""/>
           </nav>
@@ -21,9 +20,8 @@ function MyApp({ Component, pageProps }) {
               <Component {...pageProps} />
           </main>
           <footer className="h-10">
-         <Footer />
-      </footer>
-        </div>
+            <Footer />
+          </footer>
       </div>
       
     </>
