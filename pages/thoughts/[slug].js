@@ -1,7 +1,7 @@
-import { createClient } from 'contentful'
-import PostTitleDisplay from '../../components/PostTitleDisplay'
-import React from 'react'
 import { documentToHtmlString } from '@contentful/rich-text-html-renderer';
+import { createClient } from 'contentful';
+import React from 'react';
+import PostTitleDisplay from '../../components/PostTitleDisplay';
 
 
 
