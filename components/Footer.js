@@ -67,7 +67,7 @@ const Footer = () => (
         </p>
       </div>
       <div className="flex content-center">
-        <Image src="/reading book.png" width={120} height={100} />
+        <a href="https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r" target="_blank" rel="noreferrer"><Image src="/reading book.png" alt="spaceman" width={120} height={150} /></a>
       </div>
     </div>
   </div>
