@@ -1,6 +1,4 @@
-import Link from 'next/link';
 import Image from 'next/image';
-import { getStaticProps } from '../pages/essays/[slug]';
 
 const PageTitle = ({ title, description, image, width, height }) => {
   const condition = image ? 'flex' : 'flex-none sm:flex';

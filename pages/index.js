@@ -1,12 +1,10 @@
-import Image from 'next/image'
 import Link from 'next/link'
-import Subscribe from '../components/Subscribe'
-import PageTitle from '../components/PageTitle'
 import PageContent from '../components/Layout'
-import PostListSimple from '../components/PostListSimple'
 import Meta from '../components/Meta'
+import PageTitle from '../components/PageTitle'
+import PostListSimple from '../components/PostListSimple'
+import Subscribe from '../components/Subscribe'
 import { getAllPostsFromContentful } from '../lib/contentfulAPI'
-import ThoughtDisplay from '../components/ThoughtDisplay'
  
 export const getStaticProps = async () => {
   return getAllPostsFromContentful(5);
@@ -29,7 +27,7 @@ export default function Home(posts) {
       </div>
               
     <PageContent>
-      <div className="grid gap-4 md:grid-cols-3 text-gray-900">
+      <div className="grid gap-4 md:grid-cols-3 text-gray-900 mb-10">
         <div className="col-span-2">
           <h3 className="text-3xl text-slate-300 font-bold mb-5 mt-10">Latest posts</h3>
             {posts.posts.slice(0, 8).map(post => (
@@ -37,7 +35,7 @@ export default function Home(posts) {
             ))} 
         </div>
       </div>
-      <Subscribe />
+      <Subscribe title="Never miss a post." caption="Subscribe for new posts in your email." />
     </PageContent>
   </div>
   )

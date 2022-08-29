@@ -1,9 +1,9 @@
-import '../styles/globals.css';
+import Head from 'next/head';
 import "prismjs";
-import "../styles/prism-theme.css"
-import Head from 'next/head'
-import Nav from '../components/Nav'
 import Footer from '../components/Footer';
+import Nav from '../components/Nav';
+import '../styles/globals.css';
+import "../styles/prism-theme.css";
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -20,11 +20,10 @@ function MyApp({ Component, pageProps }) {
           <main className="mb-auto min-h-screen">
               <Component {...pageProps} />
           </main>
-        </div>
-      <footer className="h-10">
+          <footer className="h-10">
          <Footer />
       </footer>
-        
+        </div>
       </div>
       
     </>

@@ -1,8 +1,8 @@
 import Image from 'next/image';
 
 const Footer = () => (
-  <div className="mt-10 pt-20 pb-20 bg-slate-900 pl-6 pr-6">
-    <div className="container mx-auto max-w-screen-md flex justify-between content-center border-t-2 py-5">
+  <div className="mt-10 pt-20 pb-20 bg-slate-900">
+    <div className="container mx-auto flex justify-between content-center border-t-2 border-t-slate-500/50  py-5">
       <div>
         <p className="text-slate-100 pb-4">Stay curious.</p>
         <p className="text-xs text-slate-500 pb-1">
@@ -67,7 +67,7 @@ const Footer = () => (
         </p>
       </div>
       <div className="flex content-center">
-        <Image src="/reading book.png" width={105} height={100} />
+        <Image src="/reading book.png" width={120} height={100} />
       </div>
     </div>
   </div>

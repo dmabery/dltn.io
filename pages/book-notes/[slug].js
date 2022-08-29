@@ -1,10 +1,7 @@
-import { createClient } from 'contentful'
-import { bundleMDX } from 'mdx-bundler'
-import { getMDXComponent } from 'mdx-bundler/client'
-import PostTitleDisplay from '../../components/PostTitleDisplay'
-import React from 'react'
-import SideNote from '../../components/SideNote'
 import { documentToHtmlString } from '@contentful/rich-text-html-renderer';
+import { createClient } from 'contentful';
+import React from 'react';
+import PostTitleDisplay from '../../components/PostTitleDisplay';
 
 
 
@@ -35,10 +32,6 @@ export const getStaticProps = async ({params}) => {
     content_type: 'bookNotes',
     'fields.slug': params.slug
   })
-
-  const { code }  = await bundleMDX({
-    source: items[0].fields.content2
-  });
 
   return {
     props: {

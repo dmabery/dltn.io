@@ -1,6 +1,7 @@
-import PageTitle from "../components/PageTitle";
 import PageContent from "../components/Layout";
 import Meta from "../components/Meta";
+import PageTitle from "../components/PageTitle";
+import SideNote from "../components/SideNote";
 
 const AboutMe = () => {
     return (
@@ -14,8 +15,9 @@ const AboutMe = () => {
             <PageContent>
                 <div className="prose max-w-screen-md prose:ml-0 underline-offset-2 prose-strong:text-neutral-100 text-neutral-300 prose-a:text-amber-500 prose-a:no-underline hover:prose-a:underline hover:prose-a:text-amber-400 prose-h1:leading-tight prose-h2:text-amber-300 prose-h3:text-neutral-100 prose-h4:text-neutral-100 sm:prose-h1:leading-tight prose-blockquote:font-normal prose-blockquote:text-neutral-300 prose-blockquote:border-red-600 prose-blockquote:leading-normal prose-blockquote:pl-5 prose-blockquote:not-italic">
 
-                
-            <h2 id="tldr">TLDR</h2>
+            <SideNote title="Say hi!" content="I'm always looking for more people to talk about cool ideas with. Just send me an email: maberydalton@gmail.com." />
+
+            <h2 id="tldr">Short bio</h2>
                 <p>Greetings, I&#39;m Dalton! I&#39;m a professional video editor with four years of social media experience and have a degree in Digital Media and Design, currently working for <a href="https://fs.blog/">Farnam Street </a>. I also <a href="https://www.daltonmabery.com/writing">write online</a> and share interesting quotes and ideas on <a href="https://twitter.com/daltonmabery">Twitter</a>.</p>
                 <h2 id="what-i-m-doing-now">What I&#39;m Doing Now</h2>
                 <h3 id="for-work">For work</h3>
@@ -30,7 +32,7 @@ const AboutMe = () => {
                 <ul>
                 <li>I enjoy working more than most, but when I do sneak away from my computer, it&#39;s either to go to the gym, play golf (my goal is to break 80 this year), watch golf, or hang out with friends and famuily. My main leisure activity is golf so if you play, let&#39;s hit the links!</li>
                 </ul>
-                <h2 id="extended-about">Extended About</h2>
+                <h2 id="extended-about">Not so short bio</h2>
                 <p>I try to understand how things work through the essential inner dialogue that populates this site and <a href="https://twitter.com/daltonmabery">my Twitter</a>. This is a record of my becoming of a person as I explore the intellectual, creative, philosophical, and spiritual questions in this world through extensive research of literature -- both young and old. A private journey made public in seek of the one true question we all ask at some point: <strong><em>who am I and what is all this?</em></strong></p>
                 <p>Whenever I can refer to wisdom from those who lived before me, I do. The following quote comes from Will Durant in <em>The Map of Human Character</em> and was the first time I was able to assign words to the inner motivation that drives me -- <strong>how can we best make sense of everything in the world?</strong></p>
                 <blockquote>

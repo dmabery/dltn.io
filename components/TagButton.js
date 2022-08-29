@@ -1,6 +1,6 @@
-const TagButton = (props) => {
+const TagButton = ({ btnColor, btnText }) => {
     return (
-        <div className={`${props.btnColor || 'bg-emerald-800'} text-white text-sm inline px-1 rounded py-1 mr-2`}>Title</div>
+        <div className={`${btnColor || 'bg-blue-500'} text-white grow-0 flex-none inline text-xs font-mono tracking-wide  px-1 rounded py-0.5 mr-2`}>{btnText}</div>
     )
 };
 
