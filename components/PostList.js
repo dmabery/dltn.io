@@ -12,7 +12,7 @@ const PostList = ({ key, date, slug, description, title, contentType }) => {
         <div>
             <div className="mb-5" key={key}>
                     <div className="flex flex-col justify-between md:flex-row">
-                        <div className='w-4/5'>
+                        <div className='md:w-4/5'>
                             <Link href={checkContentType().slug + slug} passHref>
                                 <a className="text-xl font-bold text-neutral-100 transition-all hover:text-amber-200 hover:underline">
                                     {title}
