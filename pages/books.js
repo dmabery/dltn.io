@@ -170,7 +170,7 @@ const Books = () => {
     return (
         <div className='text-white'>
         <Meta title="Dalton's books" />
-            <p className="mb-5 max-w-lg">These are the books I&#39;ve read (ordered by most recent) along with my arbitrary rating that you can totally disagree with.</p>
+            <p className="mb-5 max-w-lg">These are some the books I&#39;ve read (ordered by most recent) along with my arbitrary rating that you can totally disagree with.</p>
             <p className="mb-5 max-w-lg">If you&#39;re looking for books to read, skim this list or check out <a href='https://tommycollison.com/greatbooks' target="blank">The Great Books Project</a>. I&#39;ve yet to embark on it, but plan to.</p>
             <SideNote title="Quick note" content="If it's linked, that means I've published my notes." />
             <ul className="list-disc ml-4">
