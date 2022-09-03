@@ -12,14 +12,14 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <link rel="icon" href="/favicon 3.png" />
-        <Script strategy="lazyOnLoad" id="ga-script" src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTIC}`}></Script>
+        <Script strategy="lazyOnLoad" id="ga-script" src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}></Script>
         <Script strategy="lazyOnLoad" id="ga-script">
             {`
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
 
-              gtag('config','{process.env.NEXT_PUBLIC_GOOGLE_ANALYTIC}');
+              gtag('config','${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}');
             `}
           </Script>
       </Head>
