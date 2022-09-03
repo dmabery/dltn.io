@@ -25,7 +25,7 @@ export default function Home(posts) {
         </Link>
             <a rel="noreferrer" target="_blank" className="text-slate-100 text-sm ml-1" href="https://publish.obsidian.md/1729/About+these+notes">Or visit my <span className="underline decoration-slate-500 text-slate-500 hover:no-underline">public brain.</span></a>
       </div>
-              
+            
     <PageContent>
       <div className="grid gap-4 md:grid-cols-3 text-gray-900 mb-10">
         <div className="col-span-2">

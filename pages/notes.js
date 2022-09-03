@@ -1,9 +1,11 @@
+/* eslint-disable react/no-unescaped-entities */
 import Image from 'next/image'
 import Link from 'next/link'
+import { Fragment } from 'react'
+import PageContent from '../components/Layout'
 import Meta from '../components/Meta'
 import PageTitle from '../components/PageTitle'
-import PageContent from '../components/Layout'
-import PostList from '../components/PostList'
+import SideNote from '../components/SideNote'
 import { getNotesFromContentful } from '../lib/contentfulAPI'
 
 export const getStaticProps = async () => {
@@ -19,11 +21,13 @@ const NoteList = ({ notes }) => {
         description=""/>
 
       <PageContent>
+        <SideNote title="Quick note" content={<Fragment>These are just the books I've published my notes on. For a list of most of the books I've read, along with an arbitrary rating system, <Link href="/books"><a>click here</a></Link>.</Fragment>} />
         <div className="grid grid-cols-2 md:grid-cols-4 grid-row gap-4">
             {notes.map((note, index) => (
               <Link href={'/book-notes/' + note.fields.slug} passHref key={note.sys.id}>
                 <a>
                     <Image
+                      alt={note.fields.title}
                       src={`https:` + note.fields.image.fields.file.url}
                       width={note.fields.image.fields.file.details.image.width}
                       height={note.fields.image.fields.file.details.image.height}

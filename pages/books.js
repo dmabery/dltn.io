@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Meta from "../components/meta";
+import Meta from "../components/Meta";
 import SideNote from "../components/SideNote";
 
 const bookList = [
