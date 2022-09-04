@@ -1,9 +1,6 @@
-import Image from 'next/image'
-import Link from 'next/link'
-import Meta from '../components/Meta'
-import PageTitle from '../components/PageTitle'
 import { useRouter } from 'next/router'
 import { useEffect } from 'react'
+import PageTitle from '../components/PageTitle'
 
 const Custom404 = () => {
     const router = useRouter()
@@ -16,7 +13,7 @@ const Custom404 = () => {
 
     return (
         <>
-        <PageTitle title="Oops" description="You have seem to wandered off the path. Beaming you back home." image="/alien and astronaut.png" width='200' height='250' />
+            <PageTitle title="Oops" description="You have seem to wandered off the path. Beaming you back home." image="/alien and astronaut.png" width='200' height='250' />
         </>
     )
 }

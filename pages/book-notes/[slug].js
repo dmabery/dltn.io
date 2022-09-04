@@ -1,7 +1,7 @@
 import { documentToHtmlString } from '@contentful/rich-text-html-renderer';
 import { createClient } from 'contentful';
 import React from 'react';
-import PostTitleDisplay from '../../components/PostTitleDisplay';
+import FullPostDisplay from '../../components/FullPostDisplay';
 
 
 
@@ -49,7 +49,7 @@ export const getStaticProps = async ({params}) => {
 
       return (
       <>
-                <PostTitleDisplay title={post.fields.title} description={description} date={post.sys.createdAt} content={post.fields.content2} image={checkImage}/>
+                <FullPostDisplay title={post.fields.title} description={description} date={post.sys.createdAt} content={post.fields.content2} image={checkImage}/>
         
               </>   
       )

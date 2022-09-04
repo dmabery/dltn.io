@@ -1,4 +1,4 @@
-import Link from "next/link";
+import LinkText from "../components/LinkText";
 import Meta from "../components/Meta";
 import SideNote from "../components/SideNote";
 
@@ -171,11 +171,11 @@ const Books = () => {
         <div className='text-white'>
         <Meta title="Dalton's books" />
             <p className="mb-5 max-w-lg">These are some the books I&#39;ve read (ordered by most recent) along with my arbitrary rating that you can totally disagree with.</p>
-            <p className="mb-5 max-w-lg">If you&#39;re looking for books to read, skim this list or check out <a href='https://tommycollison.com/greatbooks' target="blank">The Great Books Project</a>. I&#39;ve yet to embark on it, but plan to.</p>
+            <p className="mb-5 max-w-lg">If you&#39;re looking for books to read, skim this list or check out <LinkText slug="https://tommycollison.com/greatbooks" text="The Great Books Project" type="bright" />. I&#39;ve yet to embark on it, but plan to.</p>
             <SideNote title="Quick note" content="If it's linked, that means I've published my notes." />
             <ul className="list-disc ml-4">
                 {bookList.map((book) => (
-                        book.link ? (<li className="mb-2 text-blue-500"><Link href={`book-notes${book.link}`}><a>{book.title}</a></Link> - {book.rating}</li>)
+                        book.link ? (<li className="mb-2 text-blue-500"><LinkText slug={`book-notes${book.link}`} text={book.title} type="bright" /> - {book.rating}</li>)
                         : (<li className="mb-2">{book.title} - {book.rating}</li>)
                     ))}
             </ul>

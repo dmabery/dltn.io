@@ -9,10 +9,7 @@ const PageTitle = ({ title, description, image, width, height }) => {
         <h2 className="text-[50px] text-slate-300 font-bold mb-6">
           <span className="">{title}</span>
         </h2>
-        {description.length > 0 && (
-          <p className="text-slate-300">{description}</p>
-        )}
-        <br />
+        <p className="text-slate-300">{description}</p>
       </div>
       {image ? (
         <div className="ml-2">
@@ -25,7 +22,7 @@ const PageTitle = ({ title, description, image, width, height }) => {
           />
         </div>
       ) : (
-        <div />
+        null
       )}
     </div>
   );

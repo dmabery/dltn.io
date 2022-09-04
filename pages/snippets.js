@@ -1,8 +1,6 @@
-import Image from 'next/image'
-import Link from 'next/link'
+import PageContent from '../components/Layout'
 import Meta from '../components/Meta'
 import PageTitle from '../components/PageTitle'
-import PageContent from '../components/Layout'
 import filterPostsByType from '../lib/filterPostsByType'
 
 export const getStaticProps = async () => {
@@ -19,7 +17,7 @@ const Snippets = ({ posts }) => {
 
         <PageContent>
 
-        </PageContent>
+           
       </>
     )}
 
