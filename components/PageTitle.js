@@ -7,7 +7,7 @@ function PageTitle({ title, description, image, width, height, small }) {
 
   return (
     <div className={`flex-row items-center ${condition}`}>
-      <div className="w-3/4">
+      <div className="md:w-3/4">
         <div className={`${secondary} text-slate-300 font-bold mb-2 font-mono`}>
           {title}
         </div>
