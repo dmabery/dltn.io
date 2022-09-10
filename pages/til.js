@@ -12,7 +12,7 @@ export const getStaticProps = async () => {
 const Writing = ({ posts }) => {
     return (
       <>
-        <Meta title="Today I learned" description="A codex of my personal journey to understand the world" image="/public/til.png" />
+        <Meta title="Today I learned" description="A codex of my personal journey to understand the world" image="/til.png" />
         <PageTitle title="Today I learned" description={<div>A miscellaneous collection of stories from the past, things I've learned, and anything else that's interesting. Quoting <a href="https://leebyron.com/til/">Lee Byron</a>, whose page I got this idea from: <blockquote>They’re not always definitive nor novel but hopefully helpful or at least interesting.</blockquote><SideNote title="Just so you know..." content="I started this collection on September 9th, 2022. My goal is to write something here 5 days/week." /></div>}    />
         <div className="flex">
           <div className=''>
