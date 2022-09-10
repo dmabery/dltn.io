@@ -1,3 +1,4 @@
+import Image from "next/image";
 import LinkText from "./LinkText";
 
 const footerLink = [
@@ -23,6 +24,9 @@ const Footer = () => (
         {footerLink.map((link) => (
           <LinkText slug={link.link} text={link.title} type="small" key={link.title} />
         ))}
+    </div>
+    <div className="flex content-center">
+      <Image src="/reading book.png" width={105} height={100} alt="astronaut on planet reading a book" />
     </div>
     </div>
   </div>
