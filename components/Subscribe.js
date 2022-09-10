@@ -31,7 +31,7 @@ const Subscribe = ({title, caption}) => {
         }
 
     return (
-        <div id="revue-embed" className="bg-white rounded-lg border border-gray-200 p-5 bg-slate-700 border border-blue-300 mb-10">
+        <div id="revue-embed" className="bg-white rounded-lg border p-5 bg-slate-800 border border-blue-300 mb-10">
             <form action="https://www.getrevue.co/profile/maberydalton/add_subscriber" className="space-y-6" method="post" id="revue-form" name="revue-form"  target="_blank" onSubmit={subscribeMe}>
                 <h3 className="text-xl font-medium text-neutral-100 text-white -mb-5">{title}</h3>
                 <div className="text-sm text-neutral-300">

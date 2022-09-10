@@ -1,8 +1,7 @@
-import { createClient } from 'contentful'
-import PostTitleDisplay from '../../components/PostTitleDisplay'
-import React from 'react'
-import SideNote from '../../components/SideNote'
 import { documentToHtmlString } from '@contentful/rich-text-html-renderer';
+import { createClient } from 'contentful';
+import React from 'react';
+import FullPostDisplay from '../../components/FullPostDisplay';
 
 
 const client = createClient({
@@ -47,7 +46,7 @@ export const getStaticProps = async ({params}) => {
     const checkImage = post.fields.hasOwnProperty('image') ? `https://` + post.fields.image.fields.file.url : 'https://images.ctfassets.net/nk2hkdvz2uym/5yB87OQ11Ps4rMfWMQay'
       return (
       <>
-                <PostTitleDisplay title={post.fields.title} description={description} date={post.sys.createdAt} content={post.fields.content2} image={checkImage}/>
+                <FullPostDisplay title={post.fields.title} description={description} date={post.sys.createdAt} content={post.fields.content2} image={checkImage}/>
         
               </>   
       )

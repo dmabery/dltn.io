@@ -1,18 +1,16 @@
 import Image from 'next/image';
 
-const PageTitle = ({ title, description, image, width, height }) => {
+function PageTitle({ title, description, image, width, height, small }) {
   const condition = image ? 'flex' : 'flex-none sm:flex';
+  const secondary = small ? 'text-3xl' : 'text-5xl';
 
   return (
     <div className={`flex-row items-center ${condition}`}>
       <div className="basis-2/3">
-        <h2 className="text-[50px] text-slate-300 font-bold mb-6">
-          <span className="">{title}</span>
-        </h2>
-        {description.length > 0 && (
-          <p className="text-slate-300">{description}</p>
-        )}
-        <br />
+        <div className={`${secondary} text-slate-300 font-bold mb-2 font-mono`}>
+          {title}
+        </div>
+        <p className="text-slate-300">{description}</p>
       </div>
       {image ? (
         <div className="ml-2">
@@ -21,14 +19,13 @@ const PageTitle = ({ title, description, image, width, height }) => {
             src={image}
             width={width || 175}
             height={height || 175}
-            loading="lazy"
-          />
+            loading="lazy" />
         </div>
       ) : (
-        <div />
+        null
       )}
     </div>
   );
-};
+}
 
 export default PageTitle;

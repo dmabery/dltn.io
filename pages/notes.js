@@ -2,7 +2,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import { Fragment } from 'react'
-import PageContent from '../components/Layout'
+import LinkText from '../components/LinkText'
 import Meta from '../components/Meta'
 import PageTitle from '../components/PageTitle'
 import SideNote from '../components/SideNote'
@@ -19,9 +19,7 @@ const NoteList = ({ notes }) => {
       <PageTitle 
         title="All Notes"
         description=""/>
-
-      <PageContent>
-        <SideNote title="Quick note" content={<Fragment>These are just the books I've published my notes on. For a list of most of the books I've read, along with an arbitrary rating system, <Link href="/books"><a>click here</a></Link>.</Fragment>} />
+        <SideNote title="Quick note" content={<Fragment>These are just the books I've published my notes on. For a list of most of the books I've read, along with an arbitrary rating system, <LinkText slug="/books" text="click here" type="bright"/>.</Fragment>} />
         <div className="grid grid-cols-2 md:grid-cols-4 grid-row gap-4">
             {notes.map((note, index) => (
               <Link href={'/book-notes/' + note.fields.slug} passHref key={note.sys.id}>
@@ -37,7 +35,7 @@ const NoteList = ({ notes }) => {
               </Link> 
             ))}
         </div>
-      </PageContent>
+         
     </>
     )
 }

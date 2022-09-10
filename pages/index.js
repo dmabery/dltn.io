@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import PageContent from '../components/Layout'
 import Meta from '../components/Meta'
 import PageTitle from '../components/PageTitle'
 import PostListSimple from '../components/PostListSimple'
@@ -13,7 +12,7 @@ export const getStaticProps = async () => {
 export default function Home(posts) {
   return (
     <div className="container">
-        <Meta title="dalton's site" description="Insatiably curious" />
+      <Meta title="dalton's site" description="Insatiably curious" />
       <PageTitle
         title="Dalton"
         image="/ezgif.com-gif-maker.gif"
@@ -25,8 +24,6 @@ export default function Home(posts) {
         </Link>
             <a rel="noreferrer" target="_blank" className="text-slate-100 text-sm ml-1" href="https://publish.obsidian.md/1729/About+these+notes">Or visit my <span className="underline decoration-slate-500 text-slate-500 hover:no-underline">public brain.</span></a>
       </div>
-            
-    <PageContent>
       <div className="grid gap-4 md:grid-cols-3 text-gray-900 mb-10">
         <div className="col-span-2">
           <h3 className="text-3xl text-slate-300 font-bold mb-5 mt-10">Latest posts</h3>
@@ -36,7 +33,6 @@ export default function Home(posts) {
         </div>
       </div>
       <Subscribe title="Never miss a post." caption="Subscribe for new posts in your email." />
-    </PageContent>
   </div>
   )
 }

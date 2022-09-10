@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import LinkText from './LinkText';
 
 const PostListSimple = (props) => {
 
@@ -19,9 +19,7 @@ const slugFunction = () => {
 return (
         <div>
             <div className="max-w-lg text-blue-500 mb-1" key={props.key}>
-            <Link href={slugFunction() + props.slug} passHref>
-                   <a><span className="col-span-3 decoration-slate-500 hover:text-amber-300 leading-6 hover:decoration-2">{props.title}</span></a>
-            </Link>
+                <LinkText slug={slugFunction() + props.slug} text={props.title} type="bright" />
             <span className="text-xs text-neutral-300 ml-1 hidden md:inline">{props.date.slice(0,10)}</span>
             </div>
         </div>
