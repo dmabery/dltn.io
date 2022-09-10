@@ -8,7 +8,9 @@ const slugFunction = () => {
     if (contentType === 'bookNotes') {
         return 'book-notes/';
     } else if (contentType === 'tinyThought') {
-        return 'thoughts/';  
+        return 'thoughts/';
+    } else if (contentType === "til") {
+        return 'til/';
     } else if (contentType === 'snippet') {
         return 'essays/';
    }
