@@ -1,4 +1,3 @@
-import PageContent from '../components/Layout'
 import Meta from '../components/Meta'
 import PageTitle from '../components/PageTitle'
 import filterPostsByType from '../lib/filterPostsByType'
@@ -14,10 +13,6 @@ const Snippets = ({ posts }) => {
         <PageTitle
             title="Snippets"
             description="Short code snippets and interesting ideas/theories."      />
-
-        <PageContent>
-
-           
       </>
     )}
 
