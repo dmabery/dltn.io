@@ -53,13 +53,20 @@ pre[class*="language-"] {
   overflow: auto;
   background: #334155;
   border: 1.5px solid #93c5fd;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
 }
 
-:not(pre)>code[class*="language-"] {
-  padding: .1em .3em;
-  border-radius: .3em;
-  color: #ffffff;
-  background: #334155;
+:not(pre) > code {
+	margin-top: 5px;
+  padding: 2px 3px;
+	border-radius: .3em;
+  color: #ffffff !important;
+	background: #334155;
+	border: .10em solid #93c5fd;
+	white-space: normal;
+  font-weight: 400 !important;
+  font-family: "Space Grotesk";
 }
 
 /*********************************************************

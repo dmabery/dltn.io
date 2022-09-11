@@ -47,7 +47,7 @@ a {
 /* width */
 ::-webkit-scrollbar {
   width: 8px;
-  
+  height: 5px;
 }
 
 /* Track */
@@ -59,8 +59,8 @@ a {
 ::-webkit-scrollbar-thumb {
   background: #ffffff;
   border-radius: 10px;
-  height:172px;
-	width:54px;
+  height:15px;
+	width:20px;
 	position: inherit;
 	background:#2563eb;
 	background-color: -webkit-linear-gradient(-45deg, #f1f5f9 25%, #2563eb 25%, #2563eb 50%, #f1f5f9 50%, #f1f5f9 75%, #2563eb 75%);
