@@ -6,7 +6,7 @@ import Subscribe from '../components/Subscribe'
 import { getAllPostsFromContentful } from '../lib/contentfulAPI'
  
 export const getStaticProps = async () => {
-  return getAllPostsFromContentful(5);
+  return getAllPostsFromContentful('5');
 }
 
 export default function Home(posts) {
@@ -27,7 +27,7 @@ export default function Home(posts) {
       <div className="grid gap-4 md:grid-cols-3 text-gray-900 mb-10">
         <div className="col-span-2">
           <h3 className="text-3xl text-slate-300 font-bold mb-5 mt-10">Latest posts</h3>
-            {posts.posts.slice(0, 8).map(post => (
+            {posts.posts.slice(0,8).map(post => (
               <PostListSimple title={post.fields.title} slug={post.fields.slug} date={post.sys.createdAt} contentType={post.sys.contentType.sys.id} key={post.sys.id}/>
             ))} 
         </div>
