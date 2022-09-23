@@ -31,13 +31,13 @@ const Subscribe = ({title, caption}) => {
         }
 
     return (
-        <div id="revue-embed" className="rounded-lg border p-5 bg-slate-800 border border-blue-300 mb-10">
-            <form action="https://www.getrevue.co/profile/maberydalton/add_subscriber" className="space-y-6" method="post" id="revue-form" name="revue-form"  target="_blank" onSubmit={subscribeMe}>
-                <h3 className="text-xl font-medium text-neutral-100 text-white -mb-5">{title}</h3>
+        <div id="revue-embed" className="rounded-lg border px-5 py-5 bg-slate-800 border border-blue-300 mb-10">
+            <form action="https://www.getrevue.co/profile/maberydalton/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank" onSubmit={subscribeMe}>
+                <div className="text-xl font-medium text-neutral-100 text-white font-mono">{title}</div>
                 <div className="text-sm text-neutral-300">
                     {caption}
                 </div>
-                <div className="flex gap-2">
+                <div className="flex gap-2 mt-3">
                     <div className="revue-form-group basis-2/3">
                         <input placeholder="Your email address..." type="email" name="member[email]" id="member_email" className="revue-form-field bg-gray-50 border border-gray-300 text-neutral-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white" onChange={changeEmail} />
                     </div>
