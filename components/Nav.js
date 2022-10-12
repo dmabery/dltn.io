@@ -14,6 +14,10 @@ const links = [
         slug: 'notes',
     },
     {
+        title: 'Newsletter',
+        slug: 'newsletter'
+    },
+    {
         title: 'About',
         slug: 'about'
     }
