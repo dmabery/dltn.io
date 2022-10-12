@@ -24,9 +24,10 @@ const AboutMe = () => {
                     <ul>
                         <li>When I&#39;m not working, I&#39;m either reading <a href="https://www.daltonmabery.com/notes">an interesting book</a> or <a href="https://github.com/dmabery">coding</a>. I&#39;m studying to become a software engineer, so I&#39;m spending lots of time building small tools and watching new tutorials. I try to get 1% better every day.</li>
                     </ul>
-                <h2 id="for-fun">For Fun</h2>
+                <h3 id="for-fun">For Fun</h3>
                     <ul>
                         <li>I enjoy working more than most, but when I do sneak away from my computer, it&#39;s either to go to the gym, play golf (my goal is to break 80 this year), watch golf, or hang out with friends and famuily. My main leisure activity is golf so if you play, let&#39;s hit the links!</li>
+                        <li>I realized latley I love to work out like I&#39;m in prison (my friend Ryan Burns used that description of himself and I loved it). I run, use TRX bands in my office, do push ups, some ab workouts, and a stretching routine every morning. I love running because I sweat and when I sweat I think better. I also think it&#39;s the best way to increase your mental discipline.</li>
                     </ul>
                 <h2 id="extended-about">Not so short bio</h2>
                     <p>I try to understand how things work through the essential inner dialogue that populates this site and <a href="https://twitter.com/daltonmabery">my Twitter</a>. This is a record of my becoming of a person as I explore the intellectual, creative, philosophical, and spiritual questions in this world through extensive research of literature -- both young and old. A private journey made public in seek of the one true question we all ask at some point: <strong><em>who am I and what is all this?</em></strong></p>

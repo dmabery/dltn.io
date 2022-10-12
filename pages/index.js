@@ -32,7 +32,7 @@ export default function Home(posts) {
             ))} 
         </div>
       </div>
-      <Subscribe title="Never miss a post." caption="Subscribe for new posts in your email." />
+      <Subscribe title="Join my monthly reading list." caption="Subscribe for new posts in your email." />
   </div>
   )
 }
