@@ -24,6 +24,11 @@ const bookList = [
         rating: '⭐️⭐️⭐️⭐️' , 
     },
     {
+        title: 'Letters to a Young Poet' ,
+        link: '/pieces-of-action' ,
+        rating: '⭐️⭐️⭐️⭐️' , 
+    },
+    {
         title: 'Revolt of the Public' ,
         link: '/revolt-of-the-public' ,
         rating: '⭐️⭐️⭐️⭐️' , 
