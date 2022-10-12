@@ -4,6 +4,21 @@ import SideNote from "../components/SideNote";
 
 const bookList = [
     {
+        title: 'Discipline is Destiny' ,
+        link: '/discipline-is-destiny-by-ryan-holiday' ,
+        rating: '⭐️⭐️⭐️⭐️' , 
+    },
+    {
+        title: 'Leadership' ,
+        link: '/leadership' ,
+        rating: '⭐️⭐️⭐️⭐️' , 
+    },
+    {
+        title: 'The Man from the Future' ,
+        link: '/the-man-from-the-future' ,
+        rating: '⭐️⭐️⭐️' , 
+    },
+    {
         title: 'Pieces of the Action' ,
         link: '/pieces-of-action' ,
         rating: '⭐️⭐️⭐️⭐️' , 
