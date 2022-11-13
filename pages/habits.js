@@ -1,7 +1,8 @@
 const { Client } = require('@notionhq/client');
 
 import { Tooltip } from '@nextui-org/react';
-import HabitTable from '../../components/habitTable';
+import HabitTable from '../components/HabitTable';
+import SideNote from '../components/SideNote';
 
 
 
@@ -29,6 +30,7 @@ const November22 = ({ habits }) => {
     console.log(habits);
     return (
         <div>
+            <SideNote title="Quick note" content="This is my public habit tracker. Powered by Notion. If I have too many misses in a row, feel free to ridicule me." />
             <HabitTable>
                 {habits.map((habit) => (
                     <tr key={habit.id} className="divide-x divide-gray-200">
@@ -37,7 +39,7 @@ const November22 = ({ habits }) => {
                         </td>
                         <td className="text-center whitespace-nowrap p-4 text-sm text-neutral-300 bg-[#111827]">{habit.properties.Wake.rich_text[0].plain_text}</td>
                         <td className="justify-center whitespace-nowrap p-4 text-sm text-neutral-300  bg-[#111827]"><Tooltip
-                            content={habit.properties.BookTitle.rich_text[0].plain_text}>
+                            content={habit.properties.BookTitle.rich_text[0].plain_text} hideArrow>
                                 <div className="pl-5">
                                     {habit.properties.Reading.select.name}
                                 </div>
