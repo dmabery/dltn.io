@@ -28,7 +28,7 @@ export default function HabitTable(props) {
                       </th>
                     </tr>
                   </thead>
-                  <tbody className="divide-y  divide-gray-200/25 font-mono">
+                  <tbody className="divide-y divide-gray-200/25 font-mono">
                     {props.children}
                   </tbody>
                 </table>
