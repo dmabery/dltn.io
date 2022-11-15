@@ -10,8 +10,6 @@
   "dependencies": {
     "@contentful/rich-text-html-renderer": "^15.13.1",
     "@contentful/rich-text-react-renderer": "^15.12.1",
-    "@mdx-js/loader": "^2.0.0",
-    "@mdx-js/react": "^2.0.0",
     "@nextui-org/react": "^1.0.5-beta.5",
     "@notionhq/client": "^2.2.2",
     "contentful": "^9.1.18",
@@ -48,7 +46,6 @@
     "eslint-plugin-react": "^7.31.1",
     "eslint-plugin-react-hooks": "^4.6.0",
     "gray-matter": "^4.0.3",
-    "next-mdx-remote": "^3.0.8",
     "postcss": "^8.4.6",
     "prettier": "^2.7.1",
     "prettier-plugin-tailwindcss": "^0.1.13",
