@@ -28,7 +28,7 @@ export async function getStaticProps() {
 }
 
 const November22 = ({ habits }) => {
-    console.log(habits);
+    if (!habits) return <div>loading...</div>
     return (
         <div>
             <SideNote title="Quick note" content="This is my public habit tracker. Powered by Notion. If I have too many misses in a row, feel free to ridicule me." />
