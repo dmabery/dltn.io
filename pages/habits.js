@@ -14,7 +14,7 @@ export async function getStaticProps() {
             "sorts": [
                 {
                     "property": "Name",
-                    "direction": "ascending"
+                    "direction": "descending"
                 }
             ]
     });
@@ -31,10 +31,10 @@ const November22 = ({ habits }) => {
     if (!habits) return <div>loading...</div>
     return (
         <div>
-            <SideNote title="Quick note" content="This is my public habit tracker. Powered by Notion. If I have too many misses in a row, feel free to ridicule me." />
+            <SideNote title="Quick note" content="This is my public habit tracker. Powered by Notion. If I have too many misses in a row, feel free to make a mockery of me." />
             <HabitTable>
                 {habits.map((habit) => (
-                    <tr key={habit.id} className="divide-x divide-gray-200">
+                    <tr key={habit.id} className="divide-x divide-gray-200/20">
                         <td className="whitespace-nowrap py-4 pl-4 pr-4 text-sm font-medium text-neutral-300 bg-[#111827] sm:pl-6 ">
                             {habit.properties.Name.title[0].plain_text}
                         </td>

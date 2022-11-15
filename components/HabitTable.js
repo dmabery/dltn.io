@@ -5,9 +5,9 @@ export default function HabitTable(props) {
           <div className="-my-2 -mx-4 overflow-x-auto sm:-mx-6 lg:-mx-8">
             <div className="inline-block min-w-full py-2 align-middle md:px-6 lg:px-8">
               <div>
-                <table className="min-w-full divide-y divide-gray-300">
+                <table className="min-w-full divide-y divide-gray-300/25">
                   <thead className="">
-                    <tr className="divide-x">
+                    <tr className="divide-x divide-gray-300/25 ">
                       <th scope="col" className="py-3.5 pl-4 pr-4 text-sm font-mono text-white sm:pl-6">
                         Date
                       </th>
@@ -28,7 +28,7 @@ export default function HabitTable(props) {
                       </th>
                     </tr>
                   </thead>
-                  <tbody className="divide-y divide-gray-200 font-mono">
+                  <tbody className="divide-y  divide-gray-200/25 font-mono">
                     {props.children}
                   </tbody>
                 </table>
