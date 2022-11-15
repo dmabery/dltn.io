@@ -22,7 +22,8 @@ export async function getStaticProps() {
     return {
         props: {
             habits: response.results
-        }
+        },
+        revalidate: 10
     }
 }
 
