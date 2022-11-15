@@ -26,7 +26,7 @@ const Footer = () => (
         ))}
     </div>
     <div className="flex content-center">
-      <Image src="/reading book.png" width={105} height={100} alt="astronaut on planet reading a book" />
+      <Image src="/reading book.png" width={80} height={100} alt="astronaut on planet reading a book" />
     </div>
     </div>
   </div>
