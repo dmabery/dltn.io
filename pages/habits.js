@@ -2,6 +2,7 @@ const { Client } = require('@notionhq/client');
 
 import { Tooltip } from '@nextui-org/react';
 import HabitTable from '../components/HabitTable';
+import Meta from '../components/Meta';
 import SideNote from '../components/SideNote';
 
 
@@ -31,7 +32,8 @@ const November22 = ({ habits }) => {
     if (!habits) return <div>loading...</div>
     return (
         <div>
-            <SideNote title="Quick note" content="This is my public habit tracker. Powered by Notion. If I have too many misses in a row, feel free to make a mockery of me." />
+            <Meta title="Habits" description="dltn.io's habit tracker" />
+            <SideNote title="Quick note" content="This is my public habit tracker. Powered by Notion. If I have too many misses in a row, feel free to yell at me." />
             <HabitTable>
                 {habits.map((habit) => (
                     <tr key={habit.id} className="divide-x divide-gray-200/20">
