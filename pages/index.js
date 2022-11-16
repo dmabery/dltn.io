@@ -16,13 +16,11 @@ export default function Home(posts) {
       <PageTitle
         title="Dalton"
         image="/ezgif.com-gif-maker.gif"
-        description = "By ☀️ I'm a Digital Creator at Farnam Street. By 🌙 I study history, science, and programming and write about what I learn. "
+        description = "☀️ Digital Creator at Farnam Street. 🌙 Studying programming (officially), history and science (unofficially), and blogging about what I learn."
       />
       <div className="flex">
-        <Link href="/about" passHref>
-            <a className="text-slate-300 text-sm">Read more on my <span className="underline decoration-slate-500 text-slate-500 hover:no-underline">about page.</span></a>
-        </Link>
-            <a rel="noreferrer" target="_blank" className="text-slate-100 text-sm ml-1" href="https://publish.obsidian.md/1729/About+these+notes">Or visit my <span className="underline decoration-slate-500 text-slate-500 hover:no-underline">public brain.</span></a>
+            <div className="text-slate-300 text-sm">Read more on my <Link href="/about"><a>about page</a></Link>. Or view my <Link href="/habits"><a>latest habits</a></Link>.</div>
+            <div rel="noreferrer" target="_blank" className="text-slate-100 text-sm ml-1"></div>
       </div>
       <div className="grid gap-4 md:grid-cols-3 text-gray-900 mb-10">
         <div className="col-span-2">
