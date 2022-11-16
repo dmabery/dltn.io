@@ -13,10 +13,10 @@ const Writing = ({ posts }) => {
 
     return (
       <>
-        <Meta title="Writing" description="A codex of my personal journey to understand the world" />
-        <PageTitle title="Writing" description=""      />
-        <div className="flex flex-row gap-6">
-          <div className=''>
+        <Meta title="Writing" description="A codex of my personal journey to understand the world." />
+        <PageTitle title="Writing" description="A codex of my personal journey to understand the world."/>
+        <div className="mt-7 flex flex-row gap-6">
+          <div>
             {writing.map((writing, index) => (
                   <PostList title={writing.fields.title} description={documentToReactComponents(writing.fields.description)} date={writing.sys.createdAt} slug={writing.fields.slug} key={writing.sys.id} contentType={writing.sys.contentType.sys.id}/>
                 ))}
