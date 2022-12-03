@@ -25,7 +25,7 @@ const BlogPost = ({ post }) => {
     console.log(post)
     return (
         <section>
-          <FullPostDisplay title={post.metadata.title} description={post.metadata.description} date={post.metadata.data} content={post.markdown}/>
+          <FullPostDisplay title={post.metadata.title} description={post.metadata.description} date={post.metadata.date} content={post.markdown}/>
       </section>
     )
   }
