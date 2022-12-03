@@ -1,6 +1,4 @@
-import Markdown from 'markdown-to-jsx';
-import SideNote from '../../components/SideNote';
-import Subscribe from '../../components/Subscribe';
+import FullPostDisplay from '../../components/FullPostDisplay';
 import { getAllPublished, getSingleBlogPostBySlug } from "../api/notion";
 
 export const getStaticProps = async ({ params }) => {
@@ -27,10 +25,7 @@ const BlogPost = ({ post }) => {
     console.log(post)
     return (
         <section>
-            <h2>{post.metadata.title}</h2>
-            <span>{post.metadata.date}</span>
-            <p>{post.metadata.tags.join(', ')}</p>
-            <Markdown options={{overrides: {SideNote, Subscribe}}}>{post.markdown || ''}</Markdown>
+          <FullPostDisplay title={post.metadata.title} description={post.metadata.description} date={post.metadata.data} content={post.markdown}/>
       </section>
     )
   }
