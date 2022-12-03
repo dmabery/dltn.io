@@ -3,7 +3,6 @@ const { NotionToMarkdown } = require("notion-to-md");
 
 
 const notion = new Client({ auth: process.env.NOTION_API_KEY });
-const notionBlog = new Client({ auth: process.env.NOTION_BLOG_API_KEY });
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default async (req, res) => {
@@ -12,7 +11,7 @@ export default async (req, res) => {
 }
 
 export const getAllPublished = async () => {
-    const posts = await notionBlog.databases.query({
+    const posts = await notion.databases.query({
       database_id: process.env.NOTION_BLOG_DATABASE_ID,
       filter: {
         property: "Published",
@@ -36,7 +35,7 @@ export const getAllPublished = async () => {
   };
 
   export const getAllByType = async (type) => {
-    const posts = await notionBlog.databases.query({
+    const posts = await notion.databases.query({
       database_id: process.env.NOTION_BLOG_DATABASE_ID,
       filter: {
         property: "Type",
@@ -60,7 +59,7 @@ export const getAllPublished = async () => {
   };
 
   export const getAllByNotType = async (type) => {
-    const posts = await notionBlog.databases.query({
+    const posts = await notion.databases.query({
       database_id: process.env.NOTION_BLOG_DATABASE_ID,
       filter: {
         property: "Type",
@@ -104,10 +103,10 @@ export const getAllPublished = async () => {
     };
   };
 
-  const n2m = new NotionToMarkdown({ notionClient: notionBlog });
+  const n2m = new NotionToMarkdown({ notionClient: notion });
 
   export const getSingleBlogPostBySlug = async (slug) => {
-    const response = await notionBlog.databases.query({
+    const response = await notion.databases.query({
       database_id: process.env.NOTION_BLOG_DATABASE_ID,
       filter: {
         property: "Slug",
