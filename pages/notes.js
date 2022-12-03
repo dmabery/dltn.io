@@ -9,7 +9,7 @@ import SideNote from '../components/SideNote'
 import { getAllByType } from './api/notion'
 
 export const getStaticProps = async () => {
-  const data = await getAllByType('equals', 'Book Notes')
+  const data = await getAllByType('Book Notes')
 
   return {
     props: {
