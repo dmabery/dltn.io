@@ -35,6 +35,54 @@ export const getAllPublished = async () => {
     });
   };
 
+  export const getAllByType = async (type) => {
+    const posts = await notionBlog.databases.query({
+      database_id: process.env.NOTION_BLOG_DATABASE_ID,
+      filter: {
+        property: "Type",
+        select: {
+          equals: type,
+        },
+      },
+      sorts: [
+        {
+          property: "Date",
+          direction: "descending",
+        },
+      ],
+    });
+  
+    const allPosts = posts.results;
+  
+    return allPosts.map((post) => {
+      return getPageMetaData(post);
+    });
+  };
+
+  export const getAllByNotType = async (type) => {
+    const posts = await notionBlog.databases.query({
+      database_id: process.env.NOTION_BLOG_DATABASE_ID,
+      filter: {
+        property: "Type",
+        select: {
+          does_not_equal: type,
+        },
+      },
+      sorts: [
+        {
+          property: "Date",
+          direction: "descending",
+        },
+      ],
+    });
+  
+    const allPosts = posts.results;
+  
+    return allPosts.map((post) => {
+      return getPageMetaData(post);
+    });
+  };
+
   const getPageMetaData = (post) => {
     const getTags = (tags) => {
       const allTags = tags.map((tag) => {
@@ -51,6 +99,8 @@ export const getAllPublished = async () => {
       description: post.properties.Description.rich_text[0].plain_text,
       date: post.properties.Date.date.start,
       slug: post.properties.Slug.rich_text[0].plain_text,
+      image: post.properties.Image.url,
+      type: post.properties.Type.select.name
     };
   };
 

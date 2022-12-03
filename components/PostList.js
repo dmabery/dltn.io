@@ -1,27 +1,27 @@
 import Link from 'next/link';
 import TagButton from './TagButton';
 
-const PostList = ({ key, date, slug, description, title, contentType }) => {
+const PostList = (props) => {
     function checkContentType() {
-        if (contentType === 'tinyThought') {
-            return {slug: 'thoughts/', tag: 'thought'};
-        } else return {slug: 'essays/', tag: 'essay'};
+        if (props.type === 'Aside') {
+            return {tag: 'thought'};
+        } else return {tag: 'essay'};
     }
 
     return (
         <div>
-            <div className="mb-5" key={key}>
+            <div className="mb-5">
                     <div className="flex flex-col justify-between md:flex-row">
                         <div className='md:w-4/5'>
-                            <Link href={checkContentType().slug + slug} passHref>
+                            <Link href={props.slug} passHref>
                                 <a className="text-xl font-bold text-neutral-100 transition-all hover:text-amber-200 hover:underline">
-                                    {title}
+                                    {props.title}
                                 </a>
                             </Link>
-                            <p className="mt-2 mb-2 font-normal text-neutral-300 max-w-md">{description}</p>
+                            <p className="mt-2 mb-2 font-normal text-neutral-300 max-w-md">{props.description}</p>
                         </div>
                         <div>
-                            <p className="text-xs text-neutral-300">{date.slice(0, 10)}</p>
+                            <p className="text-xs text-neutral-300">{props.date.slice(0, 10)}</p>
                             <div>
                                 <TagButton
                                     btnColor={checkContentType().tag === 'thought' ? 'bg-red-600' : ''}

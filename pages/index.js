@@ -18,7 +18,6 @@ export const getStaticProps = async () => {
 
 export default function Home({posts}) {
   if(!posts) return <h1>No posts</h1>
-  console.log(posts)
 
   return (
     <div className="container">
@@ -35,7 +34,7 @@ export default function Home({posts}) {
       <div className="grid gap-4 md:grid-cols-3 text-gray-900 mb-10">
         <div className="col-span-2">
           <h3 className="text-3xl text-slate-300 font-bold mb-5 mt-10">Latest posts</h3>
-            {posts.map(post => (
+            {posts.slice(0,8).map(post => (
               <PostListSimple title={post.title} slug={`posts/${post.slug}`} date={post.date} key={post.id}/>
             ))} 
         </div>
