@@ -15,7 +15,7 @@ const FullPostDisplay = ({ title, description, image, date, tags, content }) => 
              <>
              <Meta title={title} description={description} image={image} />
                 <article className="mx-auto text-neutral-300">
-                  <div className="text-slate-100 md:ml-0 mr-0 px-5 py-5 border bg-slate-800 border-blue-300">
+                  <div className="text-slate-100 md:ml-0 mr-0 px-5 py-5">
                     <p className="text-xs text-center text-slate-400">{date.slice(0,10)}</p>
                     <h1 className="text-center text-2xl mt-3 decoration-4 font-bold mb-3">{title || ''}</h1>
                     <div className='text-center mt-5'>
