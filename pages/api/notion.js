@@ -82,6 +82,30 @@ export const getAllPublished = async () => {
     });
   };
 
+  export const getAllByTags = async (tag) => {
+    const posts = await notion.databases.query({
+      database_id: process.env.NOTION_BLOG_DATABASE_ID,
+      filter: {
+        property: "Tags",
+        multi_select: {
+          contains: tag,
+        },
+      },
+      sorts: [
+        {
+          property: "Date",
+          direction: "descending",
+        },
+      ],
+    });
+  
+    const allPosts = posts.results;
+  
+    return allPosts.map((post) => {
+      return getPageMetaData(post);
+    });
+  };
+
   const getPageMetaData = (post) => {
     const getTags = (tags) => {
       const allTags = tags.map((tag) => {
@@ -126,5 +150,17 @@ export const getAllPublished = async () => {
         markdown: mdString,
     };
   }
+  
+
+  export function getMoreTags() {
+    const tags =  ["programming", "reading-list", "book", "thought", "article", "link", "links", "life", "react", "science", "technology", "personal", "knowledge-management", "framework", "innovation", "story", "productivity", "goals", "psychology", "til", "history", "poetry", "creativity", "reading", "writing", "thinking", "politics", "explainer", "book-review", "math", "questions", "cs", "finance"]
 
 
+    return tags.map((tag) => {
+      return {
+        params: {
+          tag,
+        },
+      };
+    });
+  }
