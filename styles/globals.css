@@ -23,6 +23,11 @@ a {
   color: #60a5fa;
 }
 
+a:hover {
+  color: #fde047;
+  text-decoration: underline;
+}
+
 * {
   box-sizing: border-box;
 }

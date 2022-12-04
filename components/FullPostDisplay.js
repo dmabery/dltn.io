@@ -14,19 +14,19 @@ const FullPostDisplay = ({ title, description, image, date, tags, content }) => 
     return (
              <>
              <Meta title={title} description={description} image={image} />
-                <article className="mx-auto max-w-screen-sm text-neutral-300">
-                  <div className="border-b-2 mb-4 text-slate-100 pb-5 md:ml-0 mr-0">
-                    <h1 className="text-left text-4xl mt-2 decoration-4 font-bold mb-2 md:w-3/4">{title || ''}</h1>
-                    <div className='flex justify-between content-center items-center'>
-                      <p className="text-xs text-slate-400">Published: {date.slice(0,10)}</p>
-                      <div>
+                <article className="mx-auto text-neutral-300">
+                  <div className="text-slate-100 md:ml-0 mr-0 px-5 py-5 border bg-slate-800 border-blue-300">
+                    <p className="text-xs text-center text-slate-400">{date.slice(0,10)}</p>
+                    <h1 className="text-center text-2xl mt-3 decoration-4 font-bold mb-3">{title || ''}</h1>
+                    <div className='text-center mt-5'>
                         {tags.map((tag => (
                           <span key={tag}> <Link href={`/tags/${tag}`}><a><LinkedTagButton btnText={tag} /></a></Link></span>
                         )))}
-                      </div>
                     </div>
                   </div>
-                  <PostBodyContent content={content} />
+                  <div className='max-w-screen-sm mx-auto'>
+                    <PostBodyContent content={content} />
+                  </div>
                 </article>
               </>
     )
