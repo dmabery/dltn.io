@@ -23,7 +23,7 @@ export const getStaticPaths = async () => {
 
 const TagPage = ({ posts }) => {
     if(!posts) return <h1>No posts</h1>
-    console.log(posts)
+    co
     return (
       <section>
             {posts.map(post => (

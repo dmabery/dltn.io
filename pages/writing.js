@@ -15,7 +15,6 @@ import { getAllByNotType } from './api/notion';
   };
 
 const Writing = ({ posts }) => {
-    console.log(posts)
     return (
       <>
         <Meta title="Writing" description="A codex of my personal journey to understand the world." />
