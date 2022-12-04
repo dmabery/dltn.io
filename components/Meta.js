@@ -11,10 +11,10 @@ const Meta = (props) => {
                 <meta property="og:description" content={props.description}/>
                 <meta property="og:type" content="website"/>
                 <meta property="og:url" content="https://daltonmabery.com/"/>
-                <meta property="og:image" content={props.image}/>
+                <meta property="og:image" content={props.image || "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670113793/brian-mcgowan-I0fDR8xtApA-unsplash_iyjtlr.jpg"}/>
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:creator" content="@daltonmabery" />
-                <meta name="twitter:image" content={props.image} />
+                <meta name="twitter:image" content={props.image || "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670113793/brian-mcgowan-I0fDR8xtApA-unsplash_iyjtlr.jpg"} />
             </Head>
         </>
     )

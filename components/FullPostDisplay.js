@@ -13,7 +13,7 @@ const FullPostDisplay = ({ title, description, image, date, tags, content }) => 
 
     return (
              <>
-             <Meta title={title || ''} description={description || ''} image={image || ''} />
+             <Meta title={title} description={description} image={image} />
                 <article className="mx-auto max-w-screen-md text-neutral-300">
                   <div className="border-b-2 mb-4 text-slate-100 pb-5 md:ml-0 mr-0">
                     <h1 className="text-left text-4xl mt-2 decoration-4 font-bold mb-2 md:w-3/4">{title || ''}</h1>

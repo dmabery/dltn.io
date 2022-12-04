@@ -22,11 +22,10 @@ export const getStaticProps = async ({ params }) => {
   };
 
 const BlogPost = ({ post }) => {
-  console.log(post)
     if(!post) return <h1>No posts</h1>
     return (
       <section>
-        <FullPostDisplay title={post.metadata.title} tags={post.metadata.tags} description={post.metadata.description} date={post.metadata.date} content={post.markdown} image={post.image} />
+        <FullPostDisplay title={post.metadata.title} tags={post.metadata.tags} description={post.metadata.description} date={post.metadata.date} content={post.markdown} image={post.metadata.image} />
       </section>
     )
   }
