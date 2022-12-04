@@ -1,12 +1,14 @@
-import PostListSimple from '../../components/PostListSimple';
+import Meta from '../../components/Meta';
+import PageTitle from '../../components/PageTitle';
+import PostList from '../../components/PostList';
 import { getAllByTags, getMoreTags } from "../api/notion";
-
 
 export const getStaticProps = async ({ params }) => {
     const data = await getAllByTags(params.tag)
     return {
       props: {
-        posts: data
+        posts: data,
+        tag: params.tag,
       },
       revalidate: 60
     };
@@ -21,16 +23,20 @@ export const getStaticPaths = async () => {
     };
   };
 
-const TagPage = ({ posts }) => {
-    if(!posts) return <h1>No posts</h1>
-    co
+
+const TagPage = ({ posts, tag }) => {
     return (
-      <section>
-            {posts.map(post => (
-              <PostListSimple title={post.title} slug={`posts/${post.slug}`} date={post.date} key={post.id}/>
-            ))}
-        </section>
+      <>
+        <Meta title={tag} description="A codex of my personal journey to understand the world." />
+        <PageTitle title={tag} description={`All posts tagged with ${tag}`}/>
+        <div className="mt-7 flex flex-row gap-6">
+          <div>
+            {posts.map((post, index) => (
+                  <PostList title={post.title} description={post.description} date={post.date} type={post.type} slug={`/posts/${post.slug}`} key={post.id}/>
+                ))}
+          </div>
+        </div>
+      </>
     )
-  }
-  
+}
   export default TagPage;
