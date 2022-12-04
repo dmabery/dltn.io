@@ -38,11 +38,20 @@ export const getAllPublished = async () => {
     const posts = await notion.databases.query({
       database_id: process.env.NOTION_BLOG_DATABASE_ID,
       filter: {
-        property: "Type",
-        select: {
-          equals: type,
-        },
-      },
+        "and": [
+          {
+            property: "Type",
+            select: {
+              equals: type,
+            }
+          },
+          {
+            property: "Published",
+            checkbox: {
+              equals: true,
+            },
+          }
+    ]},
       sorts: [
         {
           property: "Date",
@@ -62,11 +71,20 @@ export const getAllPublished = async () => {
     const posts = await notion.databases.query({
       database_id: process.env.NOTION_BLOG_DATABASE_ID,
       filter: {
-        property: "Type",
-        select: {
-          does_not_equal: type,
-        },
-      },
+        "and": [
+          {
+            property: "Type",
+            select: {
+              does_not_equal: type,
+            }
+          },
+          {
+            property: "Published",
+            checkbox: {
+              equals: true,
+            },
+          }
+    ]},
       sorts: [
         {
           property: "Date",
@@ -86,11 +104,20 @@ export const getAllPublished = async () => {
     const posts = await notion.databases.query({
       database_id: process.env.NOTION_BLOG_DATABASE_ID,
       filter: {
-        property: "Tags",
-        multi_select: {
-          contains: tag,
-        },
-      },
+        "and": [
+          {
+            property: "Tags",
+            multi_select: {
+              contains: tag,
+            }
+          },
+          {
+            property: "Published",
+            checkbox: {
+              equals: true,
+            },
+          }
+    ]},
       sorts: [
         {
           property: "Date",
