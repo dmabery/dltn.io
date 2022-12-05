@@ -24,7 +24,7 @@ const FullPostDisplay = ({ title, description, image, date, tags, content }) => 
                         )))}
                     </div>
                   </div>
-                  <div className='max-w-screen-sm mx-auto'>
+                  <div className='container mx-auto'>
                     <PostBodyContent content={content} />
                   </div>
                 </article>
