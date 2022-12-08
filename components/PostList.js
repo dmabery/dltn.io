@@ -8,11 +8,11 @@ const PostList = (props) => {
     }
 
     return (
-        <div className="grid grid-cols-4 mb-5 font-mono">
-            <div className="col-span-1 text-slate-300"> 
+        <div className="flex  flex-row items-start mb-2">
+            <div className="mt-1 text-sm font-mono text-slate-300 w-24 flex-none"> 
                 {props.date.slice(0,10)}
             </div>
-            <div className="col-span-2 text-slate-100 hover:text-amber-400">
+            <div className="text-slate-100 hover:text-amber-400">
                 <Link href={props.slug}><a>{props.title}</a></Link>
 
             </div>
