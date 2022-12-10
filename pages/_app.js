@@ -15,7 +15,7 @@ function MyApp({ Component, pageProps }) {
         <link rel="icon" href="/favicon 3.png" />
       </Head>
 
-      <div className="container m-4 px-10 mx-auto max-w-screen-md rounded-md border border-5 border-blue-300 bg-[#111827]">
+      <div className="container m-4 px-10 mx-auto max-w-screen-md">
           <nav>
             <Nav className=""/>
           </nav>

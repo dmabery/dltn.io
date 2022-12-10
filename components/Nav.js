@@ -2,33 +2,33 @@ import LinkText from './LinkText';
 
 const links = [
     {
-        title: 'Home',
+        title: '.home',
         slug: ''
     },
     {
-        title: 'Writing',
+        title: '.writing',
         slug: 'writing'
     },
     {
-        title: 'Notes',
+        title: '.notes',
         slug: 'notes',
     },
     {
-        title: 'Newsletter',
+        title: '.newsletter',
         slug: 'newsletter'
     },
     {
-        title: 'About',
+        title: '.about',
         slug: 'about'
     }
 ]
 
 const Nav = () => {
     return (
-        <nav className="flex flex-row mb-10 mt-10 space-x-4 justify-between ">
+        <nav className="flex font-mono flex-row mb-10 mt-10 space-x-4 justify-between ">
             <div className="basis-2/3 flex flex-row space-x-4">
             {links.map(link => (
-                <LinkText slug={`/${link.slug}`} text={link.title} key={link.title} type="nav" />
+                <LinkText slug={`/${link.slug}`} text={`${link.title}()`} key={link.title} type="nav" />
             ))}
             </div>
         </nav>
