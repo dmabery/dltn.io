@@ -6,13 +6,20 @@ import LinkText from '../components/LinkText'
 import Meta from '../components/Meta'
 import PageTitle from '../components/PageTitle'
 import SideNote from '../components/SideNote'
-import { getNotesFromContentful } from '../lib/contentfulAPI'
+import { getAllByType } from './api/notion'
 
 export const getStaticProps = async () => {
-  return getNotesFromContentful()
-}
+  const data = await getAllByType('Book Notes')
 
-const NoteList = ({ notes }) => {
+  return {
+    props: {
+      posts: data,
+    },
+    revalidate: 60
+  };
+};
+
+const NoteList = ({ posts }) => {
     return (
       <>
       <Meta title="Notes" description="Everything I've learned that's worth learning has come from a book or other form of medium. These are those notes. Important: These are not summaries. They are notes from books, articles, speeches, or podcasts that was interesting to me and I knew I'd want to revisit." />
@@ -20,17 +27,19 @@ const NoteList = ({ notes }) => {
         title="All Notes"
         description=""/>
         <SideNote title="Quick note" content={<Fragment>These are just the books I've published my notes on. For a list of most of the books I've read, along with an arbitrary rating system, <LinkText slug="/books" text="click here" type="bright"/>.</Fragment>} />
-        <div className="grid grid-cols-2 md:grid-cols-4 grid-row gap-4">
-            {notes.map((note, index) => (
-              <Link href={'/book-notes/' + note.fields.slug} passHref key={note.sys.id}>
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 grid-row gap-4 content-center justify-items-center">
+            {posts.map((post) => (
+              <Link href={'/posts/' + post.slug} passHref key={post.id}>
                 <a>
-                    <Image
-                      alt={note.fields.title}
-                      src={`https:` + note.fields.image.fields.file.url}
-                      width={note.fields.image.fields.file.details.image.width}
-                      height={note.fields.image.fields.file.details.image.height}
-                      layout="responsive"
-                  />
+                    <div>
+                      <Image
+                        className=''
+                        alt={post.title}
+                        src={post.image}
+                        width={170}
+                        height={250}
+                      />
+                  </div>
                 </a>
               </Link> 
             ))}

@@ -1,9 +1,11 @@
+import Link from 'next/link';
 import { useEffect } from 'react';
+import LinkedTagButton from './LinkedTagButton';
 import Meta from './Meta';
 import PostBodyContent from './PostBodyContent';
 const prism = require("prismjs")
 
-const FullPostDisplay = (props, children) => {
+const FullPostDisplay = ({ title, description, image, date, tags, content }) => {
 
     useEffect(() => {
         prism.highlightAll();
@@ -11,13 +13,20 @@ const FullPostDisplay = (props, children) => {
 
     return (
              <>
-             <Meta title={props.title || ''} description={props.description || ''} image={props.image || ''} />
-                <article className="mx-auto max-w-screen-md text-neutral-300">
-                  <div className="border-b-2 mb-4 text-slate-100 pb-5 md:ml-0 mr-0">
-                    <h1 className="text-left text-4xl mt-2 decoration-4 font-bold mb-2 md:w-3/4">{props.title || ''}</h1>
-                    <div className="text-xs text-slate-400">Published: {props.date.slice(0,10)}</div>
+             <Meta title={title} description={description} image={image} />
+                <article className="mx-auto text-neutral-300">
+                  <div className="text-slate-100 md:ml-0 mr-0 px-5 py-5">
+                    <p className="text-xs text-center text-slate-400">{date.slice(0,10)}</p>
+                    <h1 className="text-center text-2xl mt-3 decoration-4 font-bold mb-3">{title || ''}</h1>
+                    <div className='text-center mt-5'>
+                        {tags.map((tag => (
+                          <span key={tag}> <Link href={`/tags/${tag}`}><a><LinkedTagButton btnText={tag} /></a></Link></span>
+                        )))}
+                    </div>
                   </div>
-                  <PostBodyContent content={props.content} />
+                  <div className='container mx-auto'>
+                    <PostBodyContent content={content} />
+                  </div>
                 </article>
               </>
     )

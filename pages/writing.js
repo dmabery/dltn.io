@@ -1,24 +1,28 @@
-import { documentToReactComponents } from '@contentful/rich-text-react-renderer'
-import Meta from '../components/Meta'
-import PageTitle from '../components/PageTitle'
-import PostList from '../components/PostList'
-import { getAllPostsFromContentful } from '../lib/contentfulAPI'
+import Meta from '../components/Meta';
+import PageTitle from '../components/PageTitle';
+import PostList from '../components/PostList';
+import { getAllByNotType } from './api/notion';
 
-export const getStaticProps = async () => {
-  return getAllPostsFromContentful();
-}
+  export const getStaticProps = async () => {
+    const data = await getAllByNotType('Book Notes') 
+  
+    return {
+      props: {
+        posts: data,
+      },
+      revalidate: 60
+    };
+  };
 
 const Writing = ({ posts }) => {
-  const writing = posts.filter(post => post.sys.contentType.sys.id === "snippet" || post.sys.contentType.sys.id === "tinyThought")
-
     return (
       <>
         <Meta title="Writing" description="A codex of my personal journey to understand the world." />
         <PageTitle title="Writing" description="A codex of my personal journey to understand the world."/>
         <div className="mt-7 flex flex-row gap-6">
           <div>
-            {writing.map((writing, index) => (
-                  <PostList title={writing.fields.title} description={documentToReactComponents(writing.fields.description)} date={writing.sys.createdAt} slug={writing.fields.slug} key={writing.sys.id} contentType={writing.sys.contentType.sys.id}/>
+            {posts.map((post, index) => (
+                  <PostList title={post.title} description={post.description} date={post.date} type={post.type} slug={`/posts/${post.slug}`} key={post.id}/>
                 ))}
           </div>
         </div>

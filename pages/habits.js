@@ -9,9 +9,8 @@ import SideNote from '../components/SideNote';
 
 export async function getStaticProps() {
     const notion = new Client({ auth: process.env.NOTION_API_KEY });
-    const databaseId = '462834a639394814b555659f14e1afac';
     const response = await notion.databases.query({
-        database_id: databaseId,
+        database_id: process.env.HABITS_DATABASE_ID,
             "sorts": [
                 {
                     "property": "Name",
