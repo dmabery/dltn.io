@@ -178,18 +178,13 @@ export const getAllPublished = async () => {
     };
   }
   
-  export function getTags() {
-    const tags = ["programming", "reading-list", "book", "thought", "article", "link", "links", "life", "react", "science", "technology", "personal", "knowledge-management", "framework", "innovation", "story", "productivity", "goals", "psychology", "til", "history", "poetry", "creativity", "reading", "writing", "thinking", "politics", "explainer", "book-review", "math", "questions", "cs", "finance"]
-    return tags
+  export async function getTags() {
+    const posts = await getAllPublished()
+    const allTags = posts.map(({ tags }) => (tags))
+    const flattenedTags = allTags.flat()
+    console.log(flattenedTags)
+    const tagSet = Array.from(new Set(flattenedTags))
+    console.log(tagSet)
+    return tagSet
   }
 
-  export function getMoreTags() {
-
-    return getTags().map((tag) => {
-      return {
-        params: {
-          tag,
-        },
-      };
-    });
-  }

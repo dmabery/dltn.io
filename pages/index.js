@@ -8,7 +8,7 @@ import { getAllPublished, getTags } from './api/notion';
 
 export const getStaticProps = async () => {
   const data = await getAllPublished()
-  const tags = getTags()
+  const tags = await getTags()
 
   return {
     props: {
@@ -21,7 +21,7 @@ export const getStaticProps = async () => {
 
 export default function Home({posts, tags}) {
   if(!posts) return <h1>No posts</h1>
-  console.log(posts)
+  console.log(tags)
   return (
     <div className="container">
       <Meta title="dalton's site" description="Insatiably curious" />
@@ -38,7 +38,7 @@ export default function Home({posts, tags}) {
         <div className="col-span-2">
           <h3 className="text-3xl text-slate-300 font-bold mb-5 mt-10">Get started</h3>
             {tags.map((tag => (
-              <span key={tag}> <Link href={`/tags/${tag}`}><a><LinkedTagButton btnText={tag} /></a></Link></span>
+              <span key={tag}> <Link href={`/tags/${tag}`}><a><LinkedTagButton btnText={tag}/></a></Link></span>
             )))}
         </div>
         <div className="col-span-2">

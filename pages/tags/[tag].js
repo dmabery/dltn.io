@@ -1,7 +1,7 @@
 import Meta from '../../components/Meta';
 import PageTitle from '../../components/PageTitle';
 import PostList from '../../components/PostList';
-import { getAllByTags, getMoreTags } from "../api/notion";
+import { getAllByTags, getTags } from "../api/notion";
 
 export const getStaticProps = async ({ params }) => {
     const data = await getAllByTags(params.tag)
@@ -16,12 +16,14 @@ export const getStaticProps = async ({ params }) => {
   
 
 export const getStaticPaths = async () => {
-    const paths = getMoreTags();
-    return {
-      paths,
-      fallback: 'blocking'
-    };
+  const tags = await getTags()
+  console.log(tags)
+  const paths = tags.map(( tags ) => ({ params: { tag: tags } }));
+  return {
+    paths,
+    fallback: 'blocking'
   };
+};
 
 
 const TagPage = ({ posts, tag }) => {
