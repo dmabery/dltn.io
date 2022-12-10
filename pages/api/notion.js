@@ -182,9 +182,7 @@ export const getAllPublished = async () => {
     const posts = await getAllPublished()
     const allTags = posts.map(({ tags }) => (tags))
     const flattenedTags = allTags.flat()
-    console.log(flattenedTags)
     const tagSet = Array.from(new Set(flattenedTags))
-    console.log(tagSet)
     return tagSet
   }
 
