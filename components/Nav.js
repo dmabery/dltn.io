@@ -1,10 +1,8 @@
+import Image from 'next/image';
+import Link from 'next/link';
 import LinkText from './LinkText';
 
 const links = [
-    {
-        title: '.home',
-        slug: ''
-    },
     {
         title: '.writing',
         slug: 'writing'
@@ -25,8 +23,12 @@ const links = [
 
 const Nav = () => {
     return (
-        <nav className="flex font-mono flex-row mb-10 mt-10 space-x-4 justify-between ">
-            <div className="basis-2/3 flex flex-row space-x-4">
+        <nav className="flex font-mono mb-10 mt-10 justify-between items-center">
+            <div className="flex items-center">
+                <Image src="/ezgif.com-gif-maker.gif" alt="space" width={100} height={100}/>            
+                <div className="font-bold text-xl"><Link href="/"><a className='text-slate-300'>dltn.io</a></Link></div>
+            </div>
+            <div className="flex row space-x-3">
             {links.map(link => (
                 <LinkText slug={`/${link.slug}`} text={`${link.title}()`} key={link.title} type="nav" />
             ))}
