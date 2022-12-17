@@ -26,12 +26,12 @@ export default function Home({posts, tags}) {
       <Meta title="dalton's site" description="Insatiably curious" />
       <div className='md:text-lg text-slate-300'><Fragment>Studying <span className='text-slate-100'>programming (officially)</span>, <span className='text-slate-100'>history and science (unofficially)</span>, and blogging about what I learn.</Fragment></div>
       <div className="grid gap-4 md:grid-cols-3 text-gray-900 mb-10">
-        <div className="col-span-2">
-          <h3 className="text-2xl text-slate-300 font-bold mb-5 mt-10">Get started</h3>
-            {tags.map((tag => (
-              <span key={tag}> <Link href={`/tags/${tag}`}><a><LinkedTagButton btnText={tag}/></a></Link></span>
+        <ul>
+          <h3 className="text-2xl text-slate-300 font-bold mb-5 mt-10">Pick a topic</h3>
+            {tags.slice(0,8).map((tag => (
+              <li key={tag}> <Link href={`/tags/${tag}`}><a><LinkedTagButton btnText={tag} /></a></Link></li>
             )))}
-        </div>
+        </ul>
         <div className="col-span-2">
           <h3 className="text-2xl text-slate-300 font-bold mb-5 mt-10">Latest posts</h3>
             {posts.slice(0,8).map(post => (

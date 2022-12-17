@@ -17,7 +17,7 @@ function MyApp({ Component, pageProps }) {
       <nav className='container m-4 px-10 mx-auto max-w-screen-md'>
         <Nav className=""/>
       </nav>
-      <div className="container pt-8 m-4 px-10 mx-auto max-w-screen-md rounded-lg bg-[#111827] ">
+      <div className="container pt-8 m-4 px-3 md:px-10 mx-auto max-w-screen-md rounded-lg bg-[#111827] ">
           <main className="mb-auto min-h-screen">
               <Component {...pageProps} />
               <Analytics />
