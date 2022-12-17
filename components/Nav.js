@@ -23,9 +23,9 @@ const links = [
 
 const Nav = () => {
     return (
-        <nav className="flex font-mono mb-10 mt-10 justify-between items-center">
-            <div className="flex items-center">
-                <Image src="/ezgif.com-gif-maker.gif" alt="space" width={100} height={100}/>            
+        <nav className="flex flex-col md:flex-row font-mono mb-10 mt-10 justify-between items-center">
+            <div className="flex items-center mb-2">
+                <Image src="/ezgif.com-gif-maker.gif" alt="space" width={70} height={70}/>            
                 <div className="font-bold text-xl"><Link href="/"><a className='text-slate-300'>dltn.io</a></Link></div>
             </div>
             <div className="flex row space-x-3">

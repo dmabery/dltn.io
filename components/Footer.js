@@ -3,14 +3,6 @@ import LinkText from "./LinkText";
 
 const footerLink = [
   {
-    title: "Habits",
-    link: "/habits"
-  },
-  {
-    title: "Archive",
-    link: "/archive"
-  },
-  {
     title: "Twitter",
     link: "https://www.twitter.com/daltonmabery"
   },

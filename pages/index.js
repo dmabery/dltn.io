@@ -24,7 +24,7 @@ export default function Home({posts, tags}) {
   return (
     <div className="container">
       <Meta title="dalton's site" description="Insatiably curious" />
-      <div className='text-xl text-slate-300'><Fragment>Studying <span className='text-yellow-300'>programming (officially)</span>, history and science unofficially, and blogging about what I learn.</Fragment></div>
+      <div className='text-lg text-slate-300'><Fragment>Studying <span className='text-slate-100'>programming (officially)</span>, <span className='text-slate-100'>history and science (unofficially)</span>, and blogging about what I learn.</Fragment></div>
       <div className="grid gap-4 md:grid-cols-3 text-gray-900 mb-10">
         <div className="col-span-2">
           <h3 className="text-2xl text-slate-300 font-bold mb-5 mt-10">Get started</h3>
