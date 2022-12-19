@@ -3,7 +3,7 @@ import { Fragment } from 'react';
 
 function PageTitle({ title, description, image, width, height, small }) {
   const condition = image ? 'flex' : 'flex-none sm:flex';
-  const secondary = small ? 'text-3xl' : 'text-5xl';
+  const secondary = small ? 'text-3xl' : 'text-3xl md:text-4xl';
 
   return (
     <div className={`flex-row items-center ${condition}`}>

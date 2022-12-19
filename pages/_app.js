@@ -14,11 +14,10 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <link rel="icon" href="/favicon 3.png" />
       </Head>
-
-      <div className="container m-4 px-10 mx-auto max-w-screen-md">
-          <nav>
-            <Nav className=""/>
-          </nav>
+      <nav className='container m-4 px-10 mx-auto max-w-screen-md'>
+        <Nav className=""/>
+      </nav>
+      <div className="container pt-8 m-4 px-3 md:px-10 mx-auto max-w-screen-md rounded-lg bg-[#111827] ">
           <main className="mb-auto min-h-screen">
               <Component {...pageProps} />
               <Analytics />

@@ -26,7 +26,7 @@ const AboutMe = () => {
                     </ul>
                 <h3 id="for-fun">For Fun</h3>
                     <ul>
-                        <li>I enjoy working more than most, but when I do sneak away from my computer, it&#39;s either to go to the gym, play golf (my goal is to break 80 this year), watch golf, or hang out with friends and famuily. My main leisure activity is golf so if you play, let&#39;s hit the links!</li>
+                        <li>When I sneak away from my computer, it&#39;s either to go to the gym, play golf (my goal is to break 80 this year), watch golf, or hang out with friends and family. My main leisure activity is golf so if you play, let&#39;s hit the links!</li>
                         <li>I realized latley I love to work out like I&#39;m in prison (my friend Ryan Burns used that description of himself and I loved it). I run, use TRX bands in my office, do push ups, some ab workouts, and a stretching routine every morning. I love running because I sweat and when I sweat I think better. I also think it&#39;s the best way to increase your mental discipline.</li>
                     </ul>
                 <h2 id="extended-about">Not so short bio</h2>
