@@ -6,7 +6,7 @@ export default function Document() {
       <Head>
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0-alpha/dist/katex.min.css" integrity="sha384-BTL0nVi8DnMrNdMQZG1Ww6yasK9ZGnUxL1ZWukXQ7fygA1py52yPp9W4wrR00VML" crossOrigin="anonymous" />
       </Head>
-      <body className='p-5'>
+      <body className='p-2'>
         <Main />
         <NextScript />
       </body>
