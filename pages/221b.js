@@ -17,7 +17,7 @@ const Newsletter = () => {
                         <ol>
                             <li>
                                 <strong>My curated weekly email</strong>
-                                <div>Every Friday, I send 5 cool things I learned or thought were interesting. The name, 221b, is a nod to Sherlock Holmes and his residence/labaratory at 221b Baker Street.</div>
+                                <div>Every Friday, I send 5 interesting things to help you learn something new. The name, 221b, is a nod to Sherlock Holmes and his residence/labaratory at 221b Baker Street.</div>
                             </li>
                             <li>
                                 <strong>My monthly reading list</strong>
