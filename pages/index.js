@@ -46,7 +46,7 @@ export default function Home({posts, tags}) {
             ))} 
         </div>
       </div>
-      <Subscribe title="Join my monthly reading list." caption="Subscribe for new posts in your email." />
+      <Subscribe title="Learn 5 new things every Friday." caption="Every week, I share 5 cool things I learned or thought were interesting." />
   </div>
   )
 }
