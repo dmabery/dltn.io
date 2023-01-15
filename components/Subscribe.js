@@ -33,7 +33,7 @@ const Subscribe = ({ title }) => {
     const onSubmit = (data) => mutate(data);
 
     const formClass = classNames({
-        "flex items-center rounded-md border-gray-300 p-1 ": true,
+        "flex items-center rounded-md border-gray-300": true,
         "bg-gray-100 border-gray-100": isLoading,
       });
     
