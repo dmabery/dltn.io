@@ -4,7 +4,7 @@ import { Fragment } from 'react';
 import LinkedTagButton from '../components/LinkedTagButton';
 import Meta from '../components/Meta';
 import PostListSimple from '../components/PostListSimple';
-import Subscribe from '../components/Subscribe';
+import Subscribe from '../components/SubscribeGroup';
 import { getAllPublished, getTags } from './api/notion';
 
 export const getStaticProps = async () => {
@@ -32,7 +32,7 @@ export default function Home({posts, tags}) {
           <p className='mt-5'>If you're interested, you can browse my writing by topic:</p>
           <p className='mt-1'>
             {tags.slice(0,8).map((tag => (
-              <span key={tag}> <Link href={`/tags/${tag}`}><a><LinkedTagButton btnText={tag} /></a></Link></span>
+              <span key={tag}> <Link href={`/tags/${tag}`}><a><LinkedTagButton btnText={tag}/></a></Link></span>
             )))}
           </p>
         </Fragment>
@@ -46,7 +46,7 @@ export default function Home({posts, tags}) {
             ))} 
         </div>
       </div>
-      <Subscribe title="Learn 5 new things every Friday." caption="Every week, I share 5 cool things I learned or thought were interesting." />
+      <Subscribe title="Learn 5 new things every Friday" caption="Subscribe to The 221b newsletter to recieve an anthology of ideas from history, science, and philosophy every Friday. It's written by yours truly." />
   </div>
   )
 }

@@ -1,58 +1,83 @@
-import { useState } from 'react';
+import classNames from "classnames";
+import { useForm } from "react-hook-form";
+import { useMutation } from "react-query";
 
 
+const ErrorMessage = ({ message }) => (
+    <p className="text-sm px-3 mt-1 text-red-500 inline-block">{message}</p>
+  );
 
-const Subscribe = ({title, caption}) => {
+const SuccessMessage = () => (
+    <p className="text-sm mt-3 p-3 text-slate-800 bg-green-100 border rounded-md border-success text-success">
+      Success. Check your inbox and confirm your email.
+    </p>
+  );
 
-    const [email, setEmail] = useState('');
-    const [error, setError] = useState('');
-    const [success, setSuccess] = useState('');
+const Subscribe = ({ title }) => {
 
-    const subscribeMe = async (event) => {
-        event.preventDefault();
-        
-        const res = await fetch('/api/subscribe', {
-        body: JSON.stringify({ email: email }),
-        headers: {'Content-Type': 'application/json'},
-        method: "POST",
-    });
+    const subscribe = async ({ email }) => {
+        const res = await fetch(`/api/subscribe?email=${email}`);
+    };
+    // prevent submitting invalid or empty emails
+    const { register, errors, handleSubmit } = useForm();
+
+    const { 
+        mutate,
+        isLoading,
+        isSuccess,
+        isError,
+        error
+    }  = useMutation((data) => subscribe(data));
     
-        const { error, message } = await res.json();
-            if (error) {
-                setError(error)
-            } else {
-                setSuccess(message);
-            }
-        };
+    // handle form submit
+    const onSubmit = (data) => mutate(data);
+
+    const formClass = classNames({
+        "flex items-center rounded-md border-gray-300 p-1 ": true,
+        "bg-gray-100 border-gray-100": isLoading,
+      });
     
-    const changeEmail = (event) => {
-            const email = event.target.value;
-            setEmail(email);
-        }
+      const inputClass = classNames({
+        "appearance-none bg-transparent rounded border w-full text-white mr-3 py-2 px-2 leading-tight focus-within:border-slate-200 focus-within:ring-slate-200": true,
+        "opacity-50 cursor-not-allowed": isLoading,
+      });
+    
+      const btnClass = classNames({
+        "flex-shrink-0 bg-slate-500 hover:bg-slate-700 text-sm text-white py-2 px-4 rounded": true,
+        "opacity-50 cursor-not-allowed": isLoading,
+      });
+
+      if (isSuccess) {
+        return <SuccessMessage />;
+      }
 
     return (
-        <div id="revue-embed" className="rounded-lg px-5 py-5 bg-slate-800 border border-blue-300 mb-10">
-            <form action="https://www.getrevue.co/profile/maberydalton/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank" onSubmit={subscribeMe}>
-                <div className="md:text-xl font-medium text-neutral-100">{title}</div>
-                <div className="text-sm text-neutral-300 mt-1">
-                    {caption}
-                </div>
-                <div className="flex gap-2 mt-3">
-                    <div className="revue-form-group basis-2/3">
-                        <input placeholder="Your email address..." type="email" name="member[email]" id="member_email" className="revue-form-field bg-gray-50 border border-gray-300 text-neutral-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white" onChange={changeEmail} />
-                    </div>
-                    <button className="revue-form-actions basis-1/3">
-                        <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit" className="w-full text-white bg-slate-500 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-slate-500 dark:hover:bg-slate-400  00 dark:focus:ring-slate-400"/>
-                    </button>
-                </div>
+        <>
+            <form className="w-full" onSubmit={handleSubmit(onSubmit)}>
+            <div className={formClass}>
+                <input
+                className={inputClass}
+                type="text"
+                name="email"
+                {...register("email", {
+                  required: "Email is required.",
+                  pattern: { 
+                    value: /^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$/,
+                    message: "Please enter a valid email."
+                },
+                })}
+                placeholder="albert@einstein.com"
+                aria-label="Full name"
+                disabled={isLoading}
+                />
+                <button className={btnClass} disabled={isLoading} type="submit">
+                {isLoading ? "Processing" : "Subscribe"}
+                </button>
+            </div>
+            {isError && <ErrorMessage message={error} />}
             </form>
-            { success ?
-            <span>{success}</span>
-            :
-            <span>{error} </span>
-        }
-        </div>                 
-    )
-}
-
-export default Subscribe;
+        </>
+    );
+  };
+  
+  export default Subscribe;
