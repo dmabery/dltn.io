@@ -8,7 +8,7 @@ const ErrorMessage = ({ message }) => (
   );
 
 const SuccessMessage = () => (
-    <p className="text-sm mt-3 p-3 text-slate-800 bg-green-100 border rounded-md border-success text-success">
+    <p className="text-sm mt-3 p-2 text-slate-800 bg-green-100 border rounded-md border-success text-success">
       The game is afoot! Check your inbox and confirm your email. 
     </p>
   );
