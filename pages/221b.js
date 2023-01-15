@@ -43,7 +43,7 @@ const Newsletter = ({ posts }) => {
                 </div>
                 <div>
                     <h2>What people are saying:</h2>
-                    <p>&quot;Superb...completelyloved it!&quot;</p>
+                    <p>&quot;Superb...completely loved it!&quot;</p>
                     <p>&quot;Love it all!&quot;</p>
                     
                 </div>
