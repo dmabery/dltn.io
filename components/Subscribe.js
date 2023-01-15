@@ -9,7 +9,7 @@ const ErrorMessage = ({ message }) => (
 
 const SuccessMessage = () => (
     <p className="text-sm mt-3 p-3 text-slate-800 bg-green-100 border rounded-md border-success text-success">
-      Success. Check your inbox and confirm your email.
+      The game is afoot! Check your inbox and confirm your email. 
     </p>
   );
 
@@ -34,12 +34,12 @@ const Subscribe = ({ title }) => {
 
     const formClass = classNames({
         "flex items-center rounded-md border-gray-300": true,
-        "bg-gray-100 border-gray-100": isLoading,
+        "border-gray-100": isLoading,
       });
     
       const inputClass = classNames({
         "appearance-none bg-transparent rounded border w-full text-white mr-3 py-2 px-2 leading-tight focus-within:border-slate-200 focus-within:ring-slate-200": true,
-        "opacity-50 cursor-not-allowed": isLoading,
+        "opacity-100 cursor-not-allowed": isLoading,
       });
     
       const btnClass = classNames({
@@ -66,7 +66,7 @@ const Subscribe = ({ title }) => {
                     message: "Please enter a valid email."
                 },
                 })}
-                placeholder="albert@einstein.com"
+                placeholder="sherlock@holmes.com"
                 aria-label="Full name"
                 disabled={isLoading}
                 />
