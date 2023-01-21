@@ -6,8 +6,8 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      heading: ['Articulat-heavy-cf', 'Sans-Serif'],
-      body: ['Inter', 'Monospace'],
+      heading: ['Bely', 'Sans-Serif'],
+      body: ['Basic Sans', 'Monospace'],
       mono: ['Inconsolata'],
       serif: ['Plantin']
     }

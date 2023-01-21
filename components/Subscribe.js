@@ -33,17 +33,17 @@ const Subscribe = ({ title }) => {
     const onSubmit = (data) => mutate(data);
 
     const formClass = classNames({
-        "flex items-center rounded-md border-gray-300": true,
+        "flex items-center rounded-md": true,
         "border-gray-100": isLoading,
       });
     
       const inputClass = classNames({
-        "appearance-none bg-transparent rounded border w-full text-white mr-3 py-2 px-2 leading-tight focus-within:border-slate-200 focus-within:ring-slate-200": true,
+        "appearance-none bg-transparent rounded bg-gray-200/80 w-full text-white mr-3 py-2 px-2 leading-tight focus-within:border-slate-200 focus-within:ring-slate-200": true,
         "opacity-100 cursor-not-allowed": isLoading,
       });
     
       const btnClass = classNames({
-        "flex-shrink-0 bg-slate-500 hover:bg-slate-700 text-sm text-white py-2 px-4 rounded": true,
+        "flex-shrink-0 bg-stone-800 hover:bg-slate-700 text-sm text-white py-2 px-4 rounded": true,
         "opacity-50 cursor-not-allowed": isLoading,
       });
 
