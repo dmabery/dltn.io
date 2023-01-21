@@ -3,11 +3,11 @@ import Link from "next/link";
 function checkType(type) { 
     switch (type) {
         case 'nav' :
-            return "text-slate-300 underline-offset-2 hover:decoration-blue-400 hover:underline hover:decoration-2"
+            return "text-zinc-600/80 underline-offset-2 hover:decoration-blue-400 hover:underline hover:decoration-2"
         case 'small' :
-            return "text-xs text-slate-500 underline"
+            return "text-xs text-slate-900 underline"
         case 'bright' :
-            return "text-blue-400 hover:text-amber-300"
+            return "text-blue-700 hover:text-blue-900"
     }}
 
 const LinkText = ({ slug, text, type }) => {

@@ -6,9 +6,10 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      heading: ['Space Grotesk', 'Sans-Serif'],
+      heading: ['Articulat-heavy-cf', 'Sans-Serif'],
       body: ['Inter', 'Monospace'],
-      mono: ['Inconsolata']
+      mono: ['Inconsolata'],
+      serif: ['Plantin']
     }
   },
   plugins: [
