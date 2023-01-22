@@ -1,8 +1,8 @@
 const SideNote = (props) => {
     return (
         <div className="mt-4 mb-5">
-            <div className="text-md translate-y-6 font-mono font-bold text-slate-900 bg-slate-100 inline px-3 py-2 rounded-md ml-5 translate-y-6">{props.title}</div>
-            <div className="-mt-1 text-slate-100 text-md bg-slate-700 py-6 pl-6 pr-6 rounded py-3 border border-blue-300">{props.content}</div>
+            <div className="font-mono text-white bg-gray-700 inline px-3 py-2 rounded-md ml-5 translate-y-6">{props.title}</div>
+            <div className="-mt-3 text-slate-700 text-md bg-gray-100 py-6 pl-6 pr-6 rounded py-3">{props.content}</div>
         </div>
         
     )

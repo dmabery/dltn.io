@@ -16,13 +16,11 @@ body {
   margin: 0;
   font-family: 'Inter', BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  color: #191919;
   background-color: @apply stone-200;
 }
 
 a {
   text-decoration: none;
-  color: @apply blue-900;
 }
 
 a:hover {
@@ -34,7 +32,6 @@ a:hover {
 }
 
 @layer base {
-
   h1,
   h2,
   h3,
@@ -46,8 +43,6 @@ a:hover {
     @apply mb-3;
     @apply mt-3;
   }
-
-  p {}
 }
 
 /* width */

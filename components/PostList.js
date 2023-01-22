@@ -9,7 +9,7 @@ const PostList = (props) => {
 
     return (
         <div className="flex  flex-row items-start mb-2">
-            <div className="mt-1 text-sm font-mono text-slate-300 w-24 flex-none"> 
+            <div className="mt-1 text-sm font-mono text-gray-600/80 w-24 flex-none"> 
                 {props.date.slice(0,10)}
             </div>
             <div className="text-blue-700 hover:text-blue-900">

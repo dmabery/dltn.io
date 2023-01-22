@@ -20,8 +20,8 @@ const Newsletter = ({ posts }) => {
     return (
         <>
             <Meta title="221b Newsletter" description="Because you don't need another newsletter about current events." image="https://res.cloudinary.com/dde1q4ekv/image/upload/v1673009568/221b_OG_Image_n06pxn.png" />
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-10 prose max-w-screen-md prose:ml-0 underline-offset-2 prose-strong:text-neutral-100 text-neutral-300 prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline hover:prose-a:text-amber-400 prose-h1:leading-tight prose-h2:text-slate-100 prose-h3:text-neutral-100 prose-h4:text-neutral-100 sm:prose-h1:leading-tight prose-blockquote:font-normal prose-blockquote:text-neutral-300 prose-blockquote:border-red-500 prose-blockquote:leading-normal prose-blockquote:pl-5 prose-blockquote:not-italic">
-                <div>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-screen-md">
+                <div className="prose">
                     <h2>The 221b Newsletter</h2>
                     <p>Every Friday, I write an email that teaches you five new things. It&apos;s an anthology of ideas from history, science, philosophy, programming, writing, reading, and more.</p>
                     <p>You can subscribe below:</p>
@@ -35,13 +35,13 @@ const Newsletter = ({ posts }) => {
                         height={1200}
                      />
                 </div>
-                <div>
+                <div className="prose prose-a:text-blue-700">
                     <h2>Previous editions:</h2>
                         {posts.map((post, index) => (
                             <PostList title={post.title} description={post.description} date={post.date} type={post.type} slug={`/posts/${post.slug}`} key={post.id}/>
                          ))}
                 </div>
-                <div>
+                <div className="prose">
                     <h2>What people are saying:</h2>
                     <p>&quot;Superb...completely loved it!&quot;</p>
                     <p>&quot;Love it all!&quot;</p>

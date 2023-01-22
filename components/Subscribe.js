@@ -38,12 +38,12 @@ const Subscribe = ({ title }) => {
       });
     
       const inputClass = classNames({
-        "appearance-none bg-transparent rounded bg-gray-200/80 w-full text-stone-700 mr-3 py-2 px-2 leading-tight focus-within:border-slate-200 focus-within:ring-slate-200": true,
+        "appearance-none rounded bg-gray-200/80 w-full text-gray-900/80 mr-3 py-2 px-2 leading-tight focus-within:border-blue-800": true,
         "opacity-100 cursor-not-allowed": isLoading,
       });
     
       const btnClass = classNames({
-        "flex-shrink-0 bg-stone-800 hover:bg-slate-700 text-sm text-white py-2 px-4 rounded": true,
+        "flex-shrink-0 bg-gray-900/80 hover:bg-gray-600 text-sm text-white py-2 px-4 rounded": true,
         "opacity-50 cursor-not-allowed": isLoading,
       });
 
