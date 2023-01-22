@@ -1,32 +1,16 @@
-import Image from 'next/image';
 import { Fragment } from 'react';
 
-function PageTitle({ title, description, image, width, height, small }) {
-  const condition = image ? 'flex' : 'flex-none sm:flex';
-  const secondary = small ? 'text-3xl' : 'text-3xl md:text-4xl';
-
+function PageTitle({ title, description }) {
   return (
-    <div className={`flex-row items-center ${condition}`}>
-      <div className="w-1/2 md:w-3/4">
-        <h2 className={`${secondary} text-3xl text-gray-900/80 font-bold mb-2`}>
+    <div className='flex-row items-center mb-3'>
+      <div className="font-serif">
+        <h2 className="text-3xl text-gray-900/80 font-bold mb-2">
           {title}
         </h2>
         <div className="md:text-md prose max-w-screen-md prose:ml-0 underline-offset-2 text-gray-600 prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline hover:prose-a:text-amber-400 prose-h1:leading-tight prose-h2:text-yellow-300 prose-h3:text-neutral-100 prose-h4:text-neutral-100 sm:prose-h1:leading-tight prose-blockquote:font-normal prose-blockquote:text-neutral-300 prose-blockquote:border-red-500 prose-blockquote:leading-normal prose-blockquote:pl-5 prose-blockquote:not-italic">
           <Fragment>{description}</Fragment>
         </div>
       </div>
-      {image ? (
-        <div className="ml-2">
-          <Image
-            alt="Rotating gif of astronaut illustration"
-            src={image}
-            width={width || 175}
-            height={height || 175}
-            loading="lazy" />
-        </div>
-      ) : (
-        null
-      )}
     </div>
   );
 }
