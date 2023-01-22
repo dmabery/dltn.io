@@ -40,8 +40,6 @@ a:hover {
   h6 {
     @apply font-heading;
     @apply text-2xl;
-    @apply mb-3;
-    @apply mt-3;
   }
 }
 
