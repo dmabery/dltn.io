@@ -27,7 +27,7 @@ const NoteList = ({ posts }) => {
             {posts.map((post) => (
               <Link href={'/posts/' + post.slug} passHref key={post.id}>
                 <a>
-                    <div>
+                    <div className='hover:drop-shadow-lg transition-all'>
                       <Image
                         className=''
                         alt={post.title}
