@@ -13,7 +13,7 @@ const SuccessMessage = () => (
     </p>
   );
 
-const Subscribe = ({ title }) => {
+const Subscribe = ({ title, placeholder }) => {
 
     const subscribe = async ({ email }) => {
         const res = await fetch(`/api/subscribe?email=${email}`);
@@ -43,7 +43,7 @@ const Subscribe = ({ title }) => {
       });
     
       const btnClass = classNames({
-        "flex-shrink-0 bg-gray-900/80 hover:bg-gray-600 text-sm text-white py-2 px-4 rounded": true,
+        "flex-shrink-0 bg-gray-900 hover:bg-gray-600 text-sm text-white py-2 px-4 rounded": true,
         "opacity-50 cursor-not-allowed": isLoading,
       });
 
@@ -66,7 +66,7 @@ const Subscribe = ({ title }) => {
                     message: "Please enter a valid email."
                 },
                 })}
-                placeholder="sherlock@holmes.com"
+                placeholder={placeholder || "sherlock@holmes.com"}
                 aria-label="Full name"
                 disabled={isLoading}
                 />

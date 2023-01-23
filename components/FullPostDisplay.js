@@ -29,8 +29,8 @@ const FullPostDisplay = ({ title, description, image, date, tags, content }) => 
                   </div>
                   <div className='container mx-auto'>
                     <PostBodyContent content={content} />
-                  <div className='mt-5 md:pl-5 md:pr-5 p-0'>
-                    <Subscribe title={"If you enjoyed this post..."} caption={"Sign up for weekly essays and book notes on history, science, programming, and philosophy."} />
+                  <div className='mt-10 md:pl-5 md:pr-5 p-0'>
+                    <Subscribe placeholder={"Learn 5 new things every Friday."} title={"If you enjoyed this post..."} caption={"Sign up for weekly essays and book notes on history, science, programming, and philosophy."} />
                   </div>
                   </div>
                 </article>

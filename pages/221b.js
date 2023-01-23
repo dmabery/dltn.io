@@ -23,7 +23,7 @@ const Newsletter = ({ posts }) => {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-screen-md">
                 <div className="prose">
                     <h2>The 221b Newsletter</h2>
-                    <p>Every Friday, I write an email that teaches you five new things. It&apos;s an anthology of ideas from history, science, philosophy, programming, writing, reading, and more.</p>
+                    <p>Every Friday, I write an email that shares five interesting things I discovered that week. It&apos;s an anthology of ideas from history, science, philosophy, programming, writing, reading, and more.</p>
                     <p>You can subscribe below:</p>
                     <Subscribe />
                 </div>
