@@ -22,9 +22,9 @@ const Newsletter = ({ posts }) => {
             <Meta title="221b Newsletter" description="Because you don't need another newsletter about current events." image="https://res.cloudinary.com/dde1q4ekv/image/upload/v1673009568/221b_OG_Image_n06pxn.png" />
             <div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-screen-md">
                 <div className="prose">
-                    <h2>The 221b Newsletter</h2>
-                    <p>Every Friday, I write an email that shares five interesting things I discovered that week. It&apos;s an anthology of ideas from history, science, philosophy, programming, writing, reading, and more.</p>
-                    <p>You can subscribe below:</p>
+                    <h2 className="text-[#0C2059] text-3xl">The 221b Newsletter</h2>
+                    <p>Every Friday, I send an email with five interesting things I discovered that week. It&apos;s an anthology of ideas from history, science, philosophy, programming, writing, reading, and more.</p>
+                    <p>You can subscribe here:</p>
                     <Subscribe />
                 </div>
                 <div className="hidden md:flex">
