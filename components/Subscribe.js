@@ -38,7 +38,7 @@ const Subscribe = ({ title, placeholder }) => {
       });
     
       const inputClass = classNames({
-        "appearance-none rounded bg-gray-200/80 w-full text-gray-900/80 mr-3 py-2 px-2 leading-tight focus-within:border-blue-800": true,
+        "text-sm appearance-none rounded bg-gray-200/80 w-full text-gray-900/80 mr-3 py-2 px-2 leading-tight focus-within:border-blue-800": true,
         "opacity-100 cursor-not-allowed": isLoading,
       });
     
