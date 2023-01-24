@@ -51,7 +51,7 @@ a:hover {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #111827;
+  background: @apply stone-200;
 }
 
 /* Handle */
