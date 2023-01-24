@@ -20,7 +20,7 @@ const AboutMe = () => {
                 <h2 id="what-i-m-doing-now">What I&#39;m Doing Now</h2>
                 <h3 id="for-work">For work</h3>
                     <ul>
-                        <li>I work for <a href="https://fs.blog/" rel="noreferrer" target="_blank">Farnam Street</a>. I spend most of my time operating and growing our <a href="https://www.youtube.com/channel/UCLtTf_uKt0Itd0NG7txrwXA">podcast&#39;s YouTube channel</a> (we hit 100k subscribers in August of 2022). When I&#39;m not doing that, I work on <a href="https://www.youtube.com/watch?v=k_zt6qRTmN0" rel="noreferrer" target="_blank">creating engaging scripts and videos</a> from our extensive blog content. I also run social accounts for <a href="https://twitter.com/farnamstreet">Farnam Street</a> and <a href="https://www.instagram.com/tkppodcast/">The Knowledge Project</a>. </li>
+                        <li>I&#39;m the Senior Digital Creator at <a href="https://fs.blog/" rel="noreferrer" target="_blank">Farnam Street</a>. I spend most of my time making videos for and operating our <a href="https://www.youtube.com/channel/UCLtTf_uKt0Itd0NG7txrwXA">podcast&#39;s YouTube channel</a>. When I&#39;m not doing that, I work on <a href="https://www.youtube.com/watch?v=k_zt6qRTmN0" rel="noreferrer" target="_blank">writing scripts and editing videos</a> from our extensive blog content. I also run the social accounts for <a href="https://twitter.com/farnamstreet">Farnam Street</a> and <a href="https://www.instagram.com/tkppodcast/">The Knowledge Project</a>. </li>
                     </ul>
                 <h3 id="for-side-projects">For Side projects</h3>
                     <ul>
