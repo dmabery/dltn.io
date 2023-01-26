@@ -19,7 +19,7 @@ const Newsletter = ({ posts }) => {
     console.log(posts)
     return (
         <>
-            <Meta title="221b Newsletter" description="Because you don't need another newsletter about current events." image="https://res.cloudinary.com/dde1q4ekv/image/upload/v1673009568/221b_OG_Image_n06pxn.png" />
+            <Meta title="221b Newsletter" description="Because you don't need another newsletter about current events." image="https://res.cloudinary.com/dde1q4ekv/image/upload/v1674759439/221b_OG_ifioi4.png" />
             <div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-screen-md">
                 <div className="prose">
                     <h2 className="text-[#0C2059] text-3xl">The 221b Newsletter</h2>
