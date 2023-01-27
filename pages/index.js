@@ -22,7 +22,7 @@ export default function Home({posts, tags}) {
   if(!posts) return <h1>No posts</h1>
   return (
     <>
-    <div className="flex flex-col">
+    <div className="flex flex-col ">
       <Meta title="dalton's site" description="Cultivating curiosity" />
       <h3 className="text-3xl md:text-4xl text-gray-900 font-extrabold mb-5 italic">Hi, I'm Dalton.</h3>
       <h3 className='font-extrabold mb-5 italic'>By <span className='not-italic'>☀️</span> - I'm the digital creator and designer at Farnam Street. By <span className='not-italic'>🌑</span> - I study history, science, and programming and write about what I learn.</h3>
