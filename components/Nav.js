@@ -23,12 +23,12 @@ const links = [
 
 const Nav = () => {
     return (
-        <nav className="flex flex-col md:flex-row font-mono mb-10 mt-10 justify-between items-center">
-            <div className="flex items-center mb-2">
+        <nav className="pt-2 flex flex-col md:flex-row font-mono justify-between items-center border-slate-800 border-b">
+            <div className="flex items-center mb-2 px-10">
                 <Image src="/ezgif.com-gif-maker.gif" alt="space" width={70} height={70}/>            
                 <div className="font-bold text-xl"><Link href="/"><a className='text-zinc-600/80'>dltn.io</a></Link></div>
             </div>
-            <div className="flex row space-x-3">
+            <div className="flex row space-x-3 px-10">
             {links.map(link => (
                 <LinkText slug={`/${link.slug}`} text={`${link.title}()`} key={link.title} type="nav" />
             ))}

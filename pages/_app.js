@@ -1,6 +1,5 @@
 /* eslint-disable @next/next/no-script-in-head */
 import { Analytics } from '@vercel/analytics/react';
-import Head from 'next/head';
 import "prismjs";
 import { QueryClient, QueryClientProvider } from 'react-query';
 import Footer from '../components/Footer';
@@ -12,15 +11,11 @@ const queryClient = new QueryClient();
 
 function MyApp({ Component, pageProps }) {
   return (
-    <>
-      <Head>
-        <link rel="icon" href="/favicon 3.png" />
-      </Head>
-      <nav className='container m-4 px-10 mx-auto max-w-screen-md'>
-        <Nav className=""/>
+    <div className=''>
+      <nav>
+        <Nav/>
       </nav>
-      <div className="container pt-8 m-4 px-3 md:px-10 mx-auto max-w-screen-md">
-          <main className="mb-auto min-h-screen">
+          <main className=''>
             <QueryClientProvider client={queryClient}>
               <Component {...pageProps} />
               <Analytics />
@@ -29,9 +24,7 @@ function MyApp({ Component, pageProps }) {
           <footer className="h-10">
             <Footer />
           </footer>
-      </div>
-      
-    </>
+    </div>
   )
 }
 

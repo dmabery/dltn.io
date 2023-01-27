@@ -17,8 +17,8 @@ const footerLink = [
 ]
 
 const Footer = () => (
-  <div className="mt-10 pt-20 pb-20">
-    <div className="container mx-auto flex justify-between content-center border-t-2 border-t-slate-500/50  py-5">
+  <div className="pb-10">
+    <div className="px-10 flex justify-between content-center border-t-2 border-t-slate-500/50  py-5">
       <div className="flex flex-col">
         <p className="font-serif font-bold text-gray-900 pb-4">Stay curious.</p>
         {footerLink.map((link) => (

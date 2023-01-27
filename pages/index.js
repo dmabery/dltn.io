@@ -1,8 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
-import Link from 'next/link';
 import Meta from '../components/Meta';
-import PostListSimple from '../components/PostListSimple';
-import Subscribe from '../components/Subscribe';
 import { getAllPublished, getTags } from './api/notion';
 
 export const getStaticProps = async () => {
@@ -21,22 +18,38 @@ export const getStaticProps = async () => {
 export default function Home({posts, tags}) {
   if(!posts) return <h1>No posts</h1>
   return (
-    <>
-    <div className="flex flex-col">
-      <Meta title="dalton's site" description="Cultivating curiosity" />
-      <h3 className="text-3xl md:text-4xl text-gray-900 font-extrabold mb-5 italic">Hi, I'm Dalton.</h3>
-      <h3 className='font-extrabold mb-5 italic'>By <span className='not-italic'>☀️</span> - I'm the digital creator and designer at Farnam Street. By <span className='not-italic'>🌑</span> - I study history, science, and programming and write about what I learn.</h3>
-      <div className='font-serif mb-5 text-stone-800/70'>Every Friday, I share five things from history that will help you live a more deliberate and curious life. Read previous editions <Link href="/tags/221b"><a className='text-blue-700 hover:text-blue-900 hover:underline'>here</a></Link>. Subscribe below:</div>
-      <Subscribe title="Learn 5 new things every Friday" caption="Subscribe to The 221b newsletter to recieve an anthology of ideas from history, science, and philosophy every Friday. It's written by yours truly." />
+    <div className='grid grid-cols-8'>
+    <Meta title="dalton's site" description="Cultivating curiosity" />
+    <div className="col-span-4 border-r border-slate-800">
+    <div className='grid grid-cols-3'>
+      <div className='bg-slate-300 text-slate-700 flex h-40 col-span-2 text-5xl font-serif font-bold p-5 italic items-center'>
+        Hi, I'm Dalton
+      </div>
+      <div className='bg-slate-400'>
+      </div>
+      <div className='col-span-2 bg-slate-400 text-slate-700 h-40 flex-col flex p-5'>
+        <div className='text-4xl'>☀️</div>
+        <div className='font-body text-2xl'>I'm the digital creator and designer at Farnam Street.</div>
+      </div>
     </div>
-      <div className="text-gray-900/80 mb-10">
+    
+    </div>
+      <div className="text-gray-900/80 mb-10 col-span-4">
         <div>
-          <h3 className="text-3xl text-[#0C2059] font-bold mb-5 mt-10">My latest posts</h3>
-            {posts.slice(0,8).map(post => (
-              <PostListSimple title={post.title} slug={`posts/${post.slug}`} date={post.date} key={post.id}/>
-            ))} 
+          <div className='divide-y divide-slate-800'>
+            {posts.slice(0,4).map(post => (
+            <div className='py-10 px-10 hover:bg-slate-200/50 transition-all h-40'>
+              <h4 className='text-2xl mb-1'>{post.title}</h4>
+              <p className='text-sm'>{post.description}</p>
+              <div className='flex justify-between text-xs font-mono mt-2'>
+                <p>{post.tags}</p>
+                <p>{post.date}</p>
+              </div>
+            </div>
+            ))}
+          </div>
         </div>
       </div>
-    </>
+    </div>
   )
 }

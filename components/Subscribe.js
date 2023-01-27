@@ -13,7 +13,7 @@ const SuccessMessage = () => (
     </p>
   );
 
-const Subscribe = ({ title, placeholder }) => {
+const Subscribe = ({ title, text, placeholder }) => {
 
     const subscribe = async ({ email }) => {
         const res = await fetch(`/api/subscribe?email=${email}`);
@@ -71,7 +71,7 @@ const Subscribe = ({ title, placeholder }) => {
                 disabled={isLoading}
                 />
                 <button className={btnClass} disabled={isLoading} type="submit">
-                {isLoading ? "Processing" : "Subscribe"}
+                {isLoading ? "Processing" : text || "Subscribe"}
                 </button>
             </div>
             {isError && <ErrorMessage message={error} />}
