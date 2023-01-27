@@ -7,7 +7,7 @@ module.exports = {
     extend: {},
     fontFamily: {
       heading: ['Bely', 'Serif'],
-      body: ['Basic Sans', 'Monospace'],
+      body: ['Inter', 'Serif'],
       mono: ['Inconsolata'],
       serif: ['Bradley'],
       blackletter: ['Bradley DJR']
