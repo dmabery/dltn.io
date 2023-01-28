@@ -25,7 +25,7 @@ const NoteList = ({ posts }) => {
         title="Book Notes"
         description= {
           <Fragment>
-            <div className='prose mb-5 md:text-base text-sm'>
+            <div className='prose mt-3 mb-3 md:text-base text-sm'>
               <blockquote>
               The more that you read, the more things you will know. The more that you learn, the more places you’ll go. – Dr. Seuss
               </blockquote>
