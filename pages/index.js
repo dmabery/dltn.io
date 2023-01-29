@@ -24,9 +24,9 @@ export default function Home({posts, tags}) {
     <>
     <div className="flex flex-col ">
       <Meta title="dalton's site | stay curious" description="Cultivating curiosity." />
-      <h2 className="text-4xl md:text-5xl text-gray-900 font-extrabold mb-2 italic">Hi, I'm Dalton</h2>
+      <h2 className="text-4xl text-gray-900 font-extrabold mb-2 italic">Hi, I'm Dalton</h2>
       <ul className='font-body text-sm md:text-base text-gray-800/80'>
-        <li>By ☀️ I'm the digital creator and designer at Farnam Street.</li>
+        <li>By ☀️ I'm the <strong>digital creator and designer at Farnam Street</strong>.</li>
         <li className='mb-5'>By 🌑 I study history, science, and programming and write about what I learn.</li>
         <li className='mb-2'>Every Friday, I share five ideas from history that will help you live a more deliberate and curious life. Read previous editions <Link href="/tags/221b"><a className='text-blue-700 hover:text-blue-900 hover:underline'>here</a></Link>. Subscribe below:</li>
       </ul>
@@ -34,7 +34,7 @@ export default function Home({posts, tags}) {
     </div>
       <div className="text-gray-900/80 mb-10">
         <div>
-          <h3 className="text-3xl text-[#0C2059] font-bold mb-5 mt-10">My latest posts</h3>
+          <h3 className="text-3xl text-gray-900 font-bold mb-5 mt-10">My latest posts</h3>
             {posts.slice(0,8).map(post => (
               <PostListSimple title={post.title} slug={`posts/${post.slug}`} date={post.date} key={post.id}/>
             ))} 

@@ -9,7 +9,7 @@ module.exports = {
       heading: ['Bely', 'Serif'],
       body: ['Inter', 'Serif'],
       mono: ['Inconsolata'],
-      serif: ['Bradley'],
+      serif: ['Bely', 'Serif'],
       blackletter: ['Bradley DJR']
     }
   },
