@@ -23,7 +23,7 @@ export default function Home({posts, tags}) {
   return (
     <>
     <div className="flex flex-col ">
-      <Meta title="dalton's site | stay curious" description="Cultivating curiosity." />
+      <Meta title="dalton's site" description="Designer, developer, video editor. I love books." />
       <h2 className="text-4xl text-gray-900 font-extrabold mb-2 italic">Hi, I'm Dalton</h2>
       <ul className='font-body text-sm md:text-base text-gray-800/80'>
         <li>By ☀️ I'm the <strong>digital creator and designer at Farnam Street</strong>.</li>
