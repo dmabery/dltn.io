@@ -24,7 +24,7 @@ export default function Home({posts, tags}) {
     <>
     <div className="flex flex-col ">
       <Meta title="dalton's site | stay curious" description="Cultivating curiosity." />
-      <h2 className="text-4xl md:text-5xl text-[#0C2059] font-extrabold mb-2 italic">Hi, I'm Dalton</h2>
+      <h2 className="text-4xl md:text-5xl text-gray-900 font-extrabold mb-2 italic">Hi, I'm Dalton</h2>
       <ul className='font-body text-sm md:text-base text-gray-800/80'>
         <li>By ☀️ I'm the digital creator and designer at Farnam Street.</li>
         <li className='mb-5'>By 🌑 I study history, science, and programming and write about what I learn.</li>
