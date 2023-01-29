@@ -3,7 +3,7 @@ import Link from "next/link";
 function checkType(type) { 
     switch (type) {
         case 'nav' :
-            return "text-zinc-600/80 underline-offset-2 hover:decoration-blue-900 hover:underline hover:decoration"
+            return "underline-offset-2 hover:decoration-blue-900 hover:underline hover:decoration"
         case 'small' :
             return "text-xs text-slate-900 underline"
         case 'bright' :
