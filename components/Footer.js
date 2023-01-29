@@ -4,7 +4,7 @@ import LinkText from "./LinkText";
 const footerLink = [
   {
     title: "Twitter",
-    link: "https://www.twitter.com/daltonmabery"
+    link: "https://www.twitter.com/dltnio"
   },
   {
     title: "YouTube",

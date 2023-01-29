@@ -7,7 +7,7 @@ function PageTitle({ title, description }) {
         <h2 className="text-4xl md:text-5xl text-gray-900 font-extrabold mb-2 italic">
           {title}
         </h2>
-        <div className="font-body text-sm md:text-base">
+        <div className="font-body text-sm md:text-base text-gray-800/80">
           <Fragment>{description}</Fragment>
         </div>
       </div>
