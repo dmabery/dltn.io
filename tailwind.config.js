@@ -6,11 +6,10 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      heading: ['Lora', 'Serif'],
-      body: ['Inter', 'Serif'],
-      mono: ['Inconsolata'],
-      serif: ['Lora', 'Serif'],
-      blackletter: ['Bradley DJR']
+      heading: ['Lora', 'sans serif'],
+      body: ['Inter', 'serif'],
+      mono: ['Inconsolata', 'monospace'],
+      serif: ['Lora', 'serif'],
     }
   },
   plugins: [
