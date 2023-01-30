@@ -6,10 +6,10 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      heading: ['Bely', 'Serif'],
+      heading: ['Lora', 'Serif'],
       body: ['Inter', 'Serif'],
       mono: ['Inconsolata'],
-      serif: ['Bely', 'Serif'],
+      serif: ['Lora', 'Serif'],
       blackletter: ['Bradley DJR']
     }
   },

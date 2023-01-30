@@ -16,7 +16,6 @@ export const getStaticProps = async ({ params }) => {
   };
 
 const Newsletter = ({ posts }) => {
-    console.log(posts)
     return (
         <>
             <Meta title="221b Newsletter" description="Because you don't need another newsletter about current events." image="https://res.cloudinary.com/dde1q4ekv/image/upload/v1674759439/221b_OG_ifioi4.png" />

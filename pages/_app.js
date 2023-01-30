@@ -20,7 +20,7 @@ function MyApp({ Component, pageProps }) {
         <Nav className=""/>
       </nav>
       <div className="container pt-8 m-4 px-3 md:px-10 mx-auto max-w-screen-md">
-          <main className="mb-auto min-h-screen">
+          <main className="mb-auto min-h-screen mt-10">
             <QueryClientProvider client={queryClient}>
               <Component {...pageProps} />
               <Analytics />

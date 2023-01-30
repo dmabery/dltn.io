@@ -13,7 +13,7 @@ function checkType(type) {
 const LinkText = ({ slug, text, type }) => {
     return (
         <Link href ={slug} passHref >
-            <a className={`${checkType(type)} transition-all font-medium mb-1`}>{text}</a>
+            <a className={`${checkType(type)} transition-all mb-1`}>{text}</a>
          </Link>  
     )
 }

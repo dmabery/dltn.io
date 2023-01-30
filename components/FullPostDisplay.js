@@ -20,7 +20,7 @@ const FullPostDisplay = ({ title, description, image, date, tags, content }) => 
                     <div className="text-xs text-slate-500 text-center">
                       {date.slice(0,10)}
                     </div>
-                    <h1 className="text-3xl md:text-4xl mt-3 mb-3 text-center font-bold">{title || ''}</h1>
+                    <h1 className="text-3xl mt-3 mb-3 text-center font-bold">{title || ''}</h1>
                   </div>
                   <div className='text-center'>
                     {tags.map((tag => (

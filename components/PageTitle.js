@@ -4,7 +4,7 @@ function PageTitle({ title, description }) {
   return (
     <div className='flex-row items-center mb-3'>
       <div className="font-serif">
-        <h2 className="text-4xl md:text-5xl text-gray-900 font-extrabold mb-2 italic">
+        <h2 className="text-3xl text-gray-900 font-extrabold mb-2">
           {title}
         </h2>
         <div className="font-body text-gray-800/80">
