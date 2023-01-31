@@ -37,13 +37,13 @@ const November22 = ({ habits }) => {
       <HabitTable>
         {habits.map((habit) => (
           <tr key={habit.id} className="divide-x divide-gray-200/20">
-            <td className="whitespace-nowrap py-4 pl-4 pr-4 text-sm font-medium text-neutral-300 bg-[#111827] sm:pl-6 ">
+            <td className="whitespace-nowrap bg-[#111827] py-4 pl-4 pr-4 text-sm font-medium text-neutral-300 sm:pl-6 ">
               {habit.properties.Name.title[0].plain_text}
             </td>
-            <td className="text-center whitespace-nowrap p-4 text-sm text-neutral-300 bg-[#111827]">
+            <td className="whitespace-nowrap bg-[#111827] p-4 text-center text-sm text-neutral-300">
               {habit.properties.Wake.rich_text[0].plain_text}
             </td>
-            <td className="justify-center whitespace-nowrap p-4 text-sm text-neutral-300  bg-[#111827]">
+            <td className="justify-center whitespace-nowrap bg-[#111827] p-4 text-sm  text-neutral-300">
               <Tooltip
                 content={habit.properties.BookTitle.rich_text[0].plain_text}
                 hideArrow
@@ -53,13 +53,13 @@ const November22 = ({ habits }) => {
                 </div>
               </Tooltip>
             </td>
-            <td className="text-center whitespace-nowrap p-4 text-sm text-neutral-300 bg-[#111827]">
+            <td className="whitespace-nowrap bg-[#111827] p-4 text-center text-sm text-neutral-300">
               {habit.properties.Workout.rich_text[0].plain_text}
             </td>
-            <td className="text-center whitespace-nowrap p-4 text-sm text-neutral-300 bg-[#111827]">
+            <td className="whitespace-nowrap bg-[#111827] p-4 text-center text-sm text-neutral-300">
               {habit.properties.Writing.select.name}
             </td>
-            <td className="text-center whitespace-nowrap p-4 text-sm text-neutral-300 bg-[#111827]">
+            <td className="whitespace-nowrap bg-[#111827] p-4 text-center text-sm text-neutral-300">
               {habit.properties.School.select.name}
             </td>
           </tr>

@@ -206,7 +206,7 @@ const Books = () => (
       title="Quick note"
       content="If it's linked, that means I've published my notes."
     />
-    <ul className="list-disc ml-4">
+    <ul className="ml-4 list-disc">
       {bookList.map((book) =>
         book.link ? (
           <li className="mb-2 text-blue-500">

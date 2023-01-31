@@ -10,37 +10,37 @@ export default function HabitTable(props) {
                   <tr className="divide-x divide-gray-300/25 ">
                     <th
                       scope="col"
-                      className="py-3.5 pl-4 pr-4 text-sm font-mono text-white sm:pl-6"
+                      className="py-3.5 pl-4 pr-4 font-mono text-sm text-white sm:pl-6"
                     >
                       Date
                     </th>
                     <th
                       scope="col"
-                      className="px-4 py-3.5 text-sm font-mono text-white"
+                      className="px-4 py-3.5 font-mono text-sm text-white"
                     >
                       Wake
                     </th>
                     <th
                       scope="col"
-                      className="px-4 py-3.5 text-sm font-mono text-white"
+                      className="px-4 py-3.5 font-mono text-sm text-white"
                     >
                       Reading
                     </th>
                     <th
                       scope="col"
-                      className="px-4 py-3.5 text-sm font-mono text-white"
+                      className="px-4 py-3.5 font-mono text-sm text-white"
                     >
                       Work out
                     </th>
                     <th
                       scope="col"
-                      className="px-4 py-3.5 text-sm font-mono text-white"
+                      className="px-4 py-3.5 font-mono text-sm text-white"
                     >
                       Writing
                     </th>
                     <th
                       scope="col"
-                      className="py-3.5 pl-4 pr-4 text-sm font-mono text-white sm:pr-6"
+                      className="py-3.5 pl-4 pr-4 font-mono text-sm text-white sm:pr-6"
                     >
                       School
                     </th>

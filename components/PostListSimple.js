@@ -2,9 +2,9 @@ import LinkText from './LinkText';
 
 const PostListSimple = (props) => (
   <div>
-    <div className="max-w-lg mb-1">
+    <div className="mb-1 max-w-lg">
       <LinkText slug={`/${props.slug}`} text={props.title} type="bright" />
-      <span className="text-xs text-neutral-800 ml-1 md:inline">
+      <span className="ml-1 text-xs text-neutral-800 md:inline">
         {props.date.slice(0, 10)}
       </span>
     </div>

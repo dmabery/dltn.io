@@ -1,5 +1,5 @@
 const TagButton = ({ btnText }) => (
-  <div className="text-white flex-none inline text-xs font-mono tracking-wide px-2 rounded py-0.5 mr-2">
+  <div className="mr-2 inline flex-none rounded px-2 py-0.5 font-mono text-xs tracking-wide text-white">
     {btnText}
   </div>
 );

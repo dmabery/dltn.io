@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 
 export default function SquareWhileTap(props) {
   return (
-    <div className="flex mx-auto justify-between">
+    <div className="mx-auto flex justify-between">
       <motion.div
         style={{
           width: 150,

@@ -35,7 +35,7 @@ const Writing = ({ posts }) => (
     />
     <div className="flex">
       <div className="">
-        <h3 className="text-3xl text-zinc-600/80 font-bold mb-5 mt-10">
+        <h3 className="mb-5 mt-10 text-3xl font-bold text-zinc-600/80">
           What I've learned...
         </h3>
         {posts.map((post) => (

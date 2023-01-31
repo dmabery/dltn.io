@@ -1,5 +1,5 @@
 const LinkedTagButton = ({ btnText }) => (
-  <span className="text-blue-600 border border-gray-300/60 grow-0 flex-none inline text-[10px] px-2 rounded-lg py-1 mr-1 transition-all">
+  <span className="mr-1 inline flex-none grow-0 rounded-lg border border-gray-300/60 px-2 py-1 text-[10px] text-blue-600 transition-all">
     {btnText}
   </span>
 );

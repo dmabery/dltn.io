@@ -25,7 +25,7 @@ const NoteList = ({ posts }) => (
     <PageTitle
       title="Book Notes"
       description={
-        <div className="prose mt-3 mb-3 md:text-base text-sm">
+        <div className="prose mt-3 mb-3 text-sm md:text-base">
           <blockquote>
             The more that you read, the more things you will know. The more that
             you learn, the more places you’ll go. – Dr. Seuss
@@ -33,11 +33,11 @@ const NoteList = ({ posts }) => (
         </div>
       }
     />
-    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 grid-row gap-4 content-center justify-items-center">
+    <div className="grid-row grid grid-cols-2 content-center justify-items-center gap-4 sm:grid-cols-3 md:grid-cols-4">
       {posts.map((post) => (
         <Link href={`/posts/${post.slug}`} passHref key={post.id}>
           <a>
-            <div className="hover:drop-shadow-lg transition-all">
+            <div className="transition-all hover:drop-shadow-lg">
               <Image
                 className=""
                 alt={post.title}

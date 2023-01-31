@@ -21,9 +21,9 @@ const Newsletter = ({ posts }) => (
       description="Because you don't need another newsletter about current events."
       image="https://res.cloudinary.com/dde1q4ekv/image/upload/v1674759439/221b_OG_ifioi4.png"
     />
-    <div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-screen-md">
+    <div className="grid max-w-screen-md grid-cols-1 gap-10 md:grid-cols-2">
       <div className="prose">
-        <h2 className="text-[#0C2059] text-3xl">The 221b Newsletter</h2>
+        <h2 className="text-3xl text-[#0C2059]">The 221b Newsletter</h2>
         <p>
           Every Friday, I send an email with five interesting things I
           discovered that week. It&apos;s an anthology of ideas from history,

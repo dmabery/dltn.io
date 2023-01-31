@@ -28,7 +28,7 @@ export default function Home({ posts, tags }) {
           title="dalton's site | stay curious"
           description="Cultivating curiosity."
         />
-        <h2 className="text-3xl text-gray-900 font-bold mb-3">
+        <h2 className="mb-3 text-3xl font-bold text-gray-900">
           Hi, I'm Dalton
         </h2>
         <div className="font-body text-gray-900/90">
@@ -47,7 +47,7 @@ export default function Home({ posts, tags }) {
           </div>
           <Subscribe />
         </div>
-        <div className="flex flex-col gap-1 md:gap-4 md:items-center mt-4 md:flex-row">
+        <div className="mt-4 flex flex-col gap-1 md:flex-row md:items-center md:gap-4">
           <OutsideLink
             link="https://www.twitter.com/dltnio"
             text="follow me on twitter"
@@ -58,9 +58,9 @@ export default function Home({ posts, tags }) {
           />
         </div>
       </div>
-      <div className="text-gray-900/80 mb-10">
+      <div className="mb-10 text-gray-900/80">
         <div>
-          <h3 className="text-3xl text-gray-900 font-bold mb-2 mt-4">
+          <h3 className="mb-2 mt-4 text-3xl font-bold text-gray-900">
             Recent Posts
           </h3>
           {posts.slice(0, 8).map((post) => (

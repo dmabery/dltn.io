@@ -3,11 +3,11 @@ import { useForm } from 'react-hook-form';
 import { useMutation } from 'react-query';
 
 const ErrorMessage = ({ message }) => (
-  <p className="text-sm px-3 mt-1 text-red-500 inline-block">{message}</p>
+  <p className="mt-1 inline-block px-3 text-sm text-red-500">{message}</p>
 );
 
 const SuccessMessage = () => (
-  <p className="text-sm mt-3 p-2 text-green-800 bg-green-100/80 border border-green-600/80 rounded-md border-success text-success">
+  <p className="border-success text-success mt-3 rounded-md border border-green-600/80 bg-green-100/80 p-2 text-sm text-green-800">
     The game is afoot! Check your inbox and confirm your email.
   </p>
 );
