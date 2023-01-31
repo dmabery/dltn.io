@@ -25,8 +25,8 @@ export default function Home({ posts, tags }) {
     <>
       <div className="flex flex-col ">
         <Meta
-          title="dalton's site | stay curious"
-          description="Cultivating curiosity."
+          title="Dalton Mabery"
+          description="Developer, Video Editor, Writer."
         />
         <h2 className="mb-3 text-3xl font-bold text-gray-900">
           Hi, I'm Dalton
