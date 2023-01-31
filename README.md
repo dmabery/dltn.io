@@ -1,5 +1,7 @@
 # dltn.io
 
+Live URL: www.dltn.io
+
 - <b>Framework:</b> [Next.js](https://nextjs.org/)
 - <b>Styling:</b> [Tailwind CSS](https://tailwindcss.com/)
 - <b>Database:</b> [Notion](https://www.notion.so/)
