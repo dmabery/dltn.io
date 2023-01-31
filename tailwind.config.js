@@ -1,7 +1,7 @@
 module.exports = {
   content: [
-    "./pages/**/*.{js,ts,jsx,tsx}",
-    "./components/**/*.{js,ts,jsx,tsx}",
+    './pages/**/*.{js,ts,jsx,tsx}',
+    './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
     extend: {},
@@ -10,9 +10,7 @@ module.exports = {
       body: ['Inter', 'serif'],
       mono: ['Inconsolata', 'monospace'],
       serif: ['Lora', 'serif'],
-    }
+    },
   },
-  plugins: [
-    require('@tailwindcss/typography'),
-  ],
-}
+  plugins: [require('@tailwindcss/typography')],
+};
