@@ -1,9 +1,9 @@
 const SideNote = (props) => (
-  <div className="mt-4 mb-5">
-    <div className="ml-5 inline translate-y-6 rounded-md bg-gray-700 px-3 py-2 font-mono text-sm text-white">
+  <div className="mt-8 mb-5 px-10 py-5 border-blue-700 border-l-4 rounded-r-md text-slate-700 bg-secondaryBlue">
+    <div className="font-bold text-md mb-2">
       {props.title}
     </div>
-    <div className="text-md -mt-3 rounded bg-gray-200/60 py-6 py-3 pl-6 pr-6 text-slate-700">
+    <div className="leading-md leading-normal">
       {props.content}
     </div>
   </div>

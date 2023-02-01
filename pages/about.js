@@ -12,7 +12,7 @@ const AboutMe = () => (
     />
     <div className="container prose text-gray-800/80 underline-offset-2 prose-h1:leading-tight prose-h2:text-3xl prose-h2:text-[#0C2059] prose-h3:text-2xl prose-h3:text-[#263459] prose-h4:text-xl prose-h4:text-[#263459] prose-a:text-blue-700 prose-a:no-underline hover:prose-a:text-blue-900 hover:prose-a:underline prose-blockquote:border-red-500 prose-blockquote:pl-5 prose-blockquote:font-normal prose-blockquote:not-italic prose-blockquote:leading-normal prose-blockquote:text-neutral-900 prose-code:text-white prose-pre:font-normal sm:prose-h1:leading-tight">
       <SideNote
-        title="Say hi!"
+        title="👋 Say hi!"
         content="I'm always looking for more people to talk about cool ideas with. Just send me an email: maberydalton@gmail.com."
       />
       <h2 id="tldr">Short bio</h2>

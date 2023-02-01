@@ -30,7 +30,7 @@
 
  code[class*="language-"],
  pre[class*="language-"] {
-  background: #F0F1F5;
+  background: #F2F5F8;
    color: hsl(230, 8%, 24%);
    font-family: "Fira Code", "Fira Mono", Menlo, Consolas, "DejaVu Sans Mono", monospace;
    direction: ltr;
@@ -52,7 +52,7 @@
  code[class*="language-"]::-moz-selection,
  code[class*="language-"] *::-moz-selection,
  pre[class*="language-"] *::-moz-selection {
-   background: hsl(230, 100%, 90%);
+   background: hsl(209, 27, 96, 100%);
    color: inherit;
  }
  
