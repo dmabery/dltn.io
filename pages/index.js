@@ -1,10 +1,10 @@
 /* eslint-disable react/no-unescaped-entities */
-import Link from 'next/link';
-import Meta from '../components/Meta';
-import OutsideLink from '../components/OutsideLink';
-import PostListSimple from '../components/PostListSimple';
-import Subscribe from '../components/Subscribe';
-import { getAllPublished, getTags } from './api/notion';
+import Link from "next/link";
+import Meta from "../components/Meta";
+import OutsideLink from "../components/OutsideLink";
+import PostListSimple from "../components/PostListSimple";
+import Subscribe from "../components/Subscribe";
+import { getAllPublished, getTags } from "./api/notion";
 
 export const getStaticProps = async () => {
   const data = await getAllPublished();
@@ -39,7 +39,7 @@ export default function Home({ posts, tags }) {
           </div>
           <div className="mb-3">
             Every Friday, I send an email with five interesting ideas from
-            history, science, and philosophy. Read previous editions{' '}
+            history, science, and philosophy. Read previous editions{" "}
             <span className="text-blue-700 hover:text-blue-900 hover:underline">
               <Link href="221b">here</Link>
             </span>

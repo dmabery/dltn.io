@@ -1,11 +1,10 @@
-import Image from 'next/image';
-import Meta from '../components/Meta';
-import PostList from '../components/PostList';
-import Subscribe from '../components/Subscribe';
-import { getAllByTags } from './api/notion';
+import Meta from "../components/Meta";
+import PostList from "../components/PostList";
+import Subscribe from "../components/Subscribe";
+import { getAllByTags } from "./api/notion";
 
 export const getStaticProps = async ({ params }) => {
-  const data = await getAllByTags('221b');
+  const data = await getAllByTags("221b");
   return {
     props: {
       posts: data,
@@ -22,23 +21,25 @@ const Newsletter = ({ posts }) => (
       image="https://res.cloudinary.com/dde1q4ekv/image/upload/v1674759439/221b_OG_ifioi4.png"
     />
     <div className="grid max-w-screen-md grid-cols-1 gap-10 md:grid-cols-2">
-      <div className="prose">
+      <div className="prose col-span-2">
         <h2 className="text-3xl text-[#0C2059]">The 221b Newsletter</h2>
         <p>
-          Every Friday, I send an email with five interesting things I
-          discovered that week. It&apos;s an anthology of ideas from history,
-          science, philosophy, programming, writing, reading, and more.
+          Every Friday, I send an email with five interesting stories and ideas
+          from history that you (probably) won&apos;t learn anywhere else.
         </p>
-        <p>You can subscribe here:</p>
+        <p>
+          Subscribers have already learned about...
+          <ul>
+            <li>Thomas Edison&apos;s insane job applications</li>
+            <li>Why WInston Churchill demanded brevity from his staff</li>
+            <li>
+              Why the first detectives were nicknamed "The Devil&apos;s
+              Disciples"
+            </li>
+          </ul>
+          And more. Subscribe below.
+        </p>
         <Subscribe />
-      </div>
-      <div className="hidden md:flex">
-        <Image
-          src="/st.jerome.jpeg"
-          alt="St. Jerome in His Study"
-          width={930}
-          height={1200}
-        />
       </div>
       <div className="prose prose-a:text-blue-700">
         <h2>Previous editions:</h2>
