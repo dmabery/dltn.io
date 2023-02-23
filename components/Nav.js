@@ -1,35 +1,33 @@
-import Link from 'next/link';
-import LinkText from './LinkText';
+import Link from "next/link";
+import LinkText from "./LinkText";
 
 const links = [
   {
-    title: 'writing',
-    slug: 'writing',
+    title: "writing",
+    slug: "writing",
   },
   {
-    title: 'notes',
-    slug: 'notes',
+    title: "notes",
+    slug: "notes",
   },
   {
-    title: 'newsletter',
-    slug: '221b',
+    title: "newsletter",
+    slug: "221b",
   },
   {
-    title: 'about',
-    slug: 'about',
+    title: "about",
+    slug: "about",
   },
 ];
 
 const Nav = () => (
-  <nav className="mt-5 flex flex-col items-center justify-between md:flex-row">
-    <div className="mb-2 flex items-center">
-      <div className="font-serif text-2xl font-bold">
-        <Link href="/">
-          <a className="text-zinc-900/90">d.</a>
-        </Link>
-      </div>
+  <nav className="mt-5 flex flex-col">
+    <div className="font-serif text-2xl font-bold">
+      <Link href="/">
+        <a className="text-zinc-900/90">d.</a>
+      </Link>
     </div>
-    <div className="row flex space-x-3">
+    <div className="flex flex-col">
       {links.map((link) => (
         <LinkText
           slug={`/${link.slug}`}
