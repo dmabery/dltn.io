@@ -1,9 +1,6 @@
 /* eslint-disable react/no-unescaped-entities */
-import Link from "next/link";
+import Image from "next/image";
 import Meta from "../components/Meta";
-import OutsideLink from "../components/OutsideLink";
-import PostListSimple from "../components/PostListSimple";
-import Subscribe from "../components/Subscribe";
 import { getAllPublished, getTags } from "./api/notion";
 
 export const getStaticProps = async () => {
@@ -21,57 +18,28 @@ export const getStaticProps = async () => {
 
 export default function Home({ posts, tags }) {
   if (!posts) return <h1>No posts</h1>;
+  console.log(posts);
   return (
     <>
-      <div className="flex flex-col ">
-        <Meta
-          title="Dalton Mabery"
-          description="Developer, Video Editor, Writer."
-        />
-        <h2 className="mb-3 text-3xl font-bold text-gray-900">
-          Hi, I'm Dalton
-        </h2>
-        <div className="font-body text-gray-900/90">
-          <div className="mb-3">
-            I'm the <b>digital creator</b> and <b>designer</b> at Farnam Street.
-            We help people master the best of what others have already figured
-            out.
-          </div>
-          <div className="mb-3">
-            Every Friday, I send an email with five interesting ideas from
-            history, science, and philosophy. Read previous editions{" "}
-            <span className="text-blue-700 hover:text-blue-900 hover:underline">
-              <Link href="221b">here</Link>
-            </span>
-            . Subscribe below:
-          </div>
-          <Subscribe />
-        </div>
-        <div className="mt-4 flex flex-col gap-1 md:flex-row md:items-center md:gap-4">
-          <OutsideLink
-            link="https://www.twitter.com/dltnio"
-            text="follow me on twitter"
-          />
-          <OutsideLink
-            link="https://youtube.com/@dltnio"
-            text="subscribe on youtube"
-          />
-        </div>
-      </div>
-      <div className="mb-10 text-gray-900/80">
-        <div>
-          <h3 className="mb-2 mt-4 text-3xl font-bold text-gray-900">
-            Recent Posts
-          </h3>
-          {posts.slice(0, 8).map((post) => (
-            <PostListSimple
-              title={post.title}
-              slug={`posts/${post.slug}`}
-              date={post.date}
-              key={post.id}
-            />
+      <Meta
+        title="Dalton Mabery"
+        description="Developer, Video Editor, Writer."
+      />
+      <div className="grid grid-cols-1 gap-5 md:grid-cols-4">
+        <div className="bg-black"></div>
+        <div className="col-span-2">
+          {posts.slice(0, 1).map((post) => (
+            <div className="flex h-full w-full flex-col p-5">
+              <div className="relative h-96 min-w-full">
+                <Image src={post.image} layout="fill" objectFit="contain" />
+              </div>
+              <p className="font-heading text-2xl font-bold">{post.title}</p>
+              <p className="font-serif">{post.description}</p>
+              <p className="font-serif">{post.date}</p>
+            </div>
           ))}
         </div>
+        <div className="bg-blue-400"></div>
       </div>
     </>
   );
