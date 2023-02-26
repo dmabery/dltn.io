@@ -16,17 +16,17 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <link rel="icon" href="/favicon 3.png" />
       </Head>
-      <nav className="mx-auto px-2">
+      <nav className="mx-auto max-w-screen-lg px-2">
         <Nav className="" />
       </nav>
       <div className="mx-auto mt-2">
-        <main className="mb-auto mt-5 min-h-screen md:mt-20">
+        <main className="mx-auto mb-auto mt-5 min-h-screen max-w-screen-lg md:mt-20">
           <QueryClientProvider client={queryClient}>
             <Component {...pageProps} />
             <Analytics />
           </QueryClientProvider>
         </main>
-        <footer className="h-10">
+        <footer className="mx-auto h-10 max-w-screen-lg">
           <Footer />
         </footer>
       </div>

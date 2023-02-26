@@ -30,8 +30,7 @@ const Nav = () => (
     </div>
     <div className="row flex space-x-3">
       <div className="mb-3">
-        I'm the <b>digital creator</b> and <b>designer</b> at Farnam Street. We
-        help people master the best of what others have already figured out.
+        I'm the <b>digital creator</b> and <b>designer</b> at Farnam Street.
       </div>
     </div>
   </nav>
