@@ -1,14 +1,15 @@
 /* eslint-disable react/no-unescaped-entities */
-import FullPostDisplay from "../components/FullPostDisplay";
+import HomePagePostDisplay from "../components/HomePagePostDisplay";
 import Meta from "../components/Meta";
 import PostList from "../components/PostList";
+import Subscribe from "../components/Subscribe";
 import { getAllPublishedRaw, getSingleBlogPostBySlug } from "./api/notion";
 
 export const getStaticProps = async () => {
   const data = await getAllPublishedRaw();
   const posts = await Promise.all(
     data
-      .slice(0, 4)
+      .slice(0, 5)
       .map(
         async (post) =>
           await getSingleBlogPostBySlug(
@@ -37,28 +38,39 @@ export default function Home({ posts }) {
         <div className="w-3/4">
           {posts.map((post) => (
             <>
-              <FullPostDisplay
+              <HomePagePostDisplay
                 title={post.metadata.title}
                 tags={post.metadata.tags}
                 description={post.metadata.description}
                 date={post.metadata.date}
                 content={post.markdown}
                 image={post.metadata.image}
+                slug={post.metadata.slug}
               />
             </>
           ))}
         </div>
-        <div className="">
-          {posts.map((post) => (
-            <>
-              <PostList
-                title={post.metadata.title}
-                date={post.metadata.date}
-                slug={`/posts/${post.metadata.slug}`}
-                key={post.id}
-              />
-            </>
-          ))}
+        <div className="w-1/4 text-sm">
+          <div className="mb-5">
+            <p className="mb-2">
+              Every Friday, I write a email with five interesting ideas from
+              history, science, philosophy, and more. Subscribe below:
+            </p>
+            <Subscribe />
+          </div>
+          <div>
+            <h5 className="mb-2 font-bold">Recent Posts</h5>
+            {posts.map((post) => (
+              <>
+                <PostList
+                  title={post.metadata.title}
+                  date={post.metadata.date}
+                  slug={`/posts/${post.metadata.slug}`}
+                  key={post.id}
+                />
+              </>
+            ))}
+          </div>
         </div>
       </div>
     </>

@@ -29,9 +29,7 @@ const Nav = () => (
       </div>
     </div>
     <div className="row flex space-x-3">
-      <div className="mb-3">
-        I'm the <b>digital creator</b> and <b>designer</b> at Farnam Street.
-      </div>
+      <div className="mb-3"></div>
     </div>
   </nav>
 );

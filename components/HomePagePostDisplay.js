@@ -3,17 +3,17 @@ import { useEffect } from "react";
 import LinkedTagButton from "./LinkedTagButton";
 import Meta from "./Meta";
 import PostBodyContent from "./PostBodyContent";
-import SubscribeGroup from "./SubscribeGroup";
 
 const prism = require("prismjs");
 
-const FullPostDisplay = ({
+const HomePagePostDisplay = ({
   title,
   description,
   image,
   date,
   tags,
   content,
+  slug,
 }) => {
   useEffect(() => {
     prism.highlightAll();
@@ -28,7 +28,7 @@ const FullPostDisplay = ({
             {date.slice(0, 10)}
           </div>
           <h1 className="mt-3 mb-3 text-center text-3xl font-bold">
-            {title || ""}
+            <Link href={`posts/${slug}`}>{title || ""}</Link>
           </h1>
         </div>
         <div className="text-center">
@@ -45,13 +45,10 @@ const FullPostDisplay = ({
         </div>
         <div className="container mx-auto">
           <PostBodyContent content={content} />
-          <div>
-            <SubscribeGroup />
-          </div>
         </div>
       </article>
     </>
   );
 };
 
-export default FullPostDisplay;
+export default HomePagePostDisplay;
