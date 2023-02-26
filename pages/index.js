@@ -1,21 +1,30 @@
 /* eslint-disable react/no-unescaped-entities */
+import FullPostDisplay from "../components/FullPostDisplay";
 import Meta from "../components/Meta";
-import { getAllPublished, getTags } from "./api/notion";
+import PostList from "../components/PostList";
+import { getAllPublishedRaw, getSingleBlogPostBySlug } from "./api/notion";
 
 export const getStaticProps = async () => {
-  const data = await getAllPublished();
-  const tags = await getTags();
-
+  const data = await getAllPublishedRaw();
+  const posts = await Promise.all(
+    data
+      .slice(0, 4)
+      .map(
+        async (post) =>
+          await getSingleBlogPostBySlug(
+            post.properties.Slug.rich_text[0].plain_text
+          )
+      )
+  );
   return {
     props: {
-      posts: data,
-      tags,
+      posts,
     },
     revalidate: 60,
   };
 };
 
-export default function Home({ posts, tags }) {
+export default function Home({ posts }) {
   if (!posts) return <h1>No posts</h1>;
   console.log(posts);
   return (
@@ -24,50 +33,33 @@ export default function Home({ posts, tags }) {
         title="Dalton Mabery"
         description="Developer, Video Editor, Writer."
       />
-      <div className="grid grid-cols-1 gap-5 md:grid-cols-4">
-        <div className=" mb-5 flex flex-col space-y-5">
-          {posts.slice(2, 5).map((post) => (
-            <div className="">
-              <div class="">
-                <a href="#">
-                  <img src={post.image} alt="" />
-                </a>
-                <div class="mt-2 leading-tight">
-                  <a href="#">
-                    <h5 class="mb-2 text-lg font-bold leading-tight tracking-tight text-gray-900">
-                      {post.title}
-                    </h5>
-                  </a>
-                  <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-                    {post.description}
-                  </p>
-                </div>
-              </div>
-            </div>
+      <div className="flex flex-col md:flex-row">
+        <div className="w-3/4">
+          {posts.map((post) => (
+            <>
+              <FullPostDisplay
+                title={post.metadata.title}
+                tags={post.metadata.tags}
+                description={post.metadata.description}
+                date={post.metadata.date}
+                content={post.markdown}
+                image={post.metadata.image}
+              />
+            </>
           ))}
         </div>
-        <div className="col-span-2">
-          {posts.slice(0, 1).map((post) => (
-            <div className="">
-              <div class="">
-                <a href="#">
-                  <img src={post.image} alt="" />
-                </a>
-                <div class="p-5">
-                  <a href="#">
-                    <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">
-                      {post.title}
-                    </h5>
-                  </a>
-                  <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-                    {post.description}
-                  </p>
-                </div>
-              </div>
-            </div>
+        <div className="">
+          {posts.map((post) => (
+            <>
+              <PostList
+                title={post.metadata.title}
+                date={post.metadata.date}
+                slug={`/posts/${post.metadata.slug}`}
+                key={post.id}
+              />
+            </>
           ))}
         </div>
-        <div className="bg-blue-400"></div>
       </div>
     </>
   );
