@@ -31,7 +31,7 @@ export default function Home({ posts, tags }) {
         <h2 className="mb-3 text-3xl font-bold text-gray-900">
           Hi, I'm Dalton
         </h2>
-        <div className="font-body text-gray-900/90">
+        <div className="font-sansSerif text-gray-900/90">
           <div className="mb-3">
             I'm the <b>digital creator</b> and <b>designer</b> at Farnam Street.
             We help people master the best of what others have already figured

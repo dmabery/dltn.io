@@ -16,6 +16,7 @@ module.exports = {
       body: ["Lora", "serif"],
       mono: ["Inconsolata", "monospace"],
       serif: ["Lora", "serif"],
+      sansSerif: ["Inter", "Sans Serif"],
     },
   },
   plugins: [require("@tailwindcss/typography")],
