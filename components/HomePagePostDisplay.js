@@ -6,6 +6,13 @@ import PostBodyContent from "./PostBodyContent";
 
 const prism = require("prismjs");
 
+const BlogRoll = [
+  {
+    name: "Farnam Street",
+    link: "https://fs.blog/",
+  },
+];
+
 const HomePagePostDisplay = ({
   title,
   description,
@@ -24,10 +31,7 @@ const HomePagePostDisplay = ({
       <Meta title={title} description={description} image={image} />
       <article className="mx-auto text-neutral-300">
         <div className="p-0 text-gray-900/90 md:pl-5 md:pr-5">
-          <div className="text-center text-xs text-slate-500">
-            {date.slice(0, 10)}
-          </div>
-          <h1 className="mt-3 mb-3 text-center text-3xl font-bold">
+          <h1 className="mb-3 text-center text-3xl font-bold">
             <Link href={`posts/${slug}`}>{title || ""}</Link>
           </h1>
         </div>

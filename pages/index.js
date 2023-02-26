@@ -2,7 +2,6 @@
 import HomePagePostDisplay from "../components/HomePagePostDisplay";
 import Meta from "../components/Meta";
 import PostList from "../components/PostList";
-import Subscribe from "../components/Subscribe";
 import { getAllPublishedRaw, getSingleBlogPostBySlug } from "./api/notion";
 
 export const getStaticProps = async () => {
@@ -24,6 +23,13 @@ export const getStaticProps = async () => {
     revalidate: 60,
   };
 };
+
+const blogroll = [
+  {
+    name: "Farnam Street",
+    link: "https://fs.blog/",
+  },
+];
 
 export default function Home({ posts }) {
   if (!posts) return <h1>No posts</h1>;
@@ -51,13 +57,6 @@ export default function Home({ posts }) {
           ))}
         </div>
         <div className="w-1/4 text-sm">
-          <div className="mb-5">
-            <p className="mb-2">
-              Every Friday, I write a email with five interesting ideas from
-              history, science, philosophy, and more. Subscribe below:
-            </p>
-            <Subscribe />
-          </div>
           <div>
             <h5 className="mb-2 font-bold">Recent Posts</h5>
             {posts.map((post) => (
@@ -71,6 +70,12 @@ export default function Home({ posts }) {
               </>
             ))}
           </div>
+          <h5 className="mb-2 font-bold">Blogroll</h5>
+          {blogroll.map((blog) => (
+            <a href={blog.link} target="_blank">
+              {blog.name}
+            </a>
+          ))}
         </div>
       </div>
     </>
