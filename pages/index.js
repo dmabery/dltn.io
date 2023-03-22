@@ -38,6 +38,10 @@ export default function Home({ posts, tags }) {
             out.
           </div>
           <div className="mb-3">
+            I spend my free time reading, learning, and writing about history's
+            greatest people, ideas, and inventions.
+          </div>
+          <div className="mb-3">
             Every Friday, I send an email with five interesting ideas from
             history, science, and philosophy. Read previous editions{" "}
             <span className="text-blue-700 hover:text-blue-900 hover:underline">
