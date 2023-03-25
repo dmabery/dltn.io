@@ -1,11 +1,10 @@
-import Link from 'next/link';
-import { useEffect } from 'react';
-import LinkedTagButton from './LinkedTagButton';
-import Meta from './Meta';
-import PostBodyContent from './PostBodyContent';
-import SubscribeGroup from './SubscribeGroup';
+import Link from "next/link";
+import { useEffect } from "react";
+import LinkedTagButton from "./LinkedTagButton";
+import Meta from "./Meta";
+import PostBodyContent from "./PostBodyContent";
 
-const prism = require('prismjs');
+const prism = require("prismjs");
 
 const FullPostDisplay = ({
   title,
@@ -28,13 +27,13 @@ const FullPostDisplay = ({
             {date.slice(0, 10)}
           </div>
           <h1 className="mt-3 mb-3 text-center text-3xl font-bold">
-            {title || ''}
+            {title || ""}
           </h1>
         </div>
         <div className="text-center">
           {tags.map((tag) => (
             <span key={tag}>
-              {' '}
+              {" "}
               <Link href={`/tags/${tag}`}>
                 <a>
                   <LinkedTagButton btnText={tag} />
@@ -45,9 +44,6 @@ const FullPostDisplay = ({
         </div>
         <div className="container mx-auto">
           <PostBodyContent content={content} />
-          <div>
-            <SubscribeGroup />
-          </div>
         </div>
       </article>
     </>
