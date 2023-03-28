@@ -3,6 +3,7 @@ import { useEffect } from "react";
 import LinkedTagButton from "./LinkedTagButton";
 import Meta from "./Meta";
 import PostBodyContent from "./PostBodyContent";
+import SubscribeGroup from "./SubscribeGroup";
 
 const prism = require("prismjs");
 
@@ -45,6 +46,7 @@ const FullPostDisplay = ({
         <div className="container mx-auto">
           <PostBodyContent content={content} />
         </div>
+        <SubscribeGroup />
       </article>
     </>
   );
