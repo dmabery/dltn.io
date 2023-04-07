@@ -1,21 +1,25 @@
 module.exports = {
   reactStrictMode: true,
-  images : {
-    domains:['images.ctfassets.net', 'res.cloudinary.com'],
-  
+  images: {
+    domains: ["images.ctfassets.net", "res.cloudinary.com"],
   },
   async redirects() {
     return [
       {
-        source: '/thoughts/:path*',
-        destination: '/posts/:path*',
+        source: "/thoughts/:path*",
+        destination: "/posts/:path*",
         permanent: true,
       },
       {
-        source: '/essays/:path*',
-        destination: '/posts/:path*',
-        permanent: true
-      }
-    ]
+        source: "/essays/:path*",
+        destination: "/posts/:path*",
+        permanent: true,
+      },
+      {
+        source: "/substack",
+        destination: "https://thewanderingreader.substack.com/",
+        permanent: true,
+      },
+    ];
   },
-}
+};
