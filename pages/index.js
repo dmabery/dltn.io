@@ -1,5 +1,4 @@
 /* eslint-disable react/no-unescaped-entities */
-import Link from "next/link";
 import Meta from "../components/Meta";
 import OutsideLink from "../components/OutsideLink";
 import PostListSimple from "../components/PostListSimple";
@@ -38,16 +37,19 @@ export default function Home({ posts, tags }) {
             out.
           </div>
           <div className="mb-3">
-            I spend my free time reading, learning, and writing about history's
-            greatest people, ideas, and inventions.
-          </div>
-          <div className="mb-3">
-            Every Friday, I send an email with five interesting ideas from
-            history, science, and philosophy. Read previous editions{" "}
+            Every Friday, I send an email with book notes and insights I learn
+            from biographies, memoirs, and other non-fiction reads. You can read
+            previous editions
             <span className="text-blue-700 hover:text-blue-900 hover:underline">
-              <Link href="221b">here</Link>
+              <a
+                href="https://thewanderingreader.substack.com/"
+                target="_blank"
+              >
+                {" "}
+                here
+              </a>
             </span>
-            . Subscribe below:
+            .
           </div>
           <Subscribe />
         </div>
