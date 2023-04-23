@@ -1,22 +1,22 @@
-import Link from 'next/link';
-import LinkText from './LinkText';
+import Link from "next/link";
+import LinkText from "./LinkText";
 
 const links = [
   {
-    title: 'writing',
-    slug: 'writing',
+    title: "writing",
+    slug: "writing",
   },
   {
-    title: 'notes',
-    slug: 'notes',
+    title: "notes",
+    slug: "notes",
   },
   {
-    title: 'newsletter',
-    slug: '221b',
+    title: "newsletter",
+    slug: "twr",
   },
   {
-    title: 'about',
-    slug: 'about',
+    title: "about",
+    slug: "about",
   },
 ];
 
