@@ -31,13 +31,12 @@ const AboutMe = () => (
         <a href="https://twitter.com/dltnio" rel="noreferrer" target="_blank">
           Twitter
         </a>
-        . In my free time, I run, read, and write code. I&#39;m studying to
-        become a software engineer. I currently have experience with React,
-        Tailwind, and Next.js
-      </p>
-      <p>
-        I love design, aesthetic, and making things beautiful. There is a
-        delicate balance I try to strike between minimalism and maximalism.
+        . In my free time, I run, read, and write code. I love media and
+        technology. I currently have experience with React, Tailwind, Ruby on
+        Rails, and Next.js. I&#39;m interested in the intersection between
+        legacy media operations and technology, and building meaningful media
+        businesses. My next job, when I feel ready for it, will be in software
+        development or media/journalism.
       </p>
       <p>
         I&#39;m curious about why things are the way that they are. Sayings,
@@ -80,18 +79,17 @@ const AboutMe = () => (
           <Link href="/notes">
             <a>an interesting book</a>
           </Link>{" "}
-          or <a href="https://github.com/dmabery">coding</a>. I&#39;m studying
-          to become a software engineer.
+          or <a href="https://github.com/dmabery">coding</a>.
         </li>
         <li>
-          Every Friday, I send a weekly newsletter with five interesting stories
-          from history. You can sign up{" "}
+          Every Friday, I send a weekly newsletter with lessons I learn from
+          books. You can sign up{" "}
           <Link href="/221b">
             <a>here.</a>
           </Link>
         </li>
         <li>
-          I also make{" "}
+          I used to make{" "}
           <a
             href="https://youtube.com/@dltnio"
             rel="noreferrer"
@@ -99,7 +97,7 @@ const AboutMe = () => (
           >
             videos on YouTube
           </a>
-          .
+          , but have put that on pause for now.
         </li>
       </ul>
       <h3 id="for-fun">For Fun</h3>
