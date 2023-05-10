@@ -24,14 +24,14 @@ const Newsletter = ({ posts }) => (
       <div className="prose col-span-2">
         <h2 className="text-3xl text-[#0C2059]">The 221b Newsletter</h2>
         <p>
-          Every Friday, I send an email with five interesting stories and ideas
-          from history that you (probably) won&apos;t learn anywhere else.
+          Every Friday, I send an email with unique insights, interesting
+          stories from history, and other cool stuff I find online.
         </p>
         <p>
           Subscribers have already learned about...
           <ul>
             <li>Thomas Edison&apos;s insane job applications</li>
-            <li>Why WInston Churchill demanded brevity from his staff</li>
+            <li>Why Winston Churchill demanded brevity from his staff</li>
             <li>
               Why the first detectives were nicknamed "The Devil&apos;s
               Disciples"
@@ -41,7 +41,7 @@ const Newsletter = ({ posts }) => (
         </p>
         <Subscribe />
       </div>
-      <div className="prose prose-a:text-blue-700">
+      <div className="prose col-span-2 prose-a:text-blue-700">
         <h2>Previous editions:</h2>
         {posts.map((post, index) => (
           <PostList
@@ -53,11 +53,6 @@ const Newsletter = ({ posts }) => (
             key={post.id}
           />
         ))}
-      </div>
-      <div className="prose">
-        <h2>What people are saying:</h2>
-        <p>&quot;Superb...completely loved it!&quot;</p>
-        <p>&quot;Love it all!&quot;</p>
       </div>
     </div>
   </>
