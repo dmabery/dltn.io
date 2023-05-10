@@ -1,4 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
+import Link from "next/link";
 import Meta from "../components/Meta";
 import OutsideLink from "../components/OutsideLink";
 import PostListSimple from "../components/PostListSimple";
@@ -38,16 +39,10 @@ export default function Home({ posts, tags }) {
           </div>
           <div className="mb-3">
             Every Friday, I send an email with insights, stories, and other cool
-            things I learn from reading books and researching online. You can
-            read previous editions
+            things I learn from reading books and researching online. Read
+            previous editions
             <span className="text-blue-700 hover:text-blue-900 hover:underline">
-              <a
-                href="https://thewanderingreader.substack.com/"
-                target="_blank"
-              >
-                {" "}
-                here
-              </a>
+              <Link href="/221b"> here</Link>
             </span>
             .
           </div>
