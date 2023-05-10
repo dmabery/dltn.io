@@ -37,9 +37,9 @@ export default function Home({ posts, tags }) {
             out.
           </div>
           <div className="mb-3">
-            Every Friday, I send an email with book notes and insights I learn
-            from biographies, memoirs, and other non-fiction reads. You can read
-            previous editions
+            Every Friday, I send an email with insights, stories, and other cool
+            things I learn from reading books and researching online. You can
+            read previous editions
             <span className="text-blue-700 hover:text-blue-900 hover:underline">
               <a
                 href="https://thewanderingreader.substack.com/"
