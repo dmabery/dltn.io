@@ -18,7 +18,7 @@ const Newsletter = ({ posts }) => (
     <Meta
       title="221b Newsletter"
       description="Because you don't need another newsletter about current events."
-      image="https://res.cloudinary.com/dde1q4ekv/image/upload/v1674759439/221b_OG_ifioi4.png"
+      image="https://res.cloudinary.com/dde1q4ekv/image/upload/v1676037429/og_image_danl2q.png"
     />
     <div className="grid max-w-screen-md grid-cols-1 gap-10 md:grid-cols-2">
       <div className="prose col-span-2">
