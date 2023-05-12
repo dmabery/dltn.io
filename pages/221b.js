@@ -24,8 +24,8 @@ const Newsletter = ({ posts }) => (
       <div className="prose col-span-2">
         <h2 className="text-3xl text-[#0C2059]">The 221b Newsletter</h2>
         <p>
-          Every Friday, I send an email with unique insights, interesting
-          stories from history, and other cool stuff I find online.
+          Every Friday, I send an email with five interesting insights, ideas,
+          and stories from the most unique thinkers from history and today.
         </p>
         <p>
           Subscribers have already learned about...
@@ -37,7 +37,7 @@ const Newsletter = ({ posts }) => (
               Disciples"
             </li>
           </ul>
-          And more. Subscribe below.
+          And more. Subscribe below to recieve new editions in your inbox.
         </p>
         <Subscribe />
       </div>

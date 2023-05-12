@@ -38,9 +38,9 @@ export default function Home({ posts, tags }) {
             out.
           </div>
           <div className="mb-3">
-            Every Friday, I send an email with insights, stories, and other cool
-            things I learn from reading books and researching online. Read
-            previous editions
+            Every Friday, I send an email with five interesting insights, ideas,
+            and stories from history's most unique thinkers. Subcribe below to
+            get new editions in your inbox. Read previous editions
             <span className="text-blue-700 hover:text-blue-900 hover:underline">
               <Link href="/221b"> here</Link>
             </span>
