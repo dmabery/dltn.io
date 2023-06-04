@@ -23,7 +23,7 @@ export default function Home({ posts, tags }) {
   if (!posts) return <h1>No posts</h1>;
   return (
     <>
-      <div className="flex flex-col ">
+      <div className="mx-auto flex max-w-screen-sm flex-col">
         <Meta
           title="Dalton Mabery"
           description="Developer, Video Editor, Writer."
@@ -31,7 +31,7 @@ export default function Home({ posts, tags }) {
         <h2 className="mb-3 text-3xl font-bold text-gray-900">
           Hi, I'm Dalton
         </h2>
-        <div className="font-sansSerif text-gray-900/90">
+        <div className=" text-gray-900/90">
           <div className="mb-3">
             I'm a <b>video editor</b> and <b>designer</b> who reads and writes
             about what I learn. I currently work at Farnam Street.

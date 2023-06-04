@@ -1,12 +1,12 @@
 /* eslint-disable react/no-unescaped-entities */
-import Image from 'next/image';
-import Link from 'next/link';
-import Meta from '../components/Meta';
-import PageTitle from '../components/PageTitle';
-import { getAllByType } from './api/notion';
+import Meta from "../components/Meta";
+import PageTitle from "../components/PageTitle";
+import PostCard from "../components/PostCard";
+import SideNote from "../components/SideNote";
+import { getAllByType } from "./api/notion";
 
 export const getStaticProps = async () => {
-  const data = await getAllByType('Book Notes');
+  const data = await getAllByType("Book Notes");
 
   return {
     props: {
@@ -26,29 +26,28 @@ const NoteList = ({ posts }) => (
       title="Book Notes"
       description={
         <div className="prose mt-3 mb-3 text-sm md:text-base">
-          <blockquote>
-            The more that you read, the more things you will know. The more that
-            you learn, the more places you’ll go. – Dr. Seuss
-          </blockquote>
+          <SideNote
+            title="Something to keep in mind..."
+            content="The more that you read, the more things you will know. The more that
+            you learn, the more places you'll go. – Dr. Seuss"
+          />
         </div>
       }
     />
-    <div className="grid-row grid grid-cols-2 content-center justify-items-center gap-4 sm:grid-cols-3 md:grid-cols-4">
-      {posts.map((post) => (
-        <Link href={`/posts/${post.slug}`} passHref key={post.id}>
-          <a>
-            <div className="transition-all hover:drop-shadow-lg">
-              <Image
-                className=""
-                alt={post.title}
-                src={post.image}
-                width={170}
-                height={250}
-              />
-            </div>
-          </a>
-        </Link>
-      ))}
+    <div className="">
+      <div className="mt-7 grid grid-cols-2 gap-6 md:grid-cols-3">
+        {posts.map((post, index) => (
+          <PostCard
+            title={post.title}
+            description={post.description}
+            date={post.date}
+            type={post.type}
+            slug={`/posts/${post.slug}`}
+            key={post.id}
+            image={post.image}
+          />
+        ))}
+      </div>
     </div>
   </>
 );
