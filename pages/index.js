@@ -23,7 +23,7 @@ export default function Home({ posts, tags }) {
   if (!posts) return <h1>No posts</h1>;
   return (
     <>
-      <div className="flex flex-col ">
+      <div className="mx-auto flex max-w-screen-sm flex-col">
         <Meta
           title="Dalton Mabery"
           description="Developer, Video Editor, Writer."
@@ -31,17 +31,15 @@ export default function Home({ posts, tags }) {
         <h2 className="mb-3 text-3xl font-bold text-gray-900">
           Hi, I'm Dalton
         </h2>
-        <div className="font-sansSerif text-gray-900/90">
+        <div className=" text-gray-900/90">
           <div className="mb-3">
-            I'm the <b>digital creator</b> and <b>designer</b> at Farnam Street.
-            We help people master the best of what others have already figured
-            out.
+            I'm a <b>video editor</b> and <b>designer</b> who reads and writes
+            about what I learn. I currently work at Farnam Street.
           </div>
           <div className="mb-3">
-            Every Friday, I send an email with five interesting insights, ideas,
-            and stories from history's most unique thinkers. Each idea will help
-            you think differently and live more deliberately. Subcribe below to
-            get new editions in your inbox. Read previous editions
+            Every Friday, I send an email with insights, stories, and other
+            interesting ideas I learn from reading books and researching online.
+            You can read previous editions
             <span className="text-blue-700 hover:text-blue-900 hover:underline">
               <Link href="/221b"> here</Link>
             </span>
