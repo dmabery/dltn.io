@@ -37,7 +37,7 @@ export default function Sidebar({ children }) {
             />
           </div>
         </div>
-        <div className="col-span-2 pl-5">{children}</div>
+        <div className="col-span-2 md:pl-5">{children}</div>
       </div>
     </>
   );
