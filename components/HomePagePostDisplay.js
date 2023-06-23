@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { useEffect } from "react";
 import LinkedTagButton from "./LinkedTagButton";
-import Meta from "./Meta";
 import PostBodyContent from "./PostBodyContent";
 import SubscribeGroup from "./SubscribeGroup";
 const prism = require("prismjs");
@@ -20,7 +19,6 @@ const HomePagePostDisplay = ({
 
   return (
     <>
-      <Meta title={title} description={description} image={image} />
       <article className="text-neutral-300">
         <div className="border-b p-0 pb-5 text-gray-900/90">
           <h1 className="mb-1 text-3xl font-bold">{title || ""}</h1>

@@ -5,8 +5,8 @@ import Subscribe from "../components/Subscribe";
 export default function Sidebar({ children }) {
   return (
     <>
-      <div className="grid grid-cols-1 divide-x md:grid-cols-4">
-        <div className="col-span-1 pr-5 text-sm">
+      <div className="p grid grid-cols-1 md:grid-cols-4 md:divide-x">
+        <div className="col-span-1 mb-5 rounded bg-neutral-100 p-5 text-sm md:border-none md:bg-[#fafaf9] md:p-0 md:pr-5">
           <h2 className="mb-3 text-xl font-bold text-gray-900">
             Hi, I'm Dalton
           </h2>
@@ -26,7 +26,7 @@ export default function Sidebar({ children }) {
             </div>
             <Subscribe />
           </div>
-          <div>
+          <div className="mt-3">
             <OutsideLink
               link="https://www.twitter.com/dltnio"
               text="follow me on twitter"
