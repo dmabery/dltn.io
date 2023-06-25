@@ -2,7 +2,6 @@ import Link from "next/link";
 import { useEffect } from "react";
 import LinkedTagButton from "./LinkedTagButton";
 import PostBodyContent from "./PostBodyContent";
-import SubscribeGroup from "./SubscribeGroup";
 const prism = require("prismjs");
 
 const HomePagePostDisplay = ({
@@ -20,7 +19,7 @@ const HomePagePostDisplay = ({
 
   return (
     <>
-      <article className="text-neutral-300">
+      <article>
         <div className="border-b p-0 pb-5 text-gray-900/90">
           <Link href={`/posts/${slug}`}>
             <a className="mb-1 font-serif text-3xl font-bold">{title || ""}</a>
@@ -42,7 +41,6 @@ const HomePagePostDisplay = ({
             </span>
           ))}
         </div>
-        <SubscribeGroup />
       </article>
     </>
   );
