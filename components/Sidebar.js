@@ -1,8 +1,8 @@
 import Link from "next/link";
-import OutsideLink from "../components/OutsideLink";
 import Subscribe from "../components/Subscribe";
 
-export default function Sidebar({ children }) {
+export default function Sidebar({ children, left, post }) {
+  console.log(post);
   return (
     <>
       <div className="p grid grid-cols-1 md:grid-cols-4 md:divide-x">
@@ -26,18 +26,23 @@ export default function Sidebar({ children }) {
             </div>
             <Subscribe />
           </div>
-          <div className="mt-3">
-            <OutsideLink
-              link="https://www.twitter.com/dltnio"
-              text="follow me on twitter"
-            />
-            <OutsideLink
-              link="https://youtube.com/@dltnio"
-              text="subscribe on youtube"
-            />
-          </div>
         </div>
-        <div className="col-span-2 md:pl-5">{children}</div>
+        <div className="col-span-2 md:px-5">{children}</div>
+        <div className="mt-5 text-sm md:mt-0 md:pl-5">
+          <h2 className="mb-3 text-xl font-bold text-gray-900">Quick Links</h2>
+          <ul className="text-blue-600">
+            <li>
+              <a href="https://twitter.com/dltnio" target="_blank">
+                Follow me on Twitter
+              </a>
+            </li>
+            <li>
+              <a href="https://twitter.com/dltnio" target="_blank">
+                Read my newsletter
+              </a>
+            </li>
+          </ul>
+        </div>
       </div>
     </>
   );

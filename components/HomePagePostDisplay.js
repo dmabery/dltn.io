@@ -12,6 +12,7 @@ const HomePagePostDisplay = ({
   date,
   tags,
   content,
+  slug,
 }) => {
   useEffect(() => {
     prism.highlightAll();
@@ -21,7 +22,9 @@ const HomePagePostDisplay = ({
     <>
       <article className="text-neutral-300">
         <div className="border-b p-0 pb-5 text-gray-900/90">
-          <h1 className="mb-1 text-3xl font-bold">{title || ""}</h1>
+          <Link href={`/posts/${slug}`}>
+            <a className="mb-1 font-serif text-3xl font-bold">{title || ""}</a>
+          </Link>
           <div className="text-xs text-slate-500">{date.slice(0, 10)}</div>
         </div>
         <div>

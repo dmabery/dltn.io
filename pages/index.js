@@ -6,7 +6,6 @@ import { getAllPublished, getSingleBlogPostBySlug } from "./api/notion";
 export const getStaticProps = async () => {
   const posts = await getAllPublished();
   const data = await getSingleBlogPostBySlug(posts[0].slug);
-  console.log(data);
   return {
     props: {
       post: data,
@@ -31,6 +30,7 @@ export default function Home({ post, tags }) {
         date={post.metadata.date}
         content={post.markdown}
         image={post.metadata.image}
+        slug={post.metadata.slug}
       />
     </>
   );
