@@ -39,7 +39,10 @@ export default function Sidebar({ children, left, post }) {
               </a>
             </li>
             <li>
-              <a href="https://twitter.com/dltnio" target="_blank">
+              <a
+                href="https://thewanderingreader.substack.com/"
+                target="_blank"
+              >
                 Read my newsletter
               </a>
             </li>
