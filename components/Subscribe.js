@@ -32,7 +32,7 @@ const Subscribe = ({ title, placeholder }) => {
   });
 
   const inputClass = classNames({
-    "text-sm appearance-none rounded bg-gray-200/80 w-full text-gray-900/80 mr-1 py-2 px-2 leading-tight focus:border-gray-900": true,
+    "text-sm appearance-none rounded bg-white w-full text-gray-900/80 mr-1 py-2 px-2 leading-tight focus:border-gray-900": true,
     "opacity-100 cursor-not-allowed": isLoading,
   });
 
