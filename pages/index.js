@@ -5,33 +5,40 @@ import { getAllPublished, getSingleBlogPostBySlug } from "./api/notion";
 
 export const getStaticProps = async () => {
   const posts = await getAllPublished();
-  const data = await getSingleBlogPostBySlug(posts[0].slug);
+  var data = [];
+  for (var i = 0; i < 5; i++) {
+    data.push(await getSingleBlogPostBySlug(posts[i].slug));
+  }
   return {
     props: {
-      post: data,
+      posts: data,
     },
     revalidate: 60,
   };
 };
 
-export default function Home({ post, tags }) {
-  if (!post) return <h1>No posts</h1>;
-  console.log(post);
+export default function Home({ posts, tags }) {
+  if (!posts) return <h1>No posts</h1>;
+  console.log(posts);
   return (
     <>
       <Meta
         title="Dalton Mabery is a video editor who reads and writes."
         description="Developer, Video Editor, Writer."
       />
-      <HomePagePostDisplay
-        title={post.metadata.title}
-        tags={post.metadata.tags}
-        description={post.metadata.description}
-        date={post.metadata.date}
-        content={post.markdown}
-        image={post.metadata.image}
-        slug={post.metadata.slug}
-      />
+      <div className="flex flex-col gap-10">
+        {posts.map((post) => (
+          <HomePagePostDisplay
+            title={post.metadata.title}
+            tags={post.metadata.tags}
+            description={post.metadata.description}
+            date={post.metadata.date}
+            content={post.markdown}
+            image={post.metadata.image}
+            slug={post.metadata.slug}
+          />
+        ))}
+      </div>
     </>
   );
 }
