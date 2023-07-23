@@ -9,6 +9,7 @@ module.exports = {
     extend: {
       colors: {
         secondaryBlue: "#E5EBF0",
+        grayAccent: "rgba(224, 224, 224, 0.63)",
       },
       typography: {
         quoteless: {
@@ -20,10 +21,10 @@ module.exports = {
       },
     },
     fontFamily: {
-      heading: ["p22-mackinac-pro", "sans serif"],
-      body: ["Lora", "serif"],
+      heading: ["Newsreader", "sans serif"],
+      body: ["Newsreader", "serif"],
       mono: ["Inconsolata", "monospace"],
-      serif: ["Lora", "serif"],
+      serif: ["Newsreader", "serif"],
       sansSerif: ["Inter", "Sans Serif"],
     },
   },

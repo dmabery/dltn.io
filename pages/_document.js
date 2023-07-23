@@ -1,4 +1,4 @@
-import { Head, Html, Main, NextScript } from "next/document";
+import { Head, Html, NextScript } from "next/document";
 
 export default function Document() {
   return (
@@ -11,8 +11,7 @@ export default function Document() {
           crossOrigin="anonymous"
         />
       </Head>
-      <body className="p-5 md:p-0">
-        <Main />
+      <body className="md:m-3">
         <NextScript />
       </body>
     </Html>

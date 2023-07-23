@@ -21,15 +21,15 @@ const links = [
 ];
 
 const Nav = () => (
-  <nav className="mt-5 flex flex-col items-center justify-between md:flex-row">
-    <div className="mb-2 flex items-center">
-      <div className="font-serif text-2xl font-bold">
+  <nav className="flex flex-col items-center justify-between bg-[#191919] px-3 py-3 md:flex-row">
+    <div className="flex items-center">
+      <div className="font-serif text-4xl font-bold">
         <Link href="/">
-          <a className="text-zinc-900/90">d.</a>
+          <a className="text-white">d.</a>
         </Link>
       </div>
     </div>
-    <div className="row flex space-x-3">
+    <div className="row flex space-x-4">
       {links.map((link) => (
         <LinkText
           slug={`/${link.slug}`}
