@@ -86,3 +86,11 @@ a:hover {
 	background-size: 27px 27px;
   transition: all;
 }
+
+.tags{
+  display: flex;
+  list-style: none;
+}
+.tag ~ .tag::before{
+  content: ", ";
+}

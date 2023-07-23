@@ -8,8 +8,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        secondaryBlue: "#E5EBF0",
+        bodyText: "#111827",
         grayAccent: "rgba(224, 224, 224, 0.63)",
+        customBlack: "#191919",
       },
       typography: {
         quoteless: {
