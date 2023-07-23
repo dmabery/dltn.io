@@ -10,6 +10,14 @@ module.exports = {
       colors: {
         secondaryBlue: "#E5EBF0",
       },
+      typography: {
+        quoteless: {
+          css: {
+            "blockquote p:first-of-type::before": { content: "none" },
+            "blockquote p:first-of-type::after": { content: "none" },
+          },
+        },
+      },
     },
     fontFamily: {
       heading: ["p22-mackinac-pro", "sans serif"],
