@@ -12,93 +12,101 @@ const AboutMe = () => (
     <div className="container prose text-gray-800 underline-offset-2 prose-h1:leading-tight prose-h2:text-3xl prose-h2:text-[#0C2059] prose-h3:text-2xl prose-h3:text-[#263459] prose-h4:text-xl prose-h4:text-[#263459] prose-a:text-blue-700 prose-a:no-underline hover:prose-a:text-blue-900 hover:prose-a:underline prose-blockquote:border-red-500 prose-blockquote:pl-5 prose-blockquote:font-normal prose-blockquote:not-italic prose-blockquote:leading-normal prose-blockquote:text-neutral-900 prose-code:text-white prose-pre:font-normal sm:prose-h1:leading-tight">
       <SideNote
         title="👋 Say hi!"
-        content="I'm always looking for more people to talk about cool ideas with. Just send me an email: maberydalton@gmail.com."
+        content="I'm always looking for interesting people to talk to. If you have a book reccommendation, or just want to say hey, send me an email: maberydalton@gmail.com"
       />
       <h1 id=""></h1>
       <p>
-        I&#39;m a professional video editor and designer with four years of
-        social media experience. I have a degree in Digital Media and Design
-        from Southeastern University. I&#39;m studying to get my Masters in
-        English and Creative Writing and currently work for 
-        <a href="https://fs.blog/">Farnam Street</a>. I also 
-        <a href="https://www.dltn.io/writing">write online</a>
-         and share interesting quotes and ideas on 
-        <a href="https://twitter.com/dltnio">Twitter</a>. I love words, books,
-        and ideas. I have a dream of designing old, out-of-print books and
-        editing a literary magazine. I&#39;m curious about why things are the
-        way that they are. Sayings, names, standards, rules; there&#39;s often a
-        fascinating backstory behind them all. I like to learn those stories and
-        share them with others.
+        I'm a professional video editor and designer, working on podcasts,
+        YouTube, and social media. I hold a degree in Digital Media and Design
+        from Southeastern University and am currently pursuing my Masters in
+        English and Creative Writing.
       </p>
-      <h4 id="for-work">For work</h4>
+      <p>
+        Currently, I work for <a href="https://fs.blog/">Farnam Street</a>. In
+        addition to my work there, I also
+        <a href="https://www.dltn.io/writing"> write online</a> and share
+        interesting quotes and ideas on
+        <a href="https://twitter.com/dltnio"> Twitter</a>. I have a profound
+        love for words, books, and ideas. When I'm not working or running,
+        you'll find me reading or writing. My favorite literary genre is
+        narrative non-fiction; I greatly admire David McCullough for his
+        remarkable work. He's my hero.
+      </p>
+      <p>
+        While my current focus is on video and digital media, my ultimate
+        aspiration is to transition into the world of publishing, where I can
+        indulge in reading, writing, and editing.
+      </p>
+
+      <h3>For Work</h3>
       <ul>
         <li>
-          I&#39;m the Senior Digital Creator at 
-          <a href="https://fs.blog/">Farnam Street</a>. I spend most of my time
-          making videos for and operating our 
+          I am the Senior Digital Creator at{" "}
+          <a href="https://fs.blog/">Farnam Street</a>. My primary
+          responsibilities include creating videos for and managing our{" "}
           <a href="https://www.youtube.com/channel/UCLtTf_uKt0Itd0NG7txrwXA">
-            podcast&#39;s YouTube channel
+            podcast's YouTube channel
           </a>
-          . When I&#39;m not doing that, I work on 
-          <a href="https://www.youtube.com/watch?v=k_zt6qRTmN0">
-            writing scripts and editing videos
-          </a>
-           from our extensive blog content. I also run the social accounts for 
-          <a href="https://twitter.com/farnamstreet">Farnam Street</a>
-           and 
+          . Additionally, I write scripts and edit videos using our vast blog
+          content. I also oversee the social media accounts for{" "}
+          <a href="https://twitter.com/farnamstreet">Farnam Street</a> and
           <a href="https://www.instagram.com/tkppodcast/">
             The Knowledge Project
           </a>
-          .
+          . I also manage the bi-weekly production and release of new podcast
+          episodes.
         </li>
       </ul>
-      <h4 id="for-work">For side projects</h4>
+
+      <h3>For Side Projects</h3>
       <ul>
         <li>
-          When I&#39;m not working, I&#39;m either reading 
-          <a href="https://www.dltn.io/notes">an interesting book</a>
-           or 
-          <a href="https://github.com/dmabery">coding</a>.
+          During my leisure time, you'll find men{" "}
+          <a href="https://www.dltn.io/notes">reading</a>
+          or <a href="https://github.com/dmabery">coding</a>.
         </li>
         <li>
-          Every Friday, I send a weekly newsletter with lessons I learn from
-          books. You can sign up 
-          <a href="https://www.dltn.io/221b">here.</a>
+          Every Friday, I send out a weekly newsletter sharing valuable lessons
+          I learn from books. You can sign up
+          <a href="https://www.dltn.io/221b"> here</a>.
         </li>
         <li>
-          I used to make 
-          <a href="https://youtube.com/@dltnio">videos on YouTube</a>, but have
-          put that on pause for now.
+          I used to create{" "}
+          <a href="https://youtube.com/@dltnio">videos on YouTube</a>, but for
+          now, I've put that on pause.
         </li>
       </ul>
-      <h4 id="for-work">For fun</h4>
+
+      <h3>For Fun</h3>
       <ul>
         <li>
-          Away from my computer or a book, I either play golf, watch golf, run,
-          or hang out with friends and family. My main leisure activities are
-          golf and running.
+          When I'm not indulging in books or working, you can find me playing
+          golf, watching golf, running, or spending quality time with friends
+          and family. Golf and running are my main leisure activities, apart
+          from reading.
         </li>
         <li>
-          I realized lately I love to work out like I&#39;m in prison (my friend
+          I realized lately I love to work out like I'm in prison (my friend
           Ryan Burns used that description of himself and I loved it). I run,
           use TRX bands in my office, do push ups, some ab workouts, and a
           stretching routine every morning. I love running because I sweat and
-          when I sweat I think better. I also think it&#39;s the best way to
-          increase your mental discipline. As Seneca said, &quot;We treat the
-          body rigorously so that it may not be disobedient to the mind&quot;.
+          when I sweat I think better. I also think it's the best way to
+          increase your mental discipline. As Seneca said, "We treat the body
+          rigorously so that it may not be disobedient to the mind".
         </li>
       </ul>
+      <h3>Not so short bio</h3>
       <p>
-        Not so short bio I try to understand how things work and explain them to
-        other people. This site is is a record of my becoming of a person as I
-        explore the intellectual, creative, philosophical, and spiritual
-        questions in this world through extensive research of literature -- both
-        young and old. A private journey made public in seek of the one true
-        question we all ask at some point: who am I and what is all this?
-        Whenever I can refer to wisdom from those who lived before me, I do. The
-        following quote comes from Will Durant in The Map of Human Character and
-        was the first time I was able to assign words to the inner motivation
-        that drives me -- how can we best make sense of everything in the world?
+        I try to understand how things work and explain them to other people.
+        This site is is a record of my becoming of a person as I explore the
+        intellectual, creative, philosophical, and spiritual questions in this
+        world through extensive research of literature -- both young and old. A
+        private journey made public in seek of the one true question we all ask
+        at some point: who am I and what is all this? Whenever I can refer to
+        wisdom from those who lived before me, I do. The following quote comes
+        from Will Durant in The Map of Human Character and was the first time I
+        was able to assign words to the inner motivation that drives me -- how
+        can we best make sense of everything in the world?
       </p>
       <blockquote>
         <p>
