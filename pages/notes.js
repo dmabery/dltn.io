@@ -1,7 +1,8 @@
 /* eslint-disable react/no-unescaped-entities */
+import Image from "next/image";
+import Link from "next/link";
 import Meta from "../components/Meta";
 import PageTitle from "../components/PageTitle";
-import PostCard from "../components/PostCard";
 import SideNote from "../components/SideNote";
 import { getAllByType } from "./api/notion";
 
@@ -35,17 +36,19 @@ const NoteList = ({ posts }) => (
       }
     />
     <div className="">
-      <div className="mt-7 grid grid-cols-2 gap-6 md:grid-cols-3">
+      <div className="mt-7 grid grid-cols-3 gap-6">
         {posts.map((post, index) => (
-          <PostCard
-            title={post.title}
-            description={post.description}
-            date={post.date}
-            type={post.type}
-            slug={`/posts/${post.slug}`}
-            key={post.id}
-            image={post.image}
-          />
+          <Link href={`/posts/${post.slug}`}>
+            <a className="transition-all hover:scale-105">
+              <Image
+                key={post.id}
+                src={post.image}
+                layout="responsive"
+                height={75}
+                width={50}
+              />
+            </a>
+          </Link>
         ))}
       </div>
     </div>

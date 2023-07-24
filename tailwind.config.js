@@ -8,14 +8,24 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        secondaryBlue: "#E5EBF0",
+        bodyText: "#111827",
+        grayAccent: "rgba(224, 224, 224, 0.63)",
+        customBlack: "#191919",
+      },
+      typography: {
+        quoteless: {
+          css: {
+            "blockquote p:first-of-type::before": { content: "none" },
+            "blockquote p:first-of-type::after": { content: "none" },
+          },
+        },
       },
     },
     fontFamily: {
-      heading: ["p22-mackinac-pro", "sans serif"],
-      body: ["Lora", "serif"],
+      heading: ["Newsreader", "sans serif"],
+      body: ["Newsreader", "serif"],
       mono: ["Inconsolata", "monospace"],
-      serif: ["Lora", "serif"],
+      serif: ["Newsreader", "serif"],
       sansSerif: ["Inter", "Sans Serif"],
     },
   },

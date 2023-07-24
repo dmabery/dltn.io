@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;500&family=Lora:wght@400;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
 @import url("https://use.typekit.net/nin2jpr.css");
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,700;0,800;1,400;1,700;1,800&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -9,7 +10,7 @@
 html,
 body {
   margin: 0;
-  font-family: 'Inter', BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: 'Newsreader', BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   background-color: #fafaf9;
 }
@@ -84,4 +85,12 @@ a:hover {
 	background: linear-gradient(-45deg, #94a3b8 25%, #2563eb 25%, #2563eb 50%, #94a3b8 50%, #94a3b8 75%, #2563eb 75%);
 	background-size: 27px 27px;
   transition: all;
+}
+
+.tags{
+  display: flex;
+  list-style: none;
+}
+.tag ~ .tag::before{
+  content: ", ";
 }
