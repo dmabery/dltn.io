@@ -12,7 +12,7 @@ const links = [
   },
   {
     title: "newsletter",
-    slug: "221b",
+    slug: "twr",
   },
   {
     title: "about",
