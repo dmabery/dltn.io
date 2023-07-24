@@ -1,5 +1,6 @@
-import FullPostDisplay from '../../components/FullPostDisplay';
-import { getAllPublished, getSingleBlogPostBySlug } from '../api/notion';
+import HomePagePostDisplay from "../../components/HomePagePostDisplay";
+import Meta from "../../components/Meta";
+import { getAllPublished, getSingleBlogPostBySlug } from "../api/notion";
 
 export const getStaticProps = async ({ params }) => {
   const post = await getSingleBlogPostBySlug(params.slug);
@@ -16,7 +17,7 @@ export const getStaticPaths = async () => {
   const paths = posts.map(({ slug }) => ({ params: { slug } }));
   return {
     paths,
-    fallback: 'blocking',
+    fallback: "blocking",
   };
 };
 
@@ -24,7 +25,12 @@ const BlogPost = ({ post }) => {
   if (!post) return <h1>No posts</h1>;
   return (
     <section>
-      <FullPostDisplay
+      <Meta
+        title={post.metadata.title}
+        description={post.metadata.description}
+        image={post.metadata.image}
+      />
+      <HomePagePostDisplay
         title={post.metadata.title}
         tags={post.metadata.tags}
         description={post.metadata.description}
