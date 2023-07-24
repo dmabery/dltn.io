@@ -24,6 +24,11 @@ const BlogPost = ({ post }) => {
   if (!post) return <h1>No posts</h1>;
   return (
     <section>
+      <Meta
+        title={post.metadata.title}
+        description={post.metadata.description}
+        image={post.metadata.image}
+      />
       <HomePagePostDisplay
         title={post.metadata.title}
         tags={post.metadata.tags}
