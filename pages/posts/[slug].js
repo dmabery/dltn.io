@@ -1,4 +1,5 @@
 import HomePagePostDisplay from "../../components/HomePagePostDisplay";
+import Meta from "../../components/Meta";
 import { getAllPublished, getSingleBlogPostBySlug } from "../api/notion";
 
 export const getStaticProps = async ({ params }) => {
