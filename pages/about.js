@@ -28,9 +28,9 @@ const AboutMe = () => (
         interesting quotes and ideas on
         <a href="https://twitter.com/dltnio"> Twitter</a>. I have a profound
         love for words, books, and ideas. When I'm not working or running,
-        you'll find me reading or writing. My favorite literary genre is
-        narrative non-fiction; I greatly admire David McCullough for his
-        remarkable work. He's my hero.
+        you'll find me reading, coding, or writing. I have experience in React
+        and NextJS. My favorite literary genre is narrative non-fiction; I
+        greatly admire David McCullough for his remarkable work. He's my hero.
       </p>
       <p>
         While my current focus is on video and digital media, my ultimate
@@ -63,7 +63,7 @@ const AboutMe = () => (
         <li>
           During my leisure time, you'll find men{" "}
           <a href="https://www.dltn.io/notes">reading</a>
-          or <a href="https://github.com/dmabery">coding</a>.
+          or <a href="https://github.com/dmabery"> coding</a>.
         </li>
         <li>
           Every Friday, I send out a weekly newsletter sharing valuable lessons
