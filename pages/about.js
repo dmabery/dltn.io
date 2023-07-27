@@ -12,14 +12,15 @@ const AboutMe = () => (
     <div className="container prose text-gray-800 underline-offset-2 prose-h1:leading-tight prose-h2:text-3xl prose-h2:text-[#0C2059] prose-h3:text-2xl prose-h3:text-[#263459] prose-h4:text-xl prose-h4:text-[#263459] prose-a:text-blue-700 prose-a:no-underline hover:prose-a:text-blue-900 hover:prose-a:underline prose-blockquote:border-red-500 prose-blockquote:pl-5 prose-blockquote:font-normal prose-blockquote:not-italic prose-blockquote:leading-normal prose-blockquote:text-neutral-900 prose-code:text-white prose-pre:font-normal sm:prose-h1:leading-tight">
       <SideNote
         title="👋 Say hi!"
-        content="I'm always looking for interesting people to talk to. If you have a book reccommendation, or just want to say hey, send me an email: maberydalton@gmail.com"
+        content="I&#39;m always looking for interesting people to talk to. If you have a book reccommendation, or just want to say hey, send me an email: maberydalton@gmail.com"
       />
       <h1 id=""></h1>
       <p>
-        I'm a professional video editor and designer, working on podcasts,
+        I&#39;m a professional video editor and designer, working on podcasts,
         YouTube, and social media. I hold a degree in Digital Media and Design
         from Southeastern University and am currently pursuing my Masters in
-        English and Creative Writing.
+        English and Creative Writing. I&#39;m interested in books, history,
+        science, and computers.
       </p>
       <p>
         Currently, I work for <a href="https://fs.blog/">Farnam Street</a>. In
@@ -27,10 +28,11 @@ const AboutMe = () => (
         <a href="https://www.dltn.io/writing"> write online</a> and share
         interesting quotes and ideas on
         <a href="https://twitter.com/dltnio"> Twitter</a>. I have a profound
-        love for words, books, and ideas. When I'm not working or running,
-        you'll find me reading, coding, or writing. I have experience in React
-        and NextJS. My favorite literary genre is narrative non-fiction; I
-        greatly admire David McCullough for his remarkable work. He's my hero.
+        love for words, books, and ideas. When I&#39;m not working or running,
+        you&#39;ll find me reading, coding, or writing. I have experience in
+        React and NextJS. My favorite literary genre is narrative non-fiction; I
+        greatly admire David McCullough for his remarkable work. He&#39;s my
+        hero.
       </p>
       <p>
         While my current focus is on video and digital media, my ultimate
@@ -41,11 +43,11 @@ const AboutMe = () => (
       <h3>For Work</h3>
       <ul>
         <li>
-          I am the Senior Digital Creator at{" "}
+          I&#39;m the Senior Digital Creator at{" "}
           <a href="https://fs.blog/">Farnam Street</a>. My primary
           responsibilities include creating videos for and managing our{" "}
           <a href="https://www.youtube.com/channel/UCLtTf_uKt0Itd0NG7txrwXA">
-            podcast's YouTube channel
+            podcast&#39;s YouTube channel
           </a>
           . Additionally, I write scripts and edit videos using our vast blog
           content. I also oversee the social media accounts for{" "}
@@ -61,7 +63,7 @@ const AboutMe = () => (
       <h3>For Side Projects</h3>
       <ul>
         <li>
-          During my leisure time, you'll find men{" "}
+          During my leisure time, you&#39;ll find men{" "}
           <a href="https://www.dltn.io/notes">reading</a>
           or <a href="https://github.com/dmabery"> coding</a>.
         </li>
@@ -73,24 +75,24 @@ const AboutMe = () => (
         <li>
           I used to create{" "}
           <a href="https://youtube.com/@dltnio">videos on YouTube</a>, but for
-          now, I've put that on pause.
+          now, I&#39;ve put that on pause.
         </li>
       </ul>
 
       <h3>For Fun</h3>
       <ul>
         <li>
-          When I'm not indulging in books or working, you can find me playing
-          golf, watching golf, running, or spending quality time with friends
-          and family. Golf and running are my main leisure activities, apart
-          from reading.
+          When I&#39;m not indulging in books or working, you can find me
+          playing golf, watching golf, running, or spending quality time with
+          friends and family. Golf and running are my main leisure activities,
+          apart from reading.
         </li>
         <li>
-          I realized lately I love to work out like I'm in prison (my friend
+          I realized lately I love to work out like I&#39;m in prison (my friend
           Ryan Burns used that description of himself and I loved it). I run,
           use TRX bands in my office, do push ups, some ab workouts, and a
           stretching routine every morning. I love running because I sweat and
-          when I sweat I think better. I also think it's the best way to
+          when I sweat I think better. I also think it&#39;s the best way to
           increase your mental discipline. As Seneca said, "We treat the body
           rigorously so that it may not be disobedient to the mind".
         </li>
