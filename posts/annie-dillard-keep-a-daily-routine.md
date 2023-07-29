@@ -4,6 +4,7 @@ Tags: ['life', 'writing']
 Date: "March 3, 2023"
 Description: "How you spend your day is how you spend your life."
 Published: False
+Slug: "annie-dillard-keep-a-daily-routine"
 ---
 
 Whenever great artists talk about their craft, I pay attention. The meta-analyses on why they do what they do (and how) is refreshing because there is rarely a trick. There’s no praying to a special creative god to give them powers or spell they cast on their typewriter. It’s often that they just show up, work, leave, and repeat.

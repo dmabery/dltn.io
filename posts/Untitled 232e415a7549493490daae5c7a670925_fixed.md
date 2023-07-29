@@ -1,3 +1,0 @@
----
-Title: "Untitled"
-Published: False

@@ -7,7 +7,6 @@ Published: True
 Slug: "2-habits-for-a-better-intellectual-life"
 Type: "Essay"
 ---
----
 User [TurnTrout](https://www.lesswrong.com/posts/2GxhAyn9aHqukap2S/looking-back-on-my-alignment-phd) posted their reflection on attaining a PhD in the *LessWrong* community recently. I've been debating going back to school for a Masters and PhD but can't determine the fundamental benefits other than a structured learning environment, peer group, and a bit of a social flex. I don't think those are the right reasons to go back to school, but maybe they are?
 
 The post was brilliant and well-written. [I implore you to read the whole thing](https://www.lesswrong.com/posts/2GxhAyn9aHqukap2S/looking-back-on-my-alignment-phd). The most concrete advice was towards the end, where they outlined habits they had wished to practice more regularly. I thought the habits were practical even outside of academia and, if practiced more regularly by more people, would make for better conversations.

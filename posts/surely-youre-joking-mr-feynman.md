@@ -1,5 +1,5 @@
 ---
-Title: "-"
+Title: "Surely You're Joking Mr. Feynman by Richard Feynman"
 Tags: ['book', 'science']
 Date: "April 6, 2023"
 Description: "Book notes."
@@ -7,7 +7,6 @@ Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1683751122/35167685_f
 Published: True
 Slug: "surely-youre-joking-mr-feynman"
 Type: "Book Notes"
----
 ---
 
 *You can read more structured notes [on this book here](https://thewanderingreader.substack.com/p/he-wasnt-like-other-scientists). It was originally posted on my newsletter.*
@@ -59,19 +58,19 @@ Feynman famously bashed the mission statement of the Institute for Advanced Stud
 IAS was started as a research institution. It promised to provide a salary and a place to work for the most brilliant minds in science and math without the hinderance of teaching courses, as was the custom with most universities. Feynman hated this.
 
 > I don’t believe I can really do without teaching. The reason is, I have to have something so that when I don’t have any ideas and I’m not getting anywhere I can say to myself, ‘At least I’m living; at least I’m *****doing***** something; I’m making ****some**** contribution.
-> 
+>
 
 > When I was at Princeton in the 1940s I could see what happened to those great minds at the Institute for Advanced Study, who had been specifically selected for their tremendous brains and were now given this opportunity to sit in this lovely house by the woods there, with no classes to teach, with no obligations whatsoever. These poor bastards could now sit and think clearly all by themselves, OK? So they don’t get an idea for awhile: They have every opportunity to do something, and they’re not getting ideas. I believe in a situation like this a kind of guilt or depressions worms inside of you, and you begin to *****worry***** about not getting any ideas. And nothing happens. Still no ideas come. Nothing happens when there’s not enough ****real**** activity and challenge: You’re not in contact with the experimental guys. You don’t have to think how to answer questions from the students. Nothing!
-> 
+>
 
 > In any thinking process there are moments when everything is going good and you’ve got wonderful ideas. Teaching is an interruption, and so it’s the greatest pain in the neck in the world. And then there are the ******longer****** periods of time when not much is coming to you. You’re not getting any ideas, and if you’re doing nothing at all, it drives you nuts! You can’t even say “Well, at least I’m teaching my class.”
-> 
+>
 
 > If you’re teaching a class, you can think about the elementary things you know very well. These things are kind of fun and delightful. It doesn’t do any harm to think them over again. Is there a better way to present them? Are there any new problems associated with them? Are there any new thoughts you can make about them? The elementary things are ****easy**** to think about; if you can’t think of a new thought, no harm done; what you thought about it before is good enough for the class. If you ***do*** think of something new, you’re rather pleased that you have a new way of looking at it.
-> 
+>
 
 > The questions of the students are often the source of new research. They often ask profound questions that I’ve thought about at times and then given up on, so to speak, for a while. It wouldn’t do me any harm to think about them again and see if I can go any further now. The students may not be able to see the thing I want to answer, or the subtleties I want to think about, but they ******remind****** me of a problem by asking questions in the neighborhood of that problem. It’s not so easy to remind *******yourself******* of these things.
-> 
+>
 
 ---
 

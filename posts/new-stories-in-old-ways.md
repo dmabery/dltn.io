@@ -4,6 +4,7 @@ Tags: ['history', 'writing']
 Date: "June 6, 2023"
 Published: False
 Type: "Essay"
+Slug: "new-stories-in-old-ways"
 ---
 
 I spent the afternoon walking around the Hoover Institute at Stanford University today. My mission was to find and a piece of a lifeboat from the RMS **********Lusitania**********. While reading *******Dead Wake******* by Erik Larson, I learned it was there.
@@ -17,7 +18,7 @@ Larson writes a particular style of books called narrative non-fiction. Everythi
 [Larson believes](https://lithub.com/erik-larson-on-finding-a-new-angle-on-history/) there’s always a new way to tell an old story. At breakfast with the director of the International Churchill Society, Larson explains he was dubiously questioned about his motivations for adding yet another Churchill biography. “Well, look,” he said, “It’s all in the telling.
 
 > I wanted to write about how the Churchill family and their close advisers—who were like family—how they actually got through the Blitz, day to day, in that first year of his prime ministry, which happened to coincide with the first year of, and most important year of, the German air campaign. I wanted to know how these guys did it on a day-to-day basis, and their families—what they had for dinner and all that.
-> 
+>
 
 The narrative began to take shape when Larson received access to Churchill’s daughter’s diary. Mary, who was 17-years-old at the time, Larson explained, “[L]iked to have fun. You know, she liked to go to dances with the RAF guys; a couple of times she mentions snogging in the hay loft. That was exactly what I was trying to get at, was, how did people actually do it, how did they cope?”
 
