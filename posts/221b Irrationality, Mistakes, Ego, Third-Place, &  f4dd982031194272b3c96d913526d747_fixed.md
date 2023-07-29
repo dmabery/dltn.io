@@ -1,0 +1,42 @@
+---
+Title: "221b: Irrationality, Mistakes, Ego, Third-Place, & Impressions"
+Tags: ['221b']
+Date: "March 24, 2023"
+Description: "5 short ideas."
+Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1674759439/221b_OG_ifioi4.png"
+Published: True
+Slug: "221b-11"
+Type: "Essay"
+---
+
+## Irrational
+
+People don’t make irrational decisions on purpose. I learned this from *The Psychology of Money*. If someone is doing something, to that person, it makes perfect sense even though it looks idiotic to someone else.
+
+Morgan Housel, the author, [has a funny story](https://open.spotify.com/episode/1ELrw8BuYVfEh3xHAZof0q?si=8bd6b1a16c0f4853) that illustrates that same lesson. The story goes like this: Every day, a father would offer his son the choice between a nickel and a dime, and for whatever reason, his son always chose the nickel. His little brother thought this was crazy! “You do know a dime is worth twice as much as a nickel? You’re crazy for choosing the nickel!” his brother said. “Wrong,” the son replied, “because if I took the dime, dad would stop offering it!”
+
+The game someone is playing isn’t always obvious.
+
+## Mistakes
+
+Potty training a dog is tedious work. Often, it’s made more tedious because it’s hard to train a dog *not* to go to the bathroom inside *unless* they go to the bathroom inside. I was taught to stick the dog’s nose close to the accident, tell them, “No! Bad dog! Outside!” and then put them outside immediately. Eventually, they learned.
+
+But the learning doesn’t come from getting put outside or even going to the bathroom in the house; it’s getting their nose stuck in it so they can associate that smell with being outside. We should do the same with our mistakes. [In the words](https://open.spotify.com/episode/2QTLimXIzpJPrsXbubtgJt?si=8a8a86629a6349e1) of Charlie Munger, “I know I’ll perform better if I rub my nose in my own mistakes.” If you make a mistake and move on without asking what went wrong, you’re cheating yourself of the opportunity to get better. Mistakes aren’t bad; repeated mistakes are.
+
+## Ego
+
+Speaking to Stanford Business School, Marc Andreessen [says](https://www.gsb.stanford.edu/insights/marc-andreessen-take-ego-out-ideas) he sees two common mistakes Venture Capitalists make: omission and commission. Mistakes of commission, he says, are when you invest everything you have in a company and lose it all. This is tough, but it’s easy to get over in time. Mistakes of omission are different. Not investing when you had the chance to will scar you for life. “Take the bet, lose 1X,” he says, “Don’t take the bet and possibly miss on 1,000X.”
+
+Andreessen says people regularly make mistakes of omission because they don’t have an open mind. They form an idea, such as *No one will want to sleep in a stranger’s home,* and gather evidence that confirms that opinion. This is dangerous. Just because something didn’t work in the past doesn’t mean it won’t work in the future. “Just because MySpace didn’t reach Facebook levels of scale didn’t mean Facebook wouldn’t be able to. So you have to be ruthlessly open-minded and constantly willing to reexamine your assumptions...You have to take the ego out of ideas,” he says, “which is a very hard thing to do.”
+
+## Third-Place
+
+I romanticize pubs, cafés, and coffee shops. The unplanned conversations, meet-ups, and run-ins are healthy. They provide a great break from the grind of daily life. Apparently, there’s an actual name for these types of places, The Third Place. An article in *[The Atlantic](https://www.theatlantic.com/family/archive/2022/04/third-places-meet-new-people-pandemic/629468/)* describes The Third Place as “a physical location other than work or home where there’s little to no financial barrier to entry and where conversation is the primary activity.” The author declares that Third Places are becoming less frequent because of our productivity-obsessed culture. Also, cities where most Third Place institutions are naturally built are expensive to live in, so people work long hours and have little time just to chill. “Urban-dwelling Americans, however, tend to place work at the center of life in part because cities are so expensive to live in. They might work 50-hour weeks to survive, leaving little to no time for leisure and community engagement,” she writes. “Unstructured quality time with friends is replaced with a scheduled series of continuous catch-ups. Subsequently, these overscheduled people lack meaningful ties with their neighbors, and so they patronize spaces to make those connections even less frequently.”
+
+I like to learn the names of things because you can only talk about what you can describe, so knowing “places where people casually hang out” are more formally called Third Places is interesting.
+
+## Quote I’m thinking about
+
+“If you try to make an impression, that’s the impression you’ll make.”
+
+– Jason Zweig’s [dad](https://jasonzweig.com/on-writing-better-part-1/).

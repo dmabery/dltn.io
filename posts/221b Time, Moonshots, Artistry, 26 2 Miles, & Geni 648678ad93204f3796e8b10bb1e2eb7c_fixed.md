@@ -1,0 +1,42 @@
+---
+Title: "221b: Time, Moonshots, Artistry, 26.2 Miles, & Genius"
+Tags: ['221b']
+Date: "January 20, 2023"
+Description: "An anthology of ideas on history, science, philosophy, and more."
+Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1674759439/221b_OG_ifioi4.png"
+Published: True
+Slug: "221b-3"
+Type: "Essay"
+---
+
+## Time
+
+In 1583, at the Duomo of Pisa, a teenager noticed something peculiar about the lamps swinging back and forth from the ceiling. No matter how big the arc was, the lamp seemed to take the same amount of time to go back and forth. As the arc got smaller, the swinging got slower, and vice versa. The student measured the swinging against his own pulse, to confirm his observation. “Most nineteen-year-olds figure out less scientific ways to be distracted while attending mass,” writes Steven Johnson in *[How We Got to Now](https://a.co/d/9GrhfDD)*. “But this college freshman happened to be Galileo Galilei.” At the time, an encounter with a regular beat was uncommon, so Galileo took note. What he realized was the time it takes a pendulum to go back and forth depends only on the length of the string. The size of the arc or the load on the end are irrelevant. *Fifty-eight years later*, after a life spent entrenched in the ideas of mathematics and physics, Galileo began drawing up plans for a pendulum clock. By the end of the century, you couldn’t go a few blocks without seeing the new timepiece.
+
+---
+
+## Moonshots
+
+John F. Kennedy’s speech in 1962 put a clock on everyone working to fulfill the space dream: “…in this decade.” Eight years, that's what they had. Deke Slayton, one of the original Mercury Seven astronauts, said, “What Kennedy did with his goal was brilliant. It has to be something under 10 years; if you give people a 30-year goal, they won’t waste time thinking about it. It’s too far away.”
+
+There’s a lesson there. You can’t set a goal to reach too soon, or else there's no hope of meeting it and you'll give up. You also can’t set a goal too far away, because it’s unrealistic to even think about. Who knows where you’ll be in 30 years? If you have unlimited time, it’s going to take unlimited time. A more realistic timeline, and something [Austin Kleon encourages](https://austinkleon.com/2013/12/29/something-small-every-day/), is to focus on days. “Days have a rhythm,” he says. Hours, weeks, and months are all manmade, but days follow the rising and setting of the sun. If you focus on a good day’s work and show up, any moonshot is within reach.
+
+---
+
+## Artistry
+
+Doing a job is much easier if you have the right tools. You can build a house with a hammer, but it’s faster to use a nail gun. But becoming reliant on the tools you use is a recipe for disaster. What happens if the tool breaks, can you think outside the box and get the job done? Anyone can create something using the latest tech, but those who can create something great no matter what tools they have are the real geniuses. [John Lennon said once](https://www.imaginepeace.com/archives/4385), “I’m an artist man. Give me a tuba and I’ll get you something out of it.” I love that. “I’m an artist…”
+
+---
+
+## 26.2 Miles
+
+During the 1908 London Olympics, Queen Alexandra [made a request](https://www.history.com/news/why-is-a-marathon-26-2-miles) (as much as a queen can make a request I suppose) for a race to start on the lawn of the Windsor castle and end in front of the Royal box at the Olympic stadium. The distance between the two? 26.2 miles. That’s why a marathon has a seemingly arbitrary–well, actually it **is** arbitrary–distance of 26.2 miles. In 1921, the Olympic committee decided to make this distance a standard for future games. Prior to 1908, the distance was always around 25 miles for the marathon, in honor of Pheidippides, who in 490 B.C. died of exhaustion after running 25 miles to Athens announcing the victory over Persia after the Battle of Marathon.
+
+---
+
+## A Quote I’m Thinking About…
+
+“I’m no genius. I’m smart in spots and I stay around those spots.”
+
+– Tom Watson, co-founder of IBM
