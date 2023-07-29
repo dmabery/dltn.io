@@ -2,7 +2,7 @@
 Title: "If, By Whiskey"
 Tags: ['til']
 Date: "July 8, 2022 3:23 AM (GMT)"
-Description: ""If, by whiskey" arguments are used whenever the speakers position depends on the listener's opinion. It's a great way to take a position on something without really taking a position."
+Description: "'If, by whiskey' arguments are used whenever the speakers position depends on the listener's opinion. It's a great way to take a position on something without really taking a position."
 Published: True
 Slug: "if-by-whiskey"
 Type: "Essay"
@@ -26,9 +26,9 @@ My friends, I had not intended to discuss this controversial subject at this par
 > gracious living into the bottomless pit of degradation, and despair,
 > and shame and helplessness, and hopelessness, then certainly I am
 > against it.
-> 
-> 
-> 
+>
+>
+>
 > But, if when you say whiskey you mean the oil of conversation, the
 > philosophic wine, the ale that is consumed when good fellows get
 > together, that puts a song in their hearts and laughter on their lips,
@@ -42,9 +42,9 @@ My friends, I had not intended to discuss this controversial subject at this par
 > to provide tender care for our little crippled children, our blind,
 > our deaf, our dumb, our pitiful aged and infirm; to build highways and
 > hospitals and schools, then certainly I am for it.
-> 
-> 
-> 
+>
+>
+>
 > This is my stand. I will not retreat from it. I will not compromise.
 
 ## The position depends on the audience

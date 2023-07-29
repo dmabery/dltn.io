@@ -2,7 +2,7 @@
 Title: "Pieces of the Action"
 Tags: ['book', 'history']
 Date: "September 9, 2022"
-Description: "The foreword to this book, written by Ben Reinhardt, puts it well by saying, "I went into this book with little more than a name and came out with the closest thing to a mentor someone you've never met can be.""
+Description: "The foreword to this book, written by Ben Reinhardt, puts it well by saying, 'I went into this book with little more than a name and came out with the closest thing to a mentor someone you've never met can be.'"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670095981/41QXDV7KvNL._AC_SY780__znxckc.jpg"
 Published: True
 Slug: "pieces-of-action"
@@ -42,7 +42,7 @@ I echo that statement.
 
 - In meetings where strategy is being discussed, there should be someone present who is a master of technical advancements that are just being put into use or will be put into use sometime in the near future.
 
-- Any group working in isolation will not sufficiently make adequate technological advancements. 
+- Any group working in isolation will not sufficiently make adequate technological advancements.
 
 - In an industry that is standardized, where basically all companies are making profits, small changes can be introduced but nothing major will happen. There is no sense in disrupting something that seems to be working out okay, especially if the future is unknown.
 
@@ -59,7 +59,7 @@ I echo that statement.
 - For anyone working in a professional setting, understanding human relations and having sound social skills are just as important, if not more, than being a master of the actual facts of the field in which they operate.
 
 ## Notes
-- Anybody who is serious about creating enduring change realizes that it's critical to understand the origins of the institutions that shape our world. 
+- Anybody who is serious about creating enduring change realizes that it's critical to understand the origins of the institutions that shape our world.
 
 - This book, provides a perspective "on the modern innovation environment as an evolved system with simple origins."
 
@@ -76,7 +76,7 @@ I echo that statement.
 
 - The study of history can aid in avoiding mistakes, provided it is recent history and accurate, that is, before it has degenerated into a myth.
 
-- The essence of civilization is the transmission of the findings of each generation to the next. 
+- The essence of civilization is the transmission of the findings of each generation to the next.
 
 - "Much of this book will be devoted to how we can keep our business rolling in the right direction."
 
@@ -96,7 +96,7 @@ I echo that statement.
 - A lot of invention appears merely because of curiosity and with little thought at the time of possible utility.
 - I think any man who has a bit of ingenuity in his soul gets quite a lot of fun out of following around with things that do not amount to anything, for the reason that when he does so, he has no pressures.
 
-- It would be well if people, youth in particular, recognized the debt society owes to the quiet workers whom we never hear of, especially those who are led on by their curiosity and their desire to explore, with very little thought about acclaim or fortune. 
+- It would be well if people, youth in particular, recognized the debt society owes to the quiet workers whom we never hear of, especially those who are led on by their curiosity and their desire to explore, with very little thought about acclaim or fortune.
 
 - The inventor who works alone, who is isolated from the current trend of thought, and who hence does not grasp where the real opportunities lie, seldom makes a worthwhile invention.
 

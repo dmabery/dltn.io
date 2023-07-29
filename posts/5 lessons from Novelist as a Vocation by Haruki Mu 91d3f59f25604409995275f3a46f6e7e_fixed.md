@@ -1,5 +1,5 @@
 ---
-Title: "5 lessons from "Novelist as a Vocation" by Haruki Murakami"
+Title: "5 lessons from 'Novelist as a Vocation' by Haruki Murakami"
 Tags: ['221b', 'book']
 Date: "March 31, 2023"
 Description: "Consistency, writer's block, criticism, and more"
@@ -45,15 +45,15 @@ When you rewrite something, you can feel the choppiness, the places where the wo
 The best way to beat writer’s block is to do something similar to writing, but that doesn’t take the same creative effort. *I* do that by taking book notes. If I’m struggling to write something creative, I open a book and start taking notes. Murakami does something similar but translates books into Japanese.
 
 > I have been writing fiction for more than thirty-five years at the time of this book’s writing; yet I have never experienced what is commonly known as ‘writer’s block.’ Wanting to write but being unable is unknown to me. That may make it sound as if I am overflowing with talent, but the actual reason is much simpler: I never write unless I really want to, unless the desire to write is overwhelming. When I feel that desire, I sit down and set to work. When I don’t feel it, I usually turn to translating from English. Since translation is essentially a technical operation, I can pursue it on a daily basis, quite separate from my creative desire; yet at the same time, it is a good way to hone my writing skills.
-> 
+>
 
 Richard Feynman, the bongo-beating theoretical physicist, used teaching to help him come up with new ideas. This is one of the reasons he lamented the Institute for Advanced Study, a prestigious research institution that Albert Einstein, Robert Oppenheimer, and John von Neumann called home. The Institute gave unlimited tenure to the brightest minds of the 20th century *without* the hindrance of teaching classes. They had complete freedom to do whatever they wanted – and this is exactly what [Feynman hated](https://a.co/d/2p1bf8i). He writes:
 
 > In any thinking process there are moments when everything is going good and you’ve got wonderful ideas. Teaching is an interruption, and so it’s the greatest pain in the neck in the world. And then there are the longer periods of time when not much is coming to you. You’re not getting any ideas, and if you’re doing nothing at all, it drives you nuts! You can’t even say “Well, at least I’m teaching my class.” If you’re teaching a class, you can think about the elementary things you know very well. These things are kind of fun and delightful. It doesn’t do any harm to think them over again. Is there a better way to present them? Are there any new problems associated with them? Are there any new thoughts you can make about them? The elementary things are easy to think about; if you can’t think of a new thought, no harm done; what you thought about it before is good enough for the class. If you do think of something new, you’re rather pleased that you have a new way of looking at it.
-> 
-> 
+>
+>
 > The questions of the students are often the source of new research. They often ask profound questions that I’ve thought about at times and then given up on, so to speak, for a while. It wouldn’t do me any harm to think about them again and see if I can go any further now. The students may not be able to see the thing I want to answer, or the subtleties I want to think about, but they *remind* me of a problem by asking questions in the neighborhood of that problem. It’s not so easy to remind *yourself* of these things.
-> 
+>
 
 For Feynman, teaching gave him the ability *to* come up with creative ideas because he knew if he didn’t think of anything, he was still teaching. Murakami translated books.
 
@@ -74,7 +74,7 @@ That’s lesson 5.5: if someone criticizes you or your work, and it hurts you, i
 If, like me, you read this book (or notes) and want to start writing novels, a word of caution: only start writing novels if you love writing novels…not because you love the *idea* of being a novelist. As [Paul Graham puts it](http://www.paulgraham.com/love.html):
 
 > Prestige is like a powerful magnet that warps even your beliefs about what you enjoy. It causes you to work not on what you like, but what you'd like to like.
-> 
-> 
+>
+>
 > That's what leads people to try to write novels, for example. They like reading novels. They notice that people who write them win Nobel prizes. What could be more wonderful, they think, than to be a novelist? **But liking the idea of being a novelist is not enough; you have to like the actual work of novel-writing if you're going to be good at it**; you have to like making up elaborate lies.
 >

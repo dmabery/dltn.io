@@ -2,7 +2,7 @@
 Title: "John von Neumann on how to safely progress with technology"
 Tags: ['people', 'technology']
 Date: "November 18, 2022 2:51 PM (GMT)"
-Description: "From a 1955 article written by von Neumann titled, "Can We Survive Technology?""
+Description: "From a 1955 article written by von Neumann titled, 'Can We Survive Technology?'"
 Published: True
 Slug: "survive-technology"
 Type: "Aside"

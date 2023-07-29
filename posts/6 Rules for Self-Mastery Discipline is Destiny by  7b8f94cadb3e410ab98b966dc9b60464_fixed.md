@@ -1,5 +1,5 @@
 ---
-Title: "6 Rules for Self-Mastery | "Discipline is Destiny" by Ryan Holiday"
+Title: "6 Rules for Self-Mastery | 'Discipline is Destiny' by Ryan Holiday"
 Tags: ['221b']
 Date: "April 7, 2023"
 Description: "The power of self-control."
@@ -53,7 +53,7 @@ No big project has succeeded by ignoring the small stuff. "It is the loose ends,
 ### **5. Keep the main thing the main thing**
 
 > Anyone who has not groomed his life in general towards some definite end cannot possibly arrange his individual actions properly. -- Michel de Montaigne.
-> 
+>
 
 Holiday writes, "If you don't know where you're sailing, the Stoics said, no wind is favorable." He continued, "the secret to success in almost all fields is large, uninterrupted blocks of focused time." To do this, we can borrow a line from E.B. White, who replied after being asked to be a part of some commission, "I must decline for secret reasons."
 

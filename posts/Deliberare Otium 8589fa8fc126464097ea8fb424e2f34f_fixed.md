@@ -2,7 +2,7 @@
 Title: "Deliberare Otium"
 Tags: ['til']
 Date: "September 29, 2022"
-Description: "Otium: "An abstract Latin term that has a variety of meanings, including leisure time in which a person can enjoy eating, playing, relaxing, contemplation and academic endeavors.""
+Description: "Otium: 'An abstract Latin term that has a variety of meanings, including leisure time in which a person can enjoy eating, playing, relaxing, contemplation and academic endeavors.'"
 Published: True
 Slug: "deliberare-otium"
 Type: "Essay"

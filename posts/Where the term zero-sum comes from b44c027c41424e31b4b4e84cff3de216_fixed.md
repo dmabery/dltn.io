@@ -1,5 +1,5 @@
 ---
-Title: "Where the term "zero-sum" comes from"
+Title: "Where the term 'zero-sum' comes from"
 Tags: ['history', 'math', 'people']
 Date: "August 1, 2022"
 Description: "John von Neumann and the birth of game theory."

@@ -2,7 +2,7 @@
 Title: "2 Ideas for Realistic Time Management"
 Tags: ['221b']
 Date: "April 21, 2023"
-Description: "A summary of Arnold Bennett's 1908 classic, "How to Live on 24-Hours a Day""
+Description: "A summary of Arnold Bennett's 1908 classic, 'How to Live on 24-Hours a Day'"
 Published: True
 Slug: "2-ideas-for-realistic-time-management"
 Type: "Essay"
@@ -35,7 +35,7 @@ Here are the main ideas in Bennett’s book.
 Bennett writes:
 
 > The person who works 10 to 6 every day, and who doesn’t have a real passion for their job, make the first mistake by assuming 10 to 6 is “their day” and that the ten hours prior and the six hours following are nothing but a prologue. This attitude kills any interest with doing something with those 16 hours. Even if said person does not intentionally waste them, the point is he does not count them; he regards them simply as margin.
-> 
+>
 
 Instead of 10 to 6 being “the day,” think of 10 to 6 as being a day within a day. The first day starts at 10 am and ends at 6 pm. The second day starts at 6 pm and ends at 10 am.
 
@@ -68,7 +68,7 @@ If you want to learn something academic but don’t want to attend an actual sch
 **For your evening study, don’t let anything influence your decision about what to pursue other than your interests.** Bennett writes:
 
 > In choosing the occupations of the evening hours, commit to that which you have a supreme interest and let nothing else influence or dictate that which you choose to study. Being a walking encyclopedia of philosophy is all well and good, but not so if you have a disdain for philosophy and would rather study the stars.
-> 
+>
 
 **Maintain flexibility**. Following the program is important, but it’s not a religion. You’re the master. Maintain flexibility. However, you have to take it seriously enough for it to work and not just be a cruel joke. There is a right amount of rigidity and flexibility one must achieve.
 

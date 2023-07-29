@@ -1,19 +1,25 @@
 /* eslint-disable react/no-unescaped-entities */
+import fs from "fs";
+import matter from "gray-matter";
 import HomePagePostDisplay from "../components/HomePagePostDisplay";
 import Meta from "../components/Meta";
-import { getAllPublished, getSingleBlogPostBySlug } from "./api/notion";
 
 export const getStaticProps = async () => {
-  const posts = await getAllPublished();
-  var data = [];
-  for (var i = 0; i < 5; i++) {
-    data.push(await getSingleBlogPostBySlug(posts[i].slug));
-  }
+  const files = fs.readdirSync("posts");
+
+  const posts = files.map((fileName) => {
+    const slug = fileName.replace(".md", "");
+    const readFile = fs.readFileSync(`posts/${fileName}`, "utf-8");
+    const { data: frontmatter } = matter(readFile);
+
+    return {
+      slug,
+      frontmatter,
+    };
+  });
+
   return {
-    props: {
-      posts: data,
-    },
-    revalidate: 60,
+    props: { posts },
   };
 };
 
@@ -28,13 +34,11 @@ export default function Home({ posts, tags }) {
       <div className="flex flex-col gap-10">
         {posts.map((post) => (
           <HomePagePostDisplay
-            title={post.metadata.title}
-            tags={post.metadata.tags}
-            description={post.metadata.description}
-            date={post.metadata.date}
-            content={post.markdown}
-            image={post.metadata.image}
-            slug={post.metadata.slug}
+            title={post.frontmatter.Title}
+            tags={post.frontmatter.Tags}
+            description={post.frontmatter.description}
+            image={post.frontmatter.image}
+            slug={post.frontmatter.Slug}
           />
         ))}
       </div>

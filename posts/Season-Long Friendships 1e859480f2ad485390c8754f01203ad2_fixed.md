@@ -2,7 +2,7 @@
 Title: "Season-Long Friendships"
 Tags: ['life']
 Date: "July 11, 2022 9:14 PM (GMT)"
-Description: "Society has deemed it "the right thing" to become life-long friends with every acquaintance you have. This can lead to too much emotional burden and shallow friendships. Instead, we need to advocate more for season-long friendships."
+Description: "Society has deemed it 'the right thing' to become life-long friends with every acquaintance you have. This can lead to too much emotional burden and shallow friendships. Instead, we need to advocate more for season-long friendships."
 Published: True
 Slug: "season-long-friendships"
 Type: "Essay"
@@ -37,7 +37,7 @@ A sub-plot in the movie is between two best friends, Will Hunting (Matt Damon) a
 
 **Will, bewildered:** "What are you talking about?"
 
-**Chuckie:** "Look. You've got something none of us have–" 
+**Chuckie:** "Look. You've got something none of us have–"
 
 **Will cuts him off**: "Oh c'mon, why is it always this. I mean *I fuckin' owe it to myself to do this or that*. Wha- What if I don't want to."
 
