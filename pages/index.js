@@ -25,6 +25,7 @@ export const getStaticProps = async () => {
 
 export default function Home({ posts, tags }) {
   if (!posts) return <h1>No posts</h1>;
+  console.log(posts);
   return (
     <>
       <Meta

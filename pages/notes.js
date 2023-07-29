@@ -1,23 +1,32 @@
 /* eslint-disable react/no-unescaped-entities */
+import fs from "fs";
+import matter from "gray-matter";
 import Image from "next/image";
 import Link from "next/link";
 import Meta from "../components/Meta";
 import PageTitle from "../components/PageTitle";
 import SideNote from "../components/SideNote";
-import { getAllByType } from "./api/notion";
 
 export const getStaticProps = async () => {
-  const data = await getAllByType("Book Notes");
+  const files = fs.readdirSync("posts");
+
+  const posts = files.map((fileName) => {
+    const slug = fileName.replace(".md", "");
+    const readFile = fs.readFileSync(`posts/${fileName}`, "utf-8");
+    const { data: frontmatter } = matter(readFile);
+
+    return {
+      slug,
+      frontmatter,
+    };
+  });
 
   return {
-    props: {
-      posts: data,
-    },
-    revalidate: 60,
+    props: { posts },
   };
 };
 
-const NoteList = ({ posts }) => (
+const NoteList = ({ posts, frontmatter }) => (
   <>
     <Meta
       title="Book Notes"
@@ -37,19 +46,21 @@ const NoteList = ({ posts }) => (
     />
     <div className="">
       <div className="mt-7 grid grid-cols-3 gap-6">
-        {posts.map((post, index) => (
-          <Link href={`/posts/${post.slug}`}>
-            <a className="transition-all hover:scale-105">
-              <Image
-                key={post.id}
-                src={post.image}
-                layout="responsive"
-                height={75}
-                width={50}
-              />
-            </a>
-          </Link>
-        ))}
+        {posts
+          .filter((post) => post.frontmatter.Type === "Book Notes")
+          .map((post, index) => (
+            <Link href={`/posts/${post.slug}`}>
+              <a className="transition-all hover:scale-105">
+                <Image
+                  key={post.id}
+                  src={post.frontmatter.Image}
+                  layout="responsive"
+                  height={75}
+                  width={50}
+                />
+              </a>
+            </Link>
+          ))}
       </div>
     </div>
   </>
