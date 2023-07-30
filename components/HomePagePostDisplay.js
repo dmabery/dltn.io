@@ -16,6 +16,8 @@ const HomePagePostDisplay = ({
     prism.highlightAll();
   }, []);
 
+  console.log(title, tags);
+
   return (
     <>
       <article className="text-neutral-300">
@@ -24,7 +26,17 @@ const HomePagePostDisplay = ({
             <a className="mb-1 font-serif text-3xl font-bold">{title || ""}</a>
           </Link>
           <div className="tags border-[#868686/60] flex gap-2 border-t border-b py-3 text-xs text-[#868686]">
+            <div>{date}</div>
             <div>|</div>
+            {tags
+              ? tags.map((tag) => {
+                  return (
+                    <div>
+                      <Link href={`/tags/${tag}`}>{tag}</Link>
+                    </div>
+                  );
+                })
+              : "error"}
           </div>
         </div>
         <div>
