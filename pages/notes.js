@@ -48,6 +48,7 @@ const NoteList = ({ posts, frontmatter }) => (
       <div className="mt-7 grid grid-cols-3 gap-6">
         {posts
           .filter((post) => post.frontmatter.Type === "Book Notes")
+          .sort((a, b) => b.frontmatter.Date - a.frontmatter.Date)
           .map((post, index) => (
             <Link href={`/posts/${post.slug}`}>
               <a className="transition-all hover:scale-105">
