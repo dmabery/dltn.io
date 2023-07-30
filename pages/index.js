@@ -10,11 +10,12 @@ export const getStaticProps = async () => {
   const posts = files.map((fileName) => {
     const slug = fileName.replace(".md", "");
     const readFile = fs.readFileSync(`posts/${fileName}`, "utf-8");
-    const { data: frontmatter } = matter(readFile);
+    const { data: frontmatter, content } = matter(readFile);
 
     return {
       slug,
       frontmatter,
+      content,
     };
   });
 
@@ -23,7 +24,7 @@ export const getStaticProps = async () => {
   };
 };
 
-export default function Home({ posts, tags }) {
+export default function Home({ posts, tags, content }) {
   if (!posts) return <h1>No posts</h1>;
   console.log(posts);
   const sortedPosts = posts.sort(
@@ -39,10 +40,12 @@ export default function Home({ posts, tags }) {
         {sortedPosts.map((post) => (
           <HomePagePostDisplay
             title={post.frontmatter.Title}
+            date={post.frontmatter.Date}
             tags={post.frontmatter.Tags}
             description={post.frontmatter.description}
             image={post.frontmatter.image}
             slug={post.frontmatter.Slug}
+            content={post.content}
           />
         ))}
       </div>
