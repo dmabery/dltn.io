@@ -1,13 +1,12 @@
 ---
 Title: "Book Summary - Think Again by Adam Grant"
-Tags: ['annotated-reading', 'book', 'new']
-Date: "February 17, 2022"
+Tags: ["annotated-reading", "book", "new"]
+Date: "2022-02-17"
 Description: "When it comes to our ideas and mindsets, we're one of three personalities: the preacher, the prosecutor, or the politician."
-Published: True
+Published: true
 Slug: "book-summary-think-again"
 Type: "Essay"
 ---
-
 When it comes to our ideas and mindsets, we're one of three personalities.
 
 We're either a preacher, a prosecutor, or a politician.

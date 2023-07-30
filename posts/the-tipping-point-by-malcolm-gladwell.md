@@ -1,14 +1,13 @@
 ---
 Title: "The Tipping Point by Malcolm Gladwell"
-Tags: ['book', 'psychology']
-Date: "June 12, 2022 7:00 PM (GMT)"
+Tags: ["book", "psychology"]
+Date: "2022-06-12"
 Description: "Tipping Points can be caused by the right people, with the right information, in the right context; all we have to do is find those variables."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097281/9780316316965_ftrxms.webp"
-Published: True
+Published: true
 Slug: "the-tipping-point-by-malcolm-gladwell"
 Type: "Book Notes"
 ---
-
 One Sentence Summary
 --------------------
 

@@ -1,13 +1,12 @@
 ---
 Title: "On Ribbonfarm's Portal and Flags"
-Tags: ['politics']
-Date: "November 17, 2022 2:28 PM (GMT)"
+Tags: ["politics"]
+Date: "2022-11-17"
 Description: "People who spend their time debating others online are throwing their precious hours of human existence into a pit they'll never retrieve them from. It's the most useless act someone can partake in, even more so than playing video games or watching"
-Published: True
+Published: true
 Slug: "on-ribbonfarms-portal-and-flags"
 Type: "Essay"
 ---
-
 People who spend their time debating others online are throwing their precious hours of human existence into a pit they'll never retrieve them from. It's the most useless act someone can partake in, even more so than playing video games or watching *Rick and Morty*.
 
 No one is going to change their mind on abortion, gun-control, or any other hot button topic because of a response written by User07373 on FaceBook or Twitter. I'm sorry, but it's just not going to happen.

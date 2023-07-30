@@ -1,13 +1,12 @@
 ---
 Title: "How to Change the World With Your Ideas (Like Albert Einstein)"
-Tags: ['life', 'people', 'science']
-Date: "April 2, 2022 8:48 PM (GMT)"
+Tags: ["life", "people", "science"]
+Date: "2022-04-02"
 Description: "This is an essay."
-Published: True
+Published: true
 Slug: "how-to-change-the-world-with-your-ideas"
 Type: "Essay"
 ---
-
 The early life of Albert Einstein had its ups and downs.
 
 He struggled in school as a kid, couldn't get anyone to take him seriously about some of his earlier ideas, and had trouble getting a professorship because of his monotone lecture style and seemingly lack of passion for physics.

@@ -1,13 +1,12 @@
 ---
 Title: "What I Read in December"
-Tags: ['reading-list']
-Date: "January 24, 2023"
+Tags: ["reading-list"]
+Date: "2023-01-24"
 Description: "3 books that I read and loved in December."
-Published: True
+Published: true
 Slug: "december-reading-list-2022"
 Type: "Essay"
 ---
-
 *American Moonshot* by Douglas Brinkley ([notes](https://www.dltn.io/posts/book-notes-american-moonshot)) - Though this book lacked the technical bravado I was hoping for, it was interesting in a surprising way. Brinkley chronicles the life of John F. Kennedy and other major players in the space race, including former Nazi engineer Werner von Braun. I learned a lot about Cold War politics and the strange (maybe diplomatic?) attitude that Kennedy and Khrushchev treated each other with. I also learned to admire Kennedy’s drive to unite the country behind one goal: getting to the moon (and subsequently beating the Soviets).
 
 *When Einstein Walked with Gödel* by Jim Holt - This one was a surprise for me. It caught my eye while browsing the Science and Math section at my local Barnes and Noble. Rather than a book with one cohesive narrative, *When Einstein Walked with Gödel* is a collection of essays on the invention (or discovery if you prefer that term) of the major science, math, and computing breakthroughs in the world. Holt is a brilliant writer and an even better thinker. *PS - There is little mention of Einstein or Gödel. The title is a nod to the “heady” conversations the two physicists would have walking to the Institute for Advanced Study every morning.*

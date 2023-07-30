@@ -1,14 +1,13 @@
 ---
 Title: "The Splendid and the Vile"
-Tags: ['book', 'history']
-Date: "March 2, 2023"
+Tags: ["book", "history"]
+Date: "2023-03-02"
 Description: "A intense look at Churchill and London during the Blitz."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1677763674/41FQALCCViL_ti0gy8.jpg"
-Published: True
+Published: true
 Slug: "the-splendid-and-the-vile"
 Type: "Book Notes"
 ---
-
 ## Impressions
 
 I can confidently say that *******[The Splendid and the Vile](https://a.co/d/iONSJEx)******* is one of the best books I’ve ever read.

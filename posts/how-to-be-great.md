@@ -1,13 +1,12 @@
 ---
 Title: "How to Be Great? Be Okay With Being Bad"
-Tags: ['life']
-Date: "April 2, 2022 8:51 PM (GMT)"
+Tags: ["life"]
+Date: "2022-04-02"
 Description: "This is an essay."
-Published: True
+Published: true
 Slug: "how-to-be-great"
 Type: "Essay"
 ---
-
 I was leaving the golf course the other day after a *terrible* range session and I had a revelation about something I've been feeling for awhile: **my desire to be good at a lot of things is keeping me from being great at one.**
 
 I fully recognize that sounds a bit arrogant, and it might be. But before you judge, let me explain.

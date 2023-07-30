@@ -1,13 +1,12 @@
 ---
 Title: "How to Build Rome in A Year"
-Tags: ['goals', 'productivity']
-Date: "April 2, 2022 8:50 PM (GMT)"
+Tags: ["goals", "productivity"]
+Date: "2022-04-02"
 Description: "This is an essay."
-Published: True
+Published: true
 Slug: "how-to-build-rome-in-a-year"
 Type: "Essay"
 ---
-
 Here's how I'm thinking of New Years Resolutions.
 
 Instead of asking yourself what you want to accomplish this year, ask yourself **who you want to become at the end of it. **At the end of 2022, who do you want to be?

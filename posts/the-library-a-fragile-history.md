@@ -1,14 +1,13 @@
 ---
 Title: "The Library: A Fragile History"
-Tags: ['book', 'history']
-Date: "October 7, 2022"
+Tags: ["book", "history"]
+Date: "2022-10-07"
 Description: "A brief history on the institution of the library and a fascinating look at the history of books."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097333/512zzQOPOxL._AC_SY780__hwysoi.jpg"
-Published: True
+Published: true
 Slug: "the-library-a-fragile-history"
 Type: "Book Notes"
 ---
-
 ## Impressions
 I had been eyeing this for about a month before I bought it because reading a 400+ page book about the history of the library seemed like a big undertaking. Much to my surprise, it was a fun read and flowed nicely. I expected it to be much more pedantic than it was.
 

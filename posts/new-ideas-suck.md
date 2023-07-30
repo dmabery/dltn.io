@@ -1,13 +1,12 @@
 ---
 Title: "New Ideas Suck"
-Tags: ['life']
-Date: "September 17, 2022 2:16 PM (GMT)"
+Tags: ["life"]
+Date: "2022-09-17"
 Description: "They really do."
-Published: True
+Published: true
 Slug: "new-ideas-suck"
 Type: "Essay"
 ---
-
 I have a love/hate relationship with new ideas.
 
 In a spark of brilliance one day, I tweeted "Your inputs effect your outputs. Want better ideas? Consumer better things."

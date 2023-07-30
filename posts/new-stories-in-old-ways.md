@@ -1,12 +1,11 @@
 ---
 Title: "Telling old stories in new ways"
-Tags: ['history', 'writing']
-Date: "June 6, 2023"
-Published: False
+Tags: ["history", "writing"]
+Date: "2023-06-06"
+Published: false
 Type: "Essay"
 Slug: "new-stories-in-old-ways"
 ---
-
 I spent the afternoon walking around the Hoover Institute at Stanford University today. My mission was to find and a piece of a lifeboat from the RMS **********Lusitania**********. While reading *******Dead Wake******* by Erik Larson, I learned it was there.
 
 I was disappointed, though, because I had to come back with an appointment. Just to make sure I was in the right spot, I DMed Larson on Twitter. He confirmed that I was but yes, I did in fact need an appointment.

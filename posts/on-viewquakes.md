@@ -1,13 +1,12 @@
 ---
 Title: "On Viewquakes"
-Tags: ['til']
-Date: "November 3, 2022 12:35 AM (GMT)"
+Tags: ["til"]
+Date: "2022-11-03"
 Description: "Viewquakes - An insight or discovery that drastically changed your worldview."
-Published: True
+Published: true
 Slug: "on-viewquakes"
 Type: "Essay"
 ---
-
 In February, I read [*Einstein* by Walter Isaacson](https://www.daltonmabery.com/essays/albert-einstein) and had my world absolutely rocked as I learned about Special and General Relativity. No concept of absolute time? Space and time are linked? Clocks slow down in motion? Gravity is just curved space-time? I saw the world in a whole new way.
 
 That experience was the first time I could remember having a "viewquake." In the words of Robin Hanson who coined the term, a viewquake is an "insight that dramatically changes one's worldview, making one see the world in a new way."

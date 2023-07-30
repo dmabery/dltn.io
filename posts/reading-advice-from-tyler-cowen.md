@@ -1,13 +1,12 @@
 ---
 Title: "Reading advice from Tyler Cowen"
-Tags: ['reading']
-Date: "June 29, 2022 1:10 PM (GMT)"
+Tags: ["reading"]
+Date: "2022-06-29"
 Description: "‘nough said."
-Published: True
+Published: true
 Slug: "reading-advice-from-tyler-cowen"
 Type: "Aside"
 ---
-
 Tyler Cowen has easily risen to to the top of my "thinkers I like" list. There's probably no one else I know of today that I look at and think, "I want to be exactly like them when I grow up" other than Tyler Cowen. His curisoity and breadth of knowledge is amazing.
 
 Part of that knowledge stems from reading. And reading a lot. Here's some advice:

@@ -1,14 +1,13 @@
 ---
 Title: "Crooked: The Roaring '20s Tale of a Corrupt Attorney General, A Crusading Senator, And the Birth of the American Political Scandal"
-Tags: ['book', 'politics']
-Date: "July 9, 2023"
+Tags: ["book", "politics"]
+Date: "2023-07-09"
 Description: "A book"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1690152207/9780306826139_oy2vdd.jpg"
-Published: True
+Published: true
 Slug: "book-notes-crooked-by-nathan-masters"
 Type: "Book Notes"
 ---
-
 ## **Impressions**
 
 <InlineImage src={https://res.cloudinary.com/dde1q4ekv/image/upload/v1690152207/9780306826139_oy2vdd.jpg} />

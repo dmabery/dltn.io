@@ -1,14 +1,13 @@
 ---
 Title: "Ernest Hemingway by Mary V. Dearborn"
-Tags: ['book', 'people']
-Date: "November 22, 2022"
+Tags: ["book", "people"]
+Date: "2022-11-22"
 Description: "Though The Washington Post touted this book as 'The most fully faceted portrait of Hemingway now available', I was unimpressed."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097604/51UuOAoN0kL._AC_SY780__1_fd8fpn.jpg"
-Published: True
+Published: true
 Slug: "ernest-hemingway"
 Type: "Book Notes"
 ---
-
 ## Impressions
 Though *The Washington Post* touted this book as "The most fully faceted portrait of Hemingway now available", I was unimpressed. The content of the book is detailed, but the writing was rigid. Facts about Ernest's life were written out in a matter-of-fact manner. The stories told, though few, lacked drama or failed to engage one’s imagination. Letters were mentioned and quoted, but you never saw them shown in full detail. I learned more about Hemingway's obsession with bullfighting than I did about his writing habits or philosophy, spare the mention of the *Kansas City Star* writing guide (mentioned below in the notes). I suppose that's what people want though. They want *the man and life behind* the writing, not the writing. I think it’s a well-written book, it just was not what I was expecting and hoping for.
 

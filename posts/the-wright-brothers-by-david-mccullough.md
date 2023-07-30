@@ -1,14 +1,13 @@
 ---
 Title: "The Wright Brothers by David McCullough"
-Tags: ['book', 'history', 'science']
-Date: "May 10, 2023"
+Tags: ["book", "history", "science"]
+Date: "2023-05-10"
 Description: "Book notes, insights, and thoughts."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1683771596/51XPr-vJaLL_h0k6mi.jpg"
-Published: True
+Published: true
 Slug: "the-wright-brothers-by-david-mccullough"
 Type: "Book Notes"
 ---
-
 No one influenced the ideas and philosophies of Orville and Wilbur more than their father, the Bishop Milton Wright. He said, “It is assumed that young folks know best, and old folks are fogies. It may be so, but old folks may be as right about new fangles as young folks are about fogy ways. ********************************************************************Make business first, pleasure afterward, and that guarded. All the money anyone needs is just enough to prevent one from being a burden on others.”********************************************************************
 
 ---

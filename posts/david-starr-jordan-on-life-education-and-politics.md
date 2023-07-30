@@ -1,13 +1,12 @@
 ---
 Title: "David Starr Jordan on Life, Education, and Politics"
-Tags: ['history', 'people']
-Date: "November 25, 2022"
+Tags: ["history", "people"]
+Date: "2022-11-25"
 Description: "What the founding president of Stanford has to say about the care and culture of men"
-Published: True
+Published: true
 Slug: "david-starr-jordan-on-life-education-and-politics"
 Type: "Essay"
 ---
-
 > The best political economy is the care and culture of men. – Emerson
 
 For all the controversy they stir up today, colleges *used* to be beneficial. Having a college degree meant something. It meant you not only had an education, but you had a moral foundation of right and wrong, ethics, theology, and philosophy. The humanities were as important as engineering. Subjects communicated with each other in a lattice of back and forth to give the mind the ability to see the big picture that life was painting -- as much as a human can see that, at least.

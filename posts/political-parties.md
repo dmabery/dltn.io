@@ -1,13 +1,12 @@
 ---
 Title: "Political Parties. Interesting..."
-Tags: ['politics']
-Date: "September 3, 2022 7:40 PM (GMT)"
+Tags: ["politics"]
+Date: "2022-09-03"
 Description: "A thought."
-Published: True
+Published: true
 Slug: "political-parties"
 Type: "Aside"
 ---
-
 Below is a bit of a political ramble as I'm trying to understand the political system (and Americans in general) more and more. I've been doing a lot of thinking about this lately and am trying to come to terms with a philosophy. Below is what I think are the roots of something important. I'm scared to hit publish on this because I'm not sure what the response will be. If you disagree, agree, or have thoughts, [I'd love to hear them](https://twitter.com/daltonmabery). Just please keep them rational and kind.
 
 ---

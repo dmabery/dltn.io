@@ -1,13 +1,12 @@
 ---
 Title: "Adventures of a Curious Richard Feynman"
-Tags: ['people', 'science', 'story']
-Date: "November 11, 2022 10:24 PM (GMT)"
+Tags: ["people", "science", "story"]
+Date: "2022-11-11"
 Description: "I have a deep admiration for Feynman's beliefs on life, knowledge, and science, but that admiration went deeper still as I followed the stories of his life told by the man himself. This is a small collection of a few of those stories."
-Published: True
+Published: true
 Slug: "adventures-of-a-curious-richard-feynman"
 Type: "Essay"
 ---
-
 Sitting around a campfire listening to stories passed on from generations brings with it a feeling of wonder and joy for the adventures told from long ago.
 
 Each one of these stories is special on its own and they could never be told in a *bad* way.

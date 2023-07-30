@@ -1,14 +1,13 @@
 ---
 Title: "How to time travel"
-Tags: ['science']
-Date: "December 6, 2022"
+Tags: ["science"]
+Date: "2022-12-06"
 Description: "Time is so fake"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670298232/FMJmQmaXoAcO9Lt_uvehyq.png"
-Published: True
+Published: true
 Slug: "how-to-time-travel"
 Type: "Essay"
 ---
-
 Before I begin, there is one thing you need to understand: every event has a time and a place. An event happening in Sacramento and New York at the same exact time is not the same event because they’re happening in different places. An event in Sacramento in June is not the same event as one that’s happening in Sacramento in August because they’re at different times. But, **if an event happens at the same time and at the same place, then it’s the same event.** Got it?
 
 Some things you should know about Figure 1 below [[1](https://www.amazon.com/Simply-Einstein-Demystified-Richard-Wolfson/dp/0393325075/ref=sr_1_1?crid=BLAW4RIQ02LM&keywords=simply+einstein&qid=1670296852&sprefix=simply+einstein%2Caps%2C168&sr=8-1)]:

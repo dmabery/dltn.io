@@ -1,13 +1,12 @@
 ---
 Title: "Check all kinds of unusual things"
-Tags: ['atomic-essay']
-Date: "January 25, 2023"
+Tags: ["atomic-essay"]
+Date: "2023-01-25"
 Description: "A short story about Richard Feynman."
-Published: True
+Published: true
 Slug: "unusual-things"
 Type: "Essay"
 ---
-
 After the space shuttle **********Challenger********** exploded, Richard Feynman got a call asking to be apart of a committee to investigate the accident. When he heard the job would be in Washington, Feynman had an immediate hesitancy to accept the role. His biggest question was, "How am I going to get out of this?"
 
 Luckily, though, he didn't make that decision on his own. He called on numerous colleagues and mentors for advice, but the one that was most helpful came from his dear wife:

@@ -1,13 +1,12 @@
 ---
 Title: "What I read in September 2022"
-Tags: ['reading-list']
-Date: "October 1, 2022"
+Tags: ["reading-list"]
+Date: "2022-10-01"
 Description: "Books and articles that I read in September."
-Published: True
+Published: true
 Slug: "reading-list-sept-222"
 Type: "Essay"
 ---
-
 ### Books
 
 ***[The Man From the Future](https://www.dltn.io/book-notes/the-man-from-the-future): The Visionary Life of John von Neumann *****by Ananyo Bhattacharya**

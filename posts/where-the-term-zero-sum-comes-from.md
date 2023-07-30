@@ -1,13 +1,12 @@
 ---
 Title: "Where the term 'zero-sum' comes from"
-Tags: ['history', 'math', 'people']
-Date: "August 1, 2022"
+Tags: ["history", "math", "people"]
+Date: "2022-08-01"
 Description: "John von Neumann and the birth of game theory."
-Published: True
+Published: true
 Slug: "where-the-term-zero-sum-comes-from"
 Type: "Aside"
 ---
-
 In 1925, John von Neumann published one of the first papers introducing "game theory" into popular discourse. In it, he explained that most games are just a series of events. Some of those events depend entirely on chance–which von Neumann calls 'draws'– and others on the decision of a player–what von Neumann calls 'steps.'
 
 Ultimately, he concluded a game, as *[The Man from the Future](https://www.amazon.com/Man-Future-Visionary-Life-Neumann/dp/1324003995)* explains, "could be represented simply as the choice by each player of a single strategy (effectively an amalgam of all the strategies they play in the game), followed by a calculation of their respective payouts that accounts for everyone's choices (and which factors in their luck)." 

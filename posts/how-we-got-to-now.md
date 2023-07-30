@@ -1,14 +1,13 @@
 ---
 Title: "How We Got to Now"
-Tags: ['book', 'history']
-Date: "March 26, 2022 8:19 PM (GMT)"
+Tags: ["book", "history"]
+Date: "2022-03-26"
 Description: "A brilliant overview of the key innovations that paved the way for others to build upon. Truly explains 'how we got to now.'"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097405/512mgCAgJQL_p7z8qj.jpg"
-Published: True
+Published: true
 Slug: "how-we-got-to-now"
 Type: "Book Notes"
 ---
-
 ### Summary and Review
 Phenomenal book. There are so many interesting lessons on creativity, innovation, and history that I've never read elsewhere. I will be coming back to this book constantly and excited to read more from Steven Johnson. There hasn't ever been a book I liked so much where I thought, "I wish I wrote this" other than this one. Really, really enjoyable.
 

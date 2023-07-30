@@ -1,13 +1,12 @@
 ---
 Title: "What I Read in October 2022"
-Tags: ['reading-list']
-Date: "November 1, 2022"
+Tags: ["reading-list"]
+Date: "2022-11-01"
 Description: "Links, books, articles, and more."
-Published: True
+Published: true
 Slug: "what-i-read-in-october-2022"
 Type: "Essay"
 ---
-
 Read last month's [here](https://www.dltn.io/essays/reading-list-sept-222).
 
 ### Books

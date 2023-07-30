@@ -1,13 +1,12 @@
 ---
 Title: "Some Questions"
-Tags: ['questions']
-Date: "September 12, 2022 9:04 PM (GMT)"
+Tags: ["questions"]
+Date: "2022-09-12"
 Description: "A never-ending list of questions I have for the universe."
-Published: True
+Published: true
 Slug: "some-questions-1"
 Type: "Essay"
 ---
-
 - Was there an objective reality that existed whether or not we could ever observe it?
 - Were there laws that restored strict causality to phenomena that seemed inherently random?
 - Was everything in the universe predetermined?

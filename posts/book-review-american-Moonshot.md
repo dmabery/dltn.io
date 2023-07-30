@@ -1,14 +1,13 @@
 ---
 Title: "Not Long Ago in a Galaxy Not Very Far"
-Tags: ['annotated-reading', 'history', 'science']
-Date: "December 14, 2022"
+Tags: ["annotated-reading", "history", "science"]
+Date: "2022-12-14"
 Description: "Book review: American Moonshot"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1671074855/160210200403-01-john-f-kennedy-life-and-career-restricted_bq3xij.jpg"
-Published: True
+Published: true
 Slug: "book-review-american-Moonshot"
 Type: "Essay"
 ---
-
 “If someone can just tell me how to catch up [to the Soviets in the space race],” John F. Kennedy thundered to a room full of space advisors. “Let’s find somebody–anybody. I don’t care if it’s the janitor over there, if he knows.”
 
 The tense meeting came after the Russian cosmonaut, [Yuri Gagarin](https://en.wikipedia.org/wiki/Yuri_Gagarin), became the first person in history to orbit Earth. This latest accolade for the Soviet Union was another blow to America’s trepidatious attitude towards the space program. Unfortunately, it wasn’t the worst thing to happen that week. Five days later, the [disastrous Bay of Pigs](https://www.thenewsherald.com/2021/04/18/bay-of-pigs-was-jfks-responsibility/#:~:text=U.S.%20involvement%20in%20the%20Bay,Pigs%20and%20took%20complete%20blame) invasion kicked off. Though Eisenhower planned it, he was no longer in office and the nation needed someone to blame. Kennedy became that someone.

@@ -1,14 +1,13 @@
 ---
 Title: "Revolt of the Public"
-Tags: ['book', 'politics']
-Date: "August 12, 2022"
+Tags: ["book", "politics"]
+Date: "2022-08-12"
 Description: "Book notes."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670094709/51pCqz9vMqL._AC_SY780__qoovrw.jpg"
-Published: True
+Published: true
 Slug: "revolt-of-the-public"
 Type: "Book Notes"
 ---
-
 ## Impressions
 I didn't have many impressions before reading this book, other than being excited by the beautiful design and color theory. I also assumed it to be of some importance because Stripe Press was the publisher. I'm happy to say it did not disappoint.
 

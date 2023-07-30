@@ -1,14 +1,13 @@
 ---
 Title: "Killers of the Flower Moon by David Grann"
-Tags: ['book', 'history']
-Date: "November 16, 2022"
+Tags: ["book", "history"]
+Date: "2022-11-16"
 Description: "Killers of the Flower Moon opened my narrow mind to a new (for me) genre of writing: narrative non-fiction. I highly recommend."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670095922/514QUJzXGZL._AC_SY780__1_jkxu1l.jpg"
-Published: True
+Published: true
 Slug: "killers-of-the-flower-moon-by-david-grann"
 Type: "Book Notes"
 ---
-
 ## Impressions
 *Killers of the Flower Moon* opened my narrow mind to a new (for me) genre of writing: narrative non-fiction.
 

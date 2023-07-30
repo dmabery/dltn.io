@@ -1,14 +1,13 @@
 ---
 Title: "12 Rules For Life"
-Tags: ['book', 'life']
-Date: "June 17, 2022 6:31 PM (GMT)"
+Tags: ["book", "life"]
+Date: "2022-06-17"
 Description: "A dense book packed with tangents that (mostly) lead to some interesting insights."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670096064/41kspFBwVxL._AC_SY780__t5kxan.jpg"
-Published: True
+Published: true
 Slug: "12-rules-for-life"
 Type: "Book Notes"
 ---
-
 ## Impressions
 I began reading this book when it came out and stopped about 3/4 of the way through. It just wasn't for me at the time. But it was a delightful read now. Peterson talks about some really interesting ideas in the book that it didn't think were applicable, but apparently they were. At times, the writing was a bit dense and too heady, but that's what you get from an intelligent college professor.
 

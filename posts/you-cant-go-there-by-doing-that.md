@@ -1,13 +1,12 @@
 ---
 Title: "You can't go there by doing that"
-Tags: ['life']
-Date: "July 28, 2022 8:48 PM (GMT)"
+Tags: ["life"]
+Date: "2022-07-28"
 Description: "A thought."
-Published: True
+Published: true
 Slug: "you-cant-go-there-by-doing-that"
 Type: "Aside"
 ---
-
 Oxygen, hydrogen, nitrogen, and carbon are some of the fundamental elements for creating life. Without either of these, life will have a very hard time existing (if it can even get off the ground at all).
 
 But there are other elements required to sustain life. Iron is needed to create hemoglobin, a protein in red blood cells that moves oxygen and carbon dioxide around in your body. Cobalt is one of the elements that B12 binds to in the body. Potassium and a small amount of sodium are used in controlling the nerves. Without them, it would be hard for your brain to send signals to your body and vice versa.

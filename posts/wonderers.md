@@ -1,13 +1,12 @@
 ---
 Title: "The best thinkers are ‘wonderers’"
-Tags: ['atomic-essay']
-Date: "January 22, 2023"
+Tags: ["atomic-essay"]
+Date: "2023-01-22"
 Description: "A short post on curiosity."
-Published: True
+Published: true
 Slug: "wonderers"
 Type: "Essay"
 ---
-
 The life and wisdom of Albert Einstein was the result of his innate curiosity.
 
 He had a willingness to ask questions about the strange mysteries in the world and see where finding answers lead him.

@@ -1,14 +1,13 @@
 ---
 Title: "On Writing Well by William Zinsser"
-Tags: ['book', 'writing']
-Date: "September 23, 2022 12:57 PM (GMT)"
+Tags: ["book", "writing"]
+Date: "2022-09-23"
 Description: "Book notes."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097422/51oWwwesiXL_bpilyq.jpg"
-Published: True
+Published: true
 Slug: "on-writing-well-by-william-zinsser"
 Type: "Book Notes"
 ---
-
 ## Takeaways
 -   Writing is the art of using the English language in a way that will achieve the most strength and least clutter.
 -   Must constantly ask yourself, 'What am I trying to say?' and say that.

@@ -1,13 +1,12 @@
 ---
 Title: "Personality creates behaviors. Circumstances reveal them."
-Tags: ['psychology']
-Date: "August 6, 2022 3:25 PM (GMT)"
+Tags: ["psychology"]
+Date: "2022-08-06"
 Description: "The person versus situation conversation is a long-held debate in psychology. My hypothesis is that personality creates behaviors and circumstances bring those behaviors out."
-Published: True
+Published: true
 Slug: "personality-vs-situation"
 Type: "Essay"
 ---
-
 "You're a different person when you're around your family," my wife commented to me one day on the way home from my parent's house. She went on to explain that I'm actually funny (which hurt a bit, not going to lie), am much more willing to eject a thought or opinion into the conversation than I am with others, and that I just seem more relaxed.
 
 All of that is true. I enjoy spending time with my family and would say I'm more open to ejecting into the conversation, which got me thinking about a long-held debate in psychology, *do circumstances determine someone's behavior, or is it their character?* This is often referred to as the situation vs. person debate.

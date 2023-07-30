@@ -1,13 +1,12 @@
 ---
 Title: "Why Legacy Career Paths Can't Innovate"
-Tags: ['innovation']
-Date: "April 2, 2022 8:45 PM (GMT)"
+Tags: ["innovation"]
+Date: "2022-04-02"
 Description: "This is an essay."
-Published: True
+Published: true
 Slug: "why-legacy-career-paths-cant-innovate"
 Type: "Essay"
 ---
-
 In 1718, a candlemaker set out to train his son in the business of wax-melting in hopes he would one day take over the family business. Being 12 at the time, the boy would have seven years to learn the ins and outs of candle making. "Perfect!" the dad thought.
 
 However, his son had other plans. Rather than being a stingy old candle maker, the boy decided to work as an apprentice in his brothers print shop. Instead of a seven-year apprenticeship, **it would be nine-years with much more laborious work, grueling hours, and fickle details.** But the kid knew what he wanted.

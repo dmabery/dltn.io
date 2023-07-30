@@ -1,13 +1,12 @@
 ---
 Title: "Be prepared for the disasters you can't imagine"
-Tags: ['framework', 'history']
-Date: "April 2, 2022 8:43 PM (GMT)"
+Tags: ["framework", "history"]
+Date: "2022-04-02"
 Description: "The most important part of any plan is planning on it not going according to plan."
-Published: True
+Published: true
 Slug: "you-cant-imagine"
 Type: "Aside"
 ---
-
 If you're only preparing for the disaster you can imagine, you're going to be unprepared.
 
 No one expected the economy to crash so hard during the Great Depression until it did.

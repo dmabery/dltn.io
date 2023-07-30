@@ -1,14 +1,13 @@
 ---
 Title: "Transplant"
-Tags: ['personal']
-Date: "March 25, 2023"
+Tags: ["personal"]
+Date: "2023-03-25"
 Description: "an unfair hand."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1679764022/Frbxa5BakAEXccL_lybxyt.jpg"
-Published: True
+Published: true
 Slug: "transplant"
 Type: "Essay"
 ---
-
 If you really want to hear about it, the first thing you’ll probably want to know is why my wife needed a lung transplant.
 
 That answer is simple: she was dealt an unfair hand at this game called life.

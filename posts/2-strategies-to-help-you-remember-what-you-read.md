@@ -1,13 +1,12 @@
 ---
 Title: "2 Strategies To Help You Remember What You Read"
-Tags: ['knowledge-mangagement']
-Date: "April 16, 2022 7:18 PM (GMT)"
+Tags: ["knowledge-mangagement"]
+Date: "2022-04-16"
 Description: "Two simple strategies to help you remember what you read an actually learn."
-Published: True
+Published: true
 Slug: "2-strategies-to-help-you-remember-what-you-read"
 Type: "Essay"
 ---
-
 For a few years now, I've been a voracious reader. I love understanding how we got to where we are today and how that might forecast where we're going in the future. I kept getting frustrated that I was reading things, but couldn't remember what I read nor make connections to historical events. It took a lot of hypothesizing, experimenting, and tweaking my system, but this is what I've found works best:
 
 <SideNote title='This is it' content="Some content here please work" />

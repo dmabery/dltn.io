@@ -1,14 +1,13 @@
 ---
 Title: "3 Lessons on Human Psychology and Project Management"
-Tags: ['annotated-reading', 'history', 'psychology']
-Date: "February 15, 2023"
+Tags: ["annotated-reading", "history", "psychology"]
+Date: "2023-02-15"
 Description: "Lessons learned from reading about the construction of the 1893 Chicago World’s Fair."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1676474179/Nut_Expo02_copy_2_zryyaa.jpg"
-Published: True
+Published: true
 Slug: "three-lessons-from-reading-devil-in-the-white-city"
 Type: "Essay"
 ---
-
 Here are three lessons I learned from reading *The Devil in the White City,* a book on the construction of the Chicago World’s Fair (juxtaposed with a suave, murderous criminal), on human psychology and project management.
 
 ## 1. You will always be compared to what came before

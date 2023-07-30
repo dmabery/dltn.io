@@ -1,14 +1,13 @@
 ---
 Title: "The Crack-Up by F. Scott Fitzgerald"
-Tags: ['book', 'history']
-Date: "February 19, 2023"
+Tags: ["book", "history"]
+Date: "2023-02-19"
 Description: "Book notes."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1676835779/51QNwVP0nwL._AC_UF1000_1000_QL80__z62av9.jpg"
-Published: True
+Published: true
 Slug: "the-crack-up-by-f-scott-fitzgerald"
 Type: "Book Notes"
 ---
-
 ## Impressions
 
 When one opens ************The Crack-Up************, they open a portal to a strange new world: the jazz and liquor-filled 1920s. Through a collection of miscellaneous pieces penned by F. Scott Fitzgerald and letters from literary greats such as Gertrude Stein, T.S. Elliot, and Thomas Wolfe, the life behind the words of ****************The Great Gatsby**************** are illuminated. Since a lot of the works are personal reflections, I found myself lost here and there, not understanding the references of the times. Though confusing, I enjoyed that. It makes the words seem timeless.

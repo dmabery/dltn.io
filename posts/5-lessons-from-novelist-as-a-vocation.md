@@ -1,13 +1,12 @@
 ---
 Title: "5 lessons from 'Novelist as a Vocation' by Haruki Murakami"
-Tags: ['221b', 'book']
-Date: "March 31, 2023"
+Tags: ["221b", "book"]
+Date: "2023-03-31"
 Description: "Consistency, writer's block, criticism, and more"
-Published: True
+Published: true
 Slug: "5-lessons-from-novelist-as-a-vocation"
 Type: "Essay"
 ---
-
 *Novelist as a Vocation* gives a glimpse into the creative mind of novelist Haruki Murakami. It’s an anthology of essays – some new, some original – on what it means to be a novelist, why literary prizes are worthless, how Murakami writes, writing great dialogue, originality, and more.
 
 ### 1. A professional's true mark of greatness is consistency, not intensity

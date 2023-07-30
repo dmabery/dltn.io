@@ -1,14 +1,13 @@
 ---
 Title: "A Short History of Nearly Everything by Bill Bryson"
-Tags: ['book', 'history', 'science']
-Date: "September 2, 2022 6:42 PM (GMT)"
+Tags: ["book", "history", "science"]
+Date: "2022-09-02"
 Description: "Book notes."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097587/41gdQTWQgEL._AC_SY780__ujsxvh.jpg"
-Published: True
+Published: true
 Slug: "a-short-history-of-nearly-everything-by-bill-bryson"
 Type: "Book Notes"
 ---
-
 ## Impressions
 I’ve been wanting to read this book for quite some time now. The title got me hooked because one of the main questions I seek to answer in life is, “How did we get here?” And “Where are we going?” This book did a pretty good job of shedding some light on that topic, but not as much as I’d hoped it would. It talked a lot about the people who made discoveries and the drama between them more so than it did about actual information about “nearly everything.” The stories about the people who made certain discoveries were important and interesting, just not what I was expecting. It was also about 100 pages too long. Nonetheless, I learned some interesting things.
 

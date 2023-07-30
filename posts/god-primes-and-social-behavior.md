@@ -1,13 +1,12 @@
 ---
 Title: "God-primes and Social Behavior"
-Tags: ['psychology']
-Date: "September 29, 2022 5:01 PM (GMT)"
+Tags: ["psychology"]
+Date: "2022-09-29"
 Description: "Do unconscious reminders of God influence people's willingness to comply with norms of impersonal fairness?"
-Published: True
+Published: true
 Slug: "god-primes-and-social-behavior"
 Type: "Essay"
 ---
-
 "Do unconscious reminders of God influence people's willingness to comply with norms of impersonal fairness?", Joseph Henrich asks in chapter 4 of his book, [*The WEIRDest People in the World*](https://www.amazon.com/WEIRDest-People-World-Psychologically-Particularly-ebook/dp/B07RZFCPMD).
 
 Turns out, they do.

@@ -1,14 +1,13 @@
 ---
 Title: "Notes: American Prometheus by Kai Bird & Martin J. Sherwin"
-Tags: ['book', 'history', 'science']
-Date: "May 21, 2023"
+Tags: ["book", "history", "science"]
+Date: "2023-05-21"
 Description: "A sordid read full of science and sarcasm, dialogue and drama, love and war."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1684699725/81xvsBo674L._AC_UF1000_1000_QL80__gqg92w.jpg"
-Published: True
+Published: true
 Slug: "american-prometheus-the-triumph-and-tragedy-of-j-robert-oppenheimer-book-notes"
 Type: "Book Notes"
 ---
-
 ## Impressions
 
 *******************American Prometheus******************* is a tale of a modern Galileo, “a scientist-hero martyred by the authorities in America’s anticommunist witch-hunt.” A sordid read full of science and sarcasm, dialogue and drama, love and war.

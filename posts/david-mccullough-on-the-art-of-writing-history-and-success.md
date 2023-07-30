@@ -1,14 +1,13 @@
 ---
 Title: "David McCullough on The Art of Writing, History, and Success"
-Tags: ['history', 'people', 'writing']
-Date: "July 25, 2023"
+Tags: ["history", "people", "writing"]
+Date: "2023-07-25"
 Description: "Notes and quotes from the insightful documentary, ‘David McCullough: Painting with Words.’"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1690333490/be7fa60d-ee22-4e48-8458-a05856822248_afi1ra.jpg"
-Published: True
+Published: true
 Slug: "david-mccullough-on-the-art-of-writing-history-and-success"
 Type: "Essay"
 ---
-
 <InlineImage src={https://res.cloudinary.com/dde1q4ekv/image/upload/v1690338124/mt_david_mccullough_inside_c4uapi.jpg} />
 
 By far, David McCullough has had the strongest influence on my writing, reading, and life. His books are not just books; they are glimpses into a world long gone, glimpses that are near impossible to achieve anywhere else other than between the covers of his books. This makes sense when you look at his advice. Speaking about John Adams and writing his biography, he said, “You’ve got to marinate your head in their time and in their culture. You’ve got to become them in an effect.”

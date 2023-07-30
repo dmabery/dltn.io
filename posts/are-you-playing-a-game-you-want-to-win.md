@@ -1,14 +1,12 @@
-
 ---
-Tags: thought
-Date: March 31, 2022 10:37 PM (GMT)
-Description: If you win at whatever game you're playing right now, will you be happy?
-Published: Yes
-Slug: are-you-playing-a-game-you-want-to-win
-Type: Aside
-Title: 'Are you playing a game you want to win?'
+Tags: "thought"
+Date: "2022-03-31"
+Description: "If you win at whatever game you're playing right now, will you be happy?"
+Published: true
+Slug: "are-you-playing-a-game-you-want-to-win"
+Type: "Aside"
+Title: "Are you playing a game you want to win?"
 ---
-
 **If you win at whatever game you're playing right now, would you be happy?**
 
 This is such an amazing question to ask yourself. The best thing about it is that it can apply to so many contexts.

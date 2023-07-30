@@ -1,13 +1,12 @@
 ---
 Title: "Why I Read"
-Tags: ['reading']
-Date: "November 1, 2022"
+Tags: ["reading"]
+Date: "2022-11-01"
 Description: "Or, On Achieving Deep Literacy"
-Published: True
+Published: true
 Slug: "why-i-read"
 Type: "Essay"
 ---
-
 The world changed in 1436.
 
 Thanks to the brilliance of a German engineer, the long-held belief that knowledge was reserved for the upper echelon of society was shattered thanks to the printing press. Knowledge now belonged to the common man. Entertainment was available to the miner's wife, the corn farmer, and just about everyone else.

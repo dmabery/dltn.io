@@ -1,13 +1,12 @@
 ---
 Title: "Book Review and Summary: Revolt of the Public"
-Tags: ['annotated-reading', 'book', 'politics']
-Date: "September 24, 2022"
+Tags: ["annotated-reading", "book", "politics"]
+Date: "2022-09-24"
 Description: "A descriptor of what's going on in the world today."
-Published: True
+Published: true
 Slug: "book-review-and-summary-revolt-of-the-public"
 Type: "Essay"
 ---
-
 <SideNote title="Notice" content="This post was originally posted on my Substack." />
 
 *[Revolt of the Public](https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium-ebook/dp/B07J2V3PG4)* helped clarify my thoughts, expand my worldview, and enlarge my vocabulary with certain societal phenomena. While reading, I could recognize patterns in our political system and acquire language to describe the actors playing in said patterns.

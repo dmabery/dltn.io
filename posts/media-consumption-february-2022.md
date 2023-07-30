@@ -1,13 +1,12 @@
 ---
 Title: "Media Consumption (February, 2022)"
-Tags: ['links']
-Date: "April 14, 2022 10:16 PM (GMT)"
+Tags: ["links"]
+Date: "2022-04-14"
 Description: "A summary and notes about the various books, articles, podcasts, and videos I consumed in February and what I learned from them."
-Published: True
+Published: true
 Slug: "media-consumption-february-2022"
 Type: "Essay"
 ---
-
 Inspired by [Julian Lehr](https://julian.digital/2021/05/03/media-consumption-apr-2021/), I wanted a place to document the various media I consumed each month. Partly to better remember what I learned about and partly to force myself to write at least one article per month that was low friction. Here's what I consumed in February of 2022:
 
 ## Articles

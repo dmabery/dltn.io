@@ -1,14 +1,13 @@
 ---
 Title: "The Care and Culture of Men by David Starr Jordan"
-Tags: ['book', 'history']
-Date: "November 10, 2022"
+Tags: ["book", "history"]
+Date: "2022-11-10"
 Description: "A collection of his speeches from the founding president of Stanford University."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097536/41DlqJ6S0yL._AC_SY780__1_vhyab1.jpg"
-Published: True
+Published: true
 Slug: "the-care-and-culture-of-men-by-david-starr-jordan"
 Type: "Book Notes"
 ---
-
 ## Impressions
 I bought this book five years ago because it was old and looked cool. That's essentially my filter when buying books in an antique store. I read a few essays from it at the time because I was in a big transcendentalist stage, but never revisisted after that.
 

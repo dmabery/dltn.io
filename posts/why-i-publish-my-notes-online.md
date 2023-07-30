@@ -1,13 +1,12 @@
 ---
 Title: "Why I Publish My Notes Online"
-Tags: ['knowledge-mangagement']
-Date: "April 8, 2022 2:48 AM (GMT)"
+Tags: ["knowledge-mangagement"]
+Date: "2022-04-08"
 Description: "An explanation of why I work with the garage door up and why I chose to use Obsidian as my note-taking app of choice."
-Published: True
+Published: true
 Slug: "why-i-publish-my-notes-online"
 Type: "Essay"
 ---
-
 Note taking is the best form of studying I've ever come across. It forces you to [think critically about the ideas](https://twitter.com/mollyfmielke/status/1496212938788642824?s=20&t=Ta8qrVFPaf9aa2nRVDBnXg) you're consuming and what's going on in the world. Most of the time, [we don't give ourselves enough slack](https://fs.blog/slack/) in life to sit with our thoughts. But note taking forces you to do that.
 
 I've tried about every note taking app on the market by now and none of them are everything I want them to be. Notion is great and is what I would recommend to someone looking to take more notes and get organized in life. I've tried Roam, mem.io, Evernote, and many, many more. But the constant switching of systems defeats the main purposes of note taking, rediscovering ideas you wrote about before. If you start from scratch every six months, you won't have many insights to rediscover.

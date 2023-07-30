@@ -1,14 +1,13 @@
 ---
 Title: "Hidden Figures by Margot Lee Shetterly"
-Tags: ['book', 'math', 'science']
-Date: "December 4, 2022"
+Tags: ["book", "math", "science"]
+Date: "2022-12-04"
 Description: "A captivating book about the African American women who helped send a man to the moon."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670179642/Hidden_Figures_book_cover_kkbzh1.png"
-Published: True
+Published: true
 Slug: "hidden-figures"
 Type: "Book Notes"
 ---
-
 ## Impressions
 
 Captivating, heart-breaking, and awe-inspiring are just a few of the many adjectives I could use to describe this book. The author, Margot Lee Shetterly, did a great job weaving together the lives of “the black women mathematicians who helped win the space race” to show their grit and cant-stop-me attitude mixed with the terrible injustices they had to face.

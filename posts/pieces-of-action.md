@@ -1,14 +1,13 @@
 ---
 Title: "Pieces of the Action"
-Tags: ['book', 'history']
-Date: "September 9, 2022"
+Tags: ["book", "history"]
+Date: "2022-09-09"
 Description: "The foreword to this book, written by Ben Reinhardt, puts it well by saying, 'I went into this book with little more than a name and came out with the closest thing to a mentor someone you've never met can be.'"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670095981/41QXDV7KvNL._AC_SY780__znxckc.jpg"
-Published: True
+Published: true
 Slug: "pieces-of-action"
 Type: "Book Notes"
 ---
-
 *You can purchase [the book here](https://www.amazon.com/Pieces-Action-Vannevar-Bush/dp/1953953204).*
 
 I've been wondering lately how the process of scientific research has developed over the years and this book helped shed some light on a potential answer. As I understand, it was Bush who helped create the current funding structure between the government and universities, as he thought it was of great importance for the military to work with the best civillian researchers, all of whom held positions at a university.

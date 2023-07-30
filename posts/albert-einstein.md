@@ -1,13 +1,12 @@
 ---
 Title: "Examining the Life that Communicated With the Universe - Albert Einstein"
-Tags: ['people', 'science']
-Date: "April 8, 2022 2:46 AM (GMT)"
+Tags: ["people", "science"]
+Date: "2022-04-08"
 Description: "This is an essay."
-Published: True
+Published: true
 Slug: "albert-einstein"
 Type: "Essay"
 ---
-
 The more I read about the lives of those who have impacted our world today, the more obvious it is that one characteristic drives those people: Curiosity. Curiosity, in the form of questioning the mundane things. The things that most people simply assume work because "that's just what happens", is one of the defining attributes of the men and women who squeezed centuries of ideas and inventions into just one short life.
 
 This fact became even more evident as my heart and mind were pulled in all directions reading Walter Isaacson's account of Albert Einstein in his biography, *Einstein: His Life and Universe.* Though this thick biography contained 500+ pages filled with letters, his family life, and his ground-breaking theories (which I plan to write about in the coming months), I most enjoyed the random yet intentional reflections on Einstein's life as a whole, both from Isaacson and included as direct quotes of the white-haired man himself. Beneath the thought experiments, complicated math equations, and political motivations, was a deep sense of curiosity to understand the rules that govern the universe and what that meant for us lowly beings whom inhabit one of the planets within it.

@@ -1,13 +1,12 @@
 ---
 Title: "If, By Whiskey"
-Tags: ['til']
-Date: "July 8, 2022 3:23 AM (GMT)"
+Tags: ["til"]
+Date: "2022-07-08"
 Description: "'If, by whiskey' arguments are used whenever the speakers position depends on the listener's opinion. It's a great way to take a position on something without really taking a position."
-Published: True
+Published: true
 Slug: "if-by-whiskey"
 Type: "Essay"
 ---
-
 As he was standing in the musty Mississippi courtroom, arguing for what he believed in, he got a brilliant idea. Instead of arguing for the benefits of alcohol while hoping (and maybe praying) no one on the defense brought up all of the negative effects of alcohol, he would address the effects directly. This took the defense's argument right from their hands, just like a little kid in a candy shop.
 
 "Mr. Sweat", the judge begins, "Do you have anything to add?"

@@ -1,12 +1,11 @@
 ---
 Title: "Annie Dillard’s Advice on Keeping a Daily Routine"
-Tags: ['life', 'writing']
-Date: "March 3, 2023"
+Tags: ["life", "writing"]
+Date: "2023-03-03"
 Description: "How you spend your day is how you spend your life."
-Published: False
+Published: false
 Slug: "annie-dillard-keep-a-daily-routine"
 ---
-
 Whenever great artists talk about their craft, I pay attention. The meta-analyses on why they do what they do (and how) is refreshing because there is rarely a trick. There’s no praying to a special creative god to give them powers or spell they cast on their typewriter. It’s often that they just show up, work, leave, and repeat.
 
 This is why it’s hard to learn about how great writers write, because even ****they**** don’t know. To them, they just write. Maybe they assume that it’s just what everyone does, so why bore people with the details?

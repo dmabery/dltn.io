@@ -1,9 +1,9 @@
 ---
-Title: "-"
-Tags: ['knowledge-mangagement']
-Date: "November 5, 2022 10:23 PM (GMT)"
+Title: "2 Habits for a Better Intellectual Life"
+Tags: ["knowledge-mangagement"]
+Date: "2022-11-05"
 Description: "1. Determine between observation and opinion. 2. Be concrete."
-Published: True
+Published: true
 Slug: "2-habits-for-a-better-intellectual-life"
 Type: "Essay"
 ---

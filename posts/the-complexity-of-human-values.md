@@ -1,13 +1,12 @@
 ---
 Title: "An attempt to understand the Kolmogorov Complexity of human values"
-Tags: ['cs', 'life']
-Date: "August 18, 2022"
+Tags: ["cs", "life"]
+Date: "2022-08-18"
 Description: "Life in a world where everything was the same, but no one had the capacity for love."
-Published: True
+Published: true
 Slug: "the-complexity-of-human-values"
 Type: "Essay"
 ---
-
 Let's pretend one day you find magic machine that could grant any lifestyle you asked it for. Professional golfer? Done. Star of *Pulp Fiction*? Say no more. Enlightened writer? Easy. Any lifestyle you wished to live could be yours upon demand.
 
 But like with any magical box or genie, there's a catch: **The only thing it gave you was *exactly* what you asked it for.**

@@ -1,14 +1,13 @@
 ---
 Title: "Working by Robert Caro"
-Tags: ['book', 'history', 'writing']
-Date: "February 27, 2023"
+Tags: ["book", "history", "writing"]
+Date: "2023-02-27"
 Description: "Advice on writing, researching, and political power."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1677542377/9780593081914_u4hjy5.jpg"
-Published: True
+Published: true
 Slug: "working-by-robert-caro"
 Type: "Book Notes"
 ---
-
 ## Impressions
 
 *******[Working](https://a.co/d/8chku5j)******* is the book I was hoping it to be. Robert Caro has essentially spent his entire career immersed in the lives of two men–Robert Moses and Lyndon B. Johnson–in an effort to explain the inner workings of political power. He wanted to know, in the case of Moses, how someone who was never an elected official seemed to have more influence than the governor. For LBJ, Caro was interested in how a poor boy from Texas walked into Washington as a junior politician and emerged later as an influential figure and Senate majority leader. ********Working******** is a culmination of the interviews, stories, and adventures Caro embarked on to understand and de-mystify political power. The book is full of tales about the wild things Caro had to do to better understand his subjects and the lives they lead, advice on writing, and how to properly research (hint: turn every page).

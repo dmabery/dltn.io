@@ -1,13 +1,12 @@
 ---
 Title: "Writing in Your Head"
-Tags: ['writing']
-Date: "March 31, 2022 10:35 PM (GMT)"
+Tags: ["writing"]
+Date: "2022-03-31"
 Description: "Most writing happens away from the keyboard."
-Published: True
+Published: true
 Slug: "writing-in-your-head"
 Type: "Aside"
 ---
-
 Thinking of ideas and paragraphs while walking or lying down is "writing", it's just doing the mental part of writing. Your fingers aren't physically tapping keys, but that doesn't mean you aren't writing.
 
 When someone imagines a "writer", they picture them sitting in an old cottage with a rickety brown desk filled with crumpled up papers, whiskey, and cigarette ash. While this sounds like a picture perfect scene (minus the cigarettes), that's only part of what the writing process looks like.

@@ -1,13 +1,12 @@
 ---
 Title: "Which is better: instinct or reason?"
-Tags: ['psychology']
-Date: "September 11, 2022 7:23 PM (GMT)"
+Tags: ["psychology"]
+Date: "2022-09-11"
 Description: "There are two forms of intelligence we draw on when making decisions: instincts and reason. I wanted to know which is a better strategy to rely on and why? Or, is there a better strategy? Perhaps instinct and intelligence are two sides of the same coin working in tandem with one another."
-Published: True
+Published: true
 Slug: "which-is-better-instinct-or-reason"
 Type: "Essay"
 ---
-
 **I.**
 Trying to change the behavior of someone who acts off instinct by persuading them with logic and reason is a formula destined for failure. You cannot combat intuition or "feeling" through data, logical conclusions, or experimental studies. The two are in direct opposition to one another.
 

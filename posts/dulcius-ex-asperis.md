@@ -1,13 +1,12 @@
 ---
 Title: "Dulcius Ex Asperis"
-Tags: ['til']
-Date: "September 14, 2022 3:14 AM (GMT)"
+Tags: ["til"]
+Date: "2022-09-14"
 Description: "Sweeter after difficulty."
-Published: True
+Published: true
 Slug: "dulcius-ex-asperis"
 Type: "Aside"
 ---
-
 Some of the kindest people in the world often have no reason to be. They've faced horrible circumstances, tough situations, and unreal pain in their life that have reshaped their worldview and, very unexpectedly, made them kinder.
 
 Like most virtues in life, there is a Latin phrase for this. *Dulcius Ex Asperis, sweeter after difficulty.*

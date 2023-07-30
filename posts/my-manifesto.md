@@ -1,13 +1,12 @@
 ---
 Title: "My Manifesto"
-Tags: ['life']
-Date: "September 30, 2022"
+Tags: ["life"]
+Date: "2022-09-30"
 Description: "A declaration."
-Published: True
+Published: true
 Slug: "my-manifesto"
 Type: "Essay"
 ---
-
 Love is cruel mistress.
 
 It’s a unique experience that opens up our hearts and minds to a place we didn’t know existed. A place far beyond our imagination, but somewhere we conjured up. A place filled with mountains of joy, streams of smiles, and fields of laughter depressingly contrasted by the valleys of sorrow and the rivers of pain.

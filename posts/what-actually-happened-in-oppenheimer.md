@@ -1,14 +1,13 @@
 ---
 Title: "What Actually Happened in Oppenheimer"
-Tags: ['miscellany']
-Date: "July 22, 2023"
+Tags: ["miscellany"]
+Date: "2023-07-22"
 Description: "Scenes and events in Oppenheimer compared to real life."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1690155436/1686033662_oppenheimer-trailer_we6qni.jpg"
-Published: True
+Published: true
 Slug: "what-actually-happened-in-oppenheimer"
 Type: "Essay"
 ---
-
 “Oppenheimer” was incredible. I’d watch it a hundred more times. The storytelling and cinema was top-notch of course, but that’s to be expected with a Nolan film.
 
 Some Manhattan Project nerds will be disappointed that there wasn’t much emphasis on Los Alamos or the actual creation of the bomb, but this is no different than in *[American Prometheus](https://www.dltn.io/blog/notes-american-prometheus-by-kai-bird-amp-martin-j-sherwin)*, the fantastic book the movie is based on. The climax of the book is the security clearance trial, not the atom bomb. Though those criticisms are fair, because it would be great to have a good Manhattan Project movie, I more appreciated the historical accuracy and the lines of dialogue that were taken straight from the book.

@@ -1,13 +1,12 @@
 ---
 Title: "Beware of the curse"
-Tags: ['framework']
-Date: "October 20, 2022"
+Tags: ["framework"]
+Date: "2022-10-20"
 Description: "The greatest things in life have something hidden inside that's not."
-Published: True
+Published: true
 Slug: "beware-of-the-curse"
 Type: "Essay"
 ---
-
 The greatest things in life can also be the worst.
 
 Sophocles said, "Nothing vast enters the life of mortals without a curse."

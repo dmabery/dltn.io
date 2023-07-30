@@ -1,13 +1,12 @@
 ---
 Title: "Season-Long Friendships"
-Tags: ['life']
-Date: "July 11, 2022 9:14 PM (GMT)"
+Tags: ["life"]
+Date: "2022-07-11"
 Description: "Society has deemed it 'the right thing' to become life-long friends with every acquaintance you have. This can lead to too much emotional burden and shallow friendships. Instead, we need to advocate more for season-long friendships."
-Published: True
+Published: true
 Slug: "season-long-friendships"
 Type: "Essay"
 ---
-
 Let me break a social norm: **You don't have to be life-long friends with every person you become acquainted with.** In fact, it's probably best you don't. Doing so could lead to 100 "friendships" with no depth. No one can carry the emotional burden of that many people on their shoulders.
 
 ## Here's what usually happens:

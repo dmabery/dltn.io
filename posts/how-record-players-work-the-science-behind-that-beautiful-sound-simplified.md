@@ -1,13 +1,12 @@
 ---
 Title: "How Record Players Work: The Science Behind That Beautiful Sound, Simplified"
-Tags: ['explainer', 'science']
-Date: "April 16, 2022 7:14 PM (GMT)"
+Tags: ["explainer", "science"]
+Date: "2022-04-16"
 Description: "This article was music to my ears."
-Published: True
+Published: true
 Slug: "how-record-players-work-the-science-behind-that-beautiful-sound-simplified"
 Type: "Essay"
 ---
-
 The eighth wonder of the world is sitting down in the evening with a cup of whiskey on the rocks with the strum and yodel of ol' Hank Williams crackling through the record player. It's the closest I could come to experiencing what it would be like listening to him on the radio.
 
 If you don't like Hank or country music, imagine the serenading sounds of Sinatra, Beethoven, Anne-Margret, Ben E. King, or Franki Valli crackling through the speaker. No matter who you pick, it's going to be a delicious sound with just the right amount of noise, music, and feedback to transport you back to the mid-20th century.

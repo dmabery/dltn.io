@@ -1,13 +1,12 @@
 ---
 Title: "Deliberare Otium"
-Tags: ['til']
-Date: "September 29, 2022"
+Tags: ["til"]
+Date: "2022-09-29"
 Description: "Otium: 'An abstract Latin term that has a variety of meanings, including leisure time in which a person can enjoy eating, playing, relaxing, contemplation and academic endeavors.'"
-Published: True
+Published: true
 Slug: "deliberare-otium"
 Type: "Essay"
 ---
-
 I like schedules.
 
 I like to be able to look at my week and know exactly what I'm doing when and what I'm supposed to be working on.

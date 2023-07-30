@@ -26,6 +26,9 @@ export const getStaticProps = async () => {
 export default function Home({ posts, tags }) {
   if (!posts) return <h1>No posts</h1>;
   console.log(posts);
+  const sortedPosts = posts.sort(
+    (a, b) => new Date(b.frontmatter.Date) - new Date(a.frontmatter.Date)
+  );
   return (
     <>
       <Meta
@@ -33,7 +36,7 @@ export default function Home({ posts, tags }) {
         description="Developer, Video Editor, Writer."
       />
       <div className="flex flex-col gap-10">
-        {posts.map((post) => (
+        {sortedPosts.map((post) => (
           <HomePagePostDisplay
             title={post.frontmatter.Title}
             tags={post.frontmatter.Tags}

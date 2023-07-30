@@ -1,13 +1,12 @@
 ---
 Title: "Popular sayings"
-Tags: ['til']
-Date: "June 12, 2022 7:08 PM (GMT)"
+Tags: ["til"]
+Date: "2022-06-12"
 Description: "Title says it all."
-Published: True
+Published: true
 Slug: "popular-sayings"
 Type: "Aside"
 ---
-
 I've always been curious where popular sayings come from. While they usually have an interesting origin story, most of them also have witty clap-backs.
 
 Here are the second half of some popular sayings:

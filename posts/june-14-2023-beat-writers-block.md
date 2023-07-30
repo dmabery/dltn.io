@@ -1,13 +1,12 @@
 ---
 Title: "Beat writer’s block"
-Tags: ['creativity', 'productivity', 'writing']
-Date: "June 14, 2023"
+Tags: ["creativity", "productivity", "writing"]
+Date: "2023-06-14"
 Description: "Essentially: multitask"
-Published: True
+Published: true
 Slug: "june-14-2023-beat-writers-block"
 Type: "Essay"
 ---
-
 Even after writing 355 books over a span of 50 years, [Isaac Asimov](https://www.dltn.io/posts/june-05-2023-isaac-asimov-on-writing) said he never experienced writer's block. His trick? Working on several projects at a time. So if he gets bored of one he simply starts working on another.
 
 > Fortunately I’m never without several projects in mind so that if I wake up in the morning, I’m sick and tired of what I’m doing, I do something else.

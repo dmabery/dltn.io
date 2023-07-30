@@ -1,13 +1,12 @@
 ---
 Title: "How the James Webb Space Telescope Will Look Back in Time"
-Tags: ['science']
-Date: "April 2, 2022 8:52 PM (GMT)"
+Tags: ["science"]
+Date: "2022-04-02"
 Description: "The James Webb will orbit nearly "
-Published: True
+Published: true
 Slug: "how-the-james-webb-space-telescope-will-look-back-in-time"
 Type: "Essay"
 ---
-
 On Christmas Day of last year, one of the most pivotal moments for space exploration was launched: the James Webb Space Telescope.
 
 Its mission is to orbit nearly [1 million miles away from Earth](https://webbtelescope.org/contents/media/images/4201-Image) and literally look back in time (more on how that's possible in the next paragraph) to understand how our solar system has developed and whether or not there is life on other planets. I was a bit confused about the claims "look back in time" so did some research on how that's possible. Here's a brief illustration:

@@ -1,14 +1,13 @@
 ---
 Title: "January Reading List"
-Tags: ['reading-list']
-Date: "February 26, 2023"
+Tags: ["reading-list"]
+Date: "2023-02-26"
 Description: "Books I read and loved in January."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1677422401/41dff408ec203f444b0140923834ab3d_fjf6iz.jpg"
-Published: True
+Published: true
 Slug: "january-reading-list-23"
 Type: "Essay"
 ---
-
 [The Writing Life](https://a.co/d/ct4S2bV)   by Annie Dillard (  [notes](https://www.dltn.io/posts/the-writing-life-by-annie-dillard)  ) - I found this book tucked away on the back shelf of a bookstore. There were so many books scattered on the ground that I had to tip-toe around, but that's how I knew I'd find something good. Dillard's sporadic reflections on the life of a writer were refreshing. I enjoy reading fiction authors write about writing because of the animation and creativity they bring to the page. There's no better way to practice writing than to read someone who actually writes for a living (other than to actually write), for as Dillard writes in this book, "A writer is careful what he reads, because what he reads, he writes." One of my favorite quotesin this book is about how a series of good days makes a good life. Dillard writes, "How we spend our days is, of course, how we spend our lives. What we do with this hour, and that one, is what we are doing."
 
 [Show Your Work](https://a.co/d/6uSi9E8)   and   [Steal Like an Artist](https://a.co/d/g92Xxdc)   by Austin Kleon (  [notes](https://www.dltn.io/posts/show-your-work-by-austin-kleon)  ) - These were both books I read in 2020, but gleaned new insights from on a re-read (as so often happens). They're short, creative, and fun but hold a wealth of insight on what it means to be a creative, how to get inspired by others' work, and why its important to blog, tweet, or talk about what you're working on. Show Your Work was specially insightful because I was reminded, once again, of the myth that only "original" creations are worth making. As Kleon writes, "The writer Jonathan Lethem has said that when people call something 'original,' nine out of ten times they just don't know the references or the original sources involved." This happens a lot while listening to rappers. I'll hear a bass line or a drum beat I like, only to realize it was sampled from an earlier hip-hop artist. When that happens, I never look at the newer song in a negative light, so why do I think other people would look at mine that way? In fact, I'm often inspired by how the new artist put their own creative touch on it.

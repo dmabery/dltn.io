@@ -1,14 +1,13 @@
 ---
 Title: "Leonardo da Vinci"
-Tags: ['book', 'people']
-Date: "November 15, 2022 3:11 AM (GMT)"
+Tags: ["book", "people"]
+Date: "2022-11-15"
 Description: "I could not have been happier with the few hours I spent reading this book. How da Vinci's life ebbs and flows through his curiosity is a whirlwind of unbelievable stories."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097307/41T8jlcGU6L._AC_SY780__jjxbp5.jpg"
-Published: True
+Published: true
 Slug: "leonardo-da-vinci"
 Type: "Book Notes"
 ---
-
 ## Impressions
 I could not have been happier with the few hours I spent reading this book. How da Vinci's life ebbs and flows through his curiosity is a whirlwind of unbelievable stories. This book encouraged me to do two things:
 

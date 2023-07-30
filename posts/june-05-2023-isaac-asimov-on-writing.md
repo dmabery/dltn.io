@@ -1,14 +1,13 @@
 ---
 Title: "Isaac Asimov on writing and reading"
-Tags: ['people', 'reading', 'writing']
-Date: "June 5, 2023"
+Tags: ["people", "reading", "writing"]
+Date: "2023-06-05"
 Description: "“I don't like to travel, it keeps me away from my typewriter.”"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1686011644/5692290321_36e10b9b35_o_jl0tuj.webp"
-Published: True
+Published: true
 Slug: "june-05-2023-isaac-asimov-on-writing"
 Type: "Essay"
 ---
-
 After starting [Foundation](https://twitter.com/dltnio/status/1665743018257793024?s=20) on Apple TV (I’m late, I know), I became interested in Isaac Asimov. I had a vague idea that he was an influential writer, but for what and why, I was ignorant.
 
 Turns out, he’s fascinating.

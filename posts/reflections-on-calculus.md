@@ -1,14 +1,13 @@
 ---
 Title: "Reflections on Calculus"
-Tags: ['math']
-Date: "December 20, 2022"
+Tags: ["math"]
+Date: "2022-12-20"
 Description: "I enjoyed it."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1671546714/asset-v1_HarvardX_CalcAPL1x_2T2017_type_asset_block_TITLE-Calculus-Applied-2120x1192-NO-SPOTLIGHT_2_gun82e.png"
-Published: True
+Published: true
 Slug: "reflections-on-calculus"
 Type: "Essay"
 ---
-
 ## Simple reflections
 
 When you study Algebra, you study the rules of equations and polynomials. Algebra is used when there is some unknown variable or number in an equation.

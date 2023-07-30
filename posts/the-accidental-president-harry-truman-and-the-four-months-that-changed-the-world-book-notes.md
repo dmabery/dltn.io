@@ -1,14 +1,13 @@
 ---
 Title: "The Accidental President: Harry S. Truman and the Four Months That Changed the World"
-Tags: ['history', 'people']
-Date: "June 12, 2023"
+Tags: ["history", "people"]
+Date: "2023-06-12"
 Description: "Book notes and insights."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1686782223/41u07SJffXL_diwpbd.jpg"
-Published: True
+Published: true
 Slug: "the-accidental-president-harry-truman-and-the-four-months-that-changed-the-world-book-notes"
 Type: "Book Notes"
 ---
-
 ************************The Accidental President************************ is a unique biography. A couple of chapters are dedicated to Truman’s upbringing and his “political education,” but as the subtitle suggests, the book focuses on the dramatic four months between April and August 1945. Those four months contained more world-changing events than most centuries: the death of Franklin Delano Roosevelt in April and the atomic bombings off Hiroshima and Nagasaki in August. In between those two events, Harry S. Truman became the most powerful man in the world. Though he dealt with wars on multiple fronts – the Pacific and the East, yes, but also at home with his wife who did not approve of his newfound presidential status – he also took control of a country where most of the population knew no other President than FDR, and, who all asked the same question when he took the oath: ****Who is Harry Truman?****
 
 ## Notes

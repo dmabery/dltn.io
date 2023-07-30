@@ -1,14 +1,13 @@
 ---
 Title: "American Moonshot by Douglas Brinkley"
-Tags: ['history', 'science']
-Date: "December 17, 2022"
+Tags: ["history", "science"]
+Date: "2022-12-17"
 Description: "An intense saga of politics and space."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1671292168/51RP36aCCPL_zilxkf.jpg"
-Published: True
+Published: true
 Slug: "book-notes-american-moonshot"
 Type: "Book Notes"
 ---
-
 ## Impressions
 
 Though this book wasn’t the detailed account of the technical innovations required to get to space as I was hoping, I enjoyed it. I feel inspired reading about a time in America where a president had the ability to bring the nation together under one goal, even if some thought that goal was insane.

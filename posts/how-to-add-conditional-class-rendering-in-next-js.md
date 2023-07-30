@@ -1,13 +1,12 @@
 ---
 Title: "How to Add Conditional Class Rendering in Next JS"
-Tags: ['programming']
-Date: "April 24, 2022 4:34 PM (GMT)"
+Tags: ["programming"]
+Date: "2022-04-24"
 Description: "A short explanation and example of rendering conditional classes with Next JS and Tailwind."
-Published: True
+Published: true
 Slug: "how-to-add-conditional-class-rendering-in-next-js"
 Type: "Aside"
 ---
-
 Conditional class rendering is pretty simple, but I've had to think through it a few times and always forget how to do it immediately. Hopefully this helps me and will help you too.
 
 <SideNote title="Important ⚠️" content="I'm using Tailwind for my CSS, but if you're using custom CSS, the idea is the same, the classes will just be different." />

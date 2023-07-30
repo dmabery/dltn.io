@@ -1,13 +1,12 @@
 ---
 Title: "9 Lessons on Curiosity and Adventure from Richard Feynman"
-Tags: ['221b']
-Date: "April 14, 2023"
+Tags: ["221b"]
+Date: "2023-04-14"
 Description: "The most insightful and entertaining stories from 'Surely You're Joking, Mr. Feynman!'"
-Published: True
+Published: true
 Slug: "9-lessons-from-surely-youre-joking-mr-feynman"
 Type: "Essay"
 ---
-
 20th-century scientists often embody a certain stereotype that befits their profession as stuffy and dry, only caring about smoking pipes and reading books. Richard P. Feynman – and his bongo-banging, night-club hanging, lock-picking self – fit none of them. If you liked to talk, you might enjoy riding shotgun with him behind the wheel. If you didn’t, you might ask to be let out at the next light.
 
 Born just before the end of WWI, he attended MIT and Princeton, where he pulled his fair share of pranks. His “masterpiece” came one morning when he took a door off the hinges of a room and hid it because, well, why not? When those in his fraternity woke up, they noticed the missing door. “Feynman! Did you take the door?” *Oh yeah! I took the door*. But they didn’t believe him. His tone was too sarcastic. The mystery went on for a week until Feynman left a picture of where the door was on the table overnight, and they found it. Later, when he finally admitted to taking it, everyone accused him of being a liar, but he wasn’t! He said he took the door. It was everyone else’s fault for not believing him. *Funny stuff.*

@@ -1,14 +1,13 @@
 ---
 Title: "The Devil in the White City by Erik Larson"
-Tags: ['history']
-Date: "February 4, 2023"
+Tags: ["history"]
+Date: "2023-02-04"
 Description: "Books notes and what I learned from reading “The Devil in the White City” by Erik Larson."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1675553689/91oNGDxyR0L._AC_UF700_800_QL80__jm8et6.jpg"
-Published: True
+Published: true
 Slug: "devil-in-the-white-city"
 Type: "Book Notes"
 ---
-
 ## Impressions
 
 An enthralling tale of “murder and mayhem” at the Chicago World’s Fair. There are two storylines Larson traces in this book: that of the construction of the Chicago World Fair and that of a murderous villain who got away with killing multiple people in the heart of Chicago.

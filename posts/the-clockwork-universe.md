@@ -1,14 +1,13 @@
 ---
 Title: "The Clockwork Universe by Edward Dolnick"
-Tags: ['book', 'science']
-Date: "August 19, 2022"
+Tags: ["book", "science"]
+Date: "2022-08-19"
 Description: "Isaac Newton, the Royal Society, and the Birth of the Modern World."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670096036/61GesH2VKkL_kuxrcy.jpg"
-Published: True
+Published: true
 Slug: "the-clockwork-universe"
 Type: "Book Notes"
 ---
-
 ## Notes
 
 During the 1650s and 60s, the universal view at the time was that the world had been falling apart since Adam and Eve were banished from Eden. Any time disaster struck, it was because God was angry at the Europeans. This is why floods and earthquakes are still called, "acts of God."

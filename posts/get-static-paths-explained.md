@@ -1,13 +1,12 @@
 ---
 Title: "getStaticPaths in NextJS Explained (Simply)"
-Tags: ['programming']
-Date: "December 7, 2022"
+Tags: ["programming"]
+Date: "2022-12-07"
 Description: "It always confused me."
-Published: True
+Published: true
 Slug: "get-static-paths-explained"
 Type: "Essay"
 ---
-
 `getStaticPaths` always confused me. I never learned exactly ****what it did or how it works. I’d usually end up copying and pasting code from StackOverflow and pray for the best.
 
 While migrating my headless CMS from Contentful to Notion, I ran into a problem though.

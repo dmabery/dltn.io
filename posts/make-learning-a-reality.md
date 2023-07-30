@@ -1,13 +1,12 @@
 ---
 Title: "Make learning a reality"
-Tags: ['knowledge-mangagement']
-Date: "October 8, 2022 3:59 AM (GMT)"
+Tags: ["knowledge-mangagement"]
+Date: "2022-10-08"
 Description: "The following passage comes from *What Do You Care What Other People Think?* by Richard Feynman. It's a collection of stories from his life and curious adventures."
-Published: True
+Published: true
 Slug: "make-learning-a-reality"
 Type: "Aside"
 ---
-
 The following passage comes from *What Do You Care What Other People Think?* by Richard Feynman. It's a collection of stories from his life and curious adventures.
 
 > We had the *Encyclopedia Britannica* at home. When I was a small boy he used to sit me on his lap and read to me from the *Britannica.* We would be reading, say, about dinosaurs. It would be talking about the *Tyrannosaurus Rex*, and it would say something like, "This dinosaur is twenty-five feet high and its head is six feet across."

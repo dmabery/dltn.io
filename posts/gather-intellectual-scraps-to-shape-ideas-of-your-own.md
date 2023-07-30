@@ -1,13 +1,12 @@
 ---
 Title: "Gather intellectual scraps to shape ideas of your own"
-Tags: ['life']
-Date: "September 2, 2022 6:30 PM (GMT)"
+Tags: ["life"]
+Date: "2022-09-02"
 Description: "An idea."
-Published: True
+Published: true
 Slug: "gather-intellectual-scraps-to-shape-ideas-of-your-own"
 Type: "Aside"
 ---
-
 Most books nowadays have one main thesis that the book is arguing for with a lot of supporting ideas and observations.
 
 *Atomic Habits* thesis is that tiny changes make a big impact. The rest of the book explains how tiny changes make a big impact and then gives a few frameworks for helping the reader make the tiny changes that they want to make in their life.

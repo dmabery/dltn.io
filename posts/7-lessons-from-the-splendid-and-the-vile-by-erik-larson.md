@@ -1,13 +1,12 @@
 ---
 Title: "7 Life Lessons from 'The Splendid and the Vile' by Erik Larson"
-Tags: ['221b']
-Date: "April 4, 2023"
+Tags: ["221b"]
+Date: "2023-04-04"
 Description: "What Churchill, London, and life during the Blitz taught me about human nature."
-Published: True
+Published: true
 Slug: "7-lessons-from-the-splendid-and-the-vile-by-erik-larson"
 Type: "Essay"
 ---
-
 As if it were a movie, *[The Splendid and the Vile](https://a.co/d/j3riSq6)* captures the courage and hope of Winston Churchill – the newly minted Prime Minister – his family, close associates, and other Londoners during The Blitz, a nine-month rampage of German bombings on the capital of the United Kingdom during World War II.
 
 I cried. I laughed. I learned.

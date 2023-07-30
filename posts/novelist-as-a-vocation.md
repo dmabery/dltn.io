@@ -1,14 +1,13 @@
 ---
 Title: "Novelist as a Vocation by Haruki Murakami"
-Tags: ['book', 'writing']
-Date: "March 27, 2023"
+Tags: ["book", "writing"]
+Date: "2023-03-27"
 Description: "How a world-renowned novelist writes."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1679858214/9780451494641_sam0cs.jpg"
-Published: True
+Published: true
 Slug: "novelist-as-a-vocation"
 Type: "Book Notes"
 ---
-
 ## Impressions
 
 **********************Novelist as a Vocation********************** is an entertaining anthology of essays–some reprinted, some original–about writing and life. Though there are some practical tips for aspiring novelists like how to let the plot decide characters and the three requirements for creativity, I mostly enjoyed the behind-the-scenes look at how Murakami writes (and how he got started doing so). There is one chapter that takes you through, rewrite by rewrite, how Murakami drafts, edits, and eventually publishes a novel. That sort of insight is rare.

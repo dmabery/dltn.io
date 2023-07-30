@@ -1,14 +1,13 @@
 ---
 Title: "How I Built my Blog with Next.js and Notion with Custom React Components in Blog Posts"
-Tags: ['programming']
-Date: "January 29, 2023"
+Tags: ["programming"]
+Date: "2023-01-29"
 Description: "A high-level overview of how I built my blog."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1675028670/blog_wtsxei.png"
-Published: True
+Published: true
 Slug: "blog-notion-nextjs"
 Type: "Essay"
 ---
-
 <SideNote title={👋  Some housekeeping} content={This is a top-level overview of how I built my blog. I’m working on a step-by-step beginner friendly tutorial for those who want to build their own. I’ll also provide the GitHub repo for a minimal personal website if you want to skip the build and get started with your own Next.js blog powered by a Notion CMS.} /> 
 
 ## The Stack

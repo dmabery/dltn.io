@@ -1,13 +1,12 @@
 ---
 Title: "What I Read in November"
-Tags: ['reading-list']
-Date: "December 1, 2022"
+Tags: ["reading-list"]
+Date: "2022-12-01"
 Description: "Books and articles."
-Published: True
+Published: true
 Slug: "what-i-read-in-november"
 Type: "Essay"
 ---
-
 One theme I chased this month was: **what are stories from history that most people haven't heard about or don't have an accurate understanding of? **My exploration was successful.
 
 I started the month reading about a 1920s conspiracy to commit murder for oil rights against the Osage Native Americans, jumped a few decades ahead to be enthralled by the story of the African American women who helped launch the space race, and ended the month on the West Coast in the 60s to learn about the Manson trial.

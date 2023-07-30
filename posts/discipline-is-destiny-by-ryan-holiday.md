@@ -1,14 +1,13 @@
 ---
 Title: "Discipline is Destiny by Ryan Holiday"
-Tags: ['book', 'life']
-Date: "October 10, 2022"
+Tags: ["book", "life"]
+Date: "2022-10-10"
 Description: "The overexposure to a powerful concept has watered down a powerful idea, the idea that you, and only you, control your life. This book brings the idea back into reality."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097446/514X5iT2uUL_uhwy4p.jpg"
-Published: True
+Published: true
 Slug: "discipline-is-destiny-by-ryan-holiday"
 Type: "Book Notes"
 ---
-
 ## Impressions
 
 *Discipline is Destiny* brilliantly illustrates a depressingly "bro-culture" idea: discipline. This characterization stems from the hustle culture accounts on Instagram or finance bros on Twitter explaining their 4 AM morning routines, cold showers, and 35-minute meditation sessions. This overexposure to a powerful concept has therefore watered down a powerful idea, the idea that *you, and only you, control your life.* This book brings the idea back into reality.

@@ -1,13 +1,12 @@
 ---
 Title: "Chef and The Line Cook: Going Deeper"
-Tags: ['framework']
-Date: "April 6, 2022 12:19 AM (GMT)"
+Tags: ["framework"]
+Date: "2022-04-06"
 Description: "This is an essay."
-Published: True
+Published: true
 Slug: "chef-and-the-line-cook"
 Type: "Essay"
 ---
-
 In 2015, *Wait But Why* author, Tim Urban, popularized the analogy of "The Chef and The Line Cook" in a 4-part blog series about Elon Musk. In the post, he described Elon as being a chef, someone who can take pieces of a puzzle apart and put them back together in a new, creative way.
 
 Alternatively, he described line cook as being those who understand how to follow recipes. They know how to make a delicious steak with all the right ingredients, but if they're out of seasoning or something goes wrong, they can't salvage the dish. A chef, on the other hand, is able to make something just as scrumptious without the necessary components. In other words, *they understand each ingredient enough to know how it reacts with something else.*

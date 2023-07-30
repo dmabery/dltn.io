@@ -1,13 +1,12 @@
 ---
 Title: "Being Okay With Negative Capability"
-Tags: ['framework']
-Date: "April 2, 2022 8:47 PM (GMT)"
+Tags: ["framework"]
+Date: "2022-04-02"
 Description: "This is an essay."
-Published: True
+Published: true
 Slug: "being-okay-with-negative-capability"
 Type: "Essay"
 ---
-
 > Negative Capability, that is, when a man is capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason.\
 >\
 > -- John Keats

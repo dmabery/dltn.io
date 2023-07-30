@@ -1,13 +1,12 @@
 ---
 Title: "Be prepared for the disaster to be worse than before"
-Tags: ['atomic-essay']
-Date: "January 26, 2023"
+Tags: ["atomic-essay"]
+Date: "2023-01-26"
 Description: "Or be unprepared."
-Published: True
+Published: true
 Slug: "disaster"
 Type: "Essay"
 ---
-
 No one expected the economy to crash during the Great Depression...until it did.
 
 No one expected (or maybe they did but didn’t prepare) for a disease to put the entire world at a halt...until it did.

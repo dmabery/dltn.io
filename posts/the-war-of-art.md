@@ -1,14 +1,13 @@
 ---
 Title: "The War of Art by Steven Pressfield"
-Tags: ['book', 'creativity']
-Date: "December 28, 2022"
+Tags: ["book", "creativity"]
+Date: "2022-12-28"
 Description: "Book notes on The War of Art by Steven Pressfield"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1672266683/41ET8OFVFCL_e90l4g.jpg"
-Published: True
+Published: true
 Slug: "the-war-of-art"
 Type: "Book Notes"
 ---
-
 ## Impressions
 
 Almost every writer or creative person I listen to swears by this book. I had high expectations. Those were met (and exceeded).

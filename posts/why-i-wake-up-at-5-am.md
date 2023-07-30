@@ -1,14 +1,13 @@
 ---
 Title: "Why I Wake Up at 5:00 am"
-Tags: ['personal', 'thinking']
-Date: "January 11, 2023"
+Tags: ["personal", "thinking"]
+Date: "2023-01-11"
 Description: "This isn’t a hustle culture post."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1673472181/blog_OG_image_xtzewb.png"
-Published: True
+Published: true
 Slug: "why-i-wake-up-at-5-am"
 Type: "Essay"
 ---
-
 For the past four years, I’ve gotten up at 5:00 am on most work days. For the past week, my wake-up call has been closer to 4:00 am.
 
 Am I crazy? Why do I do this?

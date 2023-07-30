@@ -1,13 +1,12 @@
 ---
 Title: "The Mountain of Knowledge (And Why Dumb Smart People Never Escape It)"
-Tags: ['framework']
-Date: "October 4, 2022 9:21 PM (GMT)"
+Tags: ["framework"]
+Date: "2022-10-04"
 Description: "Knowing the name of something doesn't mean you understand it."
-Published: True
+Published: true
 Slug: "the-mountain-of-knowledge-and-the-peak-of-understanding"
 Type: "Essay"
 ---
-
 I.
 "Names don't constitute knowledge", the great professor and physicist Richard Feynman declared in an [interview in 1973](https://www.youtube.com/watch?v=PsgBtOVzHKI).
 

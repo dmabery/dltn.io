@@ -1,14 +1,13 @@
 ---
 Title: "Show Your Work by Austin Kleon"
-Tags: ['book']
-Date: "June 5, 2022 5:31 PM (GMT)"
+Tags: ["book"]
+Date: "2022-06-05"
 Description: "A short read, but interesting nonetheless. This book doesn't have a ton of practical insights, but gives some motivation to show what you're doing in public. An interesting argument and helpful for someone like me who is so young and feel like I haven't accomplished anything yet."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097631/978-0761178972_k6ngnh.jpg"
-Published: True
+Published: true
 Slug: "show-your-work-by-austin-kleon"
 Type: "Book Notes"
 ---
-
 Summary
 -------
 

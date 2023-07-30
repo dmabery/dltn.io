@@ -1,13 +1,12 @@
 ---
 Title: "What It Takes To Be a Great Teacher"
-Tags: ['life']
-Date: "September 9, 2022"
+Tags: ["life"]
+Date: "2022-09-09"
 Description: "Through teaching, students not only discover who they are, but who they want to become. It's important we get this right."
-Published: True
+Published: true
 Slug: "what-it-takes-to-be-a-great-teacher"
 Type: "Essay"
 ---
-
 There are few professions that impact future generations more than being a teacher. Not only do teachers teach students about history and science, but they teach students about the world. Through this teaching, students not only discover who they are, but who they want to become.
 
 Days after [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) became the second youngest person to win the Nobel Prize, Camus showed gratitude to whom it was due–his former teacher. Camus [writes to Monsieur Germain](https://www.themarginalian.org/2014/11/19/albert-camus-letter-teacher/):

@@ -1,13 +1,12 @@
 ---
 Title: "Building a Custom React Form Hook"
-Tags: ['programming', 'react']
-Date: "July 14, 2022"
+Tags: ["programming", "react"]
+Date: "2022-07-14"
 Description: "Learning in public and using the Feynman technique to teach myself."
-Published: True
+Published: true
 Slug: "react-form-hook"
 Type: "Aside"
 ---
-
 I'm taking an [advanced React course][1] and instead of powering through the tutorials to finish as fast as I can, I'm trying to slow down and make sure I understand each line of code. Naturally, I wanted to share for others to see and potentially benefit from.
 
 The following lines of code come from a custom React hook to handle basic form submissions.

@@ -1,13 +1,12 @@
 ---
 Title: "The best system I've read for synthesizing knowledge"
-Tags: ['knowledge-mangagement']
-Date: "July 29, 2022 10:01 PM (GMT)"
+Tags: ["knowledge-mangagement"]
+Date: "2022-07-29"
 Description: "The most effective way to learn."
-Published: True
+Published: true
 Slug: "the-best-system-ive-read-for-synthesizing-knowledge"
 Type: "Aside"
 ---
-
 From [Joel Chan](https://oasislab.pubpub.org/user/joel-chan), this process for synthesizing notes is the best I've seen. It's a bit academic in nature, but with a careful read can be easily understood and you could have a new process for note-taking. I know I do.
 
 ### The process goes like this

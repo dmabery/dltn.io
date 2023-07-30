@@ -1,14 +1,13 @@
 ---
 Title: "The Man From The Future"
-Tags: ['book', 'people']
-Date: "September 16, 2022"
+Tags: ["book", "people"]
+Date: "2022-09-16"
 Description: "This book explores the life of a time-traveler. Someone who theorized, pondered, and invented tools that would create the lives of some and destroy the lives of many."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097557/56155133_hgijwv.jpg"
-Published: True
+Published: true
 Slug: "the-man-from-the-future"
 Type: "Book Notes"
 ---
-
 *[The Man From the Future](https://www.amazon.com/Man-Future-Visionary-Life-Neumann-ebook/dp/B098TYZN67?crid=3FM501TO8DIZ6&keywords=The%20Man%20From%20The%20Future&qid=1657608834&sprefix=the%20man%20from%20the%20future,aps,140&sr=8-1&linkCode=sl1&tag=slatestarcode-20&linkId=90b726e6acb3d8ccb1fe7b31e3d3ab21&language=en_US&ref_=as_li_ss_tl)* explores the life of a time-traveler. Someone who theorized, pondered, and invented tools that would create the lives of some and destroy the lives of many. [Game theory](https://en.wikipedia.org/wiki/Game_theory), quantum mechanics, [The Manhattan Project](https://en.wikipedia.org/wiki/Manhattan_Project), computers, and the [RAND Corporation](https://www.rand.org/) are just some of the many disciplines which von Neumann dabbled. This book explores those wide-reaching fields and the many lives they impacted.
 
 After reading, I want to understand two fields better: game theory and the birth of the computer. I want to understand how to use game theory to demolish friends at Risk and I'd like a complete understanding of how the [ENIAC](https://en.wikipedia.org/wiki/ENIAC) created the [EDVAC](https://en.wikipedia.org/wiki/EDVAC) and how that lead to the modern computer. To that, I shall continue my exploration of the shelves of libraries that holds the wisdom of the world–all for my taking.

@@ -1,14 +1,13 @@
 ---
 Title: "Leadership by Henry Kissinger"
-Tags: ['book', 'people']
-Date: "September 21, 2022"
+Tags: ["book", "people"]
+Date: "2022-09-21"
 Description: "Book Notes"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670095702/61kg04XeivL_wpsr1q.jpg"
-Published: True
+Published: true
 Slug: "leadership"
 Type: "Book Notes"
 ---
-
 ## Impressions
 
 *[Leadership](https://www.amazon.com/Leadership-Six-Studies-World-Strategy/dp/0593489446/ref=asc_df_0593489446/?tag=hyprod-20&linkCode=df0&hvadid=532660552781&hvpos=&hvnetw=g&hvrand=15035015911338731310&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032520&hvtargid=pla-1411574914459&psc=1)* by Henry Kissinger profiled six leaders who led during a dramatic half-century. The leaders in this book influenced the world that followed the two colossal world wars that engulfed Europe and its allies. Their duties included reorganizing collapsing governments, cities, and countries; humbly accepting defeat and enduring global embarrassment; attempting to create global peace; and much more. These leaders struggled to create long term policies when everything that came before was focused on the immediate.

@@ -1,13 +1,12 @@
 ---
 Title: "How to Approach Life: From Leonardo da Vinci"
-Tags: ['221b']
-Date: "May 5, 2023"
+Tags: ["221b"]
+Date: "2023-05-05"
 Description: "and more about the artist himself."
-Published: True
+Published: true
 Slug: "leonardo-da-vinci-lessons"
 Type: "Essay"
 ---
-
 Being born out of wedlock in 1400s Italy didn't leave a lot of options for the son of a multi-generation notary. It was customary in that day for the sons of tradesmen to acquire the skills of the father, but Leonardo da Vinci didn't have that luxury since he was illegitimate. He also couldn’t enroll in proper schooling.
 
 Though da Vinci lacked traditional education, he did attend an abacus school to learn useful skills in math and commerce. It was here that he learned the value of thinking about subjects through analogies and patterns, which became "for him a rudimentary method of theorizing."

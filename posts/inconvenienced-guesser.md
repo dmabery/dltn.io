@@ -1,13 +1,12 @@
 ---
 Title: "On Being an Inconvenienced Guesser"
-Tags: ['life']
-Date: "October 9, 2022 7:33 PM (GMT)"
+Tags: ["life"]
+Date: "2022-10-09"
 Description: "I know I'm a Guess Culture participant. I do so because it's easier to manage my inconvenience than someone else's. Is this the right way to act?"
-Published: True
+Published: true
 Slug: "inconvenienced-guesser"
 Type: "Essay"
 ---
-
 There's been two articles I've seen recently on the difference between people who ask for what they want (ask culture) vs. people who drop subtle hints at what they want (guess culture). I'm not afraid to admit I fall in the latter group. Does this mean some emotional aspect of my social life is immature or not developed enough?
 
 Some say I'm "easy going" or very "go with the flow" and I'd agree with both of those statements. But it's not because I have a big soft spot in my heart and I want to be selfless. Rather, it comes from a deep sense of insecurity of not wanting to inconvenience other people. Most of my approach with groups of people, especially groups of people I don't know well, is to ensure other people aren't inconvenienced.

@@ -1,13 +1,12 @@
 ---
 Title: "The value of niche secrets"
-Tags: ['life']
-Date: "August 16, 2022 3:10 AM (GMT)"
+Tags: ["life"]
+Date: "2022-08-16"
 Description: "Niching down."
-Published: True
+Published: true
 Slug: "the-value-of-niche-secrets"
 Type: "Aside"
 ---
-
 The coolest thing about the internet is the vast amounts of niche knowledge available in an instant.
 
 Some knowledge can come from people's personal blogs who work a very unique job and also share that online. But the amount of people who have a unique job is quite small and the subset of people who write about what they do is even smaller still – so this type of blog is few and far between.

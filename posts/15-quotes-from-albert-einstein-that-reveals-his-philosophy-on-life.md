@@ -1,13 +1,12 @@
 ---
 Title: "15 Quotes from Albert Einstein That Reveals His Philosophy on Life"
-Tags: ['people', 'science']
-Date: "April 16, 2022 2:24 AM (GMT)"
+Tags: ["people", "science"]
+Date: "2022-04-16"
 Description: "Words from the white-haired-man himself that gives us insight into what he believed about philosophy, education, politics and the bigger questions of life."
-Published: True
+Published: true
 Slug: "15-quotes-from-albert-einstein-that-reveals-his-philosophy-on-life"
 Type: "Essay"
 ---
-
 Albert Einstein was a remarkable theoretical physicist. He made discoveries about the smallest things in the world to the largest things in the world and everything in between. Not everyone can say they've done that. But while most people were distracted by his insights in science, Einstein crafted a personal philosophy on the greater questions of life. He was engaged in political matters and used his influence to change the world. As one could imagine, he cared deeply for remaining curious about life and encouraging others to do the same. The following are direct quotes from Einstein on these matters of life. They give us an insight into the humanity of one of the world's greatest. I read these in [*Einstein: His Life and Universe*](https://www.daltonmabery.com/essays/einstein-his-life-and-universe) by Walter Isaacson.
 
 ## On Education

@@ -1,14 +1,13 @@
 ---
 Title: "The Writing Life by Annie Dillard"
-Tags: ['book']
-Date: "January 8, 2023"
+Tags: ["book"]
+Date: "2023-01-08"
 Description: "Book notes: The Writing Life by Annie Dillard"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1673196545/31yeM3aA2SS._AC_SY780__xkd930.jpg"
-Published: True
+Published: true
 Slug: "the-writing-life-by-annie-dillard"
 Type: "Book Notes"
 ---
-
 ## Impressions
 
 I discovered this book at a used bookstore. There’s something magical about walking into a time capsule that is a used bookstore with a specific type of book on your mind, and walking out with one that satisfies.

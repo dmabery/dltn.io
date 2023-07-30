@@ -1,14 +1,13 @@
 ---
 Title: "Surely You're Joking Mr. Feynman by Richard Feynman"
-Tags: ['book', 'science']
-Date: "April 6, 2023"
+Tags: ["book", "science"]
+Date: "2023-04-06"
 Description: "Book notes."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1683751122/35167685_fh09zr.jpg"
-Published: True
+Published: true
 Slug: "surely-youre-joking-mr-feynman"
 Type: "Book Notes"
 ---
-
 *You can read more structured notes [on this book here](https://thewanderingreader.substack.com/p/he-wasnt-like-other-scientists). It was originally posted on my newsletter.*
 
 Like any great genius in Feynman’s day, he got his start fixing and playing with science through radios. He’d take them apart and put them back together again, only making them better than they were before. Through this, he got job fixing broken radios. In one instance, he made quite an impression on someone.

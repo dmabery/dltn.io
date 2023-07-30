@@ -1,13 +1,12 @@
 ---
 Title: "A few funny things about time"
-Tags: ['atomic-essay']
-Date: "January 24, 2023"
+Tags: ["atomic-essay"]
+Date: "2023-01-24"
 Description: "It has no memory."
-Published: True
+Published: true
 Slug: "time"
 Type: "Essay"
 ---
-
 Time is funny.
 
 We can wither away a day, a month, or even a year in the present, and it will never punish us.

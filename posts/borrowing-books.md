@@ -1,13 +1,12 @@
 ---
 Title: "What I do when someone asks to borrow a book"
-Tags: ['life', 'personal']
-Date: "July 29, 2022"
+Tags: ["life", "personal"]
+Date: "2022-07-29"
 Description: "I am not a library."
-Published: True
+Published: true
 Slug: "borrowing-books"
 Type: "Essay"
 ---
-
 Are kind acts done for selfish reasons still considered kind?
 
 I'm not sure...but there's a reason I'm asking.

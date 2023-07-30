@@ -1,14 +1,13 @@
 ---
 Title: "Junior: Writing Your Way Ahead in Advertising"
-Tags: ['book', 'writing']
-Date: "June 3, 2022 7:30 PM (GMT)"
+Tags: ["book", "writing"]
+Date: "2022-06-03"
 Description: "This book is very helpful for anyone who wants to get into freelance or agency marketing. It gives some practical writing advice, but it's mainly tips and strategies on how to create good campaigns inside of an agency."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097487/41WZlr_vz8L_bbqatj.jpg"
-Published: True
+Published: true
 Slug: "junior-writing-your-way-ahead-in-advertising"
 Type: "Book Notes"
 ---
-
 Summary
 -------
 

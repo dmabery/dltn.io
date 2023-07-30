@@ -1,14 +1,13 @@
 ---
 Title: "Bird by Bird by Anne Lamott"
-Tags: ['book', 'writing']
-Date: "June 19, 2023"
+Tags: ["book", "writing"]
+Date: "2023-06-19"
 Description: "Some instructions on writing and life."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1687195208/81sZwmQWiIL._AC_UF1000_1000_QL80__bo7rwx.jpg"
-Published: False
+Published: false
 Slug: "book-notes-bird-by-bird-by-anne-lamott"
 Type: "Book Notes"
 ---
-
 Anne Lamott’s father taught prisoners at San Quentin, and herself, how to write. “But he taught me too,” she writes. “Mostly be example…But while he helped the prisoners and me to discover that we had a lot of feelings and observations and memories and dreams and (God knows) opinions we wanted to share, we all ended up just the tiniest bit resentful when we found the one fly in the ointment: that at some point we had to actually sit down and write.”
 
 And that’s the most important thing about writing. You can read all the books about the craft you wanted, write down all the notes and plots and storylines you want, but unless you sit down in a chair and write word after word after word, you won’t be successful.

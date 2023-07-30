@@ -1,14 +1,13 @@
 ---
 Title: "Break the Mold"
-Tags: ['221b', 'people']
-Date: "June 16, 2023"
+Tags: ["221b", "people"]
+Date: "2023-06-16"
 Description: "What I learned from Cormac McCarthy"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1686925180/CormacLEAD2_s78wfo.jpg"
-Published: True
+Published: true
 Slug: "break-the-mold"
 Type: "Essay"
 ---
-
 The only light in the motel room came in through the blinds from the street lights. This didn’t stop him from writing. Oh no. Because he’d been in a thousand rooms just like the one he was in now, he knew exactly what to do. He took out the high-wattage light bulb he always had and screwed it in. With a now-illuminated room, Cormac McCarthy began killing off his characters in the most brutal way imaginable.
 
 And that’s how many of Cormac McCarthy’s early novels were written. In cheap, dark, Tennessee motel rooms. **It doesn’t matter where you work, so as long as you work.**

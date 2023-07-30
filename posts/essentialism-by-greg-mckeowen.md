@@ -1,14 +1,13 @@
 ---
 Title: "Essentialism by Greg Mckeowen"
-Tags: ['book', 'life']
-Date: "May 21, 2022 3:25 PM (GMT)"
+Tags: ["book", "life"]
+Date: "2022-05-21"
 Description: "he Essentialist mindset is all about doing less, but better."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670095778/519eY-pLzQL._SL500__e6slbs.jpg"
-Published: True
+Published: true
 Slug: "essentialism-by-greg-mckeowen"
 Type: "Book Notes"
 ---
-
 One Sentence Summary
 --------------------
 

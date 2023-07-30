@@ -1,14 +1,13 @@
 ---
 Title: "Shake things up"
-Tags: ['creativity']
-Date: "June 2, 2023"
+Tags: ["creativity"]
+Date: "2023-06-02"
 Description: "If you’re stuck creatively, shake things up; do something differently."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1685726536/olivetti-lettera-32_uu8ov0.jpg"
-Published: True
+Published: true
 Slug: "june-2-2023-shake-things-up"
 Type: "Essay"
 ---
-
 I don't believe in writer's block in the traditional sense. If you can't write, you probably have nothing to say, so you should go find something to say.
 
 But if you feel like you *do* have something to say and, for some reason, the words and the work aren't flowing, *shake things up:* do things differently than you normally do them.

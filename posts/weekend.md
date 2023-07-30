@@ -1,13 +1,12 @@
 ---
 Title: "The weekend has too much free time"
-Tags: ['thought']
-Date: "April 29, 2023"
+Tags: ["thought"]
+Date: "2023-04-29"
 Description: "a note"
-Published: False
+Published: false
 Slug: "weekend"
 Type: "Essay"
 ---
-
 I hate the weekends.
 
 You might think I’m crazy, and that’s fine, but I do. I hate them. The weekend has too much unstructured free time. And when I have too much free time, I have too much time to think. My mind starts asking itself questions, reflecting on ************every single************ life choice it has been a part of up until this point.

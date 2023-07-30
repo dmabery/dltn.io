@@ -1,13 +1,12 @@
 ---
 Title: "Wednesday Assorted Thoughts"
-Tags: ['link']
-Date: "June 29, 2022 1:11 PM (GMT)"
+Tags: ["link"]
+Date: "2022-06-29"
 Description: "TIL"
-Published: True
+Published: true
 Slug: "04-06-2022-assorted-thoughts"
 Type: "Aside"
 ---
-
 ## Links
 - [Simple time management advice][1]
 - [Tyler Cowen book recommendations][2]

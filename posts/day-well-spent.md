@@ -1,13 +1,12 @@
 ---
 Title: "A day well spent"
-Tags: ['miscellaneous']
-Date: "February 22, 2023"
+Tags: ["miscellaneous"]
+Date: "2023-02-22"
 Description: "A daily log."
-Published: True
+Published: true
 Slug: "day-well-spent"
 Type: "Essay"
 ---
-
 Today was a day well spent.
 
 I’m always changing my daily schedule around to find what works best. It seems like there are never enough hours in the day, so I’m always looking for the routine that will fit my to do list the best, and today went well.

@@ -1,14 +1,13 @@
 ---
 Title: "What Do You Care What Other People Think? By Richard Feynman"
-Tags: ['book', 'history', 'people', 'science']
-Date: "October 13, 2022"
+Tags: ["book", "history", "people", "science"]
+Date: "2022-10-13"
 Description: "I have a deep admiration for Feynman's beliefs on life, knowledge, and science, but that admiration went deeper still as I followed the stories of his life told by the man himself."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097515/35167718_jm1bxy.jpg"
-Published: True
+Published: true
 Slug: "what-do-you-care-what-other-people-think"
 Type: "Book Notes"
 ---
-
 Sitting around a campfire listening to stories passed on from generations brings with it a feeling of wonder and joy for the adventures told from long ago.
 
 Each one of these stories is special on its own and they could never be told in a *bad* way.

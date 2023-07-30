@@ -1,13 +1,12 @@
 ---
 Title: "Just get something on the page"
-Tags: ['atomic-essay']
-Date: "January 23, 2023"
+Tags: ["atomic-essay"]
+Date: "2023-01-23"
 Description: "‘Done is better than perfect’ isn’t the whole saying."
-Published: True
+Published: true
 Slug: "blank-page"
 Type: "Essay"
 ---
-
 There’s a saying, “Done is better than perfect.” Some artists live by that phrase. Others criticize it. They think it gives people a hall pass to create shoddy work. But those people don’t know what they’re talking about (and their unaccomplished desire to create something meaningful also plagues them).
 
 “Done is better than perfect” is the mindset for the first draft, not the final piece. It’s easier to edit something that already exists than to come up with something new.

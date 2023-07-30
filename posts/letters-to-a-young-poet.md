@@ -1,14 +1,13 @@
 ---
 Title: "Letters to a Young Poet by Rainer Maria Rilke"
-Tags: ['book', 'poetry']
-Date: "November 16, 2022"
+Tags: ["book", "poetry"]
+Date: "2022-11-16"
 Description: "A book for the soul, not the mind."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670095952/51sXWlNmAZL_zvflfb.jpg"
-Published: True
+Published: true
 Slug: "letters-to-a-young-poet"
 Type: "Book Notes"
 ---
-
 ## Impressions
 Few books touch your soul the way *Letters To a Young Poet* does. The language is enchanting. The problems are wide-ranging and applicable to most people. The main creative outlet addressed in the book is poetry, but the advice applies to anything someone with a creative bone in their body touches with pride and says: *I made that.*
 

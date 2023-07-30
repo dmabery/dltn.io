@@ -1,13 +1,12 @@
 ---
 Title: "The Wright Brothers"
-Tags: ['221b']
-Date: "April 28, 2023"
+Tags: ["221b"]
+Date: "2023-04-28"
 Description: "Genius knows no class"
-Published: True
+Published: true
 Slug: "the-wright-brothers-summary"
 Type: "Essay"
 ---
-
 *One ship drives east and another drives westWith the self-same winds that blow.’Tis the set of the sailsAnd not the galesWhich tells us the way to go.*
 
 – Ella Wheeler Wilcox, “Winds of Fate”

@@ -1,14 +1,13 @@
 ---
 Title: "Einstein: His Life and Universe"
-Tags: ['book', 'people', 'science']
-Date: "May 14, 2022 10:44 PM (GMT)"
+Tags: ["book", "people", "science"]
+Date: "2022-05-14"
 Description: "Key insights, learnings, and things that surprised me while reading Einstein's biography."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670094709/51pCqz9vMqL._AC_SY780__qoovrw.jpg"
-Published: True
+Published: true
 Slug: "einstein-his-life-and-universe"
 Type: "Book Notes"
 ---
-
 ### The goal of science is to discover why the universe acts the way that it does.
 • "There was a harmonious reality underlying the laws of the universe, and the goal of science was to discover it."
 

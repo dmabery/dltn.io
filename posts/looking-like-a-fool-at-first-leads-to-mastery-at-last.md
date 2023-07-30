@@ -1,13 +1,12 @@
 ---
 Title: "Looking like a fool at first leads to mastery at last"
-Tags: ['thought']
-Date: "July 2, 2022 5:02 PM (GMT)"
+Tags: ["thought"]
+Date: "2022-07-02"
 Description: "Don’t be afraid to look foolish."
-Published: True
+Published: true
 Slug: "looking-like-a-fool-at-first-leads-to-mastery-at-last"
 Type: "Aside"
 ---
-
 In James Clear's 3-2-1 Newsletter, he shared a thought that I've been feeling for awhile, but couldn't put to words very well. This happens a lot with James Clear and other great writers. They're able to say what you've been thinking. This is what Clear wrote:
 
 > Powerful combination = Hate being bad at stuff + Willing to look like

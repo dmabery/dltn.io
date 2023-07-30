@@ -1,13 +1,12 @@
 ---
 Title: "Plan for Future Conduct"
-Tags: ['people']
-Date: "September 11, 2022 7:24 PM (GMT)"
+Tags: ["people"]
+Date: "2022-09-11"
 Description: "From Benjamin Franklin"
-Published: True
+Published: true
 Slug: "plan-for-future-conduct"
 Type: "Aside"
 ---
-
 At 20 years old, Ben Franklin realized most of his life up to that point had just kinda happened to him.
 
 So, he wrote a personal handbook that would guide his every action. This put him on a launch pad to being a great businessman, politician, and more.

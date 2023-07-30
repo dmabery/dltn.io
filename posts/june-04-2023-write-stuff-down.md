@@ -1,14 +1,13 @@
 ---
 Title: "Write stuff down"
-Tags: ['charles', 'darwin', 'journaling']
-Date: "June 4, 2023"
+Tags: ["charles", "darwin", "journaling"]
+Date: "2023-06-04"
 Description: "Charles Darwin on the importance of taking notes."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1685889755/StFeSAMPLE_fmww2y.jpg"
-Published: True
+Published: true
 Slug: "june-04-2023-write-stuff-down"
 Type: "Essay"
 ---
-
 ![StFeSAMPLE.jpg](Write%20stuff%20down%20fbdc2f1d21e545b8a2e7a676797f5648/StFeSAMPLE.jpg)
 
 Aboard the HMS ******Beagle****** in 1831, Charles Darwin began journaling.

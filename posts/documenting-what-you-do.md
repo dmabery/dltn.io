@@ -1,13 +1,12 @@
 ---
 Title: "Documenting what you do"
-Tags: ['life']
-Date: "August 24, 2022 10:51 PM (GMT)"
+Tags: ["life"]
+Date: "2022-08-24"
 Description: "A thought."
-Published: True
+Published: true
 Slug: "documenting-what-you-do"
 Type: "Aside"
 ---
-
 My wife has pulmonary fibrosis, so we spend a lot of time in doctor's offices and hospitals. It's always a joy for me to observe and compare how one nurse handles certain situations than another. Personality shines through everything you do.
 
 One thing that we've struggled with is the lack of documentation of how certain things work. Specifically, the notes left in the chart from each visit that other nurses and doctors consult at the following appointments.

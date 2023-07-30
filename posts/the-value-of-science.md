@@ -1,13 +1,12 @@
 ---
 Title: "The Value of Science 67 Years Later"
-Tags: ['people', 'science']
-Date: "August 5, 2022 4:15 PM (GMT)"
+Tags: ["people", "science"]
+Date: "2022-08-05"
 Description: "In 1955, Richard Feynman gave a famous lecture on the value of science. In it, he outlined three ways science is of value to us all. In this essay, I reflect on those points and attempt to understand what they mean–67 years later."
-Published: True
+Published: true
 Slug: "the-value-of-science"
 Type: "Essay"
 ---
-
 In 1955, Professor Richard Feynman gave [one of the most famous talks on the importance of science](https://calteches.library.caltech.edu/1575/1/Science.pdf). In his address, he listed three ways science is of important value and gave a strong encouragement (and a stark warning) to the future generations of scientists.
 
 ![Richard Feynman](//images.ctfassets.net/nk2hkdvz2uym/5alWsn7w7eZkXSoQKFlnQO/db79387ebaf7e17255a304e82c450e1b/1_h0m81hmIfZzPLFTG1pPAeg.jpeg)

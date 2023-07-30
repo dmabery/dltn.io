@@ -1,13 +1,12 @@
 ---
 Title: "On Celebrating Tiny Learning Milestones"
-Tags: ['life']
-Date: "August 5, 2022"
+Tags: ["life"]
+Date: "2022-08-05"
 Description: "An ode to celebrating the small things you learn in life, daily."
-Published: True
+Published: true
 Slug: "on-celebrating-tiny-milestones"
 Type: "Essay"
 ---
-
 Since October of last year, I've been diligently studying programming, I've done so on and off over the past few years, but took a very in-depth course in October that helped put me into gear. I've also met a few people who have been willing to extend a hand and help me get a footing in the field and for that, I'm ever thankful.
 
 But as I approach learning for a year, I was wondering: **how do I know I'm getting better?** Luckily, I stumbled upon [this great essay from Julia Evans](https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/) about celebrating tiny learning milestones that answered this exact question. Evans writes:

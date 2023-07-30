@@ -1,13 +1,12 @@
 ---
 Title: "How to Increase the Chances of Becoming a Genius"
-Tags: ['life']
-Date: "July 23, 2022 8:19 PM (GMT)"
+Tags: ["life"]
+Date: "2022-07-23"
 Description: "A response to miracle years."
-Published: True
+Published: true
 Slug: "on-increasing-the-likelihood-of-a-miracle-year"
 Type: "Essay"
 ---
-
 Earlier this week, [Dwarkesh Patel wrote an essay exploring the mystery of the miracle year](https://www.dwarkeshpatel.com/p/annus-mirabilis?s=r)– "in which [scientists] make multiple, seemingly independent breakthroughs in the span of a single year or two" ([source](https://www.dwarkeshpatel.com/p/annus-mirabilis?s=r)). Patel posits some potential explanations for the miracle year phenomenon including Selection Bias, right problem at the right time, and the amount of freedom the geniuses had at the time.
 
 He concludes the piece saying:

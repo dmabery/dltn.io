@@ -1,13 +1,12 @@
 ---
 Title: "Why you feel stuck in life"
-Tags: ['life']
-Date: "August 24, 2022"
+Tags: ["life"]
+Date: "2022-08-24"
 Description: "Are you the person stuck below decks?"
-Published: True
+Published: true
 Slug: "why-you-feel-stuck-in-life"
 Type: "Essay"
 ---
-
 I.
 Obviously named after Galileo Galilei, Galilean relativity states that the laws of physics should be the same in all inertial reference frames. Inertial reference frames means any frame of reference that isn’t accelerating or decelerating. If either of those are the case, there is no experiment that can “prove” someone in one frame is really moving and someone else in another isn’t because the laws of physics are the same in both instances.
 

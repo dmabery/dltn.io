@@ -1,14 +1,13 @@
 ---
 Title: "How to Live on 24 Hours a Day by Arnold Bennett"
-Tags: ['book', 'productivity']
-Date: "January 10, 2023"
+Tags: ["book", "productivity"]
+Date: "2023-01-10"
 Description: "Book notes."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1673013117/51CSXeG2aHL_z9amo1.jpg"
-Published: True
+Published: true
 Slug: "book-notes-how-to-live-on-24-hours-a-day"
 Type: "Book Notes"
 ---
-
 ## Impressions
 
 ***********************How to Live on 24 Hours a Day*********************** is the most timeless, practical guide to time management. It gives both philosophical ideas and practical steps to help you take control of the hours you typically waste to do something that betters yourself with them.

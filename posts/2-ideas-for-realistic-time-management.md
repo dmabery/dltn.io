@@ -1,13 +1,12 @@
 ---
 Title: "2 Ideas for Realistic Time Management"
-Tags: ['221b']
-Date: "April 21, 2023"
+Tags: ["221b"]
+Date: "2023-04-21"
 Description: "A summary of Arnold Bennett's 1908 classic, 'How to Live on 24-Hours a Day'"
-Published: True
+Published: true
 Slug: "2-ideas-for-realistic-time-management"
 Type: "Essay"
 ---
-
 Tick tock, tick tock, the clock goes on. Second…by…second. One no faster than the last; no shorter than the next. Yet these seconds, when they add up, seem to vanish when we account for them. *It’s time to get the kids already? Your birthday is* this *weekend?! Where did the time go?* It ticked away, second…by…second.
 
 This isn’t a new phenomenon. It may seem like it because the items that burglarize our seconds never end. Phones, TVs, news, notifications, bings, bops, and blips are all over the pla – sorry, my phone buzzed.

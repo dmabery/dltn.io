@@ -1,14 +1,13 @@
 ---
 Title: "My Analog and Digital Productivity System for 2023"
-Tags: ['knowledge-mangagement', 'productivity']
-Date: "January 2, 2023"
+Tags: ["knowledge-mangagement", "productivity"]
+Date: "2023-01-02"
 Description: "A write-up of the various tools I’m using to stay focused and work on things that matter this year."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1672681419/Untitled-1_d57pku.png"
-Published: True
+Published: true
 Slug: "2023-analog-productivity-system"
 Type: "Essay"
 ---
-
 My life organization/productivity system for 2023 consists of 6 tools:
 
 - Daily logbook and journal

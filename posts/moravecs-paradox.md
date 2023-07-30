@@ -1,13 +1,12 @@
 ---
 Title: "Moravec's Paradox"
-Tags: ['til']
-Date: "June 29, 2022 1:23 PM (GMT)"
+Tags: ["til"]
+Date: "2022-06-29"
 Description: "Computer science thing."
-Published: True
+Published: true
 Slug: "moravecs-paradox"
 Type: "Aside"
 ---
-
 Computers are exceptional at doing really hard complicated things, but struggle at doing simpler things. In other words, tasks that humans think are hard, are easy to teach AI but tasks that humans think are easy are difficult to teach AI.
 
 [Hans Moravec](https://en.wikipedia.org/wiki/Hans_Moravec), a faculty member at the Robotics Institute of Carnegie Mellon, made this observation in 1988:

@@ -1,13 +1,12 @@
 ---
 Title: "6 Rules for Self-Mastery | 'Discipline is Destiny' by Ryan Holiday"
-Tags: ['221b']
-Date: "April 7, 2023"
+Tags: ["221b"]
+Date: "2023-04-07"
 Description: "The power of self-control."
-Published: True
+Published: true
 Slug: "six-rules-for-mastery-from-discipline-is-destiny-by-ryan-holiday"
 Type: "Essay"
 ---
-
 Discipline is a habit. But it’s also a choice and not an easy one. Discipline is ignoring what you desire in the moment for what you want in the future.
 
 Some people think discipline is just for #hustlebros who want to wake up early and take cold showers, but it’s more than that.

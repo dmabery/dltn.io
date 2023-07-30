@@ -1,14 +1,13 @@
 ---
 Title: "How to read more (if you have trouble reading)"
-Tags: ['reading']
-Date: "March 27, 2023"
+Tags: ["reading"]
+Date: "2023-03-27"
 Description: "some tips and tricks"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1677422401/41dff408ec203f444b0140923834ab3d_fjf6iz.jpg"
-Published: True
+Published: true
 Slug: "read"
 Type: "Essay"
 ---
-
 I don’t think there are any secrets to reading more other than just sitting down to read. 
 
 Though that’s true, it’s not very actionable, and advice that isn’t actionable sucks.

@@ -1,12 +1,11 @@
 ---
 Title: "Kevin Kelly's 103 Bits of Advice, Expanded"
-Date: "October 27, 2022 1:28 PM (GMT)"
+Date: "2022-10-27"
 Description: "Kevin Kelly joined"
-Published: True
+Published: true
 Slug: "kevin-kellys-103-bits-of-advice-expanded"
 Type: "Essay"
 ---
-
 Kevin Kelly, who arguably has written one of the most influential essays regarding the internet and the creator economy, "[1,000 True Fans](https://kk.org/thetechnium/1000-true-fans/)", published "103 Bits of Advice I Wish I Had Known" on his 70th birthday. In the simple article, he gives practical advice, philosophical quips, and everything in between. I thoroughly enjoyed reading it when it came out. So much so, I printed it out and annotated bits I loved and wanted to go deeper on.
 
 To my luck, *Freakonomics* published an interview with him asking about that specific essay. Kelly was able to provide more context on his answers and share a few stories. The following comes from that interview.

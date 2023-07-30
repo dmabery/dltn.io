@@ -1,14 +1,13 @@
 ---
 Title: "The Psychology of Money by Morgan Housel"
-Tags: ['book', 'finance', 'psychology']
-Date: "March 26, 2022 8:03 PM (GMT)"
+Tags: ["book", "finance", "psychology"]
+Date: "2022-03-26"
 Description: "This is a book about money."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097658/41v_g6LqafL._AC_SY780__ccbxzx.jpg"
-Published: True
+Published: true
 Slug: "psychology-of-money"
 Type: "Book Notes"
 ---
-
 ## Impressions
 
 *I didn't really know what to think of this book before I started reading it. I really like Morgan Housel's blogs and so it was a no brainer whether or not to buy his book when it came out. I was pleasantly surprised with the actionable insights and takeaways for managing money. Though the focus is mainly on the psychology, as you could imagine, it does give some practical tips.*

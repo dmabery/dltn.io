@@ -1,14 +1,13 @@
 ---
 Title: "A Practical Summary of How to Live on 24 Hours a Day by Arnold Bennett"
-Tags: ['book', 'productivity']
-Date: "January 19, 2023"
+Tags: ["book", "productivity"]
+Date: "2023-01-19"
 Description: "Practical ideas and insights about how to live on just 24 hours a day (and be satisfied)."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1674078061/book_posts_fhnqzr.png"
-Published: True
+Published: true
 Slug: "how-to-live-on-24-hours-a-day-summary"
 Type: "Essay"
 ---
-
 There’s no better manual on time management than Arnold Bennett’s ***How to Live on 24 Hours a Day*** ([notes](https://www.dltn.io/posts/book-notes-how-to-live-on-24-hours-a-day)). It’s a masterpiece of philosophical advice and practical ideas for how to not fritter one’s day away.
 
 Though the book is short, it’s sort of split into two sections. In the first half, Bennett writes about the preciousness of our time, how ridiculous it is that we often center our days around a job that we hate, and shows how to find 7 extra hours throughout the week.

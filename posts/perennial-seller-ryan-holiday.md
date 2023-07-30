@@ -1,14 +1,13 @@
 ---
 Title: "Perennial Seller by Ryan Holiday"
-Tags: ['creativity', 'marketing', 'writing']
-Date: "February 1, 2023"
+Tags: ["creativity", "marketing", "writing"]
+Date: "2023-02-01"
 Description: "Book notes takeaways from reading Perennial Seller by Ryan Holiday"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1675291238/51TVamX9bsL_pynbra.jpg"
-Published: True
+Published: true
 Slug: "perennial-seller-ryan-holiday"
 Type: "Book Notes"
 ---
-
 ## Impressions
 
 In *****************************[Perennial Seller: The Art of Making and Marketing Work That Lasts](https://a.co/d/e5BJxTb)*****************************, Ryan Holiday creates a playbook for writers, creators, and artists to make exceptional work and get noticed. And yes, those are two ********sep********a********rate******** skills.

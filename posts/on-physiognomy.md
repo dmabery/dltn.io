@@ -1,13 +1,12 @@
 ---
 Title: "On Physiognomy"
-Tags: ['link', 'science']
-Date: "July 25, 2022 2:42 AM (GMT)"
+Tags: ["link", "science"]
+Date: "2022-07-25"
 Description: "TIL"
-Published: True
+Published: true
 Slug: "on-physiognomy"
 Type: "Aside"
 ---
-
 I learned this was a real science today while reading *Leonardo da Vinci* by Walter Isaacson.[ Britannica describes physiognomy as](https://www.britannica.com/topic/physiognomy-divination):
 
 > The study of the systematic correspondence of psychological characteristics to facial features or body structure.
