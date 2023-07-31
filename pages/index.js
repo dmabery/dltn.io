@@ -38,9 +38,9 @@ export const getStaticProps = async () => {
 export default function Home({ posts, tags, content }) {
   if (!posts) return <h1>No posts</h1>;
   console.log(posts);
-  const sortedPosts = posts.sort(
-    (a, b) => new Date(b.frontmatter.Date) - new Date(a.frontmatter.Date)
-  );
+  const sortedPosts = posts
+    .sort((a, b) => new Date(b.frontmatter.Date) - new Date(a.frontmatter.Date))
+    .slice(0, 5);
   return (
     <>
       <Meta
