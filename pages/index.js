@@ -2,8 +2,8 @@
 import fs from "fs";
 import matter from "gray-matter";
 import path from "path";
-import HomePagePostDisplay from "../components/HomePagePostDisplay";
 import Meta from "../components/Meta";
+import PostExcerpt from "../components/PostExcerpt";
 
 export const getStaticProps = async () => {
   const files = fs.readdirSync("posts");
@@ -40,7 +40,7 @@ export default function Home({ posts, tags, content }) {
   console.log(posts);
   const sortedPosts = posts
     .sort((a, b) => new Date(b.frontmatter.Date) - new Date(a.frontmatter.Date))
-    .slice(0, 5);
+    .slice(1, 2);
   return (
     <>
       <Meta
@@ -49,7 +49,7 @@ export default function Home({ posts, tags, content }) {
       />
       <div className="flex flex-col gap-2">
         {sortedPosts.map((post) => (
-          <HomePagePostDisplay
+          <PostExcerpt
             title={post.frontmatter.Title}
             date={post.frontmatter.Date}
             tags={post.frontmatter.Tags}
