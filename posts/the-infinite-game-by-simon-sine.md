@@ -2,7 +2,7 @@
 Title: "The Infinite Game"
 Tags: ['book', 'framework']
 Date: "March 26, 2022 8:22 PM (GMT)"
-Description: "The adaptation of an infinite mindset will result in more innovative products and higher performing teams and will see their competitors not to be beaten, but to learn from them.""
+Description: "The adaptation of an infinite mindset will result in more innovative products and higher performing teams and will see their competitors not to be beaten, but to learn from them."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670095752/41b9mAL8jtL._AC_SY780__zfiawt.jpg"
 Published: True
 Slug: "infinite-game"
