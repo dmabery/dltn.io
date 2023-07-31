@@ -1,5 +1,5 @@
 ---
-Title: "David McCullough on The Art of Writing, History, and Success"
+Title: "David McCullough on The Art of Writing"
 Tags: ["history", "people", "writing"]
 Date: "2023-07-25"
 Description: "Notes and quotes from the insightful documentary, ‘David McCullough: Painting with Words.’"

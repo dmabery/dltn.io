@@ -16,10 +16,10 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <link rel="icon" href="/favicon 3.png" />
       </Head>
-      <nav className="container mx-auto max-w-screen-md">
+      <nav className="container mx-auto mt-5 mb-10 max-w-[650px]">
         <Nav className="" />
       </nav>
-      <div className="mx-auto mt-2 max-w-screen-md md:mt-5">
+      <div className="mx-auto mt-2 max-w-[650px] md:mt-5">
         <main className="mb-auto min-h-screen">
           <QueryClientProvider client={queryClient}>
             <Component {...pageProps} />

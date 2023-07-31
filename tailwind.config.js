@@ -22,11 +22,9 @@ module.exports = {
       },
     },
     fontFamily: {
-      heading: ["Newsreader", "serif"],
+      heading: ["Inter", "sans serif"],
       body: ["Inter", "sans serif"],
       mono: ["Inconsolata", "monospace"],
-      serif: ["Newsreader", "serif"],
-      sansSerif: ["Inter", "Sans Serif"],
     },
   },
   plugins: [require("@tailwindcss/typography")],

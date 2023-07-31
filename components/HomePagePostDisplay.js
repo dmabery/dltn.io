@@ -18,14 +18,12 @@ const HomePagePostDisplay = ({
 
   return (
     <>
-      <article className="text-neutral-300">
+      <article className="text-neutral-200">
         <div>
           <Link href={`/posts/${slug}`}>
-            <a className="mb-1 font-serif text-3xl font-bold text-blue-50/80">
-              {title || ""}
-            </a>
+            <a className="font-heading text-2xl font-medium">{title || ""}</a>
           </Link>
-          <div className="tags flex gap-2 py-3 text-sm text-[#868686]">
+          <div className="tags flex gap-2 py-2 font-heading text-sm text-[#868686]">
             <div>{date}</div>
             <div>-</div>
             {tags
