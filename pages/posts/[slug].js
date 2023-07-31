@@ -1,8 +1,7 @@
-import HomePagePostDisplay from "../../components/HomePagePostDisplay";
-import Meta from "../../components/Meta";
-
 import fs from "fs";
 import matter from "gray-matter";
+import HomePagePostDisplay from "../../components/HomePagePostDisplay";
+import Meta from "../../components/Meta";
 
 export async function getStaticPaths() {
   try {

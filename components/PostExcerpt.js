@@ -1,12 +1,6 @@
 import Link from "next/link";
-import { useEffect } from "react";
-const prism = require("prismjs");
 
 const PostExcerpt = ({ title, description, date, tags, slug }) => {
-  useEffect(() => {
-    prism.highlightAll();
-  }, []);
-
   return (
     <>
       <div className="text-neutral-200">
@@ -28,6 +22,7 @@ const PostExcerpt = ({ title, description, date, tags, slug }) => {
               : "error"}
           </div>
         </div>
+        <div className="mt-3">{description}</div>
       </div>
     </>
   );
