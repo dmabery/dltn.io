@@ -1,12 +1,10 @@
-import LinkText from './LinkText';
+import Link from "next/link";
 
 const PostListSimple = (props) => (
   <div>
-    <div className="mb-1 max-w-lg">
-      <LinkText slug={`/${props.slug}`} text={props.title} type="bright" />
-      <span className="ml-1 text-xs text-neutral-800 md:inline">
-        {props.date.slice(0, 10)}
-      </span>
+    <div className="text-neutral-300">
+      <span className="mr-2 text-neutral-500">{props.date}</span>
+      <Link href={`/posts/${props.slug}`}>{props.title || ""}</Link>
     </div>
   </div>
 );

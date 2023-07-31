@@ -95,7 +95,7 @@ President Eisenhower himself remarked after his death:
 
 Isaacson explains Einstein's humility in another way, stating:
 
-> The world has had a lot of geniuses. What made Einstein special was that his mind and soul were tempered by his humility - the belief that no one had the right to impose ideas and beliefs on others.
+> The world has had a lot of geniuses. What made Einstein special was that his mind and soul were tempered by his humility - the belief that no one had the right to impose ideas and beliefs on others. 
 
 What fueled that deep humility was his passionate curiosity–the trait I admire most about him.
 

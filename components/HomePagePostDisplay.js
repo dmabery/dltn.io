@@ -16,8 +16,6 @@ const HomePagePostDisplay = ({
     prism.highlightAll();
   }, []);
 
-  console.log(title, tags);
-
   return (
     <>
       <article className="text-neutral-300">

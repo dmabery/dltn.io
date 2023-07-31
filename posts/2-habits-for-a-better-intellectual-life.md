@@ -1,5 +1,5 @@
 ---
-Title: "2 Habits for a Better Intellectual Life"
+Title: "-"
 Tags: ["knowledge-mangagement"]
 Date: "2022-11-05"
 Description: "1. Determine between observation and opinion. 2. Be concrete."

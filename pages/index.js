@@ -37,6 +37,7 @@ export const getStaticProps = async () => {
 
 export default function Home({ posts, tags, content }) {
   if (!posts) return <h1>No posts</h1>;
+  console.log(posts);
   const sortedPosts = posts.sort(
     (a, b) => new Date(b.frontmatter.Date) - new Date(a.frontmatter.Date)
   );
@@ -46,7 +47,7 @@ export default function Home({ posts, tags, content }) {
         title="Dalton Mabery is a video editor who reads and writes."
         description="Developer, Video Editor, Writer."
       />
-      <div className="flex flex-col gap-10">
+      <div className="flex flex-col gap-2">
         {sortedPosts.map((post) => (
           <HomePagePostDisplay
             title={post.frontmatter.Title}

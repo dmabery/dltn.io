@@ -7,7 +7,7 @@ function checkType(type) {
     case "small":
       return "text-xs text-slate-900 underline";
     case "bright":
-      return "text-blue-700 hover:text-blue-900";
+      return "text-neutral-300 underline hover:text-blue-900";
     default:
     // do nothging
   }
