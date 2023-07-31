@@ -2,7 +2,7 @@
 Title: "David McCullough on The Art of Writing"
 Tags: ["history", "people", "writing"]
 Date: "2023-07-25"
-Description: "Notes and quotes from the insightful documentary, ‘David McCullough: Painting with Words.’"
+Description: "By far, David McCullough has had the strongest influence on my writing, reading, and life. His books are not just books; they are glimpses into a world long gone, glimpses that are near impossible to achieve anywhere else other than between the covers of his books"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1690333490/be7fa60d-ee22-4e48-8458-a05856822248_afi1ra.jpg"
 Published: true
 Slug: "david-mccullough-on-the-art-of-writing-history-and-success"
