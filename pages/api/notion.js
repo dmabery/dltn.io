@@ -1,5 +1,5 @@
-const { Client } = require('@notionhq/client');
-const { NotionToMarkdown } = require('notion-to-md');
+const { Client } = require("@notionhq/client");
+const { NotionToMarkdown } = require("notion-to-md");
 
 const notion = new Client({ auth: process.env.NOTION_API_KEY });
 
@@ -12,15 +12,15 @@ export const getAllPublished = async () => {
   const posts = await notion.databases.query({
     database_id: process.env.NOTION_BLOG_DATABASE_ID,
     filter: {
-      property: 'Published',
+      property: "Published",
       checkbox: {
         equals: true,
       },
     },
     sorts: [
       {
-        property: 'Date',
-        direction: 'descending',
+        property: "Date",
+        direction: "descending",
       },
     ],
   });
@@ -36,13 +36,13 @@ export const getAllByType = async (type) => {
     filter: {
       and: [
         {
-          property: 'Type',
+          property: "Type",
           select: {
             equals: type,
           },
         },
         {
-          property: 'Published',
+          property: "Published",
           checkbox: {
             equals: true,
           },
@@ -51,8 +51,8 @@ export const getAllByType = async (type) => {
     },
     sorts: [
       {
-        property: 'Date',
-        direction: 'descending',
+        property: "Date",
+        direction: "descending",
       },
     ],
   });
@@ -68,13 +68,13 @@ export const getAllByNotType = async (type) => {
     filter: {
       and: [
         {
-          property: 'Type',
+          property: "Type",
           select: {
             does_not_equal: type,
           },
         },
         {
-          property: 'Published',
+          property: "Published",
           checkbox: {
             equals: true,
           },
@@ -83,8 +83,8 @@ export const getAllByNotType = async (type) => {
     },
     sorts: [
       {
-        property: 'Date',
-        direction: 'descending',
+        property: "Date",
+        direction: "descending",
       },
     ],
   });
@@ -100,13 +100,13 @@ export const getAllByTags = async (tag) => {
     filter: {
       and: [
         {
-          property: 'Tags',
+          property: "Tags",
           multi_select: {
             contains: tag,
           },
         },
         {
-          property: 'Published',
+          property: "Published",
           checkbox: {
             equals: true,
           },
@@ -115,8 +115,8 @@ export const getAllByTags = async (tag) => {
     },
     sorts: [
       {
-        property: 'Date',
-        direction: 'descending',
+        property: "Date",
+        direction: "descending",
       },
     ],
   });
@@ -151,7 +151,7 @@ export const getSingleBlogPostBySlug = async (slug) => {
   const response = await notion.databases.query({
     database_id: process.env.NOTION_BLOG_DATABASE_ID,
     filter: {
-      property: 'Slug',
+      property: "Slug",
       formula: {
         string: {
           equals: slug,
@@ -171,7 +171,9 @@ export const getSingleBlogPostBySlug = async (slug) => {
 
 export async function getTags() {
   const posts = await getAllPublished();
+  console.log(posts);
   const allTags = posts.map(({ tags }) => tags);
+  console.log(allTags);
   const flattenedTags = allTags.flat();
   const tagSet = Array.from(new Set(flattenedTags));
   return tagSet;

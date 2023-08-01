@@ -29,7 +29,7 @@ const Nav = () => (
         </Link>
       </div>
     </div>
-    <div className="row flex space-x-4">
+    <div className="row flex space-x-4 font-sansSerif text-sm">
       {links.map((link) => (
         <LinkText
           slug={`/${link.slug}`}

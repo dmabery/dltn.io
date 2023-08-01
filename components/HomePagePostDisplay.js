@@ -21,11 +21,11 @@ const HomePagePostDisplay = ({
   return (
     <>
       <article className="text-neutral-300">
-        <div className="text-gray-900/90">
+        <div className="space-y-1 font-sansSerif text-gray-900/90">
           <Link href={`/posts/${slug}`}>
-            <a className="mb-1 font-serif text-3xl font-bold">{title || ""}</a>
+            <a className="text-3xl font-bold">{title || ""}</a>
           </Link>
-          <div className="tags border-[#868686/60] flex gap-2 border-t border-b py-3 text-xs text-[#868686]">
+          <div className="tags border-[#868686/60] flex gap-2 border-t border-b py-2 text-xs text-[#868686]">
             <div>{date}</div>
             <div>|</div>
             {tags

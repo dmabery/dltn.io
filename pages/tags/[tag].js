@@ -1,7 +1,8 @@
-import Meta from '../../components/Meta';
-import PageTitle from '../../components/PageTitle';
-import PostList from '../../components/PostList';
-import { getAllByTags, getTags } from '../api/notion';
+import Meta from "../../components/Meta";
+import PageTitle from "../../components/PageTitle";
+import PostList from "../../components/PostList";
+import { getTags } from "../../lib/getPosts";
+import { getAllByTags } from "../api/notion";
 
 export const getStaticProps = async ({ params }) => {
   const data = await getAllByTags(params.tag);
@@ -16,10 +17,11 @@ export const getStaticProps = async ({ params }) => {
 
 export const getStaticPaths = async () => {
   const tags = await getTags();
+  console.log("from tag", tags);
   const paths = tags.map((tags) => ({ params: { tag: tags } }));
   return {
     paths,
-    fallback: 'blocking',
+    fallback: "blocking",
   };
 };
 

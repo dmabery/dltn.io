@@ -1,6 +1,6 @@
 import Meta from "../components/Meta";
 import PageTitle from "../components/PageTitle";
-import PostList from "../components/PostList";
+import PostListSimple from "../components/PostListSimple";
 import { getAllByNotType } from "./api/notion";
 
 export const getStaticProps = async () => {
@@ -25,9 +25,9 @@ const Writing = ({ posts }) => (
       title="Writing"
       description="A codex of my personal journey to understand the world."
     />
-    <div className="mt-7 flex flex-col gap-6">
+    <div className="mt-7 flex flex-col gap-1">
       {posts.map((post, index) => (
-        <PostList
+        <PostListSimple
           title={post.title}
           description={post.description}
           date={post.date}
