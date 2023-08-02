@@ -2,7 +2,6 @@ import Link from "next/link";
 import Subscribe from "../components/Subscribe";
 
 export default function Sidebar({ children, left, post }) {
-  console.log(post);
   return (
     <>
       <div className="flex max-w-[900px] gap-5">

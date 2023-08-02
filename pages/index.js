@@ -1,15 +1,14 @@
 /* eslint-disable react/no-unescaped-entities */
 import HomePagePostDisplay from "../components/HomePagePostDisplay";
 import Meta from "../components/Meta";
-import { getAllPosts } from "../lib/getPosts";
+import { getLatestPost } from "../lib/getPosts";
 
 export const getStaticProps = async () => {
-  return getAllPosts();
+  return getLatestPost();
 };
 
-export default function Home({ posts, tags, content }) {
-  if (!posts) return <h1>No posts</h1>;
-  const sortedPosts = posts.slice(1, 2);
+export default function Home({ post, tags, content }) {
+  if (!post) return <h1>No posts</h1>;
   return (
     <>
       <Meta
@@ -17,7 +16,7 @@ export default function Home({ posts, tags, content }) {
         description="Developer, Video Editor, Writer."
       />
       <div className="flex flex-col gap-10">
-        {posts.slice(0, 1).map((post) => (
+        {post.map((post) => (
           <HomePagePostDisplay
             title={post.frontmatter.Title}
             date={post.frontmatter.Date}

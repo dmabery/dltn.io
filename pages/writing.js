@@ -5,8 +5,6 @@ import { getAllByNotType } from "./api/notion";
 
 export const getStaticProps = async () => {
   const data = await getAllByNotType("Book Notes");
-
-  console.log(data);
   return {
     props: {
       posts: data,

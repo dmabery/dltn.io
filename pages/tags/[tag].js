@@ -1,11 +1,10 @@
 import Meta from "../../components/Meta";
 import PageTitle from "../../components/PageTitle";
 import PostList from "../../components/PostList";
-import { getTags } from "../../lib/getPosts";
-import { getAllByTags } from "../api/notion";
+import { getPostsByTags, getTags } from "../../lib/getPosts";
 
 export const getStaticProps = async ({ params }) => {
-  const data = await getAllByTags(params.tag);
+  const data = await getPostsByTags(params.tag);
   return {
     props: {
       posts: data,
@@ -17,7 +16,6 @@ export const getStaticProps = async ({ params }) => {
 
 export const getStaticPaths = async () => {
   const tags = await getTags();
-  console.log("from tag", tags);
   const paths = tags.map((tags) => ({ params: { tag: tags } }));
   return {
     paths,
@@ -36,12 +34,11 @@ const TagPage = ({ posts, tag }) => (
       <div>
         {posts.map((post, index) => (
           <PostList
-            title={post.title}
-            description={post.description}
-            date={post.date}
-            type={post.type}
-            slug={`/posts/${post.slug}`}
-            key={post.id}
+            title={post.frontmatter.Title}
+            description={post.frontmatter.Description}
+            date={post.frontmatter.Date}
+            slug={`/posts/${post.frontmatter.Slug}`}
+            key={post.frontmatter.Title}
           />
         ))}
       </div>
