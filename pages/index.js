@@ -17,7 +17,7 @@ export default function Home({ posts, tags, content }) {
         description="Developer, Video Editor, Writer."
       />
       <div className="flex flex-col gap-10">
-        {posts.slice(1, 2).map((post) => (
+        {posts.slice(0, 1).map((post) => (
           <HomePagePostDisplay
             title={post.frontmatter.Title}
             date={post.frontmatter.Date}
