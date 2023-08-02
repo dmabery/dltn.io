@@ -4,7 +4,7 @@ Tags: ["book", "writing"]
 Date: "2023-06-19"
 Description: "Some instructions on writing and life."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1687195208/81sZwmQWiIL._AC_UF1000_1000_QL80__bo7rwx.jpg"
-Published: false
+Published: true
 Slug: "book-notes-bird-by-bird-by-anne-lamott"
 Type: "Book Notes"
 ---
@@ -27,17 +27,17 @@ Lamott: “I read more than other kids; I luxuriated in books. Books were my ref
 “I just try to warn people who hope to get published that publication is not all that it is cracked up to be. But writing is. Writing has so much to give, so much to teach, so many surprises. That thing you had to force yourself to do–the actual act of writing–turns out to be the best part…The act of writing turns out to be its own reward.”
 
 > The problem that comes up over and over again is that these people want to be published. They ****kind**** of want to write, but they ******really****** want to be published. You’ll never get to where you want to be that way, I tell them.
-> 
+>
 
 > Almost every single thing you hope publication will do for you is a fantasy, a hologram–it’s the eagle on your credit card that only seems to soar. What’s real is that if you do your scales every day, if you slowly try harder and harder pieces, if you listen to great musicians play music you’ll love, you’ll get better.
-> 
+>
 
 ---
 
 > ‘But how?’ my students ask. “How do you actually do it?”
 
 You sit down, I say. You try to sit down at approximately the same time every day. This is how you train your unconscious to kick in for you creatively. So you sit down at, say, nine every morning, or ten every night. You put a piece of paper in the typewriter, or you turn on your computer and bring up the right file, and then you stare at it for an hour or so. You look at the cieling, and over at the clock, yawn and stare at the paper again. Then, with your fingers poised on the keyboard, you squint at an image that is forming in your mind–a scene, a locale, a character, whatever–and you try to quiet your mind so you can hear what that landscape or character has to say above the other voices in your mind. The other voices are banshees and drunken monkeys.
-> 
+>
 
 ---
 

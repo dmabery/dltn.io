@@ -2,7 +2,7 @@
 Title: "Telling old stories in new ways"
 Tags: ["history", "writing"]
 Date: "2023-06-06"
-Published: false
+Published: true
 Type: "Essay"
 Slug: "new-stories-in-old-ways"
 ---

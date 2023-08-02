@@ -1,5 +1,6 @@
 ---
 Title: "Kevin Kelly's 103 Bits of Advice, Expanded"
+Tags: ["book", "people"]
 Date: "2022-10-27"
 Description: "Kevin Kelly joined"
 Published: true
@@ -35,7 +36,7 @@ One of the more practical pieces of advice refers to why your parents probably w
 Clearly, Kelly is a thoughtful guy and seems to spend more time than the rest thinking–about life, about living, and about everything in between. Actively *thinking* about the problems were facing–not panicking to solve them–will do us all well. This is what Kelly has to say about spending time in reflection and thinking:
 
 > I think you kind of almost veered onto Alfred Whitehead’s [definition](https://www.gutenberg.org/files/41568/41568-pdf.pdf) of civilization, which was that civilization advanced to the degree which we didn’t have to think about other things. So instead of having to think about where am I going to get enough food to eat, we could think about some other things because we have a system called civilization that provides all the food that we need and more. So I think what I would see over time is us switching where we spend time with our attention and our thinking, up the Maslow hierarchy, away from basic things about survival and shelter, maybe away from just generic things about having a job and being occupied to higher level things of self-realization in the larger sense of not just our own individual self-realization, but where we’re going as a society, as a collective species.
-> 
+>
 > And we have collectively a very difficult assignment, which is, who do we want to be as humans? What do we want humans to be? And one of the reasons why I’m really keen on artificial intelligence is that we’re going to use A.I. to help us answer this question of what do we want humans to be. Because we’re going to be giving them lots of things that we thought we were about and realizing they can do that. And I think this larger identity problem of not just who am I as an individual, but who am I as a human, is where we’ll spend more time. And as we go on, I think this kind of identity crisis, not just on an individual level, but as a collective level, becomes more and more of the conversation.
 
 His article that spawned this interview is a delight to read and I think more people should attempt to publish something similar. I have a doc called "My Life Thesis," where I record principles I want to live by. Most of them I hear from someone on a podcast or read about in a book, but some I've deduced myself–it's quite a lovely experience when this happens.
