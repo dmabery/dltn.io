@@ -1,7 +1,6 @@
 import Meta from "../components/Meta";
 import PageTitle from "../components/PageTitle";
 import PostListSimple from "../components/PostListSimple";
-import { getAllByNotType } from "./api/notion";
 
 export const getStaticProps = async () => {
   const data = await getAllByNotType("Book Notes");
