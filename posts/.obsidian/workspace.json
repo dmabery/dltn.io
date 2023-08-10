@@ -47,7 +47,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -157,10 +157,11 @@
   },
   "active": "6c0e27d78c341187",
   "lastOpenFiles": [
+    "2-habits-for-a-better-intellectual-life.md",
+    "old-clothes-vibes.md",
     "princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg",
     "Harry-S.-Truman-in-his-haberdashery-ca.-1921.webp",
     "F3G8VWfawAEFO7_.jpeg",
-    "F3MpsF1b0AMQHrI.webp",
-    "old-clothes-vibes.md"
+    "F3MpsF1b0AMQHrI.webp"
   ]
 }
