@@ -1,11 +1,11 @@
 import LinkText from "./LinkText";
 
 const PostListSimple = (props) => (
-  <div>
-    <div className="mb-1 flex max-w-lg flex-row font-sansSerif">
-      <span className="ml-1 w-24 text-xs text-neutral-800 md:inline">
-        {props.date.slice(0, 10)}
-      </span>
+  <div className="mb-1 flex items-center font-sansSerif">
+    <div className="w-18 mr-2 text-xs text-neutral-800">
+      {props.date.slice(0, 10)}
+    </div>
+    <div className="col-span-2">
       <LinkText slug={`/${props.slug}`} text={props.title} type="bright" />
     </div>
   </div>

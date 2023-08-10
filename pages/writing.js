@@ -1,15 +1,10 @@
 import Meta from "../components/Meta";
 import PageTitle from "../components/PageTitle";
 import PostListSimple from "../components/PostListSimple";
+import { getPosts } from "../lib/getPosts";
 
 export const getStaticProps = async () => {
-  const data = await getAllByNotType("Book Notes");
-  return {
-    props: {
-      posts: data,
-    },
-    revalidate: 60,
-  };
+  return getPosts();
 };
 
 const Writing = ({ posts }) => (
@@ -22,16 +17,13 @@ const Writing = ({ posts }) => (
       title="Writing"
       description="A codex of my personal journey to understand the world."
     />
-    <div className="mt-7 flex flex-col gap-1">
+    <div>
       {posts.map((post, index) => (
         <PostListSimple
-          title={post.title}
-          description={post.description}
-          date={post.date}
-          type={post.type}
+          title={post.frontmatter.Title}
+          date={post.frontmatter.Date}
           slug={`/posts/${post.slug}`}
           key={post.id}
-          image={post.image}
         />
       ))}
     </div>
