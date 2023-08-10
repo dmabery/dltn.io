@@ -11,24 +11,23 @@
             "id": "c9845a0d2b5e9769",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "images/F3G8VWfawAEFO7_.jpeg"
+              }
             }
           },
           {
             "id": "6c0e27d78c341187",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "old-clothes-vibes.md",
-                "mode": "source",
-                "source": false
+                "file": "images/F3MpsF1b0AMQHrI.webp"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old-clothes-vibes.md",
+                "file": "images/F3G8VWfawAEFO7_.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old-clothes-vibes.md",
+                "file": "images/F3G8VWfawAEFO7_.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old-clothes-vibes.md"
+                "file": "images/F3G8VWfawAEFO7_.jpeg"
               }
             }
           }
@@ -155,13 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c0e27d78c341187",
+  "active": "e9f66511034e7ad4",
   "lastOpenFiles": [
-    "2-habits-for-a-better-intellectual-life.md",
     "old-clothes-vibes.md",
-    "princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg",
-    "Harry-S.-Truman-in-his-haberdashery-ca.-1921.webp",
-    "F3G8VWfawAEFO7_.jpeg",
-    "F3MpsF1b0AMQHrI.webp"
+    "images",
+    "images/F3MpsF1b0AMQHrI.webp",
+    "you-cant-imagine.md",
+    "2-habits-for-a-better-intellectual-life.md",
+    "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg",
+    "images/Harry-S.-Truman-in-his-haberdashery-ca.-1921.webp",
+    "images/F3G8VWfawAEFO7_.jpeg"
   ]
 }
