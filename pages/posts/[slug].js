@@ -57,6 +57,7 @@ const BlogPost = ({ frontmatter, content }) => {
         image={frontmatter.Image}
       />
       <HomePagePostDisplay
+        date={frontmatter.Date}
         title={frontmatter.Title}
         tags={frontmatter.Tags}
         description={frontmatter.Description}
