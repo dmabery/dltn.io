@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "images/F3G8VWfawAEFO7_.jpeg"
+                "file": "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg"
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/F3G8VWfawAEFO7_.jpeg",
+                "file": "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/F3G8VWfawAEFO7_.jpeg",
+                "file": "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/F3G8VWfawAEFO7_.jpeg"
+                "file": "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg"
               }
             }
           }
@@ -154,15 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9f66511034e7ad4",
+  "active": "c9845a0d2b5e9769",
   "lastOpenFiles": [
     "old-clothes-vibes.md",
+    "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg",
+    "images/F3G8VWfawAEFO7_.jpeg",
     "images",
     "images/F3MpsF1b0AMQHrI.webp",
     "you-cant-imagine.md",
     "2-habits-for-a-better-intellectual-life.md",
-    "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg",
-    "images/Harry-S.-Truman-in-his-haberdashery-ca.-1921.webp",
-    "images/F3G8VWfawAEFO7_.jpeg"
+    "images/Harry-S.-Truman-in-his-haberdashery-ca.-1921.webp"
   ]
 }
