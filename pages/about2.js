@@ -3,7 +3,7 @@ import path from "path";
 import PostBodyContent from "../components/PostBodyContent";
 
 export const getStaticProps = async () => {
-  const data = fs.readFileSync(path.join("posts", "about.md"), {
+  const data = fs.readFileSync(path.join("content", "about.md"), {
     encoding: "utf8",
   });
 
