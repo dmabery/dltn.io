@@ -1,12 +1,11 @@
 ---
-Title: Charles Dickens and Active Patience
-tags:
-  - person
-Date: 2023-08-10
-Description: Don't just wait. Work.
+Title: "Charles Dickens and Active Patience"
+tags: "person"
+Date: "2023-08-10"
+Description: "Don't just wait. Work."
 Published: true
-Slug: charles-dickens-active-patience
-Type: Essay
+Slug: "charles-dickens-active-patience"
+Type: "Essay"
 ---
 Active Patience Active Patience is the idea that while you're waiting, you should be preparing.
 
