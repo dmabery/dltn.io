@@ -11,9 +11,11 @@
             "id": "c9845a0d2b5e9769",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg"
+                "file": "wonderers.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -26,8 +28,33 @@
                 "file": "images/F3MpsF1b0AMQHrI.webp"
               }
             }
+          },
+          {
+            "id": "6642f5b90ab6edb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/New Post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cbc9b6f0e735923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "charles-dickens-active-patience.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg",
+                "file": "charles-dickens-active-patience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg",
+                "file": "charles-dickens-active-patience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg"
+                "file": "charles-dickens-active-patience.md"
               }
             }
           }
@@ -154,13 +181,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9845a0d2b5e9769",
+  "active": "7cbc9b6f0e735923",
   "lastOpenFiles": [
-    "old-clothes-vibes.md",
+    "Charles Dickens.md",
+    "charles-dickens-active-patience.md",
+    "This is a post.md",
+    "templates/New Post.md",
+    "wonderers.md",
+    "templates",
+    "images/F3MpsF1b0AMQHrI.webp",
+    "working-by-robert-caro.md",
+    "writing-in-your-head.md",
     "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg",
+    "old-clothes-vibes.md",
     "images/F3G8VWfawAEFO7_.jpeg",
     "images",
-    "images/F3MpsF1b0AMQHrI.webp",
     "you-cant-imagine.md",
     "2-habits-for-a-better-intellectual-life.md",
     "images/Harry-S.-Truman-in-his-haberdashery-ca.-1921.webp"
