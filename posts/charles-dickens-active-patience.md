@@ -7,7 +7,7 @@ Published: true
 Slug: "charles-dickens-active-patience"
 Type: "Essay"
 ---
-Active Patience Active Patience is the idea that while you're waiting, you should be preparing.
+[Active Patience](https://fs.blog/brain-food/february-27-2022/) is the idea that while you're waiting, you should be preparing.
 
 It's the reason I decided to go back to school. After my wife's lung transplant, I suddenly had a lot more time on my hands. Work was going well, and I loved what I did, but I want to be able to put myself in the best possible position in the future, for whatever opportunities might come my way.
 
