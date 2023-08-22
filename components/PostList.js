@@ -2,11 +2,9 @@ import Link from "next/link";
 
 const PostList = (props) => {
   return (
-    <div className="mb-4 text-bodyText">
+    <div className="mb-4 font-sansSerif text-bodyText">
       <div className="text-2xl font-bold">
-        <Link href={props.slug}>
-          <a>{props.title}</a>
-        </Link>
+        <Link href={props.slug}>{props.title}</Link>
       </div>
       <div>{props.description}</div>
     </div>

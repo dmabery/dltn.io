@@ -20,10 +20,6 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  text-decoration: underline;
-}
-
 * {
   box-sizing: border-box;
 }
@@ -94,3 +90,12 @@ a:hover {
 .tag ~ .tag::before{
   content: ", ";
 }
+
+.taglist li:after {
+  content: ", ";
+}
+
+.taglist li:last-child:after {
+  content: "";
+}
+

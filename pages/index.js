@@ -1,32 +1,92 @@
 /* eslint-disable react/no-unescaped-entities */
-import HomePagePostDisplay from "../components/HomePagePostDisplay";
+import fs from "fs";
+import matter from "gray-matter";
+import Link from "next/link";
+import path from "path";
 import Meta from "../components/Meta";
-import { getLatestPost } from "../lib/getPosts";
+import PostExcerpt from "../components/PostExcerpt";
+import PostListSimple from "../components/PostListSimple";
+import { getTags } from "../lib/getPosts";
 
 export const getStaticProps = async () => {
-  return getLatestPost();
+  const files = fs.readdirSync("posts");
+  const postsDirectory = "posts";
+
+  const posts = files
+    .filter((fileName) => {
+      // Check if the item is a file and not a directory
+      const filePath = path.join(postsDirectory, fileName);
+      return fs.statSync(filePath).isFile();
+    })
+    .map((fileName) => {
+      const slug = fileName.replace(".md", "");
+      const readFile = fs.readFileSync(
+        path.join(postsDirectory, fileName),
+        "utf-8"
+      );
+      const { data: frontmatter, content } = matter(readFile);
+
+      return {
+        slug,
+        frontmatter,
+        content,
+      };
+    });
+
+  const tags = await getTags();
+
+  return {
+    props: { posts, tags },
+  };
 };
 
-export default function Home({ post, tags, content }) {
-  if (!post) return <h1>No posts</h1>;
+export default function Home({ posts, tags }) {
+  if (!posts) return <h1>No posts</h1>;
+  console.log(posts);
+  const sortedPosts = posts.sort(
+    (a, b) => new Date(b.frontmatter.Date) - new Date(a.frontmatter.Date)
+  );
+  const featuredPost = sortedPosts.slice(1, 2);
   return (
     <>
       <Meta
         title="Dalton Mabery is a video editor who reads and writes."
         description="Developer, Video Editor, Writer."
       />
-      <div className="flex flex-col gap-10">
-        {post.map((post) => (
-          <HomePagePostDisplay
-            title={post.frontmatter.Title}
-            date={post.frontmatter.Date}
-            tags={post.frontmatter.Tags}
-            description={post.frontmatter.description}
-            image={post.frontmatter.image}
-            slug={post.frontmatter.Slug}
-            content={post.content}
-          />
-        ))}
+      <div className="flex flex-col divide-y">
+        <div className="py-5">
+          {featuredPost.map((post) => (
+            <PostExcerpt
+              title={post.frontmatter.Title}
+              date={post.frontmatter.Date}
+              tags={post.frontmatter.Tags}
+              description={post.frontmatter.Description}
+              image={post.frontmatter.Image}
+              slug={post.frontmatter.Slug}
+              content={post.content}
+            />
+          ))}
+        </div>
+        <ul className="taglist py-5 text-lg">
+          {tags.map((tag) => (
+            <li className="mr-1 inline underline underline-offset-1 hover:no-underline">
+              <Link href={`/tags/${tag}`}>{tag}</Link>
+            </li>
+          ))}
+        </ul>
+        <div className="py-5">
+          {sortedPosts.map((post) => (
+            <PostListSimple
+              title={post.frontmatter.Title}
+              date={post.frontmatter.Date}
+              tags={post.frontmatter.Tags}
+              description={post.frontmatter.Description}
+              image={post.frontmatter.Image}
+              slug={`/posts/${post.frontmatter.Slug}`}
+              content={post.content}
+            />
+          ))}
+        </div>
       </div>
     </>
   );
