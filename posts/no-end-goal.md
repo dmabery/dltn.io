@@ -4,7 +4,7 @@ Tags: ["advice", "life-rule"]
 Date: "2023-08-25"
 Description: "You can just do the things you love to do."
 Published: true
-Slug: no-end-goal
+Slug: "no-end-goal"
 Type: "Essay"
 ---
 There doesn’t have to be an end goal.
