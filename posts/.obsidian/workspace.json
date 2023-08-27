@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "no-end-goal.md",
+                "file": "gather-intellectual-scraps-to-shape-ideas-of-your-own.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: scr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "no-end-goal.md",
+                "file": "gather-intellectual-scraps-to-shape-ideas-of-your-own.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "no-end-goal.md",
+                "file": "gather-intellectual-scraps-to-shape-ideas-of-your-own.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "no-end-goal.md"
+                "file": "gather-intellectual-scraps-to-shape-ideas-of-your-own.md"
               }
             }
           }
@@ -207,10 +208,11 @@
   },
   "active": "926fc063da5b48bc",
   "lastOpenFiles": [
+    "no-end-goal.md",
+    "what-actually-happened-in-oppenheimer.md",
     "weekend.md",
     "new-stories-in-old-ways.md",
     "kevin-kellys-103-bits-of-advice-expanded.md",
-    "no-end-goal.md",
     "charles-dickens-active-patience.md",
     "you-cant-imagine.md",
     "why-i-publish-my-notes-online.md",

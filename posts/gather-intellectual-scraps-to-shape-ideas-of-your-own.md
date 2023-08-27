@@ -1,18 +1,26 @@
 ---
 Title: "Gather intellectual scraps to shape ideas of your own"
-Tags: ["life"]
-Date: "2022-09-02"
-Description: "An idea."
+Tags: ["learning"]
+Date: "2023-08-27"
+Description: "Train yourself to learn different ideas from the same sources."
 Published: true
 Slug: "gather-intellectual-scraps-to-shape-ideas-of-your-own"
-Type: "Aside"
+Type: "Essay"
 ---
-Most books nowadays have one main thesis that the book is arguing for with a lot of supporting ideas and observations.
+Most books and essays are filled with anecdotes that help the author communicate the main thesis.
 
-*Atomic Habits* thesis is that tiny changes make a big impact. The rest of the book explains how tiny changes make a big impact and then gives a few frameworks for helping the reader make the tiny changes that they want to make in their life.
+In podcasts, the host and the guest often explore a wide-range of topics, talking shallowly about this idea or that idea.
 
-Most finance books end up with the thesis that you should spend less than you make and also that it's a good idea to invest money in index funds. The rest of the book usually gives strategies for spending less than you make, explains how to budget, and maybe talks a little bit about debt.
+Those anecdotes and passing remarks in books or podcasts are what I call “intellectual scraps.” They are ideas presented by someone else, but because of the nature of the book or conversation, they don’t go too in-depth about them.
 
-This information, the leftover bits in books, podcasts, or essays is what I call "intellectual scraps." They are the leftover bits of ideas that the author touched on here or there with a few throwaways sentences, but never revisited. These intellectual scraps are gold mines for finding fresh ideas to write and think about.
+Sometimes it’s a person’s name from history that you’ve never heard before, or a seminal essay or book that you haven’t read. Other times it’s an event from history you’re not familiar with.
 
-A good way to spot intellectual scraps is to take note of whenever you think, "Man, I wish they talked/wrote more about that in their podcast/book."
+These intellectual scraps are gold mines for finding new ideas to write and think about.
+
+A good way to spot intellectual scraps is to pay attention to whenever you think, "Man, I wish they talked or wrote more about that idea.”
+
+When this happens – whether it’s a figure from history, a reference to something you haven’t heard before, an event you’re not familiar with, or something else entirely – make a mental note of it. When you have some downtime, do a quick Google search to familiarize yourself with the reference.
+
+Doing this allows you to learn about the peripheral ideas in books or podcasts that others don’t pick up on. This is a competitive advantage. If you read the same book as everyone else, but have trained yourself to learn something different from it, you’ll have more unique insights as the ideas start to compound on one another.
+
+Collecting intellectual scraps is how you shape ideas of your own.
