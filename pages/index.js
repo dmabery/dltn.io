@@ -42,11 +42,10 @@ export const getStaticProps = async () => {
 
 export default function Home({ posts, tags }) {
   if (!posts) return <h1>No posts</h1>;
-  console.log(posts);
   const sortedPosts = posts.sort(
     (a, b) => new Date(b.frontmatter.Date) - new Date(a.frontmatter.Date)
   );
-  const featuredPost = sortedPosts.slice(1, 2);
+  const featuredPost = sortedPosts.slice(0, 1);
   return (
     <>
       <Meta
@@ -54,9 +53,10 @@ export default function Home({ posts, tags }) {
         description="Developer, Video Editor, Writer."
       />
       <div className="flex flex-col divide-y">
-        <div className="py-5">
+        <div className="pb-5">
           {featuredPost.map((post) => (
             <PostExcerpt
+              key={post.frontmatter.Title}
               title={post.frontmatter.Title}
               date={post.frontmatter.Date}
               tags={post.frontmatter.Tags}
@@ -67,25 +67,38 @@ export default function Home({ posts, tags }) {
             />
           ))}
         </div>
-        <ul className="taglist py-5 text-lg">
+        <div className="taglist py-5">
           {tags.map((tag) => (
-            <li className="mr-1 inline underline underline-offset-1 hover:no-underline">
-              <Link href={`/tags/${tag}`}>{tag}</Link>
+            <li className="inline font-sansSerif text-slate-900" key={tag}>
+              <Link
+                className="underline hover:no-underline"
+                href={`/tags/${tag}`}
+              >
+                {tag}
+              </Link>
             </li>
           ))}
-        </ul>
+        </div>
         <div className="py-5">
-          {sortedPosts.map((post) => (
+          {sortedPosts.slice(1, 10).map((post) => (
             <PostListSimple
+              key={post.frontmatter.Title}
               title={post.frontmatter.Title}
               date={post.frontmatter.Date}
               tags={post.frontmatter.Tags}
               description={post.frontmatter.Description}
               image={post.frontmatter.Image}
-              slug={`/posts/${post.frontmatter.Slug}`}
+              slug={`posts/${post.frontmatter.Slug}`}
               content={post.content}
             />
           ))}
+          <div className="py-5">
+            Read more{" "}
+            <Link className="underline hover:no-underline" href="/writing">
+              here
+            </Link>
+            .
+          </div>
         </div>
       </div>
     </>

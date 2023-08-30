@@ -16,7 +16,7 @@ module.exports = {
         permanent: true,
       },
       {
-        source: "/newsletter",
+        source: "/twr",
         destination: "https://thewanderingreader.substack.com/",
         permanent: true,
       },

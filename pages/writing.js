@@ -13,11 +13,8 @@ const Writing = ({ posts }) => (
       title="Writing"
       description="A codex of my personal journey to understand the world."
     />
-    <PageTitle
-      title="Writing"
-      description="A codex of my personal journey to understand the world."
-    />
-    <div>
+    <PageTitle title="Writing" />
+    <div className="mt-5">
       {posts.map((post, index) => (
         <PostListSimple
           title={post.frontmatter.Title}
