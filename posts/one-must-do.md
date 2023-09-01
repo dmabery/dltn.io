@@ -28,15 +28,9 @@ In the famous scene from *Good Will Hunting*, the Harvard student lives in the w
 
 >  **Clark:** I was just hoping you could give me some insight into the evolution of the market economy in the southern colonies. My contention is that prior to the Revolutionary War, the economic modalities—especially in the southern colonies—could most aptly be characterized as agrarian pre-capital–
 
-> 
-
 >  **Will:** [interrupting] Of course that's your contention. You're a first year grad student. You just got finished reading some Marxian historian, Pete Garrison probably, you’re gonna be convinced of that until next month when you get to James Lemon, then you’re gonna be talking about how the economies of Virginia and Pennsylvania were entrepreneurial and capitalist way back in 1740. That's gonna last until next year, you’re gonna be in here regurgitating Gordon Wood, talkin’ about, you know, the Pre-revolutionary utopia and the capital-forming effects of military mobilization.
 
-> 
-
 >  **Clark:** [taken aback] Well as a matter of fact I won't, because Wood drastically underestimates the impact of —
-
-> 
 
 >  **Will:** "Wood drastically underestimates the impact of social distinctions predicated upon wealth, especially inherited wealth..." You got that from Vickers, Work in Essex County, Page 98, right? Yeah I read that too. Were you gonna plagiarize the whole thing for us—**you have any thoughts of—of your own on this matter? Or do—is that your thing, you come into a bar, you read some obscure passage and then you pretend, you pawn it off as your own**—your own idea just to impress some girls, embarrass my friend?
 
