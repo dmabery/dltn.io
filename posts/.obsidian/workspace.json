@@ -59,26 +59,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kevin-kellys-103-bits-of-advice-expanded.md",
+                "file": "no-end-goal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "926fc063da5b48bc",
+            "id": "5190c1be8e551d97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gather-intellectual-scraps-to-shape-ideas-of-your-own.md",
+                "file": "no-end-goal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c53c472149480b98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "one-must-do.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: scr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,8 +136,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gather-intellectual-scraps-to-shape-ideas-of-your-own.md",
+                "file": "one-must-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gather-intellectual-scraps-to-shape-ideas-of-your-own.md",
+                "file": "one-must-do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gather-intellectual-scraps-to-shape-ideas-of-your-own.md"
+                "file": "one-must-do.md"
               }
             }
           }
@@ -206,22 +217,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "926fc063da5b48bc",
+  "active": "c53c472149480b98",
   "lastOpenFiles": [
+    "why-i-wake-up-at-5-am.md",
+    "what-i-read-in-october-2022.md",
+    "why-i-read.md",
+    "why-i-publish-my-notes-online.md",
+    "writing-in-your-head.md",
+    "wonderers.md",
+    "why-you-feel-stuck-in-life.md",
+    "you-cant-imagine.md",
+    "you-cant-go-there-by-doing-that.md",
     "no-end-goal.md",
-    "what-actually-happened-in-oppenheimer.md",
-    "weekend.md",
-    "new-stories-in-old-ways.md",
+    "gather-intellectual-scraps-to-shape-ideas-of-your-own.md",
+    "one-must-do.md",
+    "one-must-do.md",
     "kevin-kellys-103-bits-of-advice-expanded.md",
     "charles-dickens-active-patience.md",
-    "you-cant-imagine.md",
-    "why-i-publish-my-notes-online.md",
     "which-is-better-instinct-or-reason.md",
-    "why-you-feel-stuck-in-life.md",
-    "why-i-wake-up-at-5-am.md",
-    "writing-in-your-head.md",
     "working-by-robert-caro.md",
-    "wonderers.md",
     "2022-03-31.md",
     "templates/New Post.md",
     "Charles Dickens.md",
