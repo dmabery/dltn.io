@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "one-must-do.md",
+                "file": "no-end-goal.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "one-must-do.md",
+                "file": "no-end-goal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "one-must-do.md",
+                "file": "no-end-goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "one-must-do.md"
+                "file": "no-end-goal.md"
               }
             }
           }
@@ -219,6 +219,7 @@
   },
   "active": "c53c472149480b98",
   "lastOpenFiles": [
+    "one-must-do.md",
     "why-i-wake-up-at-5-am.md",
     "what-i-read-in-october-2022.md",
     "why-i-read.md",
@@ -230,8 +231,6 @@
     "you-cant-go-there-by-doing-that.md",
     "no-end-goal.md",
     "gather-intellectual-scraps-to-shape-ideas-of-your-own.md",
-    "one-must-do.md",
-    "one-must-do.md",
     "kevin-kellys-103-bits-of-advice-expanded.md",
     "charles-dickens-active-patience.md",
     "which-is-better-instinct-or-reason.md",
