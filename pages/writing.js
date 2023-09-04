@@ -1,5 +1,4 @@
 import Meta from "../components/Meta";
-import PageTitle from "../components/PageTitle";
 import PostListSimple from "../components/PostListSimple";
 import { getPosts } from "../lib/getPosts";
 
@@ -10,10 +9,6 @@ export const getStaticProps = async () => {
 const Writing = ({ posts }) => (
   <>
     <Meta
-      title="Writing"
-      description="A codex of my personal journey to understand the world."
-    />
-    <PageTitle
       title="Writing"
       description="A codex of my personal journey to understand the world."
     />

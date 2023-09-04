@@ -3,7 +3,7 @@ import Link from "next/link";
 function checkType(type) {
   switch (type) {
     case "nav":
-      return "underline-offset-2 text-white hover:decoration-blue-900 hover:underline hover:decoration";
+      return "underline-offset-2 text-black hover:decoration-blue-900 hover:underline hover:decoration";
     case "small":
       return "text-xs text-slate-900 underline";
     case "bright":
@@ -14,8 +14,12 @@ function checkType(type) {
 }
 
 const LinkText = ({ slug, text, type }) => (
-  <Link href={slug} passHref>
-    <a className={`${checkType(type)} mb-1 transition-all`}>{text}</a>
+  <Link
+    href={slug}
+    passHref
+    className={`${checkType(type)} mb-1 transition-all`}
+  >
+    {text}
   </Link>
 );
 

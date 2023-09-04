@@ -34,7 +34,6 @@ The legacy I hope to leave behind is similar to that of Albert Einstein's. Not h
 
 > "The most thoughtful wonderer." I love that. I hope those words are used to describe me one day.
 
-Socials
--------
+### Socials
 
 You can find me on [Twitter](https://www.twitter.com/dltnio), [GitHub](https://github.com/dmabery), and [YouTube](https://www.youtube.com/@dltnio).

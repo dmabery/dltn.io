@@ -15,15 +15,6 @@ body {
   background-color: #fafaf9;
 }
 
-
-a {
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
 * {
   box-sizing: border-box;
 }

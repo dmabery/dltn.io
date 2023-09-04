@@ -20,8 +20,8 @@ const HomePagePostDisplay = ({
     <>
       <article className="text-neutral-300">
         <div className="space-y-1 font-sansSerif text-gray-900/90">
-          <Link href={`/posts/${slug}`}>
-            <a className="text-3xl font-bold">{title || ""}</a>
+          <Link href={`/posts/${slug}`} className="text-3xl font-bold">
+            {title || ""}
           </Link>
           <div className="tags border-[#868686/60] flex gap-2 border-t border-b py-2 text-xs text-[#868686]">
             <div>{date}</div>
@@ -30,7 +30,9 @@ const HomePagePostDisplay = ({
               ? tags.map((tag) => {
                   return (
                     <div>
-                      <Link href={`/tags/${tag}`}>{tag}</Link>
+                      <Link href={`/tags/${tag}`} legacyBehavior>
+                        {tag}
+                      </Link>
                     </div>
                   );
                 })
@@ -41,11 +43,6 @@ const HomePagePostDisplay = ({
           <PostBodyContent content={content} />
         </div>
       </article>
-      <div className="flex items-center gap-5">
-        <hr className="w-[225px]"></hr>
-        <div className="text-4xl font-bold">d.</div>
-        <hr className="w-[225px]"></hr>
-      </div>
     </>
   );
 };
