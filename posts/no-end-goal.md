@@ -18,7 +18,7 @@ The more I think about it, it’s like I’m searching for justification for my 
 
 But even if I shared nothing online, it most definitely would not be a waste of time. I love to read, and that’s a fine way to spend my days.
 
-This post was inspired [by a tweet from Obsidian CEO Stephan Ango]([kepano on X](https://twitter.com/kepano/status/1694735091057279200?s=20)), who, in response to someone asking what the end goal of Obsidian is, said, “there doesn't have to be an end goal. you can just make useful things for people who want to use them, and live a happy life.”
+This post was inspired [by a tweet from Obsidian CEO Stephan Ango](https://twitter.com/kepano/status/1694735091057279200?s=20), who, in response to someone asking what the end goal of Obsidian is, said, “there doesn't have to be an end goal. you can just make useful things for people who want to use them, and live a happy life.”
 
 You can just read books and live a happy life.
 
