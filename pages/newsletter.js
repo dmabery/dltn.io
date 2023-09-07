@@ -8,7 +8,6 @@ export const getStaticProps = async () => {
     encoding: "utf8",
   });
 
-  console.log(data);
   return {
     props: { data },
   };
