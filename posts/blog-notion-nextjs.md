@@ -8,7 +8,7 @@ Published: true
 Slug: "blog-notion-nextjs"
 Type: "Essay"
 ---
-<SideNote title={👋  Some housekeeping} content={This is a top-level overview of how I built my blog. I’m working on a step-by-step beginner friendly tutorial for those who want to build their own. I’ll also provide the GitHub repo for a minimal personal website if you want to skip the build and get started with your own Next.js blog powered by a Notion CMS.} /> 
+<SideNote title={👋  Some housekeeping} content={This is a top-level overview of how I built my blog. I’m working on a step-by-step beginner friendly tutorial for those who want to build their own. I’ll also provide the GitHub repo for a minimal personal website if you want to skip the build and get started with your own Next.js blog powered by a Notion CMS.} />
 
 ## The Stack
 
@@ -18,13 +18,13 @@ For styling, I use [Tailwind](https://tailwindcss.com/). When I initially starte
 
 The email signup component is a custom built form powered by [Convertkit’s](https://convertkit.com/) API and [Next’s API routes](https://nextjs.org/docs/api-routes/introduction).
 
-The critical part of the stack, and what I’m most proud of, is using [Notion](https://www.notion.so/product) as a [headless CMS](https://en.wikipedia.org/wiki/Headless_content_management_system). 
+The critical part of the stack, and what I’m most proud of, is using [Notion](https://www.notion.so/product) as a [headless CMS](https://en.wikipedia.org/wiki/Headless_content_management_system).
 
 ## Notion as a CMS
 
 I use Notion for everything. Life planning, writing, notes, brainstorm sessions, you name it. ***********Why not also use it as a CMS***********, I thought?
 
-Previously, I was using Contentful as a headless CMS and that was…difficult. Writing and publishing a new post with their editor took as many click as it did to launch a Saturn V. Editing or trying to add images to a post was an awful experience. 
+Previously, I was using Contentful as a headless CMS and that was…difficult. Writing and publishing a new post with their editor took as many click as it did to launch a Saturn V. Editing or trying to add images to a post was an awful experience.
 
 That friction kept me from writing. So I wanted to remove it. Enter: Notion.
 
@@ -115,7 +115,7 @@ export async function getTags() {
 
 First, I fetch all my blog posts. Then, I map through the `tags` property and make a new array of all the tags. I then use the `.flat()` method to take the array of the array of tags and “flatten” it into one array. Before `.flat()` method, `allTags` was an array of multiple arrays. At first I thought I could simply use `.stringify`, but that obviously didn’t work. The stringify method took one array, like this: `[ 'productivity', 'book'  ]` and made it into one string, naturally: `'productivity book'` , which isn’t what I wanted.
 
-This is what `allTags` looked like before `.flat()`: 
+This is what `allTags` looked like before `.flat()`:
 
 ```jsx
 console.log(allTags)
