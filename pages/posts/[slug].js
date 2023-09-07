@@ -1,4 +1,4 @@
-import FullPostDisplay from "../../components/FullPostDisplay";
+import HomePagePostDisplay from "../../components/HomePagePostDisplay";
 import Meta from "../../components/Meta";
 
 import fs from "fs";
@@ -56,7 +56,7 @@ const BlogPost = ({ frontmatter, content }) => {
         description={frontmatter.Description}
         image={frontmatter.Image}
       />
-      <FullPostDisplay
+      <HomePagePostDisplay
         date={frontmatter.Date}
         title={frontmatter.Title}
         tags={frontmatter.Tags}
