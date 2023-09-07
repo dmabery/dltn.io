@@ -4,8 +4,8 @@ import matter from "gray-matter";
 import Link from "next/link";
 import path from "path";
 import Meta from "../components/Meta";
-import PostExcerpt from "../components/PostExcerpt";
 import PostListSimple from "../components/PostListSimple";
+import Subscribe from "../components/Subscribe";
 import { getTags } from "../lib/getPosts";
 
 export const getStaticProps = async () => {
@@ -53,45 +53,66 @@ export default function Home({ posts, tags }) {
         description="Developer, Video Editor, Writer."
       />
       <div className="flex flex-col divide-y">
-        <div className="pb-5">
-          {featuredPost.map((post) => (
-            <PostExcerpt
-              key={post.frontmatter.Title}
-              title={post.frontmatter.Title}
-              date={post.frontmatter.Date}
-              tags={post.frontmatter.Tags}
-              description={post.frontmatter.Description}
-              image={post.frontmatter.Image}
-              slug={post.frontmatter.Slug}
-              content={post.content}
-            />
-          ))}
-        </div>
-        <div className="taglist py-5">
-          {tags.map((tag) => (
-            <li className="inline font-sansSerif text-slate-900" key={tag}>
-              <Link
-                className="underline hover:no-underline"
-                href={`/tags/${tag}`}
+        <div className="flex flex-col gap-2 pb-5">
+          <h2 className="text-2xl font-medium">Hi, I'm Dalton</h2>
+          <div className="flex flex-col gap-3 text-gray-700">
+            <p>
+              I'm the digital creator and editor at{" "}
+              <a
+                className="underline decoration-gray-400 underline-offset-2 hover:no-underline"
+                href="https://fs.blog/"
+                target="_blank?"
               >
-                {tag}
-              </Link>
-            </li>
-          ))}
+                Farnam Street
+              </a>
+              .
+            </p>
+            <p>
+              I spend my free time{" "}
+              <span className="font-serif text-lg italic">reading</span>,
+              <span className="font-serif text-lg italic"> learning</span>, and
+              <span className="font-serif text-lg italic"> writing</span> about
+              history's most interesting people, ideas, essays, and inventions.
+            </p>
+            <p>
+              Every Friday, I send an email with interesting articles about
+              history, science, and philosophy.
+            </p>
+            <Subscribe />
+          </div>
+          <p></p>
         </div>
-        <div className="py-5">
-          {sortedPosts.slice(1, 10).map((post) => (
-            <PostListSimple
-              key={post.frontmatter.Title}
-              title={post.frontmatter.Title}
-              date={post.frontmatter.Date}
-              tags={post.frontmatter.Tags}
-              description={post.frontmatter.Description}
-              image={post.frontmatter.Image}
-              slug={`posts/${post.frontmatter.Slug}`}
-              content={post.content}
-            />
-          ))}
+        <div className="taglist flex flex-col gap-2 py-5">
+          <p className="text-gray-600">Topics</p>
+          <div>
+            {tags.map((tag) => (
+              <li className="inline font-sansSerif text-slate-900" key={tag}>
+                <Link
+                  className="underline hover:no-underline"
+                  href={`/tags/${tag}`}
+                >
+                  {tag}
+                </Link>
+              </li>
+            ))}
+          </div>
+        </div>
+        <div className="flex flex-col gap-2 py-5">
+          <p className="text-gray-600">Latest</p>
+          <div>
+            {sortedPosts.slice(0, 10).map((post) => (
+              <PostListSimple
+                key={post.frontmatter.Title}
+                title={post.frontmatter.Title}
+                date={post.frontmatter.Date}
+                tags={post.frontmatter.Tags}
+                description={post.frontmatter.Description}
+                image={post.frontmatter.Image}
+                slug={`posts/${post.frontmatter.Slug}`}
+                content={post.content}
+              />
+            ))}
+          </div>
           <div className="py-5">
             Read more{" "}
             <Link className="underline hover:no-underline" href="/writing">

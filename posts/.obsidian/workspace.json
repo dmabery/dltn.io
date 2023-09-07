@@ -64,9 +64,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5190c1be8e551d97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "one-must-do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "no-end-goal.md",
+                "file": "one-must-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "no-end-goal.md",
+                "file": "one-must-do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "no-end-goal.md"
+                "file": "one-must-do.md"
               }
             }
           }
@@ -193,10 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93a3eb9d1c02b6bb",
+  "active": "5190c1be8e551d97",
   "lastOpenFiles": [
-    "kevin-kellys-103-bits-of-advice-expanded.md",
     "no-end-goal.md",
+    "one-must-do.md",
+    "kevin-kellys-103-bits-of-advice-expanded.md",
     "charles-dickens-active-patience.md",
     "you-cant-imagine.md",
     "why-i-publish-my-notes-online.md",
