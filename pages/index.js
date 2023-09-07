@@ -99,20 +99,22 @@ export default function Home({ posts, tags }) {
         </div>
         <div className="flex flex-col gap-2 py-5">
           <p className="text-gray-600">Latest</p>
-          <div>
+          <ol>
             {sortedPosts.slice(0, 10).map((post) => (
-              <PostListSimple
-                key={post.frontmatter.Title}
-                title={post.frontmatter.Title}
-                date={post.frontmatter.Date}
-                tags={post.frontmatter.Tags}
-                description={post.frontmatter.Description}
-                image={post.frontmatter.Image}
-                slug={`posts/${post.frontmatter.Slug}`}
-                content={post.content}
-              />
+              <li>
+                <PostListSimple
+                  key={post.frontmatter.Title}
+                  title={post.frontmatter.Title}
+                  date={post.frontmatter.Date}
+                  tags={post.frontmatter.Tags}
+                  description={post.frontmatter.Description}
+                  image={post.frontmatter.Image}
+                  slug={`posts/${post.frontmatter.Slug}`}
+                  content={post.content}
+                />
+              </li>
             ))}
-          </div>
+          </ol>
           <div className="py-5">
             Read more{" "}
             <Link className="underline hover:no-underline" href="/writing">
