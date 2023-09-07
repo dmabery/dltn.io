@@ -6,8 +6,6 @@ export const getStaticProps = async () => {
   const data = fs.readFileSync(path.join("content", "about.md"), {
     encoding: "utf8",
   });
-
-  console.log(data);
   return {
     props: { data },
   };

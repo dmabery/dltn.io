@@ -18,25 +18,27 @@ const HomePagePostDisplay = ({
 
   return (
     <>
-      <article className="text-neutral-300">
-        <div className="space-y-1 font-sansSerif text-gray-900/90">
-          <Link href={`/posts/${slug}`} className="text-3xl font-bold">
+      <article className="text-[neutral-200]">
+        <div className="font-sansSerif">
+          <div className="text-2xl font-medium text-neutral-800">
             {title || ""}
-          </Link>
-          <div className="tags border-[#868686/60] flex gap-2 border-t border-b py-2 text-xs text-[#868686]">
+          </div>
+          <div className="tags flex gap-2 py-2 text-sm text-[#868686]">
             <div>{date}</div>
-            <div>|</div>
-            {tags
-              ? tags.map((tag) => {
-                  return (
-                    <div>
-                      <Link href={`/tags/${tag}`} legacyBehavior>
-                        {tag}
-                      </Link>
-                    </div>
-                  );
-                })
-              : "error"}
+            <div>•</div>
+            <div className="taglist">
+              {tags
+                ? tags.map((tag) => {
+                    return (
+                      <li className="inline">
+                        <Link className="hover:underline" href={`/tags/${tag}`}>
+                          {tag}
+                        </Link>
+                      </li>
+                    );
+                  })
+                : "error"}
+            </div>
           </div>
         </div>
         <div>

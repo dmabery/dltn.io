@@ -8,7 +8,6 @@ export const getStaticProps = async () => {
     encoding: "utf8",
   });
 
-  console.log(data);
   return {
     props: { data },
   };
@@ -18,9 +17,7 @@ export default function Newsletter({ data }) {
   return (
     <>
       <PostBodyContent content={data} />
-      <div className="border border-[#b3b3b3] bg-grayAccent px-5 py-10">
-        <Subscribe />
-      </div>
+      <Subscribe />
     </>
   );
 }

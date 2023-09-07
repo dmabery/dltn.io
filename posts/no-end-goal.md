@@ -1,12 +1,13 @@
 ---
-Title: "No end goal"
-Tags: ["advice", "life-rule"]
+Title: "There doesn't have to be an end goal"
+Tags: ["advice", "philosophy", "life-rules"]
 Date: "2023-08-25"
 Description: "You can just do the things you love to do."
 Published: true
 Slug: "no-end-goal"
 Type: "Essay"
 ---
+
 There doesn’t have to be an end goal.
 
 With work, with hobbies, with the things that you do, they don’t need to act as some means to an end. They can be an end themselves.
@@ -30,3 +31,4 @@ You can just post some interesting thoughts on Twitter and live a happy life.
 You don’t have to have a content strategy. You don’t need to have a sales funnel or a five-year plan.
 
 You can just do the things you love to do and live a happy life.
+

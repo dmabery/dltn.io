@@ -1,6 +1,6 @@
 import Meta from "../../components/Meta";
 import PageTitle from "../../components/PageTitle";
-import PostList from "../../components/PostList";
+import PostListSimple from "../../components/PostListSimple";
 import { getPostsByTags, getTags } from "../../lib/getPosts";
 
 export const getStaticProps = async ({ params }) => {
@@ -32,13 +32,15 @@ const TagPage = ({ posts, tag }) => (
     <PageTitle title={tag} description={`All posts tagged with ${tag}`} />
     <div className="mt-7 flex flex-row gap-6">
       <div>
-        {posts.map((post, index) => (
-          <PostList
+        {posts.map((post) => (
+          <PostListSimple
             title={post.frontmatter.Title}
-            description={post.frontmatter.Description}
             date={post.frontmatter.Date}
-            slug={`/posts/${post.frontmatter.Slug}`}
-            key={post.frontmatter.Title}
+            tags={post.frontmatter.Tags}
+            description={post.frontmatter.Description}
+            image={post.frontmatter.Image}
+            slug={`posts/${post.frontmatter.Slug}`}
+            content={post.content}
           />
         ))}
       </div>

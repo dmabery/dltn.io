@@ -71,26 +71,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "no-end-goal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c53c472149480b98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "no-end-goal.md",
+                "file": "one-must-do.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "no-end-goal.md",
+                "file": "one-must-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "no-end-goal.md",
+                "file": "one-must-do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "no-end-goal.md"
+                "file": "one-must-do.md"
               }
             }
           }
@@ -217,24 +205,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c53c472149480b98",
+  "active": "5190c1be8e551d97",
   "lastOpenFiles": [
-    "one-must-do.md",
-    "why-i-wake-up-at-5-am.md",
-    "what-i-read-in-october-2022.md",
-    "why-i-read.md",
-    "why-i-publish-my-notes-online.md",
-    "writing-in-your-head.md",
-    "wonderers.md",
-    "why-you-feel-stuck-in-life.md",
-    "you-cant-imagine.md",
-    "you-cant-go-there-by-doing-that.md",
     "no-end-goal.md",
-    "gather-intellectual-scraps-to-shape-ideas-of-your-own.md",
+    "one-must-do.md",
     "kevin-kellys-103-bits-of-advice-expanded.md",
     "charles-dickens-active-patience.md",
+    "you-cant-imagine.md",
+    "why-i-publish-my-notes-online.md",
     "which-is-better-instinct-or-reason.md",
+    "why-you-feel-stuck-in-life.md",
+    "why-i-wake-up-at-5-am.md",
+    "writing-in-your-head.md",
     "working-by-robert-caro.md",
+    "wonderers.md",
     "2022-03-31.md",
     "templates/New Post.md",
     "Charles Dickens.md",

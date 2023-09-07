@@ -2,11 +2,11 @@ import Link from "next/link";
 import Subscribe from "./Subscribe";
 
 const SubscribeGroup = ({ title, caption }) => (
-  <div className="mt-5 border border-[#b3b3b3] bg-grayAccent py-8 px-5 text-customBlack">
+  <div className="text-customBlack">
     <div className="mb-2 font-sansSerif text-xl font-bold md:text-2xl">
-      {title || "Subscribe to The Wandering Reader"}
+      {title || null}
     </div>
-    <div className="mb-3 mt-1 max-w-xl text-sm">
+    <div className="mb-3 mt-1 max-w-xl font-sansSerif text-sm">
       {caption || (
         <>
           Learn five interesting insights, ideas, and stories from history's

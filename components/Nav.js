@@ -1,7 +1,10 @@
 import Link from "next/link";
-import LinkText from "./LinkText";
 
 const links = [
+  {
+    title: "writing",
+    slug: "writing",
+  },
   {
     title: "notes",
     slug: "notes",
@@ -17,22 +20,21 @@ const links = [
 ];
 
 const Nav = () => (
-  <nav className="mb-5 flex flex-col items-center justify-between py-3 md:mb-0 md:flex-row">
+  <nav className="mb-5 flex flex-col items-center justify-between py-3 text-gray-900 md:mb-0 md:flex-row">
     <div className="flex items-center">
       <div className="font-serif text-4xl font-bold">
-        <Link href="/" className="text-black">
-          d.
-        </Link>
+        <Link href="/">d.</Link>
       </div>
     </div>
-    <div className="row flex space-x-4 font-sansSerif text-sm">
+    <div className="row flex space-x-4 font-sansSerif text-sm text-gray-900">
       {links.map((link) => (
-        <LinkText
-          slug={`/${link.slug}`}
-          text={`${link.title}`}
-          key={link.title}
-          type="nav"
-        />
+        <Link
+          href={`/${link.slug}`}
+          className="hover:underline"
+          key={link.slug}
+        >
+          {link.title}
+        </Link>
       ))}
     </div>
   </nav>
