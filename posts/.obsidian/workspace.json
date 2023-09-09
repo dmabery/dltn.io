@@ -76,9 +76,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6df0e59522bfb2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spillane-king-of-pulp-fiction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: crook",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "one-must-do.md",
+                "file": "spillane-king-of-pulp-fiction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "one-must-do.md",
+                "file": "spillane-king-of-pulp-fiction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "one-must-do.md"
+                "file": "spillane-king-of-pulp-fiction.md"
               }
             }
           }
@@ -205,20 +217,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5190c1be8e551d97",
+  "active": "6df0e59522bfb2b9",
   "lastOpenFiles": [
-    "no-end-goal.md",
     "one-must-do.md",
+    "spillane-king-of-pulp-fiction.md",
+    "book-notes-crooked-by-nathan-masters.md",
+    "which-is-better-instinct-or-reason.md",
+    "writing-in-your-head.md",
+    "wonderers.md",
+    "why-legacy-career-paths-cant-innovate.md",
+    "gather-intellectual-scraps-to-shape-ideas-of-your-own.md",
+    "no-end-goal.md",
     "kevin-kellys-103-bits-of-advice-expanded.md",
     "charles-dickens-active-patience.md",
     "you-cant-imagine.md",
     "why-i-publish-my-notes-online.md",
-    "which-is-better-instinct-or-reason.md",
     "why-you-feel-stuck-in-life.md",
     "why-i-wake-up-at-5-am.md",
-    "writing-in-your-head.md",
     "working-by-robert-caro.md",
-    "wonderers.md",
     "2022-03-31.md",
     "templates/New Post.md",
     "Charles Dickens.md",
