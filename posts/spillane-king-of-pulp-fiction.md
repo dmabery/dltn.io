@@ -3,7 +3,7 @@ Title: "Spillane: King of Pulp Fiction by Max Collins"
 Tags: ["book", "writing", "people"]
 Date: "2023-09-09"
 Description: "The events, stories, and quotes that made Mickey Spillane the king of pulp fiction."
-Image: "[https://res.cloudinary.com/dde1q4ekv/image/upload/v1694302118/9781613163795_wjwfce.jpg](https://res.cloudinary.com/dde1q4ekv/image/upload/v1694302118/9781613163795_wjwfce.jpg"
+Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1694302118/9781613163795_wjwfce.jpg"
 Published: true
 Slug: "spillane-king-of-pulp-fiction"
 Type: "Book Notes"
