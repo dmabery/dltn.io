@@ -88,9 +88,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4b1eb80e6ef05b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "on-cleaning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spillane-king-of-pulp-fiction.md",
+                "file": "on-cleaning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spillane-king-of-pulp-fiction.md",
+                "file": "on-cleaning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spillane-king-of-pulp-fiction.md"
+                "file": "on-cleaning.md"
               }
             }
           }
@@ -217,10 +229,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6df0e59522bfb2b9",
+  "active": "a4b1eb80e6ef05b5",
   "lastOpenFiles": [
-    "one-must-do.md",
     "spillane-king-of-pulp-fiction.md",
+    "on-cleaning.md",
+    "one-must-do.md",
     "book-notes-crooked-by-nathan-masters.md",
     "which-is-better-instinct-or-reason.md",
     "writing-in-your-head.md",
