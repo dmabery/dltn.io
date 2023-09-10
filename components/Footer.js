@@ -20,7 +20,7 @@ const Footer = () => (
   <>
     <div className="mt-5 flex items-center gap-5">
       <hr className="w-2/3"></hr>
-      <div className="text-4xl font-bold">d.</div>
+      <div className="font-serif text-4xl font-bold">d.</div>
       <hr className="w-2/3"></hr>
     </div>
     <div className="container mx-auto mt-10 flex justify-between pb-10">
