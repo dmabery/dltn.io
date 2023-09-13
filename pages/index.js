@@ -75,8 +75,8 @@ export default function Home({ posts, tags }) {
               history's most interesting people, ideas, essays, and inventions.
             </p>
             <p>
-              Every Friday, I send an email with interesting articles about
-              history, science, and philosophy.
+              Every other Friday, I send an email with insights, ideas, and
+              stories from the books I read. Sign up below:
             </p>
             <Subscribe />
           </div>
