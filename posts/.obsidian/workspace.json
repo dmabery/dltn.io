@@ -4,18 +4,105 @@
     "type": "split",
     "children": [
       {
-        "id": "5ff99e5abe15ded7",
+        "id": "771221a0e3bde501",
         "type": "tabs",
         "children": [
           {
-            "id": "4f20acc10b500a1a",
+            "id": "c9845a0d2b5e9769",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "wonderers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c0e27d78c341187",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/F3MpsF1b0AMQHrI.webp"
+              }
+            }
+          },
+          {
+            "id": "6642f5b90ab6edb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wonderers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cbc9b6f0e735923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kevin-kellys-103-bits-of-advice-expanded.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93a3eb9d1c02b6bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "no-end-goal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5190c1be8e551d97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "one-must-do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6df0e59522bfb2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spillane-king-of-pulp-fiction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4b1eb80e6ef05b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "on-cleaning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -44,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: crook",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "on-cleaning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "on-cleaning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "on-cleaning.md"
+              }
             }
           }
         ]
@@ -138,19 +229,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f20acc10b500a1a",
+  "active": "a4b1eb80e6ef05b5",
   "lastOpenFiles": [
-    "wonderers.md",
-    "charles-dickens-active-patience.md",
-    "why-legacy-career-paths-cant-innovate.md",
-    "why-you-feel-stuck-in-life.md",
-    "why-i-read.md",
-    "working-by-robert-caro.md",
-    "writing-in-your-head.md",
-    "you-cant-imagine.md",
+    "spillane-king-of-pulp-fiction.md",
+    "on-cleaning.md",
+    "one-must-do.md",
+    "book-notes-crooked-by-nathan-masters.md",
     "which-is-better-instinct-or-reason.md",
+    "writing-in-your-head.md",
+    "wonderers.md",
+    "why-legacy-career-paths-cant-innovate.md",
+    "gather-intellectual-scraps-to-shape-ideas-of-your-own.md",
+    "no-end-goal.md",
+    "kevin-kellys-103-bits-of-advice-expanded.md",
+    "charles-dickens-active-patience.md",
+    "you-cant-imagine.md",
     "why-i-publish-my-notes-online.md",
-    "you-cant-go-there-by-doing-that.md",
+    "why-you-feel-stuck-in-life.md",
+    "why-i-wake-up-at-5-am.md",
+    "working-by-robert-caro.md",
     "2022-03-31.md",
     "templates/New Post.md",
     "Charles Dickens.md",
