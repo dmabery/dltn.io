@@ -9,7 +9,7 @@ Slug: "should-I-go-back-to-school"
 Type: "Essay"
 ---
 
-I’m two terms into a Master's in English and am wondering how I made such a bad decision.
+I’m two terms into a Masters in English and am wondering how I made such a bad decision.
 
 There are a few things that are obvious: I was excited to start something new after a long few months of hardships and health scares, I liked the feeling that I was “working towards something bigger” aside from projects at work, and I idiotically believed the degree would help me edit books and have more credibility as a “writer.”
 
