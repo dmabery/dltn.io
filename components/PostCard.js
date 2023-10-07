@@ -20,7 +20,7 @@ export default function PostCard({
       <div className="mb-1 flex font-mono text-sm text-gray-600">{date}</div>
       <div className="mb-1 flex items-center">
         <h3 className="text-xl leading-tight">
-          <Link href={slug}>{title}</Link>
+          <Link href={slug} legacyBehavior>{title}</Link>
         </h3>
       </div>
       <p className="text-sm text-gray-600">{description}</p>

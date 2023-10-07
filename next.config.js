@@ -15,11 +15,6 @@ module.exports = {
         destination: "/posts/:path*",
         permanent: true,
       },
-      {
-        source: "/newsletter",
-        destination: "https://thewanderingreader.substack.com/",
-        permanent: true,
-      },
     ];
   },
 };

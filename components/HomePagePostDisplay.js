@@ -18,34 +18,33 @@ const HomePagePostDisplay = ({
 
   return (
     <>
-      <article className="text-neutral-300">
-        <div className="space-y-1 font-sansSerif text-gray-900/90">
-          <Link href={`/posts/${slug}`}>
-            <a className="text-3xl font-bold">{title || ""}</a>
-          </Link>
-          <div className="tags border-[#868686/60] flex gap-2 border-t border-b py-2 text-xs text-[#868686]">
+      <article className="text-[neutral-200]">
+        <div className="font-sansSerif">
+          <div className="text-2xl font-medium text-neutral-800">
+            {title || ""}
+          </div>
+          <div className="tags flex gap-2 py-2 text-sm text-[#868686]">
             <div>{date}</div>
-            <div>|</div>
-            {tags
-              ? tags.map((tag) => {
-                  return (
-                    <div>
-                      <Link href={`/tags/${tag}`}>{tag}</Link>
-                    </div>
-                  );
-                })
-              : "error"}
+            <div>•</div>
+            <div className="taglist">
+              {tags
+                ? tags.map((tag) => {
+                    return (
+                      <li className="inline">
+                        <Link className="hover:underline" href={`/tags/${tag}`}>
+                          {tag}
+                        </Link>
+                      </li>
+                    );
+                  })
+                : "error"}
+            </div>
           </div>
         </div>
         <div>
           <PostBodyContent content={content} />
         </div>
       </article>
-      <div className="flex items-center gap-5">
-        <hr className="w-[225px]"></hr>
-        <div className="text-4xl font-bold">d.</div>
-        <hr className="w-[225px]"></hr>
-      </div>
     </>
   );
 };

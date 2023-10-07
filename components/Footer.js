@@ -1,24 +1,29 @@
-import Image from 'next/image';
-import LinkText from './LinkText';
+import Image from "next/image";
+import LinkText from "./LinkText";
 
 const footerLink = [
   {
-    title: 'Twitter',
-    link: 'https://www.twitter.com/dltnio',
+    title: "Twitter",
+    link: "https://www.twitter.com/dltnio",
   },
   {
-    title: 'YouTube',
-    link: 'https://www.youtube.com/daltonmabery',
+    title: "YouTube",
+    link: "https://www.youtube.com/daltonmabery",
   },
   {
-    title: 'GitHub',
-    link: 'https://github.com/dmabery',
+    title: "GitHub",
+    link: "https://github.com/dmabery",
   },
 ];
 
 const Footer = () => (
   <>
-    <div className="container mx-auto mt-10 flex justify-between border-t-2 border-t-slate-500/50 py-5">
+    <div className="mt-5 flex items-center gap-5">
+      <hr className="w-2/3"></hr>
+      <div className="font-serif text-4xl font-bold">d.</div>
+      <hr className="w-2/3"></hr>
+    </div>
+    <div className="container mx-auto mt-10 flex justify-between pb-10">
       <div className="flex flex-col">
         <p className="mb-4 font-serif font-bold text-gray-900">Stay curious.</p>
         {footerLink.map((link) => (

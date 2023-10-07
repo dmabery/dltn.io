@@ -1,12 +1,12 @@
-import LinkText from "./LinkText";
+import Link from "next/link";
 
 const PostListSimple = (props) => (
   <div className="mb-1 flex items-center font-sansSerif">
-    <div className="w-18 mr-2 text-xs text-neutral-800">
-      {props.date.slice(0, 10)}
+    <div className="hidden w-24 shrink-0 text-sm text-neutral-800 md:inline">
+      {props.date}
     </div>
-    <div className="col-span-2">
-      <LinkText slug={`/${props.slug}`} text={props.title} type="bright" />
+    <div className="underline hover:no-underline">
+      <Link href={`/${props.slug}`}>{props.title}</Link>
     </div>
   </div>
 );

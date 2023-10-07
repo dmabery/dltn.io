@@ -56,26 +56,27 @@ const NoteList = ({ posts, frontmatter }) => {
             <SideNote
               title="Something to keep in mind..."
               content="The more that you read, the more things you will know. The more that
-            you learn, the more places you'll go. – Dr. Seuss"
+          you learn, the more places you'll go. – Dr. Seuss"
             />
           </div>
         }
       />
       <div className="">
-        <div className="mt-7 grid grid-cols-3 gap-6">
+        <div className="mt-7 grid grid-cols-3 gap-3">
           {sortedPosts
             .filter((post) => post.frontmatter.Type === "Book Notes")
             .map((post, index) => (
-              <Link href={`/posts/${post.slug}`}>
-                <a className="transition-all hover:scale-105">
-                  <Image
-                    key={post.id}
-                    src={post.frontmatter.Image}
-                    layout="responsive"
-                    height={75}
-                    width={50}
-                  />
-                </a>
+              <Link
+                href={`/posts/${post.slug}`}
+                className="transition-all hover:scale-105"
+              >
+                <Image
+                  key={post.id}
+                  src={post.frontmatter.Image}
+                  layout="responsive"
+                  height={75}
+                  width={50}
+                />
               </Link>
             ))}
         </div>
