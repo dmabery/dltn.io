@@ -1,43 +1,32 @@
 ---
-Title: "2 Habits for a Better Intellectual Life"
-Tags: ["knowledge-mangagement"]
-Date: "2022-11-05"
-Description: "1. Determine between observation and opinion. 2. Be concrete."
+Title: "Should I go back to school?"
+Tags: ["advice", "life-rules", "school"]
+Date: "2023-10-07"
+Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1696691427/a-scholar-in-his-study-thomas-wyck_iv4ed7.jpg"
+Description: "Only go back to school if it will allow you to pursue an opportunity that is impossible to pursue without another degree."
 Published: true
-Slug: "2-habits-for-a-better-intellectual-life"
+Slug: "should-I-go-back-to-school"
 Type: "Essay"
 ---
-User [TurnTrout](https://www.lesswrong.com/posts/2GxhAyn9aHqukap2S/looking-back-on-my-alignment-phd) posted their reflection on attaining a PhD in the *LessWrong* community recently. I've been debating going back to school for a Masters and PhD but can't determine the fundamental benefits other than a structured learning environment, peer group, and a bit of a social flex. I don't think those are the right reasons to go back to school, but maybe they are?
 
-The post was brilliant and well-written. [I implore you to read the whole thing](https://www.lesswrong.com/posts/2GxhAyn9aHqukap2S/looking-back-on-my-alignment-phd). The most concrete advice was towards the end, where they outlined habits they had wished to practice more regularly. I thought the habits were practical even outside of academia and, if practiced more regularly by more people, would make for better conversations.
+I’m two terms into a Masters in English and am wondering how I made such a bad decision.
 
-### Distinguish between observation and inference
+There are a few things that are obvious: I was excited to start something new after a long few months of hardships and health scares, I liked the feeling that I was “working towards something bigger” aside from projects at work, and I idiotically believed the degree would help me edit books and have more credibility as a “writer.”
 
-TurnTrout says:
+(That last point is a reasonable assumption, and to some part probably true; I may get a call back from certain organizations if I have a graduate degree in English than if I didn’t.)
 
-> When people speak to you, mark their arguments as _observations_ or as _inferences_. Keep the types _separate_. I've gained _so much_ from this simple practice.
+But what I came to realize was that going back to school was easier than deciding to research and write a book, which is what I truly want to do. Writing a book is difficult; going back to school is less so. It’s still hard, sure, but for different reasons. If you’re trying to write a book, there is an infinite amount of uncertainty involved. You have to pick a topic, you have to organize an outline, research, write, and re-write, all without any (or very little) outside accountability.
 
-I like the idea here, but I'd change "inference" to "opinion."
+When you go back to school, the uncertainty is near zero. Your program’s classes are pre-planned, all homework assignments have detailed prompts and grading rubrics that, if followed, will always guarantee a good grade. If you fail to do the assignments, you get punished, which creates an unmatched level of accountability and incentive to get the work done. This is why people who spend their 20s and 30s getting a PhD struggle in the real-world. The real-world sucks. It’s confusing and uncertain and there is almost never clear instructions. (Just think of tax season.)
 
-This echoes something I tweeted about last week about the importance of Twitter and other "thinking out loud" tools being seen as a laboratory for testing conjectures and not a battleground for opinions. When an influential person tweets, inevitably they don't account for all of the nuance. It's impossible to do so with 280 characters.  Also inevitably, everyone starts attacking the user for not mentioning their specific, niche life story that this tweet wouldn't apply to. It's annoying.
+My new heuristic, and what I’m telling anyone who asks, is **you should go back to school if it opens up opportunities for you to do things that would be *impossible* for you to do without the degree.** I put special emphasis on the word “impossible” there. I mean *truly impossible*. It has to be the case that you would not be able to do whatever it is you wanted to do no matter the amount of money or time you have without a degree or more schooling.
 
-It would do well for people online to differentiate between an observation made about the world and an inference into how that world actually works.
+For example, my sister wanted to be a psychologist. She *hates* school, but it’s impossible to be a psychologist without a Masters degree, so she went back to school. That’s a *great* decision because it allows her to do something that was impossible for her to do before she got the degree.
 
-This would be good for dinner conversations with family, especially those with opposing political views. I ask risky questions to people with protected opinions all the time because I want to understand what they think and how they see the world. I love running thought experiments. With the topic of abortion being front and center now, instead of arguing over whether the government should be involved or this view vs. that view, I'll pitch a thought experiment outlining a situation and then request we go through the experiment as if abortion were legal and if abortion weren't legal.  What's the right thing to do? How would someone be feeling in that situation?
+In my circumstance, I can edit a book without having a masters degree. I can write a book without having a masters degree. I can get a book deal without having a masters degree. Would having a masters help in some of those situations? Absolutely. But doing any of that is not impossible without said degree.
 
-The benefit of this is that it allows you to run through some fringe scenario that would probably never happen. Since the problem is exaggerated, the solutions are exaggerated. Often, it illuminates one path as better than another because of how it plays out in the exaggerated situation.
+A few other things come to mind: You can’t fly a plane without getting a pilots license and taking classes. So if you want to be a pilot, go back to school. The same can be said for becoming a doctor or a lawyer.
 
-To get to that point, though, one must be comfortable entertaining observations and questions. The group must understand that these scenarios aren't opinions, they're just questions to be explored. If we want to progress intellectually with hot-button issues, we must be able to set aside opinions and explore observations and questions. The first step to doing so is being able to differentiate the two in the first place.
+Sometimes, going back to school offers opportunities within your current role but higher up the totem pole. This is another reason to go back to school, *but only if you want to move up that totem pole*. My mother was a Spanish teacher for a lot of my childhood, but she wanted to become a principle. Becoming a principle is almost unheard of without some sort of higher education, so she got her masters.
 
-### Be concrete
-
-TurnTrout says:
-
-> -   If a friend comes to me for advice and says "I'm terrible at dating, I just feel so shy!", I _could_ say "You're really fun to be around, you're probably just in your head too much", and then _they_ could say "Agh, maybe, but it's just so frustrating." Wouldn't that just be such a useful conversation for them? That'll _definitely_ solve their awkwardness!
-    -   Alternatively, if I _ask for an example_, we can both analyze an event which _actually happened_. Perhaps they say, "I met a girl named Alice at the party, but I somehow ran out of things to say, and it got quiet, and we found excuses to part ways." Then I can help my friend introspect and figure out why they didn't have anything to say, which _is in fact a question with a real answer_.
-
-Vague scenarios and questions help no one. I see/hear this a lot when someone is uncomfortable asking for advice on the specific scenario they're dealing with. So instead, they ask a vague question that doesn't make complete sense. This isn't helpful–for either the advice-giver or the advice-asker.
-
-The more you can think through a scenario that *actually happened*, the better your thought processes and learning patterns will be from those situations.
-
-Be concrete.
+By no means am I saying this is a simple process. It’s still a difficult decision. It might be even harder now because the question changes from *should I go back to school*? to *what do I want to do with my life, and will going back to school make it possible to do that thing*?
