@@ -3,6 +3,7 @@ import Meta from "../../components/Meta";
 
 import fs from "fs";
 import matter from "gray-matter";
+import Subscribe from "../../components/Subscribe";
 
 export async function getStaticPaths() {
   try {
@@ -50,21 +51,32 @@ export async function getStaticProps({ params: { slug } }) {
 const BlogPost = ({ frontmatter, content }) => {
   if (!frontmatter) return <h1>No posts</h1>;
   return (
-    <section>
-      <Meta
-        title={frontmatter.Title}
-        description={frontmatter.Description}
-        image={frontmatter.Image}
-      />
-      <HomePagePostDisplay
-        date={frontmatter.Date}
-        title={frontmatter.Title}
-        tags={frontmatter.Tags}
-        description={frontmatter.Description}
-        content={content}
-        image={frontmatter.Image}
-      />
-    </section>
+    <>
+      <section>
+        <Meta
+          title={frontmatter.Title}
+          description={frontmatter.Description}
+          image={frontmatter.Image}
+        />
+        <HomePagePostDisplay
+          date={frontmatter.Date}
+          title={frontmatter.Title}
+          tags={frontmatter.Tags}
+          description={frontmatter.Description}
+          content={content}
+          image={frontmatter.Image}
+        />
+      </section>
+      <div className="flex flex-col gap-5 border-t py-5">
+        <p className="text-gray-600">Subscribe</p>
+        <div>
+          Every Friday, I send an email with insights, ideas, and stories from
+          the books and articles I read. I promise you'll find something new and
+          interesting to read every week.
+        </div>
+        <Subscribe />
+      </div>
+    </>
   );
 };
 
