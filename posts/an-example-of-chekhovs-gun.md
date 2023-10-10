@@ -17,6 +17,8 @@ By the end of the movie, the cotton truck does not seem to have any importance. 
 
 When Tom Cruise eventually has to make a daring escape from the law firm’s building, he uses the cotton truck to catch his fall after jumping from a third-story window.
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/04s96zDt1RE?si=ZnNAfO8s6cfVzqM0&amp;start=75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 If that truck wasn’t ever there before in the movie, it would be an occurrence of *deus ex machina*, or what happens when a plot is resolved in a very unlikely way.
 
 But knowing the cotton truck was there in both Acts 1 and 2 of the movie, the viewer doesn’t feel like they’re being cheated, and the question every viewer is asking – “Why is the cotton truck parked there every day and why do we hear them yell so much about it,” – is finally resolved.
