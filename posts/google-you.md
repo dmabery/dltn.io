@@ -27,5 +27,3 @@ This made me think about the impression you leave on someone after they Google y
 The best types of people to talk to, and those who you want to stay friends with and do business with, are those who, after you meet and Google them, your expectations are blown away. “Wow! I can’t believe I just talked to the founder or CEO of XYZ Incorporated, and they didn’t say anything to me about it!” Or, “She’s written like five books about topic ABC and didn’t mention it, but we talked about it all night long!”
 
 I’m not saying they’re cocky or braggadocios just because some talks about their accomplishments. Instead, I’m saying there should be a few red flags that go up when someone constantly exaggerates their achievements.
-
-Another heuristic is how fast someone starts talking about how much money they make or their title at a prestigious company from when you first meet them.
