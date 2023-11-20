@@ -75,8 +75,9 @@ export default function Home({ posts, tags }) {
               history's most interesting people, ideas, essays, and inventions.
             </p>
             <p>
-              Every other Friday, I send an email with insights, ideas, and
-              stories from the books I read. Sign up below:
+              About once a month, I send an email with insights, ideas, and
+              stories from the books and articles I read. Sign up below if you
+              love to learn:
             </p>
             <Subscribe />
           </div>
