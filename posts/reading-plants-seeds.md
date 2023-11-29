@@ -5,7 +5,7 @@ Date: "2023-11-28"
 Description: “You may not understand everything you read now, but you will one day.”
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1701227486/2306_xtoigy.webp"
 Published: true
-Slug: “reading-plants-seeds”
+Slug: reading-plants-seeds
 Type: “Essay”
 ---
 
