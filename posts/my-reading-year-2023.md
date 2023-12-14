@@ -1,0 +1,29 @@
+---
+Title: "221b: Reading, Nobody Cares, Wealth and Wisdom, AI and Writing, Van Cleaves"
+Tags: ["221b"]
+Date: "2023-05-12"
+Description: "5 cool stories, ideas, and insights."
+Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1674759439/221b_OG_ifioi4.png"
+Published: true
+Slug: "221b-18"
+Type: "Essay"
+---
+## Chase Your Reading
+
+There are two main modes of reading, Robin Hanson   [writes](https://www.overcomingbias.com/p/chase-your-readinghtml)  , searching and chasing. With searching, you read widely to find something that interests you. Once you find that thing, you chase. While chasing, you're looking to solve a problem, figure something out, or trying to resolve an internal conflict within yourself. Though most people read in search mode, it's better to be chasing instead. "It helps to have in mind a question, puzzle, or problem," Hanson explains, "and then read in order to answer your question, explain your puzzle, or solve your problem." Samuel Johnson explains why this is important: "What we read with inclination makes a much stronger impression. If we read without inclination, half the mind is employed in fixing the attention; so there is but one half to be employed on what we read." If you read without a gap in your knowledge or understanding, it becomes hard to actually learn what you read because that information doesn't have anywhere to anchor itself to. Read with intention.
+
+## Nobody Cares
+
+When Bill Parcells began his career as the Head Coach for the New York Giants, he dealt with a wealth of injuries. Worried and anxious about how all of his players missing games might impact the team's performance, he talked to his mentor, the Raiders owner Al Davis, in hopes for some advice. "Bill, nobody cares, just coach your team," Davis replied. "You see," Ben Horowitz   [writes](https://a16z.com/2011/10/08/nobody-cares/)  , "nobody cares. When things go wrong in your company, nobody cares. The press doesn't care, your investors don't care, your board doesn't care, your employees don't care, even your mama doesn't care. Nobody cares." When things go wrong over that which you (supposedly) had control, the reason they went wrong doesn't matter. No one cares. It happened, so what are you going to do to fix it? Your kids don't care why you missed their birthday or softball game, they just know you weren't there. Your spouse doesn't care that you were too busy with work to plan a special anniversary date night, they just know that they don't have special dinner plans next Tuesday. Horowitz continues, "It's best to spend zero time on what you could have done and all of your time on what you might do." Don't let the past occupy your head because nobody cares anyway. Focus on the future, on what you can control, and on how you might fix whatever went wrong.
+
+## Wealth and Wisdom
+
+"A big problem with bubbles," Morgan Housel   [writes](https://collabfund.com/blog/thoughts/)  , "is the reflexive association between wealth and wisdom, so a bunch of crazy ideas are taken seriously because a temporarily rich person said it." Just because someone is rich doesn't mean they are wise. Just because someone is in a position of power doesn't mean they are wise. When Richard Nixon was the most powerful person in the world, he constantly made unwise decisions after unwise decisions. At the same time, his staff didn't think twice to question his decision-making process. They were certain that when the rubber met the road, Nixon would have everything under control -- the hush money payments, the illegal break-ins and wire tappings -- would all be washed away because a man in power didn't necessarily say to stop doing what they were doing.
+
+## AI
+
+I'm not worried about AI taking my job, or my favorite author's job. Reading and writing aren't just about getting one word on the page after another. It's about getting a glimpse into the psyche of another human and learning their internal dialogue. For what is writing but someone's internal thoughts splattered on a page for all to read? I'm uninterested in the thoughts of a CPU, no matter how "sentient" said CPU claims to be. "Part of the experience of reading an author is getting a glimpse into a human mind," Richard Hanania   [writes](https://richardhanania.substack.com/p/how-to-be-an-intellectual?utm_source=substack&utm_medium=email)  , "a living, breathing person who perceives the world with all his quirks, prejudices, and foibles. You can interact with him on Twitter, try to get him mad, or wonder whether or not he's trolling or serious in any given circumstance. Even if an LLM could produce text in the style of a famous author and predict his views on every issue, I don't think the public intellectual has anything to worry about."
+
+## Van Cleaves
+
+Before the Wright brothers were a global phenomenon for their lighter-than-air machines,   [they owned](https://www.dltn.io/posts/the-wright-brothers-by-david-mccullough)  a bicycle repair shop. After three years simply repairing bikes, they designed their own. It sold between $60 and $65; they called it the Van Cleve, in honor of their great-great-grandmother. They had advertisements: "Van Cleves get there First." That's genius marketing. It's a common phrase to throw around nowadays to focus on the "benefits, not the features" when advertising a product. Apple does this well. Their iPod wasn't the best MP3 player on the market with the latest technology. No no. The iPod let you put a thousand songs in your pocket. That's the benefit. People think this is a new idea, but the Wright brothers understood this over a hundred years ago. Their advertisements didn't focus on the parts used or the sleek design, it was all about the benefits: "getting their first." Because that's all anyone who rides a bike wants anyway. To go fast.
