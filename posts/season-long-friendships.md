@@ -64,6 +64,6 @@ Chuckie is the best kind of season-long friend. We learned from Will what matter
 
 ---
 
-This is the final scene, where Chuckie realizes will had left. I cried while watching it for this piece and I'll probably cry every time I watch it again. It's great.
+This is the final scene, where Chuckie realizes Will left.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/49TeSoo4Sx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
