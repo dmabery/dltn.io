@@ -3,7 +3,6 @@ Title: "Some questions to ask yourself"
 Tags: ["questions" , "reflection"]
 Date: "2023-12-27"
 Description: "Reflection questions to ask yourself at the end of the year."
-Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1702584403/cover_cq7dj3.png"
 Published: true
 Slug: "questions-2023"
 Type: "Essay"
