@@ -69,15 +69,14 @@ export default function Home({ posts, tags }) {
             </p>
             <p>
               I spend my free time{" "}
-              <span className="font-serif text-lg italic">reading</span>,
-              <span className="font-serif text-lg italic"> learning</span>, and
+              <span className="font-serif text-lg italic">learning</span>,
+              <span className="font-serif text-lg italic"> reading</span>, and
               <span className="font-serif text-lg italic"> writing</span> about
               history's most interesting people, ideas, essays, and inventions.
             </p>
             <p>
-              About once a month, I send an email with insights, ideas, and
-              stories from the books and articles I read. Sign up below if you
-              love to learn:
+              Subscribe below for exclusive ideas and insights sent directly to
+              your inbox.
             </p>
             <Subscribe />
           </div>

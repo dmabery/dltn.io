@@ -67,12 +67,10 @@ const BlogPost = ({ frontmatter, content }) => {
           image={frontmatter.Image}
         />
       </section>
-      <div className="flex flex-col gap-5 border-t py-5">
-        <p className="text-gray-600">Subscribe</p>
+      <div className="mt-10 flex flex-col gap-5 rounded bg-slate-900 px-5 py-10 text-white">
+        <p className="text-lg">Subscribe</p>
         <div>
-          Every Friday, I send an email with insights, ideas, and stories from
-          the books and articles I read. I promise you'll find something new and
-          interesting to read every week.
+          If you like this post, subscribe to receive new ones in your inbox.
         </div>
         <Subscribe />
       </div>
