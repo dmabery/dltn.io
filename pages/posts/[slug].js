@@ -1,4 +1,4 @@
-import HomePagePostDisplay from "../../components/HomePagePostDisplay";
+import FullPostDisplay from "../../components/FullPostDisplay";
 import Meta from "../../components/Meta";
 import { getAllPublished, getSingleBlogPostBySlug } from "../api/notion";
 
@@ -30,7 +30,7 @@ const BlogPost = ({ post }) => {
         description={post.metadata.description}
         image={post.metadata.image}
       />
-      <HomePagePostDisplay
+      <FullPostDisplay
         title={post.metadata.title}
         tags={post.metadata.tags}
         description={post.metadata.description}

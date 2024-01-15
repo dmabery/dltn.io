@@ -1,19 +1,16 @@
 import Link from "next/link";
 import { useEffect } from "react";
-import LinkedTagButton from "./LinkedTagButton";
-import Meta from "./Meta";
 import PostBodyContent from "./PostBodyContent";
-import SubscribeGroup from "./SubscribeGroup";
-
 const prism = require("prismjs");
 
-const FullPostDisplay = ({
+const HomePagePostDisplay = ({
   title,
   description,
   image,
   date,
   tags,
   content,
+  slug,
 }) => {
   useEffect(() => {
     prism.highlightAll();
@@ -21,35 +18,33 @@ const FullPostDisplay = ({
 
   return (
     <>
-      <Meta title={title} description={description} image={image} />
-      <article className="mx-auto text-neutral-300">
-        <div className="p-0 text-gray-900/90 md:pl-5 md:pr-5">
-          <div className="text-center text-xs text-slate-500">
-            {date.slice(0, 10)}
-          </div>
-          <h1 className="mt-3 mb-3 text-center text-3xl font-bold">
+      <article className="text-neutral-300">
+        <div className="text-gray-900/90">
+          <div className="mb-1 font-serif text-3xl font-bold">
             {title || ""}
-          </h1>
+          </div>
+          <div className="tags border-[#868686/60] flex gap-2 border-t border-b py-3 text-xs text-[#868686]">
+            <div>{date.slice(0, 10)}</div>
+            <div>|</div>
+            <div>
+              Filed under:
+              {tags.map((tag) => (
+                <Link href={`/tags/${tag}`}>
+                  <a className="tag italic hover:underline" key={tag}>
+                    {" "}
+                    {tag}
+                  </a>
+                </Link>
+              ))}
+            </div>
+          </div>
         </div>
-        <div className="text-center">
-          {tags.map((tag) => (
-            <span key={tag}>
-              {" "}
-              <Link href={`/tags/${tag}`}>
-                <a>
-                  <LinkedTagButton btnText={tag} />
-                </a>
-              </Link>
-            </span>
-          ))}
-        </div>
-        <div className="container mx-auto">
+        <div>
           <PostBodyContent content={content} />
         </div>
-        <SubscribeGroup />
       </article>
     </>
   );
 };
 
-export default FullPostDisplay;
+export default HomePagePostDisplay;
