@@ -11,8 +11,8 @@ const SubscribeGroup = ({ title, caption }) => (
         <>
           Learn five interesting insights, ideas, and stories from history's
           most unique thinkers in your inbox every Friday. Read past editions{" "}
-          <Link href="/tags/221b" className="text-blue-700 hover:text-blue-900">
-            here
+          <Link href="/tags/221b">
+            <a className="text-blue-700 hover:text-blue-900">here</a>
           </Link>
           .
         </>

@@ -5,7 +5,7 @@ const PostList = (props) => {
     <div className="mb-4 text-bodyText">
       <div className="text-2xl font-bold">
         <Link href={props.slug}>
-          {props.title}
+          <a>{props.title}</a>
         </Link>
       </div>
       <div>{props.description}</div>
