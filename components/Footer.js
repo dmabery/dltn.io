@@ -1,18 +1,18 @@
-import Image from 'next/image';
-import LinkText from './LinkText';
+import Image from "next/image";
+import LinkText from "./LinkText";
 
 const footerLink = [
   {
-    title: 'Twitter',
-    link: 'https://www.twitter.com/dltnio',
+    title: "Twitter",
+    link: "https://www.twitter.com/dltnio",
   },
   {
-    title: 'YouTube',
-    link: 'https://www.youtube.com/daltonmabery',
+    title: "YouTube",
+    link: "https://www.youtube.com/daltonmabery",
   },
   {
-    title: 'GitHub',
-    link: 'https://github.com/dmabery',
+    title: "GitHub",
+    link: "https://github.com/dmabery",
   },
 ];
 
