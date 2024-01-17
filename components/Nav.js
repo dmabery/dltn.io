@@ -21,7 +21,7 @@ const links = [
 ];
 
 const Nav = () => (
-  <nav className="mb-5 flex flex-col items-center justify-between bg-[#191919] px-3 py-3 md:mb-0 md:flex-row">
+  <nav className="mb-4 flex flex-col items-center justify-between bg-[#191919] px-3 py-3 md:mb-0 md:flex-row">
     <div className="flex items-center">
       <div className="font-serif text-4xl font-bold">
         <Link href="/">
