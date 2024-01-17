@@ -38,17 +38,17 @@ const NoteList = ({ posts }) => (
     <div className="">
       <div className="mt-7 grid grid-cols-3 gap-6">
         {posts.map((post, index) => (
-          <Link href={`/posts/${post.slug}`}>
-            <a className="transition-all hover:scale-105">
-              <Image
-                key={post.id}
-                src={post.image}
-                layout="responsive"
-                height={75}
-                width={50}
-              />
-            </a>
-          </Link>
+          (<Link href={`/posts/${post.slug}`} className="transition-all hover:scale-105">
+
+            <Image
+              key={post.id}
+              src={post.image}
+              layout="responsive"
+              height={75}
+              width={50}
+            />
+
+          </Link>)
         ))}
       </div>
     </div>
