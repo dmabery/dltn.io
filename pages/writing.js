@@ -1,12 +1,11 @@
+import ImageWithCaption from "../components/ImageWithCaption";
 import Meta from "../components/Meta";
-import PageTitle from "../components/PageTitle";
 import PostList from "../components/PostList";
 import { getAllByNotType } from "./api/notion";
 
 export const getStaticProps = async () => {
   const data = await getAllByNotType("Book Notes");
 
-  console.log(data);
   return {
     props: {
       posts: data,
@@ -21,9 +20,9 @@ const Writing = ({ posts }) => (
       title="Writing"
       description="A codex of my personal journey to understand the world."
     />
-    <PageTitle
-      title="Writing"
-      description="A codex of my personal journey to understand the world."
+    <ImageWithCaption
+      src="https://res.cloudinary.com/dde1q4ekv/image/upload/v1694125376/Gustave-Caillebotte-Portrait-of-a-Man-Writing-in-His-Study_kakq4v.jpg"
+      caption="Portrait of a Man Writing in His Study. Gustave Caillebotte - Oil On Canvas - 1885."
     />
     <div className="mt-7 flex flex-col gap-6">
       {posts.map((post, index) => (

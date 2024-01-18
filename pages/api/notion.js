@@ -1,5 +1,5 @@
-const { Client } = require('@notionhq/client');
-const { NotionToMarkdown } = require('notion-to-md');
+const { Client } = require("@notionhq/client");
+const { NotionToMarkdown } = require("notion-to-md");
 
 const notion = new Client({ auth: process.env.NOTION_API_KEY });
 
@@ -12,15 +12,15 @@ export const getAllPublished = async () => {
   const posts = await notion.databases.query({
     database_id: process.env.NOTION_BLOG_DATABASE_ID,
     filter: {
-      property: 'Published',
+      property: "Published",
       checkbox: {
         equals: true,
       },
     },
     sorts: [
       {
-        property: 'Date',
-        direction: 'descending',
+        property: "Date",
+        direction: "descending",
       },
     ],
   });
@@ -31,97 +31,133 @@ export const getAllPublished = async () => {
 };
 
 export const getAllByType = async (type) => {
-  const posts = await notion.databases.query({
-    database_id: process.env.NOTION_BLOG_DATABASE_ID,
-    filter: {
-      and: [
-        {
-          property: 'Type',
-          select: {
-            equals: type,
+  let allPosts = [];
+  let startCursor = undefined;
+
+  while (true) {
+    const response = await notion.databases.query({
+      database_id: process.env.NOTION_BLOG_DATABASE_ID,
+      filter: {
+        and: [
+          {
+            property: "Type",
+            select: {
+              equals: type,
+            },
           },
-        },
-        {
-          property: 'Published',
-          checkbox: {
-            equals: true,
+          {
+            property: "Published",
+            checkbox: {
+              equals: true,
+            },
           },
+        ],
+      },
+      sorts: [
+        {
+          property: "Date",
+          direction: "descending",
         },
       ],
-    },
-    sorts: [
-      {
-        property: 'Date',
-        direction: 'descending',
-      },
-    ],
-  });
+      start_cursor: startCursor,
+    });
 
-  const allPosts = posts.results;
+    allPosts = allPosts.concat(response.results);
+
+    if (!response.has_more) {
+      break;
+    }
+
+    startCursor = response.next_cursor;
+  }
 
   return allPosts.map((post) => getPageMetaData(post));
 };
 
 export const getAllByNotType = async (type) => {
-  const posts = await notion.databases.query({
-    database_id: process.env.NOTION_BLOG_DATABASE_ID,
-    filter: {
-      and: [
-        {
-          property: 'Type',
-          select: {
-            does_not_equal: type,
+  let allPosts = [];
+  let startCursor = undefined;
+
+  while (true) {
+    const response = await notion.databases.query({
+      database_id: process.env.NOTION_BLOG_DATABASE_ID,
+      filter: {
+        and: [
+          {
+            property: "Type",
+            select: {
+              does_not_equal: type,
+            },
           },
-        },
-        {
-          property: 'Published',
-          checkbox: {
-            equals: true,
+          {
+            property: "Published",
+            checkbox: {
+              equals: true,
+            },
           },
+        ],
+      },
+      sorts: [
+        {
+          property: "Date",
+          direction: "descending",
         },
       ],
-    },
-    sorts: [
-      {
-        property: 'Date',
-        direction: 'descending',
-      },
-    ],
-  });
+      start_cursor: startCursor,
+    });
 
-  const allPosts = posts.results;
+    allPosts = allPosts.concat(response.results);
+
+    if (!response.has_more) {
+      break;
+    }
+
+    startCursor = response.next_cursor;
+  }
 
   return allPosts.map((post) => getPageMetaData(post));
 };
 
 export const getAllByTags = async (tag) => {
-  const posts = await notion.databases.query({
-    database_id: process.env.NOTION_BLOG_DATABASE_ID,
-    filter: {
-      and: [
-        {
-          property: 'Tags',
-          multi_select: {
-            contains: tag,
+  let allPosts = [];
+  let startCursor = undefined;
+
+  while (true) {
+    const response = await notion.databases.query({
+      database_id: process.env.NOTION_BLOG_DATABASE_ID,
+      filter: {
+        and: [
+          {
+            property: "Tags",
+            multi_select: {
+              contains: tag,
+            },
           },
-        },
-        {
-          property: 'Published',
-          checkbox: {
-            equals: true,
+          {
+            property: "Published",
+            checkbox: {
+              equals: true,
+            },
           },
+        ],
+      },
+      sorts: [
+        {
+          property: "Date",
+          direction: "descending",
         },
       ],
-    },
-    sorts: [
-      {
-        property: 'Date',
-        direction: 'descending',
-      },
-    ],
-  });
+      start_cursor: startCursor,
+    });
 
-  const allPosts = posts.results;
+    allPosts = allPosts.concat(response.results);
+
+    if (!response.has_more) {
+      break;
+    }
+
+    startCursor = response.next_cursor;
+  }
 
   return allPosts.map((post) => getPageMetaData(post));
 };
@@ -151,7 +187,7 @@ export const getSingleBlogPostBySlug = async (slug) => {
   const response = await notion.databases.query({
     database_id: process.env.NOTION_BLOG_DATABASE_ID,
     filter: {
-      property: 'Slug',
+      property: "Slug",
       formula: {
         string: {
           equals: slug,

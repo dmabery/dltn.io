@@ -31,7 +31,7 @@ const TagPage = ({ posts, tag }) => (
     />
     <PageTitle title={`${tag} reads`} />
     <div className="mt-7 flex flex-row gap-6">
-      <div>
+      <div className="mt-7 flex flex-col gap-6">
         {posts.map((post, index) => (
           <PostList
             title={post.title}
@@ -40,6 +40,7 @@ const TagPage = ({ posts, tag }) => (
             type={post.type}
             slug={`/posts/${post.slug}`}
             key={post.id}
+            image={post.image}
           />
         ))}
       </div>
