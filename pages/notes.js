@@ -2,8 +2,6 @@
 import Image from "next/image";
 import Link from "next/link";
 import Meta from "../components/Meta";
-import PageTitle from "../components/PageTitle";
-import SideNote from "../components/SideNote";
 import { getAllByType } from "./api/notion";
 
 export const getStaticProps = async () => {
@@ -23,20 +21,8 @@ const NoteList = ({ posts }) => (
       title="Book Notes"
       description="Notes, summaries, and lessons from 30+ books."
     />
-    <PageTitle
-      title="Book Notes"
-      description={
-        <div className="prose mt-3 mb-3 text-sm md:text-base">
-          <SideNote
-            title="Something to keep in mind..."
-            content="The more that you read, the more things you will know. The more that
-            you learn, the more places you'll go. – Dr. Seuss"
-          />
-        </div>
-      }
-    />
-    <div className="">
-      <div className="mt-7 grid grid-cols-3 gap-6">
+    <div>
+      <div className="grid grid-cols-3 gap-6">
         {posts.map((post, index) => (
           <Link href={`/posts/${post.slug}`}>
             <a className="transition-all hover:scale-105">

@@ -3,7 +3,7 @@ import Subscribe from "./Subscribe";
 
 const SubscribeGroup = ({ title, caption }) => (
   <div className="mt-10 rounded-lg bg-grayAccent py-8 px-5 text-customBlack">
-    <div className="mb-2 font-serif text-xl font-bold md:text-2xl">
+    <div className="text- mb-2 font-sansSerif font-bold md:text-2xl">
       {title || "Subscribe to The Wandering Reader"}
     </div>
     <div className="mb-3 mt-1 max-w-xl text-sm">
