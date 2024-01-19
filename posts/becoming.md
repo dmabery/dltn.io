@@ -7,7 +7,7 @@ Published: true
 Slug: "becoming"
 Type: "Essay"
 ---
-One of the main ideas in Practicing the Way by John Mark Comer is that each of us – “religious” or not – is following something and allowing that thing to change us.
+One of the main ideas in *Practicing the Way* by John Mark Comer is that each of us – “religious” or not – is following something and allowing that thing to change us.
 
 He reiterates that the question isn’t, are you a disciple? But what are you a disciple of?
 Not do you have faith? but what do you have faith in?
