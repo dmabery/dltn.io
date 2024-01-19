@@ -9,12 +9,12 @@ Type: "Essay"
 ---
 One of the main ideas in *Practicing the Way* by John Mark Comer is that each of us – “religious” or not – is following something and allowing that thing to change us.
 
-He reiterates that the question isn’t, are you a disciple? But what are you a disciple of?
+The book reiterates that the question isn’t, are you a disciple? But what are you a disciple of?
 Not do you have faith? but what do you have faith in?
 
 Not are you being formed or changed? But who or what are you being formed into?
 
-He gives a great example for that last idea:
+Comer gives a great example for that last idea:
 
 > Case in point: elderly people. Most people over the age of eighty are either the best or the worst people you know.
 
