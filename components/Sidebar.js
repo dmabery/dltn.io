@@ -1,4 +1,3 @@
-import Link from "next/link";
 import Subscribe from "../components/Subscribe";
 
 export default function Sidebar({ children, left, post }) {
@@ -22,13 +21,7 @@ export default function Sidebar({ children, left, post }) {
               Subscribe
             </h2>
             <div className="mb-3">
-              Every Friday, I send an email with insights, stories, and other
-              interesting ideas I learn from reading books. Read previous
-              editions
-              <span className="text-blue-700 hover:text-blue-900 hover:underline">
-                <Link href="/221b"> here</Link>
-              </span>
-              .
+              Sign up to receive new posts and updates via email.
             </div>
             <Subscribe />
           </div>

@@ -30,7 +30,7 @@ const HomePagePostDisplay = ({
               Filed under:
               {tags.map((tag) => (
                 <Link href={`/tags/${tag}`}>
-                  <a className="tag italic hover:underline" key={tag}>
+                  <a className="tag text-blue-700/80 hover:underline" key={tag}>
                     {" "}
                     {tag}
                   </a>
