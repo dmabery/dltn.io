@@ -8,7 +8,7 @@ const PostBodyContent = (props) => (
     <Markdown options={{ overrides: { SideNote, Subscribe, InlineImage } }}>
       {props.content || ""}
     </Markdown>
-  </div
+  </div>
 );
 
 export default PostBodyContent;
