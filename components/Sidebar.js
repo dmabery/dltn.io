@@ -34,14 +34,6 @@ export default function Sidebar({ children, left, post }) {
                 Follow me on Twitter
               </a>
             </li>
-            <li>
-              <a
-                href="https://thewanderingreader.substack.com/"
-                target="_blank"
-              >
-                Read my newsletter
-              </a>
-            </li>
           </ul>
         </div>
       </div>
