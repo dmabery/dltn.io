@@ -1,26 +1,24 @@
 # About me
-I'm a professional video editor and designer, working on podcasts, YouTube, and social media. I hold a degree in Digital Media and Design from Southeastern University and am currently pursuing my Masters in English and Creative Writing. I'm interested in books, history, science, and computers.
+I'm a professional video editor and designer, working on podcasts, YouTube, and social media. I hold a degree in Digital Media and Design from Southeastern University. I'm interested in books, history, science, writing, reading, computers, and coffee.
 
-Currently, I work for [Farnam Street](https://fs.blog/). In addition to my work there, I also[ write online](https://www.dltn.io/writing) and share interesting quotes and ideas on[ Twitter](https://twitter.com/dltnio). I have a profound love for words, books, and ideas. When I'm not working or running, you'll find me reading, coding, or writing. I have experience in React and NextJS. My favorite literary genre is narrative non-fiction; I greatly admire David McCullough for his remarkable work. He's my hero.
-
-While my current focus is on video and digital media, my ultimate aspiration is to transition into the world of publishing, where I can indulge in reading, writing, and editing.
+Currently, I work for [Farnam Street](https://fs.blog/). In addition to my work there, I also[ write online](https://www.dltn.io/writing) and share interesting quotes and ideas on[ Twitter](https://twitter.com/dltnio). I have a profound love for words, books, and ideas. When I'm not working or running, you'll find me reading, coding, or writing. I have experience in React and NextJS.
 
 ![](https://res.cloudinary.com/dde1q4ekv/image/upload/v1694125072/F4b9BwTawAE_3WO_umydiz.jpg)
 
 ### For Work
 
--   I'm the Senior Digital Creator at [Farnam Street](https://fs.blog/). My primary responsibilities include creating videos for and managing our [podcast's YouTube channel](https://www.youtube.com/channel/UCLtTf_uKt0Itd0NG7txrwXA). Additionally, I write scripts and edit videos using our vast blog content. I also oversee the social media accounts for [Farnam Street](https://twitter.com/farnamstreet) and[The Knowledge Project](https://www.instagram.com/tkppodcast/). I also manage the bi-weekly production and release of new podcast episodes.
+-   I'm the Senior Digital Creator at [Farnam Street](https://fs.blog/). My primary responsibilities include creating videos for and managing our [podcast's YouTube channel](https://www.youtube.com/channel/UCLtTf_uKt0Itd0NG7txrwXA). Additionally, I write scripts and edit videos using our vast blog content. I also oversee the social media accounts for [Farnam Street](https://twitter.com/farnamstreet) and [The Knowledge Project](https://www.instagram.com/tkppodcast/). I also manage the bi-weekly production and release of new podcast episodes.
 
 ### For Side Projects
 
--   During my leisure time, you'll find men [reading](https://www.dltn.io/notes) or [coding](https://github.com/dmabery).
--   Every Friday, I send out a weekly newsletter sharing valuable lessons I learn from books. You can sign up[ here](https://www.dltn.io/221b).
+-   During my leisure time, you'll find me [reading](https://www.dltn.io/notes), writing, or running.
+-   Every Friday, I send out a weekly newsletter sharing valuable lessons, insights, and links I discover. You can sign up[ here](https://www.dltn.io/newsletter).
 -   I used to create [videos on YouTube](https://youtube.com/@dltnio), but for now, I've put that on pause.
 
 ### For Fun
 
--   When I'm not indulging in books or working, you can find me playing golf, watching golf, running, or spending quality time with friends and family. Golf and running are my main leisure activities, apart from reading.
--   I realized lately I love to work out like I'm in prison (my friend Ryan Burns used that description of himself and I loved it). I run, use TRX bands in my office, do push ups, some ab workouts, and a stretching routine every morning. I love running because I sweat and when I sweat I think better. I also think it's the best way to increase your mental discipline. As Seneca said, "We treat the body rigorously so that it may not be disobedient to the mind".
+-   When I'm not indulging in books or working, you can find me playing golf, watching golf, running, or spending quality time with friends and family. Golf and running are my main leisure activities, aside from reading.
+-   I love running because I sweat and when I sweat I think better. I also think it's the best way to increase your mental discipline. As Seneca said, "We treat the body rigorously so that it may not be disobedient to the mind". I follow a simple push/pull split three days a week, and do a speed run, a tempo run, and a long run every week. I'm not training for anything. I just like to run.
 
 <ImageWithCaption src="https://res.cloudinary.com/dde1q4ekv/image/upload/v1694125177/F5Ye6EeWoAAQkRl_anmgdw.jpg" caption="Rembrandt van Rijn (1606 - 1669): The Storm on the Sea of Galilee - 1633 - Oil on canvas" />
 

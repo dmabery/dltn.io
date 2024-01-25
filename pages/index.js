@@ -75,8 +75,9 @@ export default function Home({ posts, tags }) {
               history's most interesting people, ideas, essays, and inventions.
             </p>
             <p>
-              Every Friday, I share insights about life and three things I
-              learned, read, or listened to that week. Subscribe below.
+              Every Friday, I share insights about life and seven things I
+              learned, read, listened to, or thought were interesting that week.
+              Subscribe below.
             </p>
             <Subscribe />
           </div>
