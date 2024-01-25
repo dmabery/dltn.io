@@ -18,19 +18,19 @@ const HomePagePostDisplay = ({
 
   return (
     <>
-      <article className="text-neutral-300">
-        <div className="text-gray-900/90">
+      <article>
+        <div className="white">
           <div className="mb-1 font-serif text-3xl font-bold">
             {title || ""}
           </div>
-          <div className="tags border-[#868686/60] flex gap-2 border-t border-b py-3 text-xs text-[#868686]">
+          <div className="tags border-[#868686/60] text-md flex gap-2 border-t border-b py-3">
             <div>{date.slice(0, 10)}</div>
             <div>|</div>
             <div>
               Filed under:
               {tags.map((tag) => (
                 <Link href={`/tags/${tag}`}>
-                  <a className="tag text-blue-700/80 hover:underline" key={tag}>
+                  <a className="tag text-blue-600 hover:underline" key={tag}>
                     {" "}
                     {tag}
                   </a>

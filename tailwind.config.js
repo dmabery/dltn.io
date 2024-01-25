@@ -22,10 +22,10 @@ module.exports = {
       },
     },
     fontFamily: {
-      heading: ["Newsreader", "sans serif"],
+      heading: ["Crimson Text", "sans serif"],
       body: ["Newsreader", "serif"],
       mono: ["Inconsolata", "monospace"],
-      serif: ["Newsreader", "serif"],
+      serif: ["Crimson Text", "serif"],
       sansSerif: ["Inter", "Sans Serif"],
     },
   },
