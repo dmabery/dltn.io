@@ -32,9 +32,11 @@ I try to understand how things work and explain them to other people. This site 
 >
 > Will Durant, The Map of Human Character
 
-The legacy I hope to leave behind is similar to that of Albert Einstein's. Not his groundbreaking theories, but his curiosity and humility. After his death, The New York Times wrote this: Man stands on this diminutive earth, gazes at the myriad of stars and upon billowing ocean and tossing trees--and wonders. What does it all mean? How did it come about? The most thoughtful wonderer who appeared among us in three centuries has passed on in the person of Albert Einstein.
+The legacy I hope to leave behind is similar to that of Albert Einstein's. Not his groundbreaking theories, but his curiosity and humility. After his death, The New York Times wrote this:
 
-> "The most thoughtful wonderer." I love that. I hope those words are used to describe me one day.
+> Man stands on this diminutive earth, gazes at the myriad of stars and upon billowing ocean and tossing trees--and wonders. What does it all mean? How did it come about? The most thoughtful wonderer who appeared among us in three centuries has passed on in the person of Albert Einstein.
+
+"The most thoughtful wonderer." I love that. I hope those words are used to describe me one day.
 
 ### Socials
 
