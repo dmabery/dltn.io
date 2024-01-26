@@ -27,7 +27,7 @@ const Subscribe = ({ title, placeholder }) => {
   const onSubmit = (data) => mutate(data);
 
   const formClass = classNames({
-    "flex items-center rounded-md": true,
+    "flex font-sansSerif items-center rounded-md": true,
     "border-gray-100": isLoading,
   });
 

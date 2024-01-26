@@ -30,7 +30,7 @@ const TagPage = ({ posts, tag }) => (
       description="A codex of my personal journey to understand the world."
     />
     <PageTitle title={tag} description={`All posts tagged with ${tag}`} />
-    <div className="mt-7 flex flex-row gap-6">
+    <div className="mt-7 flex flex-row">
       <div>
         {posts.map((post) => (
           <PostListSimple

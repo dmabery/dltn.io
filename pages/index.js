@@ -52,10 +52,12 @@ export default function Home({ posts, tags }) {
         title="Dalton Mabery is a video editor who reads and writes."
         description="Developer, Video Editor, Writer."
       />
-      <div className="flex flex-col divide-y">
+      <div className="flex flex-col divide-y text-[19px] text-neutral-800">
         <div className="flex flex-col gap-2 pb-5">
-          <h2 className="text-2xl font-medium">Hi, I'm Dalton</h2>
-          <div className="flex flex-col gap-3 text-gray-700">
+          <h2 className="font-sansSerif text-2xl font-medium">
+            Hi, I'm Dalton
+          </h2>
+          <div className="flex flex-col gap-3">
             <p>
               I'm the digital creator and editor at{" "}
               <a
@@ -84,10 +86,10 @@ export default function Home({ posts, tags }) {
           <p></p>
         </div>
         <div className="taglist flex flex-col gap-2 py-5">
-          <p className="text-gray-600">Topics</p>
+          <p className="font-sansSerif text-gray-600">Topics</p>
           <div>
             {tags.map((tag) => (
-              <li className="inline font-sansSerif text-slate-900" key={tag}>
+              <li className="inline text-slate-900" key={tag}>
                 <Link
                   className="underline hover:no-underline"
                   href={`/tags/${tag}`}
@@ -99,7 +101,7 @@ export default function Home({ posts, tags }) {
           </div>
         </div>
         <div className="flex flex-col gap-2 py-5">
-          <p className="text-gray-600">Latest</p>
+          <p className="font-sansSerif text-gray-600">Latest</p>
           <ol>
             {sortedPosts.slice(0, 10).map((post) => (
               <li>

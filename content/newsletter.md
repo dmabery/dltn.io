@@ -1,4 +1,4 @@
-# The Newsletter
+<div className="font-sansSerif mb-2">The Newsletter</div>
 
 <img className="w-full" src="https://res.cloudinary.com/dde1q4ekv/image/upload/v1677422401/41dff408ec203f444b0140923834ab3d_fjf6iz.jpg" />
 
