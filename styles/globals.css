@@ -8,7 +8,7 @@ html,
 body {
   margin: 0;
   font-family: 'Crimson Text', sans-serif;
-  background-color: #FAFCFF;
+  background-color: #FFFFF;
   color: @apply gray-900;
 }
 

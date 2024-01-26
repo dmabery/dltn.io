@@ -18,26 +18,23 @@ const HomePagePostDisplay = ({
 
   return (
     <>
-      <article className="text-[neutral-200]">
-        <div className="font-sansSerif">
-          <div className="text-2xl font-medium text-neutral-800">
-            {title || ""}
-          </div>
-          <div className="tags flex gap-2 py-2 text-sm text-[#868686]">
+      <article className="text-neutral-300">
+        <div className="mb-5 flex flex-col gap-2 text-gray-900/90">
+          <Link href={`/posts/${slug}`}>
+            <a className="font-sansSerif text-[28px] font-bold leading-tight">
+              {title || ""}
+            </a>
+          </Link>
+          <div className="tags border-[#868686/60] flex gap-2 border-t border-b py-3 font-sansSerif text-xs text-[#868686]">
             <div>{date}</div>
-            <div>•</div>
-            <div className="taglist">
-              {tags
-                ? tags.map((tag) => {
-                    return (
-                      <li className="inline">
-                        <Link className="hover:underline" href={`/tags/${tag}`}>
-                          {tag}
-                        </Link>
-                      </li>
-                    );
-                  })
-                : "error"}
+            <div>|</div>
+            <div>
+              Filed under:
+              {tags.map((tag) => (
+                <Link href={`/tags/${tag}`} key={tag}>
+                  <a className="tag text-blue-700/80 hover:underline"> {tag}</a>
+                </Link>
+              ))}
             </div>
           </div>
         </div>
@@ -45,6 +42,11 @@ const HomePagePostDisplay = ({
           <PostBodyContent content={content} />
         </div>
       </article>
+      <div className="flex items-center gap-5">
+        <hr className="w-[225px]"></hr>
+        <div className="text-4xl font-bold">d.</div>
+        <hr className="w-[225px]"></hr>
+      </div>
     </>
   );
 };

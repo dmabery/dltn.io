@@ -10,10 +10,6 @@ Type: "Essay"
 ---
 Here are 7 things I found worth sharing, reading, watching, or listening to this week.
 
-Let me know what you think!
-
-* * * * *
-
 1.  [​John Steinbeck's anti-advice for aspiring writers​](https://x.com/dltnio/status/1749092840242876485?s=20): "If there is a magic in story writing, and I am convinced there is, no one has ever been able to reduce it to a recipe that can be passed from one person to another."
 2.  [​How someone treats another person​](https://twitter.com/dltnio/status/1748748662250078210) when they're down says a lot about who they really are.
 3.  Winston Churchill smoked about 10 cigars a day and was hardly without a drink in his hand, yet he was at the top of his game during WW2. His trick for getting "the last scrap" out of his body? Naps. [​Read how Churchill himself described his process.​](https://www.daltonmabery.com/posts/winston-churchill-naps)
