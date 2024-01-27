@@ -17,10 +17,11 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <link rel="icon" href="/favicon 3.png" />
       </Head>
-      <nav className="container mx-auto max-w-[910px] bg-white">
+
+      <nav className="container mx-auto max-w-[920px] bg-white">
         <Nav className="" />
       </nav>
-      <div className="mx-auto max-w-[910px] rounded bg-white py-8 px-5">
+      <div className="mx-auto max-w-[920px] rounded bg-white px-5 py-8 md:px-10">
         <main className="mb-auto min-h-screen">
           <QueryClientProvider client={queryClient}>
             <Sidebar>
