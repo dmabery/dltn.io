@@ -19,9 +19,9 @@ const HomePagePostDisplay = ({
   return (
     <>
       <article className="text-neutral-300">
-        <div className="mb-5 flex flex-col gap-2 text-gray-900/90">
+        <div className="mb-5 flex flex-col gap-2 text-gray-900">
           <Link href={`/posts/${slug}`}>
-            <a className="font-sansSerif text-[28px] font-bold leading-tight">
+            <a className="font-sansSerif text-[28px] font-bold leading-tight hover:underline">
               {title || ""}
             </a>
           </Link>
@@ -42,10 +42,10 @@ const HomePagePostDisplay = ({
           <PostBodyContent content={content} />
         </div>
       </article>
-      <div className="flex items-center gap-5">
-        <hr className="w-[225px]"></hr>
-        <div className="text-4xl font-bold">d.</div>
-        <hr className="w-[225px]"></hr>
+      <div className="my-10 flex items-center">
+        <hr className="w-1/3"></hr>
+        <div className="px-20 text-4xl font-bold">d.</div>
+        <hr className="w-1/3"></hr>
       </div>
     </>
   );

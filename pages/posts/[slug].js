@@ -3,7 +3,6 @@ import Meta from "../../components/Meta";
 
 import fs from "fs";
 import matter from "gray-matter";
-import Subscribe from "../../components/Subscribe";
 
 export async function getStaticPaths() {
   try {
@@ -67,13 +66,6 @@ const BlogPost = ({ frontmatter, content }) => {
           image={frontmatter.Image}
         />
       </section>
-      <div className="mt-10 flex flex-col gap-5 rounded bg-[#001c46] px-5 py-10 text-white">
-        <p className="text-lg">Subscribe</p>
-        <div>
-          If you like this post, subscribe to receive new ones in your inbox.
-        </div>
-        <Subscribe />
-      </div>
     </>
   );
 };
