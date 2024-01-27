@@ -18,7 +18,7 @@ const HomePagePostDisplay = ({
 
   return (
     <>
-      <article className="border-2 border-black bg-white p-5 text-neutral-300">
+      <article className="border border-black bg-white p-5 text-neutral-300">
         <div className="mb-5 flex flex-col gap-2 text-gray-900">
           <Link href={`/posts/${slug}`}>
             <a className="font-sansSerif text-[28px] font-bold leading-tight hover:underline">
