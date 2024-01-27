@@ -18,18 +18,16 @@ const HomePagePostDisplay = ({
 
   return (
     <>
-      <article className="border border-black bg-white p-5 text-neutral-300">
-        <div className="mb-5 flex flex-col gap-2 text-gray-900">
+      <article className="border border-black bg-white text-neutral-300">
+        <div className="mb-5 flex flex-col gap-1 text-gray-900">
           <Link href={`/posts/${slug}`}>
-            <a className="font-sansSerif text-[28px] font-bold leading-tight hover:underline">
+            <a className="p-5 font-sansSerif text-[28px] font-bold leading-tight hover:underline">
               {title || ""}
             </a>
           </Link>
-          <div className="tags border-[#868686/60] flex gap-2 border-t border-b py-3 font-sansSerif text-xs text-[#868686]">
-            <div>{date}</div>
-            <div>|</div>
-            <div>
-              Filed under:
+          <div className="tags border-t border-b border-black py-3 font-sansSerif text-xs text-gray-900">
+            <div className="px-5">
+              {date} | Filed under:
               {tags.map((tag) => (
                 <Link href={`/tags/${tag}`} key={tag}>
                   <a className="tag text-blue-700/80 hover:underline"> {tag}</a>
@@ -38,7 +36,7 @@ const HomePagePostDisplay = ({
             </div>
           </div>
         </div>
-        <div>
+        <div className="px-5">
           <PostBodyContent content={content} />
         </div>
       </article>
