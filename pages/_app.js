@@ -27,10 +27,8 @@ function MyApp({ Component, pageProps }) {
             </Sidebar>
           </QueryClientProvider>
         </main>
-        <footer className="h-10">
-          <Footer />
-        </footer>
       </div>
+      <Footer />
     </>
   );
 }
