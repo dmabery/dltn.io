@@ -59,6 +59,7 @@ export default function Home({ posts }) {
             content={post.content}
             image={post.frontmatter.image}
             slug={post.slug}
+            isHomePage={true}
           />
         ))}
       </div>
