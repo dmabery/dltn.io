@@ -65,6 +65,9 @@ const BlogPost = ({ frontmatter, content }) => {
           content={content}
           image={frontmatter.Image}
         />
+        <div className="flex w-full text-white">
+          <div className="bg-black px-3 py-1.5 text-xl">↗︎</div>
+        </div>
       </section>
     </>
   );
