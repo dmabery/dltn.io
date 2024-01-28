@@ -1,5 +1,3 @@
-<div className="font-sansSerif mb-2">The Newsletter</div>
-
 <img className="w-full" src="https://res.cloudinary.com/dde1q4ekv/image/upload/v1677422401/41dff408ec203f444b0140923834ab3d_fjf6iz.jpg" />
 
 The Wandering Reader is a curated list of ideas into the “labyrinth” of human nature (to quote John Adams).
@@ -13,5 +11,3 @@ My motivation is simple, to "promote useful ideas” – from writing, history, 
 Put simply: anything that makes me think, "Huh, I never knew that!" about an event in history, a neat invention, or a fascinating person...will go in this newsletter. I do this for one reason: I recognize the importance of promoting knowledge. I also recognize the dilution of insights and ideas published on the internet today, so I think it's important to investing time in curating a thoughtful collection of content that is educational, entertaining, and has stood the test of time.
 
 I like to learn, so if you do too, join me.
-
-# Subscribe below
