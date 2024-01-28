@@ -20,14 +20,21 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage }) => {
             <div>{title}</div>
           )}
         </div>
-        <div className="tags border-t border-b border-black py-3 font-sansSerif text-xs text-gray-900">
-          <div className="px-5">
-            {date} | Filed under:
-            {tags.map((tag) => (
-              <Link href={`/tags/${tag}`} key={tag}>
-                <a className="tag text-blue-700/80 hover:underline"> {tag}</a>
-              </Link>
-            ))}
+        <div className="tags flex gap-1 border-t border-b border-black px-5 py-3 font-sansSerif text-xs text-gray-900">
+          <div>{date}</div>
+          <div>•</div>
+          <div>Filed under:</div>
+          <div className="taglist">
+            {" "}
+            {tags
+              ? tags.map((tag) => {
+                  return (
+                    <li className="inline hover:underline">
+                      <Link href={`/tags/${tag}`}>{tag}</Link>
+                    </li>
+                  );
+                })
+              : "error"}
           </div>
         </div>
       </div>
