@@ -15,9 +15,9 @@ export const getStaticProps = async () => {
 
 export default function Newsletter({ data }) {
   return (
-    <>
+    <div className="border border-black bg-white p-5">
       <PostBodyContent content={data} />
       <Subscribe />
-    </>
+    </div>
   );
 }

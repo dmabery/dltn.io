@@ -9,7 +9,7 @@ export const getStaticProps = async () => {
 };
 
 const Writing = ({ posts }) => (
-  <>
+  <div className="border border-black bg-white p-5">
     <Meta
       title="Writing"
       description="A codex of my personal journey to understand the world."
@@ -29,7 +29,7 @@ const Writing = ({ posts }) => (
         />
       ))}
     </div>
-  </>
+  </div>
 );
 
 export default Writing;

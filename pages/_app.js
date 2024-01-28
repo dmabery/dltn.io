@@ -19,7 +19,7 @@ function MyApp({ Component, pageProps }) {
       </Head>
       <Nav />
       <div className="mx-auto max-w-[1000px] py-8">
-        <main className="mb-auto min-h-screen">
+        <main className="mb-auto min-h-screen md:m-5 lg:m-0">
           <QueryClientProvider client={queryClient}>
             <Sidebar>
               <Component {...pageProps} />
