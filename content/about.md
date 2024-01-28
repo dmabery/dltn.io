@@ -1,5 +1,3 @@
-<PageTitle title="About me" />
-
 I'm a professional video editor and designer, working on podcasts, YouTube, and social media. I hold a degree in Digital Media and Design from Southeastern University. I'm interested in books, history, science, writing, reading, computers, and coffee.
 
 Currently, I work for [Farnam Street](https://fs.blog/). In addition to my work there, I also[ write online](https://www.dltn.io/writing) and share interesting quotes and ideas on[ Twitter](https://twitter.com/dltnio). I have a profound love for words, books, and ideas. When I'm not working or running, you'll find me reading, coding, or writing. I have experience in React and NextJS.

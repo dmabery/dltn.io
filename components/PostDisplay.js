@@ -11,7 +11,7 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage }) => {
   return (
     <article className="border border-black bg-white text-neutral-300">
       <div className="mb-5 flex flex-col gap-1 text-gray-900">
-        <div className="p-5 font-sansSerif text-[28px] font-bold leading-tight">
+        <div className="p-5 font-sansSerif text-[25px] font-bold leading-tight md:text-[28px]">
           {isHomePage ? (
             <div className="hover:underline">
               <Link href={`/posts/${slug}`}>{title || ""}</Link>
