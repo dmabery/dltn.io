@@ -4,7 +4,7 @@ export default function Sidebar({ children, left, post }) {
   return (
     <>
       <div className="mt-20 flex max-w-[1000px] justify-between gap-40">
-        <div className="w-[100%] md:w-[75%]">{children}</div>
+        <div className="w-[100%] md:w-[90%]">{children}</div>
         <div className="sticky top-20 mb-5 hidden h-full w-1/3 self-start border border-black bg-white p-5 text-sm md:flex md:flex-col">
           <h2 className="mb-5 border-b border-[#191919] pb-3 font-sansSerif text-lg font-bold leading-tight text-gray-900">
             Words on words, books, people, and ideas.

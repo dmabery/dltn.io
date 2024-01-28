@@ -1,5 +1,5 @@
-import HomePagePostDisplay from "../../components/HomePagePostDisplay";
 import Meta from "../../components/Meta";
+import PostDisplay from "../../components/PostDisplay";
 
 import fs from "fs";
 import matter from "gray-matter";
@@ -57,7 +57,7 @@ const BlogPost = ({ frontmatter, content }) => {
           description={frontmatter.Description}
           image={frontmatter.Image}
         />
-        <HomePagePostDisplay
+        <PostDisplay
           date={frontmatter.Date}
           title={frontmatter.Title}
           tags={frontmatter.Tags}

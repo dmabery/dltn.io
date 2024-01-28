@@ -2,8 +2,8 @@
 import fs from "fs";
 import matter from "gray-matter";
 import path from "path";
-import HomePagePostDisplay from "../components/HomePagePostDisplay";
 import Meta from "../components/Meta";
+import PostDisplay from "../components/PostDisplay";
 import { getTags } from "../lib/getPosts";
 
 export const getStaticProps = async () => {
@@ -51,7 +51,7 @@ export default function Home({ posts }) {
       />
       <div className="flex flex-col gap-10">
         {sortedPosts.slice(0, 10).map((post) => (
-          <HomePagePostDisplay
+          <PostDisplay
             title={post.frontmatter.Title}
             tags={post.frontmatter.Tags}
             description={post.frontmatter.Description}
