@@ -1,7 +1,7 @@
 ---
 Title: "No one cares how you do when you’re feeling great"
 Tags: [“discipline”, “motivation”]
-Date: "2024-01”-30
+Date: "2024-01-30"
 Description: "How you finish matters more than how you start."
 Image: ""
 Published: true
