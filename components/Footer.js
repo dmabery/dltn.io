@@ -1,5 +1,4 @@
 import Image from "next/image";
-import LinkText from "./LinkText";
 
 const footerLink = [
   {
@@ -22,12 +21,9 @@ const Footer = () => (
       <div className="flex flex-col">
         <p className="mb-4 font-serif font-bold">Stay curious.</p>
         {footerLink.map((link) => (
-          <LinkText
-            slug={link.link}
-            text={link.title}
-            type="small"
-            key={link.title}
-          />
+          <a className="decoration-white hover:underline" href={link.link}>
+            {link.title}
+          </a>
         ))}
       </div>
       <Image
