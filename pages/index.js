@@ -2,6 +2,7 @@
 import fs from "fs";
 import matter from "gray-matter";
 import path from "path";
+import IndexCallout from "../components/IndexCallout";
 import Meta from "../components/Meta";
 import PostDisplay from "../components/PostDisplay";
 import { getTags } from "../lib/getPosts";
@@ -49,6 +50,7 @@ export default function Home({ posts }) {
         title="Dalton Mabery is a video editor who reads and writes."
         description="Developer, Video Editor, Writer."
       />
+      <IndexCallout />
       <div className="flex flex-col gap-10">
         {sortedPosts.slice(0, 10).map((post) => (
           <PostDisplay
