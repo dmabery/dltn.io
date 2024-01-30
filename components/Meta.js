@@ -9,10 +9,10 @@ const Meta = (props) => (
     <meta property="og:description" content={props.description} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://dltn.io/" />
-    <meta property="og:image" content={props.image || "styles/og image.png"} />
+    <meta property="og:image" content={props.image || "/og image.png"} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:creator" content="@dltnio" />
-    <meta name="twitter:image" content={props.image || "styles/og image.png"} />
+    <meta name="twitter:image" content={props.image || "/og image.png"} />
   </Head>
 );
 
