@@ -3,8 +3,8 @@ import Subscribe from "./Subscribe";
 
 export default function IndexCallout() {
   return (
-    <div className="flex h-screen md:hidden">
-      <div className="container mt-20 flex h-1/3 flex-col gap-2 border border-black bg-white p-5">
+    <div className="mb-40 flex md:hidden">
+      <div className="container mx-auto mt-20 flex h-full flex-col gap-2 border border-black bg-white p-5">
         <div className="font-sansSerif text-[22px] font-bold">
           Hi, I'm Dalton
         </div>
