@@ -4,7 +4,7 @@ import Subscribe from "./Subscribe";
 export default function IndexCallout() {
   return (
     <div className="flex h-screen md:hidden">
-      <div className="container m-auto flex flex-col gap-2 border border-black bg-white p-5">
+      <div className="m-auto flex flex-col gap-2 border border-black bg-white p-5">
         <div className="font-sansSerif text-[22px] font-bold">
           Hi, I'm Dalton
         </div>
