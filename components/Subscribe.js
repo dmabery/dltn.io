@@ -37,7 +37,7 @@ const Subscribe = ({ title, placeholder }) => {
   });
 
   const btnClass = classNames({
-    "flex-shrink-0 w-full bg-slate-800 hover:bg-gray-900/60 text-sm text-white py-2 px-4 rounded transition-all": true,
+    "flex-shrink-0 w-full bg-neutral-900 hover:bg-neutral-900/80 text-sm text-white py-2 px-4 rounded transition-all": true,
     "opacity-50 cursor-not-allowed": isLoading,
   });
 

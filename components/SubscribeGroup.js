@@ -1,20 +1,15 @@
-import Link from "next/link";
 import Subscribe from "./Subscribe";
 
 const SubscribeGroup = ({ title, caption }) => (
-  <div className="text-customBlack">
-    <div className="mb-2 font-sansSerif text-xl font-bold md:text-2xl">
-      {title || null}
+  <div className="border border-black bg-[#f8f8f8] px-6 py-6">
+    <div className="mb-4 font-sansSerif text-xl font-bold">
+      {title || "Subscribe to my newsletter"}
     </div>
-    <div className="mb-3 mt-1 max-w-xl font-sansSerif text-sm">
+    <div className="smt-1 mb-7 leading-tight">
       {caption || (
         <>
-          Find interesting insights, ideas, articles, and books from history's
-          most unique thinkers in your inbox once a month. Read past editions{" "}
-          <Link href="/tags/221b" className="text-blue-700 hover:text-blue-900">
-            here
-          </Link>
-          .
+          Weekly essays, books, ideas, and other timeless finds that will stoke
+          your curiosity and teach you something new.
         </>
       )}
     </div>

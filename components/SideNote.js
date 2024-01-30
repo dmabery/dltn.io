@@ -1,7 +1,7 @@
 const SideNote = (props) => (
-  <aside className="mt-8 mb-5 rounded-md bg-slate-800 px-10 py-5 text-slate-100">
-    <div className="text-md mb-2 font-bold">{props.title}</div>
-    <div className="leading-md leading-normal">{props.content}</div>
+  <aside className="mt-8 mb-5 border-2 border-neutral-500 bg-neutral-900 px-10 py-5 text-white">
+    <div className="text-md mb-2 font-sansSerif font-bold">{props.title}</div>
+    <div className="leading-tight">{props.content}</div>
   </aside>
 );
 

@@ -12,6 +12,8 @@ Type: "Essay"
 
 This was the first year I kept a detailed log of all the books I read. I don’t remember what compelled me to do this, but I’m glad I did. I’ll try to do something like this every year from now on!
 
+<SubscribeGroup />
+
 History, biography, and creative non-fiction or narrative non-fiction were the most read categories by a landslide, and for a good reason, because they are the best genre of books ever.
 
 Here is my Year in Reading for 2023. These books impacted me most as a person and taught me a lot about life and other people. ([I stole this post format from Austin Kleon](https://austinkleon.com/2022/12/28/my-reading-year-2022/).)
