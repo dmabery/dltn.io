@@ -20,8 +20,8 @@ export default function IndexCallout() {
             .
           </p>
           <p>
-            Every Friday, I send a newsletter filled with interesting essays,
-            books, and ideas. If you love to learn, you should subscribe.
+            Subscribe to my newsletter to receive seven new things to read,
+            watch, listen to, or learn from every week.
           </p>
           <Subscribe />
         </div>
