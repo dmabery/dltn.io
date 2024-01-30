@@ -48,22 +48,24 @@ const NoteList = ({ posts, frontmatter }) => {
         description="Notes, summaries, and lessons from 30+ books."
       />
       <div className="border border-black bg-white p-5">
-        <div className="mt-7 grid grid-cols-3 gap-3">
+        <div className="grid grid-cols-2 gap-5 md:grid-cols-3">
           {sortedPosts
             .filter((post) => post.frontmatter.Type === "Book Notes")
             .map((post, index) => (
-              <Link
-                href={`/posts/${post.slug}`}
-                className="transition-all hover:scale-105"
-              >
-                <Image
-                  key={post.id}
-                  src={post.frontmatter.Image}
-                  layout="responsive"
-                  height={75}
-                  width={50}
-                />
-              </Link>
+              <div className="cursor-pointer transition-all hover:scale-105">
+                <Link
+                  href={`/posts/${post.slug}`}
+                  className="transition-all hover:scale-105"
+                >
+                  <Image
+                    key={post.id}
+                    src={post.frontmatter.Image}
+                    layout="responsive"
+                    height={75}
+                    width={50}
+                  />
+                </Link>
+              </div>
             ))}
         </div>
       </div>

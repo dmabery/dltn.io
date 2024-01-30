@@ -28,7 +28,7 @@ export default function Sidebar({ children, left, post }) {
           <h2 className="mb-3 font-sansSerif text-lg font-bold text-gray-700">
             Quick Links
           </h2>
-          <ul className="text-[16px] text-blue-600">
+          <ul className="transition:all text-[16px] text-blue-700 hover:text-blue-800 hover:underline">
             <li>
               <a href="https://twitter.com/dltnio" target="_blank">
                 Follow me on Twitter
