@@ -47,7 +47,7 @@ export default function Home({ posts }) {
   return (
     <>
       <Meta
-        title="Dalto Mabery is a video editor who reads and writes."
+        title="Dalton Mabery is a video editor who reads and writes."
         description="Developer, Video Editor, Writer."
       />
       <IndexCallout />
