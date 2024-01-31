@@ -8,6 +8,6 @@ My motivation is simple, to "promote useful ideas” – from writing, history, 
 
 >  all philosophical [scientific] experiments that let light into the nature of things, tend to increase the power of man over nature, and multiply the conveniences or pleasures of life…
 
-Put simply: anything that makes me think, "Huh, I never knew that!" about an event in history, a neat invention, or a fascinating person...will go in this newsletter. I do this for one reason: I recognize the importance of promoting knowledge. I also recognize the dilution of insights and ideas published on the internet today, so I think it's important to investing time in curating a thoughtful collection of content that is educational, entertaining, and has stood the test of time.
+Put simply: anything that makes me think, "Huh, I never knew that!" about an event in history, a neat invention, or a fascinating person...will go in this newsletter. I do this for one reason: I recognize the importance of promoting knowledge. I also recognize the dilution of insights and ideas published on the internet today, so I think it's important to invest time in curating a thoughtful collection of content that is educational, entertaining, and has stood the test of time.
 
 I like to learn, so if you do too, join me.
