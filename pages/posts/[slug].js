@@ -1,69 +1,40 @@
 import Meta from "../../components/Meta";
 import PostDisplay from "../../components/PostDisplay";
+import { getPostBySlug, getPosts } from "../../lib/service";
 
-import fs from "fs";
-import matter from "gray-matter";
+export const getStaticPaths = async () => {
+  const posts = await getPosts(1000); // retrieve first 100 posts
 
-export async function getStaticPaths() {
-  try {
-    const files = fs.readdirSync("posts");
+  return {
+    paths: posts.map((post) => `/posts/${post.slug}`),
+    fallback: false,
+  };
+};
 
-    const paths = files.map((fileName) => ({
-      params: {
-        slug: fileName.replace(".md", ""),
-      },
-    }));
+export async function getStaticProps({ params }) {
+  const post = await getPostBySlug(params.slug);
 
-    return {
-      paths,
-      fallback: "blocking",
-    };
-  } catch (error) {
-    console.error(error);
-
-    return {
-      paths: [],
-      fallback: false,
-    };
-  }
+  return {
+    props: { post },
+  };
 }
 
-export async function getStaticProps({ params: { slug } }) {
-  try {
-    const fileName = fs.readFileSync(`posts/${slug}.md`, "utf-8");
-    const { data: frontmatter, content } = matter(fileName);
-
-    return {
-      props: {
-        frontmatter,
-        content,
-      },
-    };
-  } catch (error) {
-    console.error(error);
-
-    return {
-      props: {},
-    };
-  }
-}
-const BlogPost = ({ frontmatter, content }) => {
-  if (!frontmatter) return <h1>No posts</h1>;
+const BlogPost = ({ post }) => {
   return (
     <>
       <section>
         <Meta
-          title={frontmatter.Title}
-          description={frontmatter.Description}
-          image={frontmatter.Image}
+          title={post.title}
+          description={post.excerpt}
+          image={post.featuredImage?.node.sourceUrl}
         />
         <PostDisplay
-          date={frontmatter.Date}
-          title={frontmatter.Title}
-          tags={frontmatter.Tags}
-          description={frontmatter.Description}
-          content={content}
-          image={frontmatter.Image}
+          date={post.date}
+          tags={post.tags.edges.map((edge) => edge.node.name)}
+          title={post.title}
+          description={post.excerpt}
+          content={post.content}
+          image={post.featuredImage?.node.sourceUrl}
         />
         <div className="flex w-full text-white">
           <div className="bg-black px-3 py-1.5 text-xl md:m-0">↗︎</div>

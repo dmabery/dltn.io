@@ -1,49 +1,22 @@
 /* eslint-disable react/no-unescaped-entities */
-import fs from "fs";
-import matter from "gray-matter";
-import path from "path";
 import IndexCallout from "../components/IndexCallout";
 import Meta from "../components/Meta";
 import PostDisplay from "../components/PostDisplay";
-import { getTags } from "../lib/getPosts";
+import { getPosts } from "../lib/service";
 
 export const getStaticProps = async () => {
-  const files = fs.readdirSync("posts");
-  const postsDirectory = "posts";
-
-  const posts = files
-    .filter((fileName) => {
-      // Check if the item is a file and not a directory
-      const filePath = path.join(postsDirectory, fileName);
-      return fs.statSync(filePath).isFile();
-    })
-    .map((fileName) => {
-      const slug = fileName.replace(".md", "");
-      const readFile = fs.readFileSync(
-        path.join(postsDirectory, fileName),
-        "utf-8"
-      );
-      const { data: frontmatter, content } = matter(readFile);
-
-      return {
-        slug,
-        frontmatter,
-        content,
-      };
-    });
-
-  const tags = await getTags();
+  const posts = await getPosts(100); // retrieve first 100 posts
 
   return {
-    props: { posts, tags },
+    props: {
+      posts: posts.slice(0, 10),
+    },
+    revalidate: 3600,
   };
 };
 
 export default function Home({ posts }) {
   if (!posts) return <h1>No posts</h1>;
-  const sortedPosts = posts.sort(
-    (a, b) => new Date(b.frontmatter.Date) - new Date(a.frontmatter.Date)
-  );
   return (
     <>
       <Meta
@@ -52,14 +25,14 @@ export default function Home({ posts }) {
       />
       <IndexCallout />
       <div className="flex flex-col gap-10">
-        {sortedPosts.slice(0, 10).map((post) => (
+        {posts.map((post) => (
           <PostDisplay
-            title={post.frontmatter.Title}
-            tags={post.frontmatter.Tags}
-            description={post.frontmatter.Description}
-            date={post.frontmatter.Date}
+            title={post.title}
+            tags={post.tags.edges.map((edge) => edge.node.name)}
+            description={post.excerpt}
+            date={post.date}
             content={post.content}
-            image={post.frontmatter.image}
+            image={post.featuredImage}
             slug={post.slug}
             isHomePage={true}
           />

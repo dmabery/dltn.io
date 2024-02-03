@@ -1,7 +1,12 @@
 module.exports = {
   reactStrictMode: true,
   images: {
-    domains: ["images.ctfassets.net", "res.cloudinary.com", "_.cloudinary.com"],
+    domains: [
+      "images.ctfassets.net",
+      "res.cloudinary.com",
+      "_.cloudinary.com",
+      "evm.heg.mybluehost.me",
+    ],
   },
   async redirects() {
     return [
