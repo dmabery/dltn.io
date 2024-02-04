@@ -5,11 +5,11 @@ import PostDisplay from "../components/PostDisplay";
 import { getPosts } from "../lib/service";
 
 export const getStaticProps = async () => {
-  const posts = await getPosts(100); // retrieve first 100 posts
+  const posts = await getPosts();
 
   return {
     props: {
-      posts: posts.slice(0, 10),
+      posts: posts.slice(0, 5),
     },
     revalidate: 60,
   };

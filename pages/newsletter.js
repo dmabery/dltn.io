@@ -1,8 +1,8 @@
 import fs from "fs";
 import path from "path";
+import Meta from "../components/Meta";
 import PageTitle from "../components/PageTitle";
 import PostBodyContent from "../components/PostBodyContent";
-import Subscribe from "../components/Subscribe";
 
 export const getStaticProps = async () => {
   const data = fs.readFileSync(path.join("content", "newsletter.md"), {
@@ -17,9 +17,9 @@ export const getStaticProps = async () => {
 export default function Newsletter({ data }) {
   return (
     <div className="flex flex-col gap-2 border border-black bg-white p-5">
+      <Meta title="Newsletter" />
       <PageTitle title="Newsletter" />
       <PostBodyContent content={data} />
-      <Subscribe />
     </div>
   );
 }

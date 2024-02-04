@@ -2,10 +2,17 @@ import ImageWithCaption from "../components/ImageWithCaption";
 import Meta from "../components/Meta";
 import PageTitle from "../components/PageTitle";
 import PostListSimple from "../components/PostListSimple";
-import { getPosts } from "../lib/getPosts";
+import { getPosts } from "../lib/service";
 
 export const getStaticProps = async () => {
-  return getPosts();
+  const posts = await getPosts(1000); // retrieve first 100 posts
+
+  return {
+    props: {
+      posts,
+    },
+    revalidate: 60,
+  };
 };
 
 const Writing = ({ posts }) => (
@@ -22,8 +29,8 @@ const Writing = ({ posts }) => (
     <div className="mt-5">
       {posts.map((post, index) => (
         <PostListSimple
-          title={post.frontmatter.Title}
-          date={post.frontmatter.Date}
+          title={post.title}
+          date={post.date}
           slug={`/posts/${post.slug}`}
           key={post.id}
         />
