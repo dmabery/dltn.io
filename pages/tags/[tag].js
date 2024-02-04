@@ -3,6 +3,14 @@ import PageTitle from "../../components/PageTitle";
 import PostListSimple from "../../components/PostListSimple";
 import { getAllTags, getPostsByTag } from "../../lib/service";
 
+const unslugify = (slug) =>
+  slug
+    .replace(/\-/g, " ")
+    .replace(
+      /\w\S*/g,
+      (text) => text.charAt(0).toUpperCase() + text.slice(1).toLowerCase()
+    );
+
 export async function getStaticProps({ params }) {
   const posts = await getPostsByTag(params.tag);
 
@@ -25,24 +33,26 @@ export const getStaticPaths = async () => {
   };
 };
 
-const TagPage = ({ posts, tag }) => (
-  <div className="border border-black bg-white p-5">
-    <Meta
-      title={tag}
-      description="A codex of my personal journey to understand the world."
-    />
-    <PageTitle title={tag} description={`All posts tagged with ${tag}`} />
-    <div className="mt-7 flex flex-row">
-      <div>
-        {posts.map((post) => (
-          <PostListSimple
-            title={post.title}
-            date={post.date}
-            slug={`posts/${post.slug}`}
-          />
-        ))}
+export default function TagPage({ posts, tag }) {
+  const tagg = unslugify(tag);
+  return (
+    <div className="border border-black bg-white p-5">
+      <Meta
+        title={tagg}
+        description="A codex of my personal journey to understand the world."
+      />
+      <PageTitle title={tagg} description={`All posts tagged with ${tagg}`} />
+      <div className="mt-7 flex flex-row">
+        <div>
+          {posts.map((post) => (
+            <PostListSimple
+              title={post.title}
+              date={post.date}
+              slug={`posts/${post.slug}`}
+            />
+          ))}
+        </div>
       </div>
     </div>
-  </div>
-);
-export default TagPage;
+  );
+}
