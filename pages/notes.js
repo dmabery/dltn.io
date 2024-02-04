@@ -5,7 +5,7 @@ import Meta from "../components/Meta";
 import { getPostsByCategories } from "../lib/service";
 
 export const getStaticProps = async () => {
-  const posts = await getPostsByCategories(); // retrieve first 100 posts
+  const posts = await getPostsByCategories(100); // retrieve first 100 posts
 
   return {
     props: {
@@ -37,7 +37,7 @@ export default function NoteList({ posts }) {
                 <a>
                   <Image
                     key={post.id}
-                    src={post.featuredImage.node.sourceUrl}
+                    src={post.featuredImage?.node.sourceUrl}
                     layout="responsive"
                     height={75}
                     width={50}
