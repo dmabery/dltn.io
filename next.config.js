@@ -1,4 +1,7 @@
 module.exports = {
+  experimental: {
+    scrollRestoration: true,
+  },
   reactStrictMode: true,
   images: {
     domains: [
