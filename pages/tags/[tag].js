@@ -10,7 +10,6 @@ const unslugify = (slug) =>
       /\w\S*/g,
       (text) => text.charAt(0).toUpperCase() + text.slice(1).toLowerCase()
     );
-
 export async function getStaticProps({ params }) {
   const posts = await getPostsByTag(params.tag);
 
@@ -29,7 +28,7 @@ export const getStaticPaths = async () => {
   console.log(paths);
   return {
     paths,
-    fallback: true,
+    fallback: "blocking",
   };
 };
 
