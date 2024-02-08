@@ -3,7 +3,7 @@ import PostDisplay from "../../components/PostDisplay";
 import { getPostBySlug, getPosts } from "../../lib/service";
 
 export const getStaticPaths = async () => {
-  const posts = await getPosts(10); // retrieve first 100 posts
+  const posts = await getPosts(1000); // retrieve first 100 posts
 
   return {
     paths: posts.map((post) => `/posts/${post.slug}`),
