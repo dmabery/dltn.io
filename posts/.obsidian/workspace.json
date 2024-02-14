@@ -1,50 +1,67 @@
 {
   "main": {
-    "id": "269a1ec453bf5ff1",
+    "id": "eb565907ed493aa7",
     "type": "split",
     "children": [
       {
-        "id": "5ff99e5abe15ded7",
+        "id": "fe18dc40d524ccd8",
         "type": "tabs",
         "children": [
           {
-            "id": "4f20acc10b500a1a",
+            "id": "853b93569351a97c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2-habits-for-a-better-intellectual-life copy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9a883813e459b19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "success-is-found-in-the-minutiae.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4cfd1ca6504e44c7",
+    "id": "4025f0d0b56f7c01",
     "type": "split",
     "children": [
       {
-        "id": "cb12e857461c86b2",
+        "id": "60eb5621e7b788e5",
         "type": "tabs",
         "children": [
           {
-            "id": "e9f66511034e7ad4",
+            "id": "364a0e71bc614bcd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "4a3d514e713781af",
+            "id": "12040f113bfdf3a5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "how-to-work",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +71,7 @@
             }
           },
           {
-            "id": "2b40b252a9300259",
+            "id": "270d950edcf03c49",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "54b545e61365d265",
+    "id": "f51f146359b86cf8",
     "type": "split",
     "children": [
       {
-        "id": "4fe9a15dd442efca",
+        "id": "5abb6e1cb93e6aba",
         "type": "tabs",
         "children": [
           {
-            "id": "5cfff7373bc31207",
+            "id": "f3fa6f0a7589434d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "success-is-found-in-the-minutiae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +110,19 @@
             }
           },
           {
-            "id": "7b89ff039108a1fe",
+            "id": "bb86f476091bf003",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "success-is-found-in-the-minutiae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e7b958f44025859d",
+            "id": "6209e521f226a9c2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +133,13 @@
             }
           },
           {
-            "id": "dcdf3b2e2537ca86",
+            "id": "d7953dc3f6a78df3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "success-is-found-in-the-minutiae.md"
+              }
             }
           }
         ]
@@ -138,30 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f20acc10b500a1a",
+  "active": "f9a883813e459b19",
   "lastOpenFiles": [
-    "wonderers.md",
-    "charles-dickens-active-patience.md",
-    "why-legacy-career-paths-cant-innovate.md",
-    "why-you-feel-stuck-in-life.md",
-    "why-i-read.md",
-    "working-by-robert-caro.md",
-    "writing-in-your-head.md",
-    "you-cant-imagine.md",
-    "which-is-better-instinct-or-reason.md",
-    "why-i-publish-my-notes-online.md",
-    "you-cant-go-there-by-doing-that.md",
-    "2022-03-31.md",
-    "templates/New Post.md",
-    "Charles Dickens.md",
-    "This is a post.md",
-    "templates",
-    "images/F3MpsF1b0AMQHrI.webp",
-    "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg",
-    "old-clothes-vibes.md",
-    "images/F3G8VWfawAEFO7_.jpeg",
-    "images",
-    "2-habits-for-a-better-intellectual-life.md",
-    "images/Harry-S.-Truman-in-his-haberdashery-ca.-1921.webp"
+    "2-habits-for-a-better-intellectual-life copy.md",
+    "success-is-found-in-the-minutiae.md",
+    "how-to-work.md",
+    "how-to-blog.md",
+    "7-lessons-from-the-splendid-and-the-vile-by-erik-larson.md",
+    "How-to-work.md"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 Title: "2 Strategies To Help You Remember What You Read"
-Tags: ["knowledge-mangagement"]
+Tags: ["knowledge-management"]
 Date: "2022-04-16"
 Description: "Two simple strategies to help you remember what you read an actually learn."
 Published: true

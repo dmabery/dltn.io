@@ -19,8 +19,8 @@ const HomePagePostDisplay = ({
   return (
     <>
       <article className="text-[neutral-200]">
-        <div className="font-sansSerif">
-          <div className="text-2xl font-medium text-neutral-800">
+        <div className="font-sansSerif mb-10">
+          <div className="text-3xl font-medium text-neutral-800">
             {title || ""}
           </div>
           <div className="tags flex gap-2 py-2 text-sm text-[#868686]">
