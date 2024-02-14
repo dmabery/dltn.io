@@ -24,7 +24,7 @@ const Writing = ({ posts }) => (
         <PostListSimple
           title={post.frontmatter.Title}
           date={post.frontmatter.Date}
-          slug={`/posts/${post.slug}`}
+          slug={`posts/${post.slug}`}
           key={post.id}
         />
       ))}

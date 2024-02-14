@@ -14,9 +14,12 @@ export const getStaticProps = async () => {
 
   const posts = files
     .filter((fileName) => {
-      // Check if the item is a file and not a directory
-      const filePath = path.join(postsDirectory, fileName);
-      return fs.statSync(filePath).isFile();
+      // Ignore the .DS_Store file
+      return (
+        fileName !== ".DS_Store" &&
+        // Check if the item is a file and not a directory
+        fs.statSync(path.join(postsDirectory, fileName)).isFile()
+      );
     })
     .map((fileName) => {
       const slug = fileName.replace(".md", "");
