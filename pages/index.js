@@ -1,54 +1,20 @@
 /* eslint-disable react/no-unescaped-entities */
-import fs from "fs";
-import matter from "gray-matter";
 import Link from "next/link";
-import path from "path";
 import Meta from "../components/Meta";
 import PostListSimple from "../components/PostListSimple";
 import Subscribe from "../components/Subscribe";
-import { getTags } from "../lib/getPosts";
+import { getPosts, getTags } from "../lib/getPosts";
 
 export const getStaticProps = async () => {
-  const files = fs.readdirSync("posts");
-  const postsDirectory = "posts";
-
-  const posts = files
-    .filter((fileName) => {
-      // Ignore the .DS_Store file
-      return (
-        fileName !== ".DS_Store" &&
-        // Check if the item is a file and not a directory
-        fs.statSync(path.join(postsDirectory, fileName)).isFile()
-      );
-    })
-    .map((fileName) => {
-      const slug = fileName.replace(".md", "");
-      const readFile = fs.readFileSync(
-        path.join(postsDirectory, fileName),
-        "utf-8"
-      );
-      const { data: frontmatter, content } = matter(readFile);
-
-      return {
-        slug,
-        frontmatter,
-        content,
-      };
-    });
-
+  const posts = await getPosts();
   const tags = await getTags();
 
   return {
     props: { posts, tags },
-  };
-};
+  }};
 
 export default function Home({ posts, tags }) {
   if (!posts) return <h1>No posts</h1>;
-  const sortedPosts = posts.sort(
-    (a, b) => new Date(b.frontmatter.Date) - new Date(a.frontmatter.Date)
-  );
-  const featuredPost = sortedPosts.slice(0, 1);
   return (
     <>
       <Meta
@@ -56,9 +22,9 @@ export default function Home({ posts, tags }) {
         description="Developer, Video Editor, Writer."
       />
       <div className="flex flex-col divide-y">
-        <div className="flex flex-col gap-2 pb-5">
-          <h2 className="text-2xl font-medium">Hi, I'm Dalton</h2>
-          <div className="flex flex-col gap-3 text-gray-700">
+        <div className="flex flex-col gap-2 pb-10">
+        <p className="text-gray-600 mb-5">About</p>
+          <div className="flex flex-col gap-3 text-slate-900">
             <p>
               I'm the digital creator and editor at{" "}
               <a
@@ -86,25 +52,24 @@ export default function Home({ posts, tags }) {
           </div>
           <p></p>
         </div>
-        <div className="taglist flex flex-col gap-2 py-5">
-          <p className="text-gray-600">Topics</p>
+        <div className="taglist flex flex-col py-10">
+          <p className="text-gray-600 mb-5">Topics</p>
           <div>
             {tags.map((tag) => (
-              <li className="inline font-sansSerif text-slate-900" key={tag}>
+              <li className="inline mb-2 font-sansSerif text-slate-900" key={tag}>
                 <Link
-                  className="underline hover:no-underline"
                   href={`/tags/${tag}`}
                 >
-                  {tag}
+                  <a className="underline hover:text-blue">{tag}</a>
                 </Link>
               </li>
             ))}
           </div>
         </div>
-        <div className="flex flex-col gap-2 py-5">
-          <p className="text-gray-600">Latest</p>
+        <div className="flex flex-col gap-2 py-10">
+          <p className="text-gray-600 mb-5">Writing</p>
           <ol>
-            {sortedPosts.slice(0, 10).map((post) => (
+            {posts.props.posts.map((post) => (
               <li>
                 <PostListSimple
                   key={post.frontmatter.Title}
