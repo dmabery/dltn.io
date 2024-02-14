@@ -12,7 +12,7 @@ const links = [
 ];
 
 const Nav = () => (
-  <nav className="mb-5 flex flex-col items-center justify-between py-3 text-gray-900 md:mb-0 md:flex-row">
+  <nav className="mb-5 flex flex-row items-center justify-between py-3 text-gray-900 md:mb-0">
     <div className="flex items-center">
       <div className="text-md">
         <Link href="/">dltn.io</Link>
