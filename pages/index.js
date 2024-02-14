@@ -23,7 +23,7 @@ export default function Home({ posts, tags }) {
       />
       <div className="flex flex-col divide-y">
         <div className="flex flex-col gap-2 pb-10">
-        <p className="text-gray-600 mb-5">About</p>
+        <p className="text-gray-900 text-xl">Hi, I'm Dalton</p>
           <div className="flex flex-col gap-3 text-slate-900">
             <p>
               I'm the digital creator and editor at{" "}

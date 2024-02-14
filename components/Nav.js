@@ -15,7 +15,7 @@ const Nav = () => (
   <nav className="mb-5 flex flex-col items-center justify-between py-3 text-gray-900 md:mb-0 md:flex-row">
     <div className="flex items-center">
       <div className="text-md">
-        <Link href="/">Dalton Mabery</Link>
+        <Link href="/">dltn.io</Link>
       </div>
     </div>
     <div className="row flex space-x-4 font-sansSerif text-md text-gray-900">

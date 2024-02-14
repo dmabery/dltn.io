@@ -20,6 +20,11 @@ Currently, I work for [Farnam Street](https://fs.blog/). In addition to my work
 -   When I'm not indulging in books or working, you can find me playing golf, watching golf, running, or spending quality time with friends and family. Golf and running are my main leisure activities, aside from reading.
 -   I love running because I sweat and when I sweat I think better. I also think it's the best way to increase your mental discipline. As Seneca said, "We treat the body rigorously so that it may not be disobedient to the mind". I follow a simple push/pull split three days a week, and do a speed run, a tempo run, and a long run every week. I'm not training for anything. I just like to run.
 
+### Colophon
+This site is built with NextJS and Tailwind. I write my posts in Obsidian. The layout and philosophy is heavily inspired by [Steph Ango](https://stephango.com/), the CEO of Obsidian, and his personal site.
+
+The typeface I use is Inter.
+
 <ImageWithCaption src="https://res.cloudinary.com/dde1q4ekv/image/upload/v1694125177/F5Ye6EeWoAAQkRl_anmgdw.jpg" caption="Rembrandt van Rijn (1606 - 1669): The Storm on the Sea of Galilee - 1633 - Oil on canvas" />
 
 ### Not so short bio
