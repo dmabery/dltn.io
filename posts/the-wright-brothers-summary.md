@@ -1,6 +1,6 @@
 ---
 Title: "The Wright Brothers"
-Tags: ["221b"]
+Tags: ["newsletter"]
 Date: "2023-04-28"
 Description: "Genius knows no class"
 Published: true
@@ -28,7 +28,7 @@ This celebration throws all such idle talk to the winds. It crowns a new the eff
 It points out to the ambitious young man that he labors not in vain; that genius knows no class, no condition…
 
 The modesty of the Wright brothers is a source of good deal of comment…But above all there is a sermon in their life of endeavor which cannot be preached too often.
-> 
+>
 
 Here’s what I learned from reading *[The Wright Brothers](https://bookshop.org/p/books/the-wright-brothers-david-mccullough/10347963?ean=9781476728759)* by David McCullough.
 
@@ -49,12 +49,12 @@ A friend once told Orville that he and Wilbur would always stand as an example o
 Wilbur, writing about his attitude towards test flights at Kitty Hawk:
 
 > The man who wishes to keep at the problem long enough to really learn anything positively must not take dangerous risks. Carelessness and overconfidence are usually more dangerous than deliberately accepted risks.
-> 
+>
 
 Wilbur, again:
 
 > A man who works for the immediate present and its immediate rewards is nothing but a fool.
-> 
+>
 
 ### 4. It’s all about hard work
 
@@ -63,12 +63,12 @@ The Wright Brothers were smart, undoubtedly, but they also worked harder than an
 Daniels later said of the boys’ achievement:
 
 > It wasn’t luck that made them fly; it was hard work and common sense; they put their whole heart and soul and their energy into an idea and they had the faith.
-> 
+>
 
 They also never fixated on their past success. The Brothers first build a glider, a plane that just rode the wind; once they got that design down, they added a motor. After their first flight with a motor, Charlie Taylor, the mechanic who built and maintained the motor, said there were no “jig steps” over what had been achieved:
 
 > Of course they were pleased with the flight. But their first word with me, as I remember, was about the motor being damaged when the wind picked up the machine and turned it topsy turvy…They wanted a new one built right away…They were always thinking of the next thing to do; they didn’t waste much time worrying about the past.
-> 
+>
 
 ### 5. Don’t allow others to pressure your process
 
@@ -77,7 +77,7 @@ Once they figured out how to fly, people came from all over to see the spectacle
 When Orville began test flights in the United States while Wilbur was in Paris, Wilbur warned Orville never to succumb to that pressure:
 
 > Don’t go out even for all the officers of the government unless you would go equally if they were absent. Do not let yourself be forced into doing anything before you are ready…Do not let people talk to you all day and night. It will wear you out, before you are ready for any real business. Courtesy has limits. If necessary, appoint some hour in the daytime and refuse absolutely to receive visitors at any other time. Do not receive anyone after 8 o’clock at night.
-> 
+>
 
 Another time, with the pressure of thousands watching, the brothers had to cancel the flight because the winds were too strong. As they wheeled the plane back to the shed, a senator was overheard saying, “I’m damned if I don’t admire their independence. We don’t mean anything to them, and there are a whole lot of reasons why we shouldn’t.”
 
@@ -96,7 +96,7 @@ Wilbur was practicing what Jim Collins calls the Stockdale Paradox: "the ability
 Orville Wright lived surprisingly late, only passing away in 1948 due to a heart attack. As he realized the damage and destruction wrought by bombers in World War Two, he couldn’t help but feel some responsibility. Yet that feeling did not outweigh the importance of his and Wilbur’s achievements, and he knew that. He said:
 
 > We dared to hope we had invented something that would bring lasting peace to the earth. But we were wrong…No, I don’t have any regrets about my part in the invention of the airplane, though no one could deplore more than I do the destruction it caused. I feel about the airplane much the same as I do in regard to fire. That is I regret all the terrible damage caused by the fire, but I think it is good for the human race that someone discovered how to start fires and that we have learned how to put fire into thousands of important uses.
-> 
+>
 
 ### Bonus: NASA pays respects on the moon
 

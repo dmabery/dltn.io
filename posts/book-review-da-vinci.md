@@ -1,6 +1,6 @@
 ---
 Title: "Book Review: da Vinci"
-Tags: ["annotated-reading", "book"]
+Tags: ["books", "reading", "books"]
 Date: "2022-08-31"
 Description: "Being a genius is simple: Never complete what you say you're going to and spend years perfecting every intricate detail of your work. Easy, right?"
 Published: true

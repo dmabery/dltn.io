@@ -1,6 +1,6 @@
 ---
 Title: "What I do when someone asks to borrow a book"
-Tags: ["life", "personal"]
+Tags: ["life", "life"]
 Date: "2022-07-29"
 Description: "I am not a library."
 Published: true

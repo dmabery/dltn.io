@@ -1,6 +1,6 @@
 ---
 Title: "5 lessons from 'Novelist as a Vocation' by Haruki Murakami"
-Tags: ["221b", "book"]
+Tags: ["221b", "books"]
 Date: "2023-03-31"
 Description: "Consistency, writer's block, criticism, and more"
 Published: true

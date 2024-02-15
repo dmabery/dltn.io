@@ -1,6 +1,6 @@
 ---
 Title: "A Practical Summary of How to Live on 24 Hours a Day by Arnold Bennett"
-Tags: ["book", "productivity"]
+Tags: ["books", "productivity"]
 Date: "2023-01-19"
 Description: "Practical ideas and insights about how to live on just 24 hours a day (and be satisfied)."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1674078061/book_posts_fhnqzr.png"
@@ -29,7 +29,7 @@ Here’s how to do that:
 Bennett writes:
 
 > The person who works 10 to 6 every day, and who doesn’t have a real passion for their job, make the first mistake by assuming 10 to 6 is “their day” and that the ten hours prior and the six hours following are nothing but a prologue. **This attitude kills any interest with doing something with those 16 hours.** Even if said person does not intentionally waste them, the point is he does not *****count***** them; he regards them simply as margin.
-> 
+>
 
 Instead of 10 to 6 being “the day,” think of 10-6 as being a day within a day. The first day starts at 10am and ends at 6pm. The second day starts at 6pm and ends at 10am.
 
@@ -55,11 +55,11 @@ Most people come home from work, sit on the couch for an hour, watch the news, a
 
 Bennett advises that instead of having dinner interrupt the middle of your evening, to have it as soon as you get home.
 
-He then advises reserving an hour and a half three days a week for the activities of bettering oneself. In doing so, you still have two weeknights and all of Saturday and Sunday to do whatever you want to do. 
+He then advises reserving an hour and a half three days a week for the activities of bettering oneself. In doing so, you still have two weeknights and all of Saturday and Sunday to do whatever you want to do.
 
 Now, what will you do with your 4 and a half evening hours each week?
 
-Most people wrongly assume reading or studying literature is the only option. Nothing could be further from the truth. 
+Most people wrongly assume reading or studying literature is the only option. Nothing could be further from the truth.
 
 You could study music, learn how to play an instrument, advance your knowledge in the field of mathematics, become an armchair physicist, write a book, become an expert on Renaissance paintings, learn how to paint, study for a certificate of some sort, learn how to program, commit to reading a large volume of text…shall I continue?
 
@@ -75,16 +75,16 @@ If you want to read, you could embark on a journey to cover famous volumes like 
 
 - **If you choose to embark on this journey, your life will change.** It ***has*** to change. “If you imagine that you will be able to devote seven hours and a half a week to serious, continuous effort,” Bennett writes, “and still live your old life, you are mistaken. I repeat that some sacrifice, and an immense deal of volition, will be necessary.”
 - ****************************************************For your evening study, don’t let anything influence your decision about what to pursue other than your interests.**************************************************** Bennett writes:
-    
+
     > In choosing the occupations of the evening hours, commit to that which you have a supreme interest and let nothing else influence or dictate that which you choose to study. Being a walking encyclopedia of philosophy is all well and good, but not so if you have a disdain for philosophy and would rather study the stars.
-    > 
+    >
 - ******************************************************Don’t commit to too much in the beginning******************************************************. People who embark on this journey fail in one of two ways:
     - They either commit to too little (good), fail to have patience and become unsatisfied with their slow progress, decide to try to do more (bad), become overwhelmed, and quit.
     - Or, they commit to too little (good), become unsatisfied with their lack of progress in a few months, and quit.
-    
+
     You must resist falling down either of these paths. Commit to little at first. Be patient and let the results compound. You may not make much progress in three months, but you will in six months, and by month seven, you won’t remember what it was like before you started doing this.
     You will try and you will fail, multiple times, but keep going. This isn’t a matter of better time management. This is a matter of self-discipline and motivation. “If you imagine that you will be able to achieve your ideal by ingeniously planning out a time-table with a pen on a piece of paper, you had better give up hope at once,” Bennett says. “If you are not prepared for discouragements and disillusions; if you will not be content with a small result for a big effort, then do not begin.”
-    
+
 - ******Maintain flexibility******. Following the program is important, but it’s not a religion. You’re the master. Maintain flexibility. However, you have to take it seriously enough for it to work and not just be a cruel joke. There is a right amount of rigidity and flexibility one must achieve.
 - ************************Don’t rush.************************ One may take the dog out at 8 and be thinking the whole time that he has to start reading at 9 and therefore never enjoy the moment of the walk.
 - ********************************Don’t be a prig. “********************************A prig is a pert fellow who gives himself airs of superior wisdom,” Bennett writes. “He’s a pompous fool who…has lost an important part of his attire, namely, his sense of humor.”

@@ -1,6 +1,6 @@
 ---
 Title: "25 quotes from my commonplace book"
-Tags: ["quotes", "list", "reading", "writing"]
+Tags: ["quotes", "reading", "writing"]
 Date: "2024-01-22"
 Description: "Some words from smart people on life, writing, and reading."
 Published: true

@@ -1,6 +1,6 @@
 ---
 Title: "JFK: Coming of Age in the American Century"
-Tags: ["book", "politics", "history"]
+Tags: ["books", "politics", "history"]
 Date: "2023-11-02"
 Description: "Notes, insights, and ideas."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1698958783/9780812987027_k29ywz.jpg"

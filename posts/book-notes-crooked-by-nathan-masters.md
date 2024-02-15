@@ -1,6 +1,6 @@
 ---
 Title: "Crooked: The Roaring '20s Tale of a Corrupt Attorney General, A Crusading Senator, And the Birth of the American Political Scandal"
-Tags: ["book", "politics"]
+Tags: ["books", "politics"]
 Date: "2023-07-09"
 Description: "A book"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1690152207/9780306826139_oy2vdd.jpg"
@@ -21,7 +21,7 @@ This book is about power, money, and the realization that any political office i
 - I know a book will be good when it has a page titled “A Note to Readers” with this warning:
 
 > This is a work of nonfiction, with no invented details or dialogue. Anything between quotation marks comes directly from historical sources, including FBI case files, Department of Justice records, newspaper reports, memoirs, archival collections, and the 3,338-page transcript of the Hearing Before the Select Committee on Investigation of the Attorney General.
-> 
+>
 - “When public officials were in the pocket of powerful interests, the odds would always be stacked against the little guy.”
 - “Where else but a courtroom would a soot-stained miner and the mighty Anaconda Company be treated as equals?”
 - The FBI first started as, essentially, a secret police force: the Bureau of Investigation. It was created in 1908 by executive action and was acting as the Justice Department’s in-house detective agency. It was not authorized by Congress.

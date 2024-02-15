@@ -1,6 +1,6 @@
 ---
 Title: "Success is found in the minutiae"
-Tags: ["life", "success"]
+Tags: ["life"]
 Date: "2024-02-13"
 Description: ""
 Image: ""
@@ -31,7 +31,7 @@ The San Fransisco 49ers didn’t know the implications of this rule; the Kansas 
 Compare those statements to Kansas City’s strategy:
 
 > The Chiefs’ overtime plan worked out exactly how they had hoped—and it wasn’t by accident. Kansas City safety Justin Reid told _The Ringer_ that the Chiefs had first discussed the new overtime rules as far back as training camp. Defensive lineman Chris Jones told me players were prepared for what to expect if the Super Bowl went to overtime.
-> 
+>
 > “We talked through this for two weeks,” Jones said. “How we was going to give the ball to the opponent; if they scored, we was going for two at the end of the game. We rehearsed it.”
 
 **“…the Chiefs had first discussed the new overtime rules as far back as training camp. Defensive lineman Chris Jones told me players were prepared for what to expect if the Super Bowl went to overtime.”**

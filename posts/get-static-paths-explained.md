@@ -23,7 +23,7 @@ Let’s look at a simple example.
 
 ```jsx
 export function getTags() {
-    const tags =  ["programming", "reading-list", "book"]
+    const tags =  ["programming", "reading-list", "books"]
 
     return tags.map((tag) => {
       return {

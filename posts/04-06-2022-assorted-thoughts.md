@@ -1,6 +1,6 @@
 ---
 Title: "Wednesday Assorted Thoughts"
-Tags: ["link"]
+Tags: ["links"]
 Date: "2022-06-29"
 Description: "TIL"
 Published: true

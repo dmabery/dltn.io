@@ -1,6 +1,6 @@
 ---
 Title: "How We Got to Now"
-Tags: ["book", "history"]
+Tags: ["books", "history"]
 Date: "2022-03-26"
 Description: "A brilliant overview of the key innovations that paved the way for others to build upon. Truly explains 'how we got to now.'"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097405/512mgCAgJQL_p7z8qj.jpg"
@@ -21,7 +21,7 @@ Phenomenal book. There are so many interesting lessons on creativity, innovation
 Hummingbird Effect - When an innovation in one field exposes a flaw in some other technology. In the case of the printing press, that "technology" was our anatomy.
 
 > But Gutenberg's great breakthrough had another, less celebrated effect: it made a massive number of people aware, for the first time, that they were farsighted. And that revelation created a surge in demand for spectacles.
-> 
+>
 > What followed was one of the most extraordinary cases of the hummingbird effect in modern history. Gutenberg made printed books relatively cheap and portable, which triggered a rise in literacy, which exposed a flaw in the visual acuity of a sizable part of the population, which then created a new market for the manufacture of spectacles. Within a hundred years of Gutenberg’s invention, thousands of spectacle makers around Europe were thriving, and glasses became the first piece of advanced technology—since the invention of clothing in Neolithic times—that ordinary people would regularly wear on their bodies.
 
 ### The creation of fiber optics

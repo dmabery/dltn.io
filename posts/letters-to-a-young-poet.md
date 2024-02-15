@@ -1,6 +1,6 @@
 ---
 Title: "Letters to a Young Poet by Rainer Maria Rilke"
-Tags: ["book", "poetry"]
+Tags: ["books", "poetry"]
 Date: "2022-11-16"
 Description: "A book for the soul, not the mind."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670095952/51sXWlNmAZL_zvflfb.jpg"
@@ -21,19 +21,19 @@ It's a book for the soul, not the mind. Don't expect to to learn tips for managi
 
 - Therefore, protect yourself from stale motifs and turn to your *own* life. Portray your sorrows and daydreams, your passing thoughts and beliefs stirred by a glimpse of beauty.
 
-- *On how hard it is to give advice to other people:* 
+- *On how hard it is to give advice to other people:*
 
-	For any one person to advise or help another, so much must come together; a whole constellation of factors must be in play for that to succeed even once. 
+	For any one person to advise or help another, so much must come together; a whole constellation of factors must be in play for that to succeed even once.
 
-- Time eludes measurement. What is a year? And ten years is nothing. To be an artist means not to count or reckon but to ripen like the tree that does not force its sap and, trustingly, stands through the storms of spring without fear that summer will not come. It will come. But it comes only to the patient ones, who stand there with eternity stretching around them, quiet, vast, and free of worryt. 
+- Time eludes measurement. What is a year? And ten years is nothing. To be an artist means not to count or reckon but to ripen like the tree that does not force its sap and, trustingly, stands through the storms of spring without fear that summer will not come. It will come. But it comes only to the patient ones, who stand there with eternity stretching around them, quiet, vast, and free of worryt.
 
-- This is one of the toughest tests for creative artists: to remain ever unaware of their best qualities in order not to rob them of authenticity. 
+- This is one of the toughest tests for creative artists: to remain ever unaware of their best qualities in order not to rob them of authenticity.
 
 - I feel that no person has an answer for the questions and feelings arising from deep within you. For when adressing the most delicate and nearly unsayable, words fail even the best.
 
-- I ask you, dear sir, to have patience with all that is unresolved in your heart and to try to love the questions themselves, like closed rooms, like books written in a foreign language. 
+- I ask you, dear sir, to have patience with all that is unresolved in your heart and to try to love the questions themselves, like closed rooms, like books written in a foreign language.
 
-- In a single creative thought dwell a thousand forgotten nights of love, which infuse it with immensity. 
+- In a single creative thought dwell a thousand forgotten nights of love, which infuse it with immensity.
 
 - It is good that you will soon be entering a profession that will ensure your independence and self-sufficiency in every regard. Be patiently watchful lest your inner life be diminished by the requirements of this profession. I consider that to be difficult in the extreme, given the weight of convention and one's own grasp of the duties involved. **But your solitude amid unfamiliar circumstances will be haven and home for you, going forth, you will find your way.**
 

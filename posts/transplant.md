@@ -1,6 +1,6 @@
 ---
 Title: "Transplant"
-Tags: ["personal"]
+Tags: ["life"]
 Date: "2023-03-25"
 Description: "an unfair hand."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1679764022/Frbxa5BakAEXccL_lybxyt.jpg"

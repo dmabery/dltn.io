@@ -1,6 +1,6 @@
 ---
 Title: "7 Life Lessons from 'The Splendid and the Vile' by Erik Larson"
-Tags: ["221b"]
+Tags: ["newsletter"]
 Date: "2023-04-04"
 Description: "What Churchill, London, and life during the Blitz taught me about human nature."
 Published: true

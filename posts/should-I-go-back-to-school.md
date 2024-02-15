@@ -1,6 +1,6 @@
 ---
 Title: "Should I go back to school?"
-Tags: ["advice", "life-rules", "school"]
+Tags: ["life", "life", ]
 Date: "2023-10-07"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1696691427/a-scholar-in-his-study-thomas-wyck_iv4ed7.jpg"
 Description: "Only go back to school if it will allow you to pursue an opportunity that is impossible to pursue without another degree."

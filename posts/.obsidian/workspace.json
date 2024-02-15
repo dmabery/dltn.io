@@ -61,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "how-to-work",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9a883813e459b19",
+  "active": "12040f113bfdf3a5",
   "lastOpenFiles": [
     "2-habits-for-a-better-intellectual-life copy.md",
     "success-is-found-in-the-minutiae.md",

@@ -1,6 +1,6 @@
 ---
 Title: "One must do"
-Tags: ["philosophy", "life-rules"]
+Tags: ["philosophy", "life"]
 Date: "2023-08-31"
 Description: "The highest thoughts must be paired with the simplest actions to be of worthy cause."
 Published: true
@@ -12,7 +12,7 @@ The primary theme of Ralph Waldo Emerson’s “Self-Reliance” is, you guessed
 
 I’m not a Transcendentalist scholar, so I don’t plan to analyze Emerson’s philosophy on religion and the self. Nor will I try to philosophize the effects of the ideas taken to the extreme like, what happens if we all say, “Screw everything; I’m the only one that matters.”
 
-Rather, I want to explore the encouragements Emerson alludes to about true knowledge and doing the work. 
+Rather, I want to explore the encouragements Emerson alludes to about true knowledge and doing the work.
 
 Seeking knowledge, reading, and gaining wisdom are virtuous acts. In a world of ephemeral content and binge-watching TV, they are probably some of the most virtuous acts, but there *is* danger in seeking knowledge from other people, and *only* seeking knowledge from other people.
 ### The independence of solitude
@@ -27,11 +27,11 @@ What “the great man” or women do is read the great articles and books, yet m
 In the famous scene from *Good Will Hunting*, the Harvard student is living in the world of the world’s opinions. He sounds smart, but his words are from the mind of someone else, and Will calls him out on it.
 
 >  **Clark:** I was just hoping you could give me some insight into the evolution of the market economy in the southern colonies. My contention is that prior to the Revolutionary War, the economic modalities—especially in the southern colonies—could most aptly be characterized as agrarian pre-capital–
-> 
+>
 >  **Will:** [interrupting] Of course that's your contention. You're a first year grad student. You just got finished reading some Marxian historian, Pete Garrison probably, you’re gonna be convinced of that until next month when you get to James Lemon, then you’re gonna be talking about how the economies of Virginia and Pennsylvania were entrepreneurial and capitalist way back in 1740. That's gonna last until next year, you’re gonna be in here regurgitating Gordon Wood, talkin’ about, you know, the Pre-revolutionary utopia and the capital-forming effects of military mobilization.
-> 
+>
 >  **Clark:** [taken aback] Well as a matter of fact I won't, because Wood drastically underestimates the impact of —
-> 
+>
 >  **Will:** "Wood drastically underestimates the impact of social distinctions predicated upon wealth, especially inherited wealth..." You got that from Vickers, Work in Essex County, Page 98, right? Yeah I read that too. Were you gonna plagiarize the whole thing for us—**you have any thoughts of—of your own on this matter? Or do—is that your thing, you come into a bar, you read some obscure passage and then you pretend, you pawn it off as your own**—your own idea just to impress some girls, embarrass my friend?
 
 Don’t be Clark.

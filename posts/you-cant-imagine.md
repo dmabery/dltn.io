@@ -1,6 +1,6 @@
 ---
 Title: "Be prepared for the disasters you can't imagine"
-Tags: ["framework", "history"]
+Tags: ["history"]
 Date: "2022-04-02"
 Description: "The most important part of any plan is planning on it not going according to plan."
 Published: true

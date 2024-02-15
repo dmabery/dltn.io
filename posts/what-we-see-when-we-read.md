@@ -1,6 +1,6 @@
 ---
 Title: "What We See When We Read"
-Tags: ["book", "reading"]
+Tags: ["books", "reading"]
 Date: "2022-06-12"
 Description: "Written by a creative director, this book takes you through the ups and downs of, as the title suggests, what you see when you read. It's an interesting book with some neat ideas, but I felt it never came together. Maybe that's the point of the book, but I felt Mendelsund was trying to communicate how important it is we be aware of where the pictures in our minds come from when we read, but he never said that so directly."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670096099/41GUf7sxTjL._AC_SY780__c8yxzb.jpg"

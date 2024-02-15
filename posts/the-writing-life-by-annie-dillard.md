@@ -1,6 +1,6 @@
 ---
 Title: "The Writing Life by Annie Dillard"
-Tags: ["book"]
+Tags: ["books"]
 Date: "2023-01-08"
 Description: "Book notes: The Writing Life by Annie Dillard"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1673196545/31yeM3aA2SS._AC_SY780__xkd930.jpg"
@@ -142,6 +142,6 @@ Great writers “worked, respectfully, out of their love and knowledge, and they
 
 ---
 
-“Draw, Antonio, draw, Antonio, draw, and do not waste time.” - This was a note found in Michelangelo’s studio after he died. Antonio was his apprentice. 
+“Draw, Antonio, draw, Antonio, draw, and do not waste time.” - This was a note found in Michelangelo’s studio after he died. Antonio was his apprentice.
 
 ---

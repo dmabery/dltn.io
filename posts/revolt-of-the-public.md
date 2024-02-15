@@ -1,6 +1,6 @@
 ---
 Title: "Revolt of the Public"
-Tags: ["book", "politics"]
+Tags: ["books", "politics"]
 Date: "2022-08-12"
 Description: "Book notes."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670094709/51pCqz9vMqL._AC_SY780__qoovrw.jpg"
@@ -27,7 +27,7 @@ The two groups came to a head in 2011, a period Gurri refers to as the "Phase Ch
 
 Though the Occupy Wall Street movements didn't have large numbers compared to Tel Aviv or Egypt, it somehow tipped the scales for the public to distrust government institutions and with it, democracy. Their message was that the 1% tyrannized the other 99%, who was supposedly part of the march, but they didn't actually represent that 99%, only a small subset of people within that 99%. Somehow though, their message became interpreted as: "This is how the American public is feeling."
 
-Thanks to the information sphere, the public sees their unmet expectations daily of the Center-based institutions. The public uses that information to attack the legitimacy of the institutions. Sometimes they're right in attacking the corruption, but other times they go to far. This all stems from the fact that the Center can't say "we don't know" and they're too busy making sure "bad science" from amateur's doesn't spread. This supposed confidence of certainty is received by the public as legit, until it isn't and they say something that isn't true or something happens that they said wasn't going to, because inevitably it will because they can't be certain of every little thing. 
+Thanks to the information sphere, the public sees their unmet expectations daily of the Center-based institutions. The public uses that information to attack the legitimacy of the institutions. Sometimes they're right in attacking the corruption, but other times they go to far. This all stems from the fact that the Center can't say "we don't know" and they're too busy making sure "bad science" from amateur's doesn't spread. This supposed confidence of certainty is received by the public as legit, until it isn't and they say something that isn't true or something happens that they said wasn't going to, because inevitably it will because they can't be certain of every little thing.
 
 For a government to fail, two things must occur:
 

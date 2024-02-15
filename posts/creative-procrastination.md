@@ -1,6 +1,6 @@
 ---
 Title: "Creative procrastination"
-Tags: ["thought"]
+Tags: ["thinking"]
 Date: "2022-08-29"
 Description: "From Leonardo da Vinci"
 Published: true

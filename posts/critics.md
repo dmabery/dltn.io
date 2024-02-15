@@ -1,6 +1,6 @@
 ---
 Title: "How to handle critics"
-Tags: ["book", "advice"]
+Tags: ["books", "life"]
 Date: "2023-09-15"
 Description: "From Mickey Spillane."
 Published: true

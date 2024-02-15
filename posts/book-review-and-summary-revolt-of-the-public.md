@@ -1,6 +1,6 @@
 ---
 Title: "Book Review and Summary: Revolt of the Public"
-Tags: ["annotated-reading", "book", "politics"]
+Tags: ["books", "reading", "books", "politics"]
 Date: "2022-09-24"
 Description: "A descriptor of what's going on in the world today."
 Published: true

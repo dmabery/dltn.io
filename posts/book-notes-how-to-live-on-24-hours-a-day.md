@@ -1,6 +1,6 @@
 ---
 Title: "How to Live on 24 Hours a Day by Arnold Bennett"
-Tags: ["book", "productivity"]
+Tags: ["books", "productivity"]
 Date: "2023-01-10"
 Description: "Book notes."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1673013117/51CSXeG2aHL_z9amo1.jpg"

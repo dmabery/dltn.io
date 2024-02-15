@@ -1,6 +1,6 @@
 ---
 Title: "The weekend has too much free time"
-Tags: ["thought"]
+Tags: ["thinking"]
 Date: "2023-04-29"
 Description: "a note"
 Published: true

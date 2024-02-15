@@ -1,6 +1,6 @@
 ---
 Title: "Spillane: King of Pulp Fiction by Max Collins"
-Tags: ["book", "writing", "people"]
+Tags: ["books", "writing", "people"]
 Date: "2023-09-09"
 Description: "The events, stories, and quotes that made Mickey Spillane the king of pulp fiction."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1694302118/9781613163795_wjwfce.jpg"
@@ -60,7 +60,7 @@ Victor Saville, a movie director, approached Spillane to make his books into mov
 Jane Spillane, Mickey’s third wife, said in an interview:
 
 > We would be asleep with nothing but silence in the middle of the night when I would be shaken out of nowhere from the rustling of Mickey getting out of bed, throwing on a lamp and grabbing a sticky note to write down ideas. No matter how many ideas occurred to him in the middle of the night, he would get up every time, turn on the lamp, and write them down on a sticky note. Then a book would result from his midnight musings.
-  
+
 
 Lesson: Books are made out of sticky notes ([Anne Lamott uses index cards](https://www.dltn.io/posts/book-notes-bird-by-bird-by-anne-lamott))
 

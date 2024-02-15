@@ -1,6 +1,6 @@
 ---
 Title: "Leonardo da Vinci"
-Tags: ["book", "people"]
+Tags: ["books", "people"]
 Date: "2022-11-15"
 Description: "I could not have been happier with the few hours I spent reading this book. How da Vinci's life ebbs and flows through his curiosity is a whirlwind of unbelievable stories."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097307/41T8jlcGU6L._AC_SY780__jjxbp5.jpg"
@@ -32,7 +32,7 @@ I could not have been happier with the few hours I spent reading this book. How 
 - Mastery requires focusing intently on the little details.
 - Contrary to popular belief, Leonardo was not an individual artist working like a mad genius in his workshop. Instead, he would devise a painting and his assistants worked on it with him to make multiple copies. Sometimes they were duplicates. Other times, though, they were identical in message but differed in form.
 - Leonardo thought through sketching. It's a process called "componimento inculto" - an uncultivated composition that helps work out ideas through an intuitive process.
-- "America" is named so after Amerigo Vespucci, cousin of Agostino Vespucci, who landed in Brazil with Columbus during his third voyage and correctly surmised they had graced a new continent. #idea 
+- "America" is named so after Amerigo Vespucci, cousin of Agostino Vespucci, who landed in Brazil with Columbus during his third voyage and correctly surmised they had graced a new continent. #idea
 - Leonardo magically transformed "complexity into elegance" through his anatomical drawings. Similarly, great writers are able to magically transform complex subjects, ideas, and philosophies into a beautiful elegance.
 
 <Subscribe />
@@ -42,13 +42,13 @@ I could not have been happier with the few hours I spent reading this book. How 
 - Yes, he was a genius: wildly imaginative, passionately curious, and creative across multiple disciplines. His genius was based on skills we can aspire to improve in ourselves, such as curiosity and intense observation.
 - Leonardo: curious, passionate, and always filled with wonder.
 - I [Isaacson] did learn from Leonardo how a desire to marvel about the world that we encounter each day can make each moment of our lives richer.
-- Like so many writers and artists, da Vinci grew up feeling a part of the world but also detached. 
+- Like so many writers and artists, da Vinci grew up feeling a part of the world but also detached.
 - Florence's festive culture was spiced by the ability to inspire those with creative minds to combine ideas from disparate disciplines.
 - There was harmony in proportions, and math was nature's brushstroke.
 - "Movements of the soul are made known by movements of the body."
 - "Pleasure and pain are represented as twins, because there is never one without the other." - Leonardo
 - Leonardo's *Vitruvian Man* embodies a moment when art and science combined to allow mortal minds to probe timeless questions about who we are and how we fit into the grand order of the universe.
-- Ideas are often generated in physical gathering places where people with diverse interests encounter one another serendipitously. 
+- Ideas are often generated in physical gathering places where people with diverse interests encounter one another serendipitously.
 - da Vinci's "uncanny abilities to engage in a dialogue between experience and theory made him a prime example of how acute observations, fanatic curiosity, experimental testing, a willingness to question dogma, and the ability to discern patterns across disciplines can lead to great leaps in human understanding."
 - "His curiosity, like that of Einstein, often was about phenomena that most people over the age of ten no longer puzzle about."
 - "If you wish to have a sound knowledge of the forms of objects, begin with the details of them, and do not go on to the second step until you have the first well fixed in memory."
@@ -64,10 +64,10 @@ I could not have been happier with the few hours I spent reading this book. How 
 - "There is something nice about leaving a little to our imagination. As he knew, the outlines of reality are inherently blurry, leaving a hint of uncertainty that we should embrace. The best way to approach his life is the way he approached the world: filled with a sense of curiosity and an appreciation for its infinite wonders."
 
 ## Stories
-- An example of his relentless perfectionism can be seen be examining *St. Jerome in the Wilderness.* This painting was done in two phases: the first being in 1480 when he started and the second being in 1510. Under infared analysis of the painting, there were dual neck muscles and other parts added in 1510 that were not part of the original drawing. The muscles and parts added seem to align with the anatomical discoveries da Vinci was making through his autopsys. 
+- An example of his relentless perfectionism can be seen be examining *St. Jerome in the Wilderness.* This painting was done in two phases: the first being in 1480 when he started and the second being in 1510. Under infared analysis of the painting, there were dual neck muscles and other parts added in 1510 that were not part of the original drawing. The muscles and parts added seem to align with the anatomical discoveries da Vinci was making through his autopsys.
 - When da Vinci wanted to paint something, he would think about what type of social setting and emotion the piece would represent. When he determined the answer, he would go to places that held that type of emotion and observed people's faces, manners, and dresses, and gestures. Then, "he noted it in a little book which he was always carrying in his belt."
 - One notebook page from about 1490 was deemed Leonardo's "theme sheet." It had various drawings, doodles, and sketches of many of the different interests that da Vinci thought of or wanted to think of. (p. 109)
 - da Vinci predicted the scientific method, writing, "Before you make a general rule of this case, test it two or three times and observe whether the tests produce the same effects."
-- p.438 - Great story about being open minded and willing to change his mind. He thought that springs of the earth, just like blood in the body, is somehow pumped from lower areas to higher. How else could water get up into mountain springs? He was convinced of that explanation, but eventually abandoned it. He realized the water there is from evaporation getting soaked into clouds and then raining. 
-- Many of Leonardo's paintings were lost or never finished, so there is a lot of mystery and allure around them. For one painting in particular, *Saint Anne* there were three or versions that were circulated. As historians tried to understand which came first to help paint a timeline of his life, they assumed Leonardo began one version of *Saint Anne* in 1501, then changed his mind and drew it a different way. He then changed his mind again to paint something that closely resembled the original sketch from 1501. This was the consensus until, in 2005, a note by Agostino Vespucci was found in a book by Cicero that he was reading. The passage in the book said something along the lines of a painter perfect the head and bust of Venus. Vespucci's comment in the margin was "So Leonardo da Vinci does in all his paintings, such as the head of Lisa del Giocondo, and Anne Mother of the Virgin." From this, we are able to assume he had begun working on the *Mona Lisa* and the final painting of *Saint Anne* in 1503. 
+- p.438 - Great story about being open minded and willing to change his mind. He thought that springs of the earth, just like blood in the body, is somehow pumped from lower areas to higher. How else could water get up into mountain springs? He was convinced of that explanation, but eventually abandoned it. He realized the water there is from evaporation getting soaked into clouds and then raining.
+- Many of Leonardo's paintings were lost or never finished, so there is a lot of mystery and allure around them. For one painting in particular, *Saint Anne* there were three or versions that were circulated. As historians tried to understand which came first to help paint a timeline of his life, they assumed Leonardo began one version of *Saint Anne* in 1501, then changed his mind and drew it a different way. He then changed his mind again to paint something that closely resembled the original sketch from 1501. This was the consensus until, in 2005, a note by Agostino Vespucci was found in a book by Cicero that he was reading. The passage in the book said something along the lines of a painter perfect the head and bust of Venus. Vespucci's comment in the margin was "So Leonardo da Vinci does in all his paintings, such as the head of Lisa del Giocondo, and Anne Mother of the Virgin." From this, we are able to assume he had begun working on the *Mona Lisa* and the final painting of *Saint Anne* in 1503.
 - Michaelangelo and Leonardo were rivals. However, people commissioned Leonardo for one style of work and Michaelangelo for another. This is why its important to create things in a style that suits you and not follow the crowd. Eventually, someone will see the need for your style.

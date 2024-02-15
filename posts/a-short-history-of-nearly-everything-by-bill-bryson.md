@@ -1,6 +1,6 @@
 ---
 Title: "A Short History of Nearly Everything by Bill Bryson"
-Tags: ["book", "history", "science"]
+Tags: ["books", "history", "science"]
 Date: "2022-09-02"
 Description: "Book notes."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097587/41gdQTWQgEL._AC_SY780__ujsxvh.jpg"
@@ -17,18 +17,18 @@ I’ve been wanting to read this book for quite some time now. The title got me 
 - Inflation Theory - Proposed by Alan Guth, this theory says moments after the Bang, the universe inflated from something you can hold in your hand to something that was the size of Earth today. This explains the ripples and eddies in our world.
 - Most star systems are double-starred, which makes our single starred system (the sun) a slight oddity.
 - If a supernova were to form within 10 light years of the earth, we'd be goners. But we don't have to worry about that happening. For a true supernova to form from a collapsed star, the star has to be ten to twenty times the size of the sun to begin with and the closest thing we have to that is 50 light years away, called Betelgeuse.
-- Isaac Newton was wild. Very neurotic and kinda crazy, but he was brilliant. His masterwork, *Principia*, described the mathematical principles of natural philosophy and at the heart of it was his three laws of nature. This made Newton instantly famous. He was the first person to really create a universal law of sorts, that being gravity. 
+- Isaac Newton was wild. Very neurotic and kinda crazy, but he was brilliant. His masterwork, *Principia*, described the mathematical principles of natural philosophy and at the heart of it was his three laws of nature. This made Newton instantly famous. He was the first person to really create a universal law of sorts, that being gravity.
 - By the late 18th Century, scientists knew the shape, size, and weight of the earth thanks to some precise measurements by a variety of scientists using a variety of techniques. They did not know, however, how old the earth was.
 - How fast galaxies are moving away from us is called their recessional velocity.
 - The word molecule comes from the Latin word for "little mass." Atoms make up everything, but most scientists talk about atoms in terms of molecules instead of atoms themselves. Molecules are two or more atoms working together in a stable way. If you have two Hydrogen atoms and then through on an Oxygen atom, you get a water molecule.
-- Ernst Mach was the name behind the speed of sound - Mach 1. 
+- Ernst Mach was the name behind the speed of sound - Mach 1.
 - Heisenberg's Uncertainty Principle - An electron is a particle but a particle that can be described in terms of waves. The uncertainty around the theory is that we can know the path an electron takes as it moves through a space or we can know where it is at a given instant but we cannot know both.
 - Two forces keep atoms together - strong nuclear force and weak nuclear force. The strong force binds atoms together and allows the protons to stay in the nucleus. It's strong, but doesn't have a wide range of effect. This is why elements with big, crowded nuclei are so unstable. The force can't hold on to the protons in the nucleus, so some escape and then you get a new element.
 - Hadrons, a collective term to describe protons, neutrons, and other particles governed by strong nuclear force are made up of quarks - rhymes with larks. Richard Feynman wanted to call these partons, but was overruled. Quarks are sub-divided into sub categories - up, down, strange, charm, top, and bottom-which are refered to as their "flavors." These are even further divided into red, green, and blue.
 - A Mars sized object slammed into Earth to create the Moon out of debris. This was very good for us, since the moon helps earth so much. But if it happened in 1986 or last Wednesday, we wouldn't be so pleased about it.
 - The elements of chemistry are very strange... Oxygen and hydrogen are two of the most combustible elements in the world, but put them together and they make water. A similar thing happens with Sodium and Chlorine. Chlorine is a harsh chemical useful for cleaning and sodium is explosive. Smash them together and you get sodium chloride, or what most people call salt.
 - When elements don't occur naturally on Earth, they become extremely toxic to us. Plutonium is a good example.
-- Temperature is really just a measure of the activity of molecules. 
+- Temperature is really just a measure of the activity of molecules.
 - Storm clouds can contain enough energy for four days of power for the US. These clouds can contain updrafts and downdrafts and are often side by side, which is why pilots don't like to fly through them. The lighter particles tend to become positively charged, the heavier particles become negatively charged and stay at the base of the cloud. The negative particles want to race towards the positively charged earth - creating lightning.
 - Overcast clouds are formed when moisture-bearing updrafts lack the oomph to break through a level of more stable air above, and instead spread out, like smoke hitting a ceiling.
 - Darwin originally proposed that all organisms competed for resources, and the ones that had some innate advantage would prosper. That advantage would be passed on to the offspring. This is how species evolved. He first explained this is "Descent with modification."

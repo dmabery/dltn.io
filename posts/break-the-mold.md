@@ -1,6 +1,6 @@
 ---
 Title: "Break the Mold"
-Tags: ["221b", "people"]
+Tags: ["newsletter", "people"]
 Date: "2023-06-16"
 Description: "What I learned from Cormac McCarthy"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1686925180/CormacLEAD2_s78wfo.jpg"
@@ -25,22 +25,22 @@ His books are different. There’s a lot of blood, yes, and “[more corpses tha
 Here’s an excerpt from one of his novels, *Child of God*:
 
 > Ballard came to the edge of the cutbank and looked up to where Kirby was sitting. He said: You got any whiskey?
-> 
+>
 
 > Might have some.
-> 
+>
 
 > Why don’t you let me have a jar.
-> 
+>
 
 > Kirby stood up. Ballard said: I can pay ye next week on it. Kirby squatted back down again.
-> 
+>
 
 > I can pay ye tomorrow, Ballard said.
-> 
+>
 
 > Kirby turned his head to one side and gripped his nose between his thumb and forefinger and sneezed a gout of yellow snot into the grass and wiped his fingers on the knee of his jeans. He looked out over the fields. I cain’t do it, Lester, he said.
-> 
+>
 
 See. No quotation marks but you don’t get lost.
 

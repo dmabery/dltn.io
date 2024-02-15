@@ -1,6 +1,6 @@
 ---
 Title: "Kevin Kelly's 103 Bits of Advice, Expanded"
-Tags: ["book", "people"]
+Tags: ["books", "people"]
 Date: "2022-10-27"
 Description: "Kevin Kelly joined"
 Published: true

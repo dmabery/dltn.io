@@ -1,6 +1,6 @@
 ---
 Title: "Working by Robert Caro"
-Tags: ["book", "history", "writing"]
+Tags: ["books", "history", "writing"]
 Date: "2023-02-27"
 Description: "Advice on writing, researching, and political power."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1677542377/9780593081914_u4hjy5.jpg"

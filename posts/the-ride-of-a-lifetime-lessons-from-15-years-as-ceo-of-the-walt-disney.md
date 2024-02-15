@@ -1,6 +1,6 @@
 ---
 Title: "The Ride of a Lifetime: Lessons From 15 Years as CEO of The Walt Disney Company"
-Tags: ["book", "people"]
+Tags: ["books", "people"]
 Date: "2022-06-12"
 Description: "At all costs, you must be willing to innovate the way you do business and what your company delivers; Innovate or Die mentality."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670095856/417Y7P8kW0L._AC_SY780__d7brnv.jpg"

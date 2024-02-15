@@ -1,6 +1,6 @@
 ---
 Title: "Why I Publish My Notes Online"
-Tags: ["knowledge-mangagement"]
+Tags: ["learning", "writing"]
 Date: "2022-04-08"
 Description: "An explanation of why I work with the garage door up and why I chose to use Obsidian as my note-taking app of choice."
 Published: true

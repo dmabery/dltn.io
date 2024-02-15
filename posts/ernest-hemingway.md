@@ -1,6 +1,6 @@
 ---
 Title: "Ernest Hemingway by Mary V. Dearborn"
-Tags: ["book", "people"]
+Tags: ["books", "people"]
 Date: "2022-11-22"
 Description: "Though The Washington Post touted this book as 'The most fully faceted portrait of Hemingway now available', I was unimpressed."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097604/51UuOAoN0kL._AC_SY780__1_fd8fpn.jpg"

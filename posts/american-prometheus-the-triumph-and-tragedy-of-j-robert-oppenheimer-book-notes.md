@@ -1,6 +1,6 @@
 ---
 Title: "Notes: American Prometheus by Kai Bird & Martin J. Sherwin"
-Tags: ["book", "history", "science"]
+Tags: ["books", "history", "science"]
 Date: "2023-05-21"
 Description: "A sordid read full of science and sarcasm, dialogue and drama, love and war."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1684699725/81xvsBo674L._AC_UF1000_1000_QL80__gqg92w.jpg"

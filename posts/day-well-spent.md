@@ -1,6 +1,6 @@
 ---
 Title: "A day well spent"
-Tags: ["miscellaneous"]
+Tags: ["miscellany"]
 Date: "2023-02-22"
 Description: "A daily log."
 Published: true

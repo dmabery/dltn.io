@@ -1,6 +1,6 @@
 ---
 Title: "Surely You're Joking Mr. Feynman by Richard Feynman"
-Tags: ["book", "science"]
+Tags: ["books", "science"]
 Date: "2023-04-06"
 Description: "Book notes."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1683751122/35167685_fh09zr.jpg"

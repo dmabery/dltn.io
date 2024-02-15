@@ -1,6 +1,6 @@
 ---
 Title: "There doesn't have to be an end goal"
-Tags: ["advice", "philosophy", "life-rules"]
+Tags: ["life", "philosophy", "life"]
 Date: "2023-08-25"
 Description: "You can just do the things you love to do."
 Published: true

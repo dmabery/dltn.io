@@ -1,6 +1,6 @@
 ---
 Title: "My Reading Year, 2023"
-Tags: ["book"]
+Tags: ["books"]
 Date: "2023-12-14"
 Description: "Some books I read this year."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1702584403/cover_cq7dj3.png"

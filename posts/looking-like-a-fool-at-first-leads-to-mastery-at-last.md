@@ -1,6 +1,6 @@
 ---
 Title: "Looking like a fool at first leads to mastery at last"
-Tags: ["thought"]
+Tags: ["thinking"]
 Date: "2022-07-02"
 Description: "Don’t be afraid to look foolish."
 Published: true
@@ -11,14 +11,14 @@ In James Clear's 3-2-1 Newsletter, he shared a thought that I've been feeling fo
 
 > Powerful combination = Hate being bad at stuff + Willing to look like
 > a beginner.
-> 
+>
 > People who hate being bad at stuff are driven to improve. However, if
 > they are unwilling to look like a beginner from time to time, they
 > will avoid new challenges and struggle to reinvent themselves.
-> 
+>
 > Meanwhile, people who are willing to try new things, but lack a thirst
 > to improve will settle for mediocre results.
-> 
+>
 > It's the willingness to look foolish for a short time—but not for a
 > long time—that leads to jumps in performance.
 

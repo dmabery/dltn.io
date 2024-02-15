@@ -1,6 +1,6 @@
 ---
 Title: "Some questions to ask yourself"
-Tags: ["questions" , "reflection"]
+Tags: ["questions"]
 Date: "2023-12-27"
 Description: "Reflection questions to ask yourself at the end of the year."
 Published: true

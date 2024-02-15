@@ -1,6 +1,6 @@
 ---
 Title: "The Wright Brothers by David McCullough"
-Tags: ["book", "history", "science"]
+Tags: ["books", "history", "science"]
 Date: "2023-05-10"
 Description: "Book notes, insights, and thoughts."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1683771596/51XPr-vJaLL_h0k6mi.jpg"
@@ -27,7 +27,7 @@ Occasionally, they would reprint items from other publications. I liked this one
 > Do not wait for the boy to grow up before you begin to treat him as an equal. A proper amount of confidence, and words of encouragement and advice…give him to understand that you trust him in many ways, helps to make a man of him long before he is a man in either stature or years…
 
 If a boy finds he can make a few articles with his hands, it tends to make him rely on himself. And the planning that is necessary for the execution of the work is a discipline and an education of great value to him.
-> 
+>
 
 ---
 
@@ -38,7 +38,7 @@ Yet he evidently spent quite some time thinking about business. He wrote to his 
 > **In business it is the aggressive man, who continually has his eye on his own interest, who succeeds. Business is merely a form of warfare in which each combatant strives to get the business away from his competitors and at the same time keep them from getting what he already has.** No man has ever been successful in business who was not aggressive, self-assertive and even a little bit selfish perhaps…I entirely agree that the boys of the Wright family are all lacking in determination and push. That is the very reason that none of us have been or will be more than ordinary businessmen. We have all done reasonably well, better in fact than the average man perhaps, but none of us has as yet made particular use of the talent in which he excels other men. That is why our success has been only moderate. We ought not to have been businessmen…
 
 There is always a danger that a person of this disposition will, if left to depend upon himself, retire into the first corner he falls into a remain there all his life struggling for bare existence (unless some earthquake throws him out into a more favorable location), where if put on the right path with proper special equipment, he would advance far. **Many men are better fitted for improving chances offered them than in turning up chances themselves.**
-> 
+>
 
 ---
 
@@ -87,19 +87,19 @@ They also had undoubted courage. Said later in the ************Aeronautical Jour
 Daniels later said of the boys achievement:
 
 > It wasn’t luck that made them fly; it was hard work and common sense; they put their whole heart and soul and their energy into an idea and they had the faith.
-> 
+>
 
 They also never fixated on their past success. After thier first flight with a motor, Charlie Taylor, the mechanic, said there were no “jig steps” over what had been achieved:
 
 > Of course they were pleased with the flight. But their first word with me, as I remember, was about the motor being damaged when the wind picked up the machine and turned it topsy turvy…They wanted a new one built right away…They were always thinking of the next thing to do; they didn’t waste much time worrying about the past.
-> 
+>
 
 ---
 
 A visitor to the site at Kitty Hawk, Mr. Huffaker, was amazed by the brothers mechanical ability. Wilbur writes about him:
 
 > He is astonished at our mechanical facility, and as he has attributed his own failures to the lack of this, he thinks the problem solved when these difficulties…are overcome, while we expect to find further difficulties of a theoretic nature which must be met by new mechanical designs.
-> 
+>
 
 This is a key lesson the Wright brothers understood: just because they figured ***one thing*** out, didn’t mean they had the ************entire thing************ figured out. They realized that a solution usually leads to another problem, one they didn’t know they would have – **************couldn’t know************** they would have.
 
@@ -116,7 +116,7 @@ Again, the hard part about flight wasn’t getting in the air, it was staying th
 Wilbur said you could learn to ride this horse in one of two ways:
 
 > One is to get on him and learn by actual practice how each motion and trick may be best met; the other is to sit on the fence and watch the beast a while, and then retire to the house and at leisure figure out the best way of overcoming his jumps and kicks. The latter system is the safest, but the former, on the whole, turns out the larger proportion of good riders.
-> 
+>
 
 He followed up that if one were looking for safety, he would do well to sit on the fence. “But if you really wish to learn, you must mount a machine and become acquainted with its tricks by actual trial.”
 
@@ -137,7 +137,7 @@ The thing that stands out the most to me about the Wright brothers is that they 
 Wilbur also said about him:
 
 > He possessed mental and moral qualities of the kind that influence history. When scientists in general considered it discreditable to work in the field of aeronautics he possessed both the discernment to discover possibilities there and the moral courage to subject himself to the ridicule of the public and the apologies of his friends. He deserves more credit for this than he has yet received.
-> 
+>
 
 ---
 
@@ -164,7 +164,7 @@ While trying to negotiate the sale of their flyer, naturally, tensions were high
 After the big successful flight at Le Mans, Léon Delagrange wrote of Wilbur:
 
 > Wilbur Wright is the best example of strength of character that I have ever seen. In spite of the sarcastic remarks and the mockery, in spite of the traps set up from everywhere all these years, he has not faltered. He is sure of himself, of his genius, and he kept his secret. He had the desire to participate today to prove to the world he had not lied.
-> 
+>
 
 Another spectator said of Wilbur, “He went his way always in his own way, never showing off, never ever playing to the crowd. The impatience of a hundred thousand persons would not accelerate the rhythm of his stride.
 
@@ -175,7 +175,7 @@ With the increased attention came increased pressure to fly. People would come f
 When Orville began test flights with the motor in the US while Wilbur is in Paris, he wrote him a letter
 
 > Don’t go out even for all the officers of the government unless you would go equally if they were absent. Do not let yourself be forced into doing anything before you are ready…Do not let people talk to you all day and night. It will wear you out, before you are ready for any real business. Courtesy has limits. If necessary, appoint some hour in the daytime and refuse absolutely to receive visitors at any other time. Do not receive anyone after 8 o’clock at night.
-> 
+>
 
 Later, after they had much success and were back in Fort Meyer for trials, they experienced a 16mph gale, too strong to fly. With the pressure of thousands watching, they wheeled the plane back to the shed. A senator was overheard saying, “I’m damned if I don’t admire their independence. We don’t mean anything to them, and there are a whole lot of reasons why we shouldn’t.”
 
@@ -188,7 +188,7 @@ Amazingly, in the nine years they were flying, they only had one major crash. It
 Wilbur blamed himself for the accident. He wrote a letter to Katherine:
 
 > I do not mean that Orville was incompetent to do the work itself, but I realized that he would be surrounded by thousands of people who with the most friendly intentions in the world would consume his time, exhaust his strength, and keep him from having proper rest…If I had been there I could have held off the visitors while he worked or let him hold off while I worked…People think I am foolish because I do not like the men to do the least important work on the machine. They say I crawl under the machine when the men could do the thing well enough. I do it partly because it gives me opportunity to see if anything in the neighborhood is out of order.
-> 
+>
 
 Wilbur worked so much on the plane, the guys in Paris called him “The Oilcan.”
 
@@ -197,7 +197,7 @@ Wilbur worked so much on the plane, the guys in Paris called him “The Oilcan.�
 At a banquet for The Aéro-Club de France, Wilbur Wright and his machine were honored. His speech that night sums up his attitude and reflects his humility in all he had done:
 
 > In the enthusiasm being shown around me, I see not merely an outburst intended to glorify a person, but a tribute to an idea that has always impassioned mankind.
-> 
+>
 
 Northcliffe would say about the Wrights, that he did not think the excitement over them and the intense interest produced by their extraordinary feats had any effect on them whatsoever.
 
@@ -220,7 +220,7 @@ This celebrations throws all such idle talk to the winds. It crowns a new the ef
 It points out to the ambitious young man that he labors not in vain; that genius knows no class, no condition…
 
 The modesty of the Wright brothers is a source of good deal of comment…But above all there is a sermon in their life of endeavor which cannot be preached too often.
-> 
+>
 
 ---
 

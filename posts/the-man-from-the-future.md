@@ -1,6 +1,6 @@
 ---
 Title: "The Man From The Future"
-Tags: ["book", "people"]
+Tags: ["books", "people"]
 Date: "2022-09-16"
 Description: "This book explores the life of a time-traveler. Someone who theorized, pondered, and invented tools that would create the lives of some and destroy the lives of many."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097557/56155133_hgijwv.jpg"
@@ -25,7 +25,7 @@ After reading, I want to understand two fields better: game theory and the birth
 
 > "Von Neumann would carry on a conversation with my three-year-old son, and the two of them would talk as equals, and I sometimes wondered if he used the same principle when he talked to the rest of us." – Edward Teller
 
-- When von Neumann was offered a lectureship at Princeton, his arrival was delayed because he had to "fix a family matter." That family matter would be getting married. 
+- When von Neumann was offered a lectureship at Princeton, his arrival was delayed because he had to "fix a family matter." That family matter would be getting married.
 
 - Fabian Waldinger, an economist, analysed the impact of the war on German research. He found that "university science departments that were bombed during the war recovered by the 1960s, but those that had lost their staff remained sub-par well into the 1980s."
 
@@ -41,9 +41,9 @@ After reading, I want to understand two fields better: game theory and the birth
 
 - In 1947, Jean Batrik, one of the ENIAC's original operators, was hired to program the EDVAC–"the first time anyone had been employed solely for that task. The job of the computer programmer was born."
 
-	- Von Neumann's wife, Klari, wrote complex Monte Carlo simulation to run on the EDVAC. It was the first truly useful modern program ever to have been executed. 
+	- Von Neumann's wife, Klari, wrote complex Monte Carlo simulation to run on the EDVAC. It was the first truly useful modern program ever to have been executed.
 
-- The birth of the field of Game Theory into the world spung from Von Neumann's urge to find neat mathematical solutions to complicated real-world problems. 
+- The birth of the field of Game Theory into the world spung from Von Neumann's urge to find neat mathematical solutions to complicated real-world problems.
 
 > "The task of the perfect strategist is to gain the upper hand with as little effort as possible." – Emmanual Lasker
 
@@ -57,7 +57,7 @@ After reading, I want to understand two fields better: game theory and the birth
 
 - When formulating a strategy, one always has to account for actions of a completely rational enemy.
 
-- For a machine to copy itself, von Neumann argues three things are required. 1) The machine must have a set of instructions that describe how to build another like it. 2) It must have a construction unit to build new automaton by executing the instructions. 3) Finally, it needs a way to copy the instructions and insert them into the new machine. 
+- For a machine to copy itself, von Neumann argues three things are required. 1) The machine must have a set of instructions that describe how to build another like it. 2) It must have a construction unit to build new automaton by executing the instructions. 3) Finally, it needs a way to copy the instructions and insert them into the new machine.
 
 - Floccinaucinihilipilification - The habit of regarding something as worthless.
 

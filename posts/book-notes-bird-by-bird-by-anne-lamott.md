@@ -1,6 +1,6 @@
 ---
 Title: "Bird by Bird by Anne Lamott"
-Tags: ["book", "writing"]
+Tags: ["books", "writing"]
 Date: "2023-06-19"
 Description: "Some instructions on writing and life."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1687195208/81sZwmQWiIL._AC_UF1000_1000_QL80__bo7rwx.jpg"

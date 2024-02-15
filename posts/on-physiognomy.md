@@ -1,6 +1,6 @@
 ---
 Title: "On Physiognomy"
-Tags: ["link", "science"]
+Tags: ["links", "science"]
 Date: "2022-07-25"
 Description: "TIL"
 Published: true

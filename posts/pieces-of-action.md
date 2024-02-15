@@ -1,6 +1,6 @@
 ---
 Title: "Pieces of the Action"
-Tags: ["book", "history"]
+Tags: ["books", "history"]
 Date: "2022-09-09"
 Description: "The foreword to this book, written by Ben Reinhardt, puts it well by saying, 'I went into this book with little more than a name and came out with the closest thing to a mentor someone you've never met can be.'"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670095981/41QXDV7KvNL._AC_SY780__znxckc.jpg"

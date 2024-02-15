@@ -1,6 +1,6 @@
 ---
 Title: "3 Lessons on Human Psychology and Project Management"
-Tags: ["annotated-reading", "history", "psychology"]
+Tags: ["books", "reading", "history", "psychology"]
 Date: "2023-02-15"
 Description: "Lessons learned from reading about the construction of the 1893 Chicago World’s Fair."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1676474179/Nut_Expo02_copy_2_zryyaa.jpg"

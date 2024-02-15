@@ -1,6 +1,6 @@
 ---
 Title: "6 Rules for Self-Mastery | 'Discipline is Destiny' by Ryan Holiday"
-Tags: ["221b"]
+Tags: ["newsletter"]
 Date: "2023-04-07"
 Description: "The power of self-control."
 Published: true

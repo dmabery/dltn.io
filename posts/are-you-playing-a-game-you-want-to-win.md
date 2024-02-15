@@ -1,5 +1,5 @@
 ---
-Tags: ["thought"]
+Tags: ["thinking"]
 Date: "2022-03-31"
 Description: "If you win at whatever game you're playing right now, will you be happy?"
 Published: true

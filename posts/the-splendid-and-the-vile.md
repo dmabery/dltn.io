@@ -1,6 +1,6 @@
 ---
 Title: "The Splendid and the Vile"
-Tags: ["book", "history"]
+Tags: ["books", "history"]
 Date: "2023-03-02"
 Description: "A intense look at Churchill and London during the Blitz."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1677763674/41FQALCCViL_ti0gy8.jpg"
@@ -79,9 +79,9 @@ What followed were four points for his staff to improve on with their reports:
     - “It is also of importance to bear in mind the following considerations…”
     - “Consideration should be given to the possibility of carrying into effect…”
 - He wrote, “Most of these woolly phrases are mere padding, which can be left out altogether, or replaced by a single word. Let us not shrink from using the short expressive phrase, even if it is controversial.” He acknowledged that the change “may at first seem rough as compared with the flat surface of the officialese jargon. But the saving of time will be great, while the discipline of setting out the real points concisely will prove an aid to clear thinking.”
-    
+
     ---
-    
+
 
 After the first attacks on Britain, the RAF seemed to have beaten the Luftwaffe at their own game. After hearing the news of success, Churchill said to his entourage in the car, “Don’t speak to me; I have never been so moved.” After a few moments of silence, he said, “Never in the field of human conflict has so much been owed by so many to so few.” The line was an instant hit. Later, Churchill would use it in one of his most famous speeches.
 

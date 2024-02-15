@@ -1,6 +1,6 @@
 ---
 Title: "12 Rules For Life"
-Tags: ["book", "life"]
+Tags: ["books", "life"]
 Date: "2022-06-17"
 Description: "A dense book packed with tangents that (mostly) lead to some interesting insights."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670096064/41kspFBwVxL._AC_SY780__t5kxan.jpg"

@@ -1,6 +1,6 @@
 ---
 Title: "Hidden Figures by Margot Lee Shetterly"
-Tags: ["book", "math", "science"]
+Tags: ["books", "math", "science"]
 Date: "2022-12-04"
 Description: "A captivating book about the African American women who helped send a man to the moon."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670179642/Hidden_Figures_book_cover_kkbzh1.png"
@@ -28,9 +28,9 @@ Lucky for us, Dorthy Vaughn, Mary Jackson, and Katherine Johnson looked these di
 - School board’s in white-only districts paid special “school fees” to black families to keep their children in black districts. Virginia colleges did something similar to black graduating students, paying them a “scholarship” to attend college out-of-state.
 
 > But simple luck is the random birthright of the hapless. When seasoned by the subtleties of accident, harmony, favor, wisdom, and inevitably, luck takes on the cast of serendipity. Serendipity happens when a well-trained mind looking for one thing encounters something else: the unexpected. It comes from being in a position to seize the opportunity from the happy marriage of time, place, and chance.
-> 
+>
 
-**********Star Trek********** wasn’t a show that just made nerds cool. It helped usher in a new era of tolerance in America. Showcasing the different races (and genders) of the universe inspired those who were usually dealt the short end of the stick. 
+**********Star Trek********** wasn’t a show that just made nerds cool. It helped usher in a new era of tolerance in America. Showcasing the different races (and genders) of the universe inspired those who were usually dealt the short end of the stick.
 
 Lieutenant Uhura, a black women and proud citizen of the United States of Africa was fourth in command aboard the spaceship **********Enterprise**********. The actor, Nichelle Nichols, tendered her resignation with the show’s creator, Gene Rodden, after the first season. Devastated, Rodden asked her to take the weekend to think it over.
 
@@ -41,6 +41,6 @@ Margot Lee Shetterly, writing in **************Hidden Figures**************, sai
 > ”You can’t leave the show…We are there because you are there.” Black people have been imagined in the future, he continued, emphasizing to the actress how important and ground-breaking a fact that was. Furthermore, he told her, he had studied the Starfleet’s command structure and believed that it mirrored that of the US Air Force, making Uhura–a black woman!–fourth in command of the ship.
 
 **”This is not a black role, this is not a female role,” he said to her. “This is a unique role that brings life to what we are marching for: equality.”**
-> 
+>
 
 **On Monday morning, Nichols marched into Rodden’s office and asked to tear up the resignation letter.**

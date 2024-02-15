@@ -1,6 +1,6 @@
 ---
 Title: "Einstein: His Life and Universe"
-Tags: ["book", "people", "science"]
+Tags: ["books", "people", "science"]
 Date: "2022-05-14"
 Description: "Key insights, learnings, and things that surprised me while reading Einstein's biography."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670094709/51pCqz9vMqL._AC_SY780__qoovrw.jpg"
@@ -35,9 +35,9 @@ Type: "Book Notes"
 ### Einstein had a beef with quantum theory
 • After his theories of relativity had made their way, he explored the world of quantum mechanics and basically spent the rest of life trying to create a unified field theory. His beef with quantum mechanics was that things seemed to appear to work chaotically at a subatomic level. There was no way to predict how particles are interacting with each other, outside of observing it. But once you observe it, that influences the particles and you're not seeing it for what it truly is.
 
-• Einstein thought this preposterous. He couldn't come to believe that the good Lord would have created beautiful and subtle rules that have determined *most* of what happened in the universe, while leaving a few things completely to chance. 
+• Einstein thought this preposterous. He couldn't come to believe that the good Lord would have created beautiful and subtle rules that have determined *most* of what happened in the universe, while leaving a few things completely to chance.
 
-• This attitude was in direct contrast to his belief as a younger scientist. He thought there was nothing that could be known unless it was observed, which led him to relativity. But now he's saying that there must be rules that govern the universe, no matter one's ability to observe it. In a way, his dive into quantum mechanics was the start of him becoming the old order and a new wave of scientists saying, "We don't know that." 
+• This attitude was in direct contrast to his belief as a younger scientist. He thought there was nothing that could be known unless it was observed, which led him to relativity. But now he's saying that there must be rules that govern the universe, no matter one's ability to observe it. In a way, his dive into quantum mechanics was the start of him becoming the old order and a new wave of scientists saying, "We don't know that."
 
 • Einstein, as he got older, couldn't help but believe that there was some higher spirit - an organizer or creator of all the rules in the universe. No way he thought all of this just happened. There's too much simplicity for things to just happen the way that they did.
 
@@ -79,7 +79,7 @@ Man stands on this diminutive earth, gazes at the myriad of stars and upon billo
 </blockquote>
 
 ### Humility goes a long way
-The world has had a lot of geniuses. What made Einstein special was that his mind and soul were tempered by his humility - the belief that no one had the right to impose ideas and beliefs on others. 
+The world has had a lot of geniuses. What made Einstein special was that his mind and soul were tempered by his humility - the belief that no one had the right to impose ideas and beliefs on others.
 
 ### Just a beautiful quote
 Isaacson on Einstein, "He was a loner with an intimate bond to humanity, a rebel who was suffused with reverence. And thus it was that an imaginative, impertinent, patent clerk became the mind reader of the creator of the cosmos, the locksmith of the mysteries of the atom and the universe."

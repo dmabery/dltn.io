@@ -1,6 +1,6 @@
 ---
 Title: "On Writing Well by William Zinsser"
-Tags: ["book", "writing"]
+Tags: ["books", "writing"]
 Date: "2022-09-23"
 Description: "Book notes."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097422/51oWwwesiXL_bpilyq.jpg"

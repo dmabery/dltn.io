@@ -1,6 +1,6 @@
 ---
 Title: "Why I Wake Up at 5:00 am"
-Tags: ["personal", "thinking"]
+Tags: ["life", "thinking""]
 Date: "2023-01-11"
 Description: "This isn’t a hustle culture post."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1673472181/blog_OG_image_xtzewb.png"
@@ -37,6 +37,6 @@ The trick to dealing with this is making sure there are enough small wins or “
 On the ******really****** hard days, I remind myself of this Chinese proverb:
 
 > No man who rises before dawn 365 days a year **fails to make his family rich.**
-> 
+>
 
 Rich financially, sure, but also rich mentally and physically. When I wake up early to read, write, and workout, I’m my best self. Being in that position allows me to be my best self for my family, friends, and everyone else.

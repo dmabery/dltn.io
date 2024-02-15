@@ -1,6 +1,6 @@
 ---
 Title: "Killers of the Flower Moon by David Grann"
-Tags: ["book", "history"]
+Tags: ["books", "history"]
 Date: "2022-11-16"
 Description: "Killers of the Flower Moon opened my narrow mind to a new (for me) genre of writing: narrative non-fiction. I highly recommend."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670095922/514QUJzXGZL._AC_SY780__1_jkxu1l.jpg"
@@ -16,8 +16,8 @@ It tells the true story of the Osage murders and gives a unique insight into the
 Since this was a narrative, I didn't highlight much. I did, however, learn interesting facts about the early days of private detectives and forensic science.
 
 ## Notes
-- The term "to detect" is derived from the Latin verb "to unroof." According to legend, the devil allowed his henchmen to peer into houses by removing their roofs, so at one point, detectives were known as "the devil's disciples." In 1850, Allan Pinkerton founded the first American provat detective agency and the company's logo was a large, Masonic-like eye, which is what sparked the moniker "private eye." 
-- Alphonse Bertillion, in 1879, created the first rigorous scientific method for catching repeat criminals. The process, known as Bertillionage, takes notes of body measurments, tattoos, scars, and other distinguishing features to easily identify and capture repeat criminals. Bertillion also created the mugshot. 
+- The term "to detect" is derived from the Latin verb "to unroof." According to legend, the devil allowed his henchmen to peer into houses by removing their roofs, so at one point, detectives were known as "the devil's disciples." In 1850, Allan Pinkerton founded the first American provat detective agency and the company's logo was a large, Masonic-like eye, which is what sparked the moniker "private eye."
+- Alphonse Bertillion, in 1879, created the first rigorous scientific method for catching repeat criminals. The process, known as Bertillionage, takes notes of body measurments, tattoos, scars, and other distinguishing features to easily identify and capture repeat criminals. Bertillion also created the mugshot.
 - Shakespeare:
 	- *Where wilt thou find a cavern dark enough To mask thy monstrous visage? Seek none, conspiracy: Hide it in smiles and affability.*
 - Hoover, as commonly known, ran the FBI with an iron fist. After firing agents who were drinking on the job, he told White, "I believe that when a man becomes a part of the forces of this Bureau he must so conduct himself as to remove the slightest possibility of causing criticism or attack upon the Bureau."

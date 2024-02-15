@@ -1,6 +1,6 @@
 ---
 Title: "The Dip by Seth Godin"
-Tags: ["book"]
+Tags: ["books"]
 Date: "2022-06-07"
 Description: "Winners never quit is an incorrect statement; they do quit, they just know what to quit and when."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097354/41zRc3yW5EL._AC_SY780__d68ffp.jpg"

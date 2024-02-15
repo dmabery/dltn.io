@@ -1,6 +1,6 @@
 ---
 Title: "You can just ignore things"
-Tags: ["advice", "life-rules"]
+Tags: ["life", "life"]
 Date: "2023-09-12"
 Description: "Be un-botherable."
 Published: true

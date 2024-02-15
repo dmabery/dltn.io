@@ -1,6 +1,6 @@
 ---
 Title: "The Crack-Up by F. Scott Fitzgerald"
-Tags: ["book", "history"]
+Tags: ["books", "history"]
 Date: "2023-02-19"
 Description: "Book notes."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1676835779/51QNwVP0nwL._AC_UF1000_1000_QL80__z62av9.jpg"

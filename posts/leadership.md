@@ -1,6 +1,6 @@
 ---
 Title: "Leadership by Henry Kissinger"
-Tags: ["book", "people"]
+Tags: ["books", "people"]
 Date: "2022-09-21"
 Description: "Book Notes"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670095702/61kg04XeivL_wpsr1q.jpg"
@@ -30,7 +30,7 @@ Kissinger's own experience with each of the leaders made this book all the more 
 
 - **Be direct. Don't be afraid to tell hard truths.** 'Who do you think lost the war?' Adenauer famously said to his fellow members of parliament after they were complaining about the rule and reign of the Allied powers in postwar Germany.
 
-- **Be in tune with reality, but have a guiding vision** Kissinger writes, "Mediocre leaders are unable to distinguish between the significant from the ordinary; they tend to be overwhelmed by the inexorable aspect of history." They are able to identify the essential elements of their state and determine which are necessary, which must be improved, and which must be forgotten. 
+- **Be in tune with reality, but have a guiding vision** Kissinger writes, "Mediocre leaders are unable to distinguish between the significant from the ordinary; they tend to be overwhelmed by the inexorable aspect of history." They are able to identify the essential elements of their state and determine which are necessary, which must be improved, and which must be forgotten.
 
 - **Be bold.** When faced with important decisions, especially with unfavorable conditions, each leader did what had to be done. Thatcher, under doubt from experts and facing an economic crisis, sent a Royal Navy Task Force to recover the Falkland Islands from Argentina. De Gaulle's attitude with France was to act like it was much bigger, more unified, and much more confident than it actually was.
 
@@ -46,9 +46,9 @@ Kissinger's own experience with each of the leaders made this book all the more 
 
 - The vital attributes of leadership are courage and character: courage to make decisions among a set of complex and difficult options and character to continue on that course where the benefits and dangers are not fully realized yet.
 
-- Leaders operate in scarcity, for every situation has certain limitations placed upon it. They operate in time, for each era will have different values and habits that form the eventual outcome. They also operate in competition, with their allies and those they are up against. They also have to make judgements based on intuitions and hypotheses that cannot be proven at the time of a decision. 
+- Leaders operate in scarcity, for every situation has certain limitations placed upon it. They operate in time, for each era will have different values and habits that form the eventual outcome. They also operate in competition, with their allies and those they are up against. They also have to make judgements based on intuitions and hypotheses that cannot be proven at the time of a decision.
 
-- Different times call for a different style of leadership, these can be classified as a statesman and a prophet. The statesman understands that one of their tasks is to preserve their society by changing their circumstances rather than be overwhelmed by them. They also must balance an exciting vision with a tough of wariness. Statesmen are suspicious of those who personalize policy, because throughout history, many rules and reigns rooted in personality have come down. The second type of leader, the visionary prophet seeks to erase the past. They are suspicious of anything that's gradual because they seek to upheave the past. 
+- Different times call for a different style of leadership, these can be classified as a statesman and a prophet. The statesman understands that one of their tasks is to preserve their society by changing their circumstances rather than be overwhelmed by them. They also must balance an exciting vision with a tough of wariness. Statesmen are suspicious of those who personalize policy, because throughout history, many rules and reigns rooted in personality have come down. The second type of leader, the visionary prophet seeks to erase the past. They are suspicious of anything that's gradual because they seek to upheave the past.
 
 - Konrad Adenauer's strategy to rebuild Germany as an equal with the rest of the powers was composed of four elements: accepting the consequences of defeat; regaining the confidence of the victors; building a democratic society; and creating a European federation that would transcend the historic divisions of Europe.
 
@@ -70,7 +70,7 @@ Kissinger's own experience with each of the leaders made this book all the more 
 
 	- The maintenance of a global equilibrium
 
-	- The creation of sustained and intense discussions among major countries to construct a framework of legitimacy within which the balance of power can be defined and observed. 
+	- The creation of sustained and intense discussions among major countries to construct a framework of legitimacy within which the balance of power can be defined and observed.
 
 - Sadat's tendency toward solitude endowed him with insight and independent thought but also marked him as a loner. Though he had been in the highest echelons of Egyptian power, no one really trusted him when he took over from Nasser because he never stepped into the limelight.
 

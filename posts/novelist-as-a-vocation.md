@@ -1,6 +1,6 @@
 ---
 Title: "Novelist as a Vocation by Haruki Murakami"
-Tags: ["book", "writing"]
+Tags: ["books", "writing"]
 Date: "2023-03-27"
 Description: "How a world-renowned novelist writes."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1679858214/9780451494641_sam0cs.jpg"
@@ -157,7 +157,7 @@ Criticism doesn’t bother Murakami because he knows, in the end, he gave all he
 As a writer, you only do a disservice to your readers if you don’t take the time to make it great. Raymond Carver writing in ********The New York Times******** had a gripe with an author who said, “It would have been better if I’d taken the time.” Carver writes:
 
 > “I was dumbfounded when I heard a novelist friend say this. I still am, if I think about it, which I don’t. It’s none of my business. But if the writing can’t be made as good as it is within us to make it, then why do it? In the end, it’s all we have, the only thing we can take into the grave. I wanted to say to my friend, for heaven’s sake go do something else. There have to be easier and maybe more honest ways to try and earn a living. Or else just do it to the best of your abilities, your talents, and then don’t justify or make excuses. Don’t complain, don’t explain.
-> 
+>
 
 ---
 
@@ -182,14 +182,14 @@ The most important habit you must cultivate as a writer is to write. The second 
 This is a great explanation of why I love to read:
 
 > If you always see things from your own standpoint, the world shrinks. Your body gets stiff, your footwork grows heavy, and you can no longer move. But if you’re able to view where you’re standing from other perspectives–to put it another way, if you can entrust your existence to some other system–the world will grow more three-dimensional, more supple. And I believe that as long as we live in this world, that kind of agile stance is extremely important.
-> 
+>
 
 ---
 
 Murakami believes in the philosophy of getting 1% better each day:
 
 > In this way, every time I write a new novel I tell myself, “Okay, this time, here is what I’m going to try to accomplish,” one by one setting up concrete goals for myself–for the most part visible, technical types of goals. I enjoy writing like that. As I clear a new hurdle and accomplish something new or different, I get a real sense that I’ve grown, even if it’s a little, as a writer. It’s like climbing, step by step, up a ladder. The wonderful thing about being a novelist is that even in your fifties and sixties, that kind of growth and innovation is possible. There’s no age limit. The same wouldn’t hold true for an athlete.
-> 
+>
 
 ---
 

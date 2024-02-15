@@ -1,6 +1,6 @@
 ---
 Title: "What Do You Care What Other People Think? By Richard Feynman"
-Tags: ["book", "history", "people", "science"]
+Tags: ["books", "history", "people", "science"]
 Date: "2022-10-13"
 Description: "I have a deep admiration for Feynman's beliefs on life, knowledge, and science, but that admiration went deeper still as I followed the stories of his life told by the man himself."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097515/35167718_jm1bxy.jpg"

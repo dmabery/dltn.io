@@ -1,6 +1,6 @@
 ---
 Title: "The Clockwork Universe by Edward Dolnick"
-Tags: ["book", "science"]
+Tags: ["books", "science"]
 Date: "2022-08-19"
 Description: "Isaac Newton, the Royal Society, and the Birth of the Modern World."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670096036/61GesH2VKkL_kuxrcy.jpg"

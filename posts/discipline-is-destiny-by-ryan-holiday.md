@@ -1,6 +1,6 @@
 ---
 Title: "Discipline is Destiny by Ryan Holiday"
-Tags: ["book", "life"]
+Tags: ["books", "life"]
 Date: "2022-10-10"
 Description: "The overexposure to a powerful concept has watered down a powerful idea, the idea that you, and only you, control your life. This book brings the idea back into reality."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097446/514X5iT2uUL_uhwy4p.jpg"
@@ -73,29 +73,29 @@ On a similar note, Seneca writes, "Happy is the man who can make others better, 
 **Bring distinction.** - Epaminondas, a general in Greece, was appointed to an insulting office in Thebes--taking care of the city's sewers. Instead of being upset, he did the job with diligence. Holiday shares that Epaminondas declared "that it is not the office that brings distinction to the man, it is the man who brings distinction to the office."
 
 ## Notes
-- We have two choices: to master ourselves or be mastered by something else. 
-- We each have a higher and lower self that are constantly battling with each other. The lower self wants to do what's easy. The higher self wants to do what is right. The ancients called this inner battle *akrasia*. 
-- I'm disciplined, or try to be disciplined, because I'm afraid of who I'd be if I wasn't. 
-- Lou Gerhig wore his fame lightly, but took the obligations of it seriously. 
+- We have two choices: to master ourselves or be mastered by something else.
+- We each have a higher and lower self that are constantly battling with each other. The lower self wants to do what's easy. The higher self wants to do what is right. The ancients called this inner battle *akrasia*.
+- I'm disciplined, or try to be disciplined, because I'm afraid of who I'd be if I wasn't.
+- Lou Gerhig wore his fame lightly, but took the obligations of it seriously.
 - You say you love what you do. Where's your proof? What kind of streak do you have to show for it?
-	- This is a great question to encourage keeping a reading/writing/working out/golfing log. 
+	- This is a great question to encourage keeping a reading/writing/working out/golfing log.
 - "The one thing all fools have in common, is that they're always getting *ready* to live."
-- Anger isn't bad. It's okay to be angry. You just can't *do anything* out of that anger. 
-- *Mos maiorum* - the unspoken yet also very much spoken way of life of your grandparents. 
-- July and August are named after Julius and Augustus Cesear. 
+- Anger isn't bad. It's okay to be angry. You just can't *do anything* out of that anger.
+- *Mos maiorum* - the unspoken yet also very much spoken way of life of your grandparents.
+- July and August are named after Julius and Augustus Cesear.
 - Be a hero to the valet.
 - Destiny isn't going to be easy. But if it was, would it still be worth anything?
 
 ## Quotes
 - "We must keep ourselves in check or risk ruin."
-- More than talent, life is about temperament. And temperament. 
+- More than talent, life is about temperament. And temperament.
 - Although they come from very different places, the desire to skip a workout and the impulse to work out too much end up in the same place.
 - No one who is a slave to their urges or to sloth, no one without strength or a good schedule, can greate a good life.
 - The queen, you can be sure, always knows more than she says.
 - Greatness is not just what one does, but also what one refuses to do. It's how one bears the constraints of their world or their profession, it's what we're able to do within limitations–creatively, consciously, calmly.
 - "Remember to conduct yourself in life as if at a banquet. As something being passed around comes to you, reach out your hand and take a moderate helping. Does it pass you by? Don't stop it. It hasn't yet come? Don't burn in desire for it, but wait until it arrives in front og you. Act this way with children, a spouse, toward position, with wealth–one day it will make you worthy of a banquet with the gods."
 - Someone else's lack of self-control is not a justification for abandoning your own.
-- If you have money, spend it...the problem is when people spend money they don't have, to get things they don't need, at a price nowhere near worth the cost. 
+- If you have money, spend it...the problem is when people spend money they don't have, to get things they don't need, at a price nowhere near worth the cost.
 - And is "f-you money" really such an admirable goal anyway? To have so much money you don't have to care about anything or anyone? That's not vritue, it's childishness.
 - "The modern stoic knows the surest way to discipline passion is to discipline time: decide what you want or ought to do during the day, then always do it exactly at the same moment every day, and passion will give you no trouble." Ryan writes, "The person who wakes up whenever, wakes up and does whatever, orders their day however? This is a person who will never have enough time, who will always be behind."
 - "The nearer a man is to a calm mind, the closer he is to strength." – Marcus Aurelius

@@ -1,6 +1,6 @@
 ---
 Title: "Range by David Epstein"
-Tags: ["book", "creativity"]
+Tags: ["books", "creativity"]
 Date: "2022-03-26"
 Description: "Being able to think and solve problems in a general sense allows for innovative breakthroughs and discoveries in a niche field."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670096012/41c2PR2VIyL._AC_SY780__om8knl.jpg"

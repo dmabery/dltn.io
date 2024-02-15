@@ -1,6 +1,6 @@
 ---
 Title: "2 Habits for a Better Intellectual Life"
-Tags: ["knowledge-mangagement"]
+Tags: ["reading"]
 Date: "2022-11-05"
 Description: "1. Determine between observation and opinion. 2. Be concrete."
 Published: true
@@ -19,7 +19,7 @@ TurnTrout says:
 
 I like the idea here, but I'd change "inference" to "opinion."
 
-This echoes something I tweeted about last week about the importance of Twitter and other "thinking out loud" tools being seen as a laboratory for testing conjectures and not a battleground for opinions. When an influential person tweets, inevitably they don't account for all of the nuance. It's impossible to do so with 280 characters.  Also inevitably, everyone starts attacking the user for not mentioning their specific, niche life story that this tweet wouldn't apply to. It's annoying.
+This echoes something I tweeted about last week about the importance of Twitter and other "thinking" out loud" tools being seen as a laboratory for testing conjectures and not a battleground for opinions. When an influential person tweets, inevitably they don't account for all of the nuance. It's impossible to do so with 280 characters.  Also inevitably, everyone starts attacking the user for not mentioning their specific, niche life story that this tweet wouldn't apply to. It's annoying.
 
 It would do well for people online to differentiate between an observation made about the world and an inference into how that world actually works.
 

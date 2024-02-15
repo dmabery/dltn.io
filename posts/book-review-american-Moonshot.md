@@ -1,6 +1,6 @@
 ---
 Title: "Not Long Ago in a Galaxy Not Very Far"
-Tags: ["annotated-reading", "history", "science"]
+Tags: ["books", "reading", "history", "science"]
 Date: "2022-12-14"
 Description: "Book review: American Moonshot"
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1671074855/160210200403-01-john-f-kennedy-life-and-career-restricted_bq3xij.jpg"
@@ -25,7 +25,7 @@ Von Braun and a host of other brilliant German scientists and engineers were bro
 Werner von Braun and John F. Kennedy became two backbone figures of the Space Race. Their journey, along with all the drama and political woes of the early 1960s is chronicled in *[American Moonshot: John F. Kennedy and The Great Space Race](https://www.amazon.com/American-Moonshot-Kennedy-Great-Space/dp/006265506X)* by Douglas Brinkley. In the words of a *Kirkus* review of the book:
 
 > [This book is a] look back at the days when American presidents and politicians believed in and promoted science—days when there was a world to win, along with the heavens.
-> 
+>
 
 The first part of the book is a mini-biography of John F. Kennedy. Brinkley writes about JFK’s childhood, his family life, and his time spent in the Navy. Kennedy’s character is slowly transformed from a party boy to a diplomatic statesman (though the parties never stopped). Paralleled with Kennedy’s life is a brief account of the history of rockets and Werner von Braun’s journey from Nazi engineer to the head of a rocket lab in Huntsville, Alabama.
 

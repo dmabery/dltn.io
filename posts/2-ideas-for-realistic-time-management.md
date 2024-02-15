@@ -1,6 +1,6 @@
 ---
 Title: "2 Ideas for Realistic Time Management"
-Tags: ["221b"]
+Tags: ["productivity"]
 Date: "2023-04-21"
 Description: "A summary of Arnold Bennett's 1908 classic, 'How to Live on 24-Hours a Day'"
 Published: true

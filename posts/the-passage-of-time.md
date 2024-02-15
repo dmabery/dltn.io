@@ -1,6 +1,6 @@
 ---
 Title: "The passage of time"
-Tags: ["link"]
+Tags: ["links"]
 Date: "2022-08-05"
 Description: "The passage of time."
 Published: true

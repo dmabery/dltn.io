@@ -1,10 +1,10 @@
 ---
-Title: "Thinking About Blogging"
+Title: "thinking" About Blogging"
 Tags: ["writing"]
 Date: "2022-12-09"
 Description: "Blogoshphere, thinking, and writing"
 Published: true
-Slug: "thinking-about-blogging"
+Slug: "thinking"-about-blogging"
 Type: "Essay"
 ---
 After [his latest piece started circling on Twitter](https://www.robinsloan.com/lab/new-avenues/), I went down a rabbit hole on Robin Sloan’s [website](https://www.robinsloan.com/). It’s not how I intended my morning to be spent, but I’m not mad about it. Many of his posts helped clarify my approach to writing online and the direction I’m taking in the new year with this blog/newsletter thingy.
@@ -12,7 +12,7 @@ After [his latest piece started circling on Twitter](https://www.robinsloan.com/
 In a post called “[Thinking, Not Replying](https://www.robinsloan.com/notes/thinking-not-replying/),” Robin quotes an article about climate policy where the author writes:
 
 > In fact, Aklin and Mildenberger say, climate change is a distributive-conflict problem—a term that was new to me and that I will now explain. In essence, climate policy restructures the economy, creating new economic winners and losers. [Etc.]
-> 
+>
 
 Robin continued:
 
@@ -23,7 +23,7 @@ How easy it would have been to omit. “Climate change is a distributive-conflic
 How it transforms Rob from “explainer” to “thinker-alongside”.
 
 How bloggy it sounds! Can you detect that, too? I know not all blogs — not even most — were models of “thinking in public”; the blogosphere was thick with pedantry. At the same time, there was something about the format that seemed to invite a generous, generative approach.
-> 
+>
 
 I want to talk about the second thing he considers about how easy it would have been to say, “…In essence climate policy…” and omit completely the phrase “a term that was new to me and that I will now explain.”
 
@@ -41,7 +41,7 @@ In a post called “[The Thing About Blogging Is](https://www.robinsloan.com/not
 
 1. love a thing, and
 2. write about it.
-> 
+>
 
 …and that’s what I love about blogging.
 
