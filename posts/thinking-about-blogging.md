@@ -1,10 +1,10 @@
 ---
-Title: "thinking" About Blogging"
+Title: "Thinking About Blogging"
 Tags: ["writing"]
 Date: "2022-12-09"
 Description: "Blogoshphere, thinking, and writing"
 Published: true
-Slug: "thinking"-about-blogging"
+Slug: "thinking-about-blogging"
 Type: "Essay"
 ---
 After [his latest piece started circling on Twitter](https://www.robinsloan.com/lab/new-avenues/), I went down a rabbit hole on Robin Sloan’s [website](https://www.robinsloan.com/). It’s not how I intended my morning to be spent, but I’m not mad about it. Many of his posts helped clarify my approach to writing online and the direction I’m taking in the new year with this blog/newsletter thingy.

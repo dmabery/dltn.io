@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "success-is-found-in-the-minutiae.md",
+                "file": "thinking-about-blogging.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "thinking about blogging",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "success-is-found-in-the-minutiae.md",
+                "file": "thinking-about-blogging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "success-is-found-in-the-minutiae.md",
+                "file": "thinking-about-blogging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "success-is-found-in-the-minutiae.md"
+                "file": "thinking-about-blogging.md"
               }
             }
           }
@@ -160,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12040f113bfdf3a5",
+  "active": "f9a883813e459b19",
   "lastOpenFiles": [
-    "2-habits-for-a-better-intellectual-life copy.md",
     "success-is-found-in-the-minutiae.md",
+    "2-habits-for-a-better-intellectual-life copy.md",
     "how-to-work.md",
     "how-to-blog.md",
     "7-lessons-from-the-splendid-and-the-vile-by-erik-larson.md",
