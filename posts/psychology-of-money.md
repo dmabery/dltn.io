@@ -1,6 +1,6 @@
 ---
 Title: "The Psychology of Money by Morgan Housel"
-Tags: ["books", "finance", "psychology"]
+Tags: ["books", "psychology", "finances"]
 Date: "2022-03-26"
 Description: "This is a book about money."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097658/41v_g6LqafL._AC_SY780__ccbxzx.jpg"

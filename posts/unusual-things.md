@@ -1,6 +1,6 @@
 ---
 Title: "Check all kinds of unusual things"
-Tags: ["atomic-essay"]
+Tags: ["life"]
 Date: "2023-01-25"
 Description: "A short story about Richard Feynman."
 Published: true

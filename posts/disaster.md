@@ -1,6 +1,6 @@
 ---
 Title: "Be prepared for the disaster to be worse than before"
-Tags: ["atomic-essay"]
+Tags: ["life"]
 Date: "2023-01-26"
 Description: "Or be unprepared."
 Published: true

@@ -1,6 +1,6 @@
 ---
 Title: "How Record Players Work: The Science Behind That Beautiful Sound, Simplified"
-Tags: ["explainer", "science"]
+Tags: ["science"]
 Date: "2022-04-16"
 Description: "This article was music to my ears."
 Published: true

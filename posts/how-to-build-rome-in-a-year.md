@@ -1,6 +1,6 @@
 ---
 Title: "How to Build Rome in A Year"
-Tags: ["goals", "productivity"]
+Tags: ["productivity"]
 Date: "2022-04-02"
 Description: "This is an essay."
 Published: true

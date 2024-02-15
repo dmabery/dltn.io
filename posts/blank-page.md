@@ -1,6 +1,6 @@
 ---
 Title: "Just get something on the page"
-Tags: ["atomic-essay"]
+Tags: ["writing"]
 Date: "2023-01-23"
 Description: "‘Done is better than perfect’ isn’t the whole saying."
 Published: true

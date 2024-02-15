@@ -1,6 +1,6 @@
 ---
 Title: "9 Lessons on Curiosity and Adventure from Richard Feynman"
-Tags: ["221b"]
+Tags: ["books"]
 Date: "2023-04-14"
 Description: "The most insightful and entertaining stories from 'Surely You're Joking, Mr. Feynman!'"
 Published: true

@@ -1,6 +1,6 @@
 ---
 Title: "Why Legacy Career Paths Can't Innovate"
-Tags: ["innovation"]
+Tags: ["life"]
 Date: "2022-04-02"
 Description: "This is an essay."
 Published: true

@@ -1,6 +1,6 @@
 ---
 Title: "The Mountain of Knowledge (And Why Dumb Smart People Never Escape It)"
-Tags: ["framework"]
+Tags: ["life", "learning"]
 Date: "2022-10-04"
 Description: "Knowing the name of something doesn't mean you understand it."
 Published: true

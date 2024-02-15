@@ -1,6 +1,6 @@
 ---
 Title: "An attempt to understand the Kolmogorov Complexity of human values"
-Tags: ["cs", "life"]
+Tags: ["life", "math"]
 Date: "2022-08-18"
 Description: "Life in a world where everything was the same, but no one had the capacity for love."
 Published: true

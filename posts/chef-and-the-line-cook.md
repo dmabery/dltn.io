@@ -1,6 +1,6 @@
 ---
 Title: "Chef and The Line Cook: Going Deeper"
-Tags: ["framework"]
+Tags: ["life"]
 Date: "2022-04-06"
 Description: "This is an essay."
 Published: true

@@ -1,6 +1,6 @@
 ---
 Title: "How to Increase the Chances of Becoming a Genius"
-Tags: ["life"]
+Tags: ["life", "science"]
 Date: "2022-07-23"
 Description: "A response to miracle years."
 Published: true

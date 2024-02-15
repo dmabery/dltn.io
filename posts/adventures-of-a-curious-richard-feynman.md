@@ -1,6 +1,6 @@
 ---
 Title: "Adventures of a Curious Richard Feynman"
-Tags: ["people", "science", "story"]
+Tags: ["people", "science"]
 Date: "2022-11-11"
 Description: "I have a deep admiration for Feynman's beliefs on life, knowledge, and science, but that admiration went deeper still as I followed the stories of his life told by the man himself. This is a small collection of a few of those stories."
 Published: true

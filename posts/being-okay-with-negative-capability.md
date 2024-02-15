@@ -1,6 +1,6 @@
 ---
 Title: "Being Okay With Negative Capability"
-Tags: ["framework"]
+Tags: ["life"]
 Date: "2022-04-02"
 Description: "This is an essay."
 Published: true

@@ -1,6 +1,6 @@
 ---
 Title: Charles Dickens and Active Patience
-Tags: ["patience"]
+Tags: ["life"]
 Date: "2023-08-10"
 Description: Don't just wait. Work.
 Published: true

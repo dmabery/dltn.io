@@ -1,6 +1,6 @@
 ---
 Title: "The best system I've read for synthesizing knowledge"
-Tags: ["knowledge-mangagement"]
+Tags: ["reading", "learning"]
 Date: "2022-07-29"
 Description: "The most effective way to learn."
 Published: true

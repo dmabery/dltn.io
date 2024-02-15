@@ -1,6 +1,6 @@
 ---
 Title: "Make learning a reality"
-Tags: ["knowledge-mangagement"]
+Tags: ["learning"]
 Date: "2022-10-08"
 Description: "The following passage comes from *What Do You Care What Other People Think?* by Richard Feynman. It's a collection of stories from his life and curious adventures."
 Published: true

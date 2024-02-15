@@ -1,6 +1,6 @@
 ---
 Title: "A few funny things about time"
-Tags: ["atomic-essay"]
+Tags: ["life"]
 Date: "2023-01-24"
 Description: "It has no memory."
 Published: true

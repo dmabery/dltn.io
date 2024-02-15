@@ -1,6 +1,6 @@
 ---
 Title: "The best thinkers are ‘wonderers’"
-Tags: ["atomic-essay"]
+Tags: ["thinking"]
 Date: "2023-01-22"
 Description: "A short post on curiosity."
 Published: true

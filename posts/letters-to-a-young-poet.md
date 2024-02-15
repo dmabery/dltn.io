@@ -1,6 +1,6 @@
 ---
 Title: "Letters to a Young Poet by Rainer Maria Rilke"
-Tags: ["books", "poetry"]
+Tags: ["books"]
 Date: "2022-11-16"
 Description: "A book for the soul, not the mind."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670095952/51sXWlNmAZL_zvflfb.jpg"

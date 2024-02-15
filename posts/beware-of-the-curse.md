@@ -1,6 +1,6 @@
 ---
 Title: "Beware of the curse"
-Tags: ["framework"]
+Tags: ["life"]
 Date: "2022-10-20"
 Description: "The greatest things in life have something hidden inside that's not."
 Published: true
