@@ -67,12 +67,11 @@ export default function Home({ posts, tags }) {
           </div>
         </div>
         <div className="flex flex-col gap-2 py-10">
-          <p className="text-gray-600 mb-5">Writing</p>
+          <Link href="/writing"><a className="text-gray-600 mb-5 hover:text-blue">Writing</a></Link>
           <ol>
             {posts.props.posts.map((post) => (
-              <li>
+              <li key={post.frontmatter.Title}>
                 <PostListSimple
-                  key={post.frontmatter.Title}
                   title={post.frontmatter.Title}
                   date={post.frontmatter.Date}
                   tags={post.frontmatter.Tags}
