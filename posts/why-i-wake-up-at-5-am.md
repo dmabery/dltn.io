@@ -1,6 +1,6 @@
 ---
 Title: "Why I Wake Up at 5:00 am"
-Tags: ["life", "thinking""]
+Tags: ["life", "thinking"]
 Date: "2023-01-11"
 Description: "This isn’t a hustle culture post."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1673472181/blog_OG_image_xtzewb.png"

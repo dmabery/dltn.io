@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thinking-about-blogging.md",
+                "file": "on-increasing-the-likelihood-of-a-miracle-year.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thinking about blogging",
-                "matchingCase": true,
+                "query": "5:00 ",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thinking-about-blogging.md",
+                "file": "on-increasing-the-likelihood-of-a-miracle-year.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thinking-about-blogging.md",
+                "file": "on-increasing-the-likelihood-of-a-miracle-year.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thinking-about-blogging.md"
+                "file": "on-increasing-the-likelihood-of-a-miracle-year.md"
               }
             }
           }
@@ -160,8 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9a883813e459b19",
+  "active": "12040f113bfdf3a5",
   "lastOpenFiles": [
+    "new-ideas-suck.md",
+    "my-reading-year-2023.md",
+    "looking-like-a-fool-at-first-leads-to-mastery-at-last.md",
+    "creative-procrastination.md",
+    "blog-notion-nextjs.md",
+    "are-you-playing-a-game-you-want-to-win.md",
+    "5-lessons-from-novelist-as-a-vocation.md",
+    "2-strategies-to-help-you-remember-what-you-read.md",
+    "thinking-about-blogging.md",
     "success-is-found-in-the-minutiae.md",
     "2-habits-for-a-better-intellectual-life copy.md",
     "how-to-work.md",
