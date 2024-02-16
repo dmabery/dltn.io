@@ -3,10 +3,10 @@ import Link from "next/link";
 import Meta from "../components/Meta";
 import PostListSimple from "../components/PostListSimple";
 import Subscribe from "../components/Subscribe";
-import { getPosts, getTags } from "../lib/getPosts";
+import { getAllPosts, getTags } from "../lib/getPosts";
 
 export const getStaticProps = async () => {
-  const posts = await getPosts();
+  const posts = await getAllPosts();
   const tags = await getTags();
 
   return {
@@ -69,16 +69,12 @@ export default function Home({ posts, tags }) {
         <div className="flex flex-col gap-2 py-10">
           <Link href="/writing"><a className="text-gray-600 mb-5 hover:text-blue">Writing</a></Link>
           <ol>
-            {posts.props.posts.map((post) => (
-              <li key={post.frontmatter.Title}>
+            {posts.map((post) => (
+              <li>
                 <PostListSimple
-                  title={post.frontmatter.Title}
-                  date={post.frontmatter.Date}
-                  tags={post.frontmatter.Tags}
-                  description={post.frontmatter.Description}
-                  image={post.frontmatter.Image}
-                  slug={`posts/${post.frontmatter.Slug}`}
-                  content={post.content}
+                  title={post.title}
+                  date={post.date}
+                  slug={`posts/${post.slug}`}
                 />
               </li>
             ))}

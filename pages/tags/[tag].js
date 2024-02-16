@@ -34,13 +34,9 @@ const TagPage = ({ posts, tag }) => (
       <div>
         {posts.map((post) => (
           <PostListSimple
-            title={post.frontmatter.Title}
-            date={post.frontmatter.Date}
-            tags={post.frontmatter.Tags}
-            description={post.frontmatter.Description}
-            image={post.frontmatter.Image}
-            slug={`posts/${post.frontmatter.Slug}`}
-            content={post.content}
+            title={post.title}
+            date={post.date}
+            slug={`posts/${post.slug}`}
           />
         ))}
       </div>
