@@ -1,18 +1,23 @@
 import Meta from "../../components/Meta";
 import PageTitle from "../../components/PageTitle";
 import PostListSimple from "../../components/PostListSimple";
-import { getPostsByTags, getTags } from "../../lib/getPosts";
+import { getCombinedPosts, getPostsByTags } from "../../lib/getCombinedPosts";
+import { getTags } from "../../lib/getMarkdownFiles";
 
 export const getStaticProps = async ({ params }) => {
-  const data = await getPostsByTags(params.tag);
+  const posts = await getCombinedPosts();
+  const data = await getPostsByTags(params.tag, posts);
+
+  console.log(posts[0])
+
   return {
     props: {
       posts: data,
       tag: params.tag,
     },
-    revalidate: 60,
   };
 };
+
 
 export const getStaticPaths = async () => {
   const tags = await getTags();
@@ -23,6 +28,13 @@ export const getStaticPaths = async () => {
   };
 };
 
+function checkSource(source, slug) {
+  if (source === "WordPress") {
+    return `stream/${slug}`;
+  } else {
+    return `posts/${slug}`;
+  }
+}
 const TagPage = ({ posts, tag }) => (
   <>
     <Meta
@@ -36,7 +48,7 @@ const TagPage = ({ posts, tag }) => (
           <PostListSimple
             title={post.title}
             date={post.date}
-            slug={`posts/${post.slug}`}
+            slug={checkSource(post.source, post.slug)}
           />
         ))}
       </div>

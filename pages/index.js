@@ -3,7 +3,7 @@ import Link from "next/link";
 import Meta from "../components/Meta";
 import PostListSimple from "../components/PostListSimple";
 import Subscribe from "../components/Subscribe";
-import { getAllPosts, getTags } from "../lib/getPosts";
+import { getAllPosts, getTags } from "../lib/getMarkdownFiles";
 
 export const getStaticProps = async () => {
   const posts = await getAllPosts();

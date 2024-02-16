@@ -4,10 +4,10 @@ import path from "path";
 import Meta from "../components/Meta";
 import PostBodyContent from "../components/PostBodyContent";
 import StreamPostDisplay from "../components/StreamPostDisplay";
-import { getPosts } from "../lib/service";
+import { getStreams } from "../lib/getWordPressFiles";
 
 export const getStaticProps = async () => {
-  const posts = await getPosts();
+  const posts = await getStreams();
   const data = fs.readFileSync(path.join("content", "stream.md"), {
     encoding: "utf8",
   });
@@ -35,7 +35,7 @@ export default function Stream({ posts, data }) {
         {posts.map((post) => (
           <StreamPostDisplay
             title={post.title}
-            tags={post.tags.edges.map((edge) => edge.node.name)}
+            tags={post.tags}
             description={post.excerpt}
             date={post.date}
             content={post.content}
