@@ -2,11 +2,13 @@ import ImageWithCaption from "../components/ImageWithCaption";
 import Meta from "../components/Meta";
 import PageTitle from "../components/PageTitle";
 import PostListSimple from "../components/PostListSimple";
-import { getPosts } from "../lib/getPosts";
+import { getAllPosts } from "../lib/getMarkdownFiles";
 
 export const getStaticProps = async () => {
-  return getPosts();
-};
+  const posts = await getAllPosts();
+  return {
+    props: { posts},
+  }};
 
 const Writing = ({ posts }) => (
   <>
@@ -20,12 +22,12 @@ const Writing = ({ posts }) => (
       caption="Portrait of a Man Writing in His Study. Gustave Caillebotte - Oil On Canvas - 1885."
     />
     <div className="mt-5">
-      {posts.map((post, index) => (
+      {posts.map((post) => (
         <PostListSimple
-          title={post.frontmatter.Title}
-          date={post.frontmatter.Date}
+          title={post.title}
+          date={post.date}
           slug={`posts/${post.slug}`}
-          key={post.id}
+          key={post.slug}
         />
       ))}
     </div>
