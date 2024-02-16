@@ -40,7 +40,7 @@ There is probably nothing more boring to discuss at training camp than the post-
 
 In another video [posted by @oeste on Twitter](https://x.com/oeste/status/1758148881529909531?s=20), you see Mahomes and Kelce running to the sideline saying, "They wanted it!" and "We wanted them to have the ball."
 
-The camera then cuts to 49ers fullback Kyle Juszczyk saying, as casual as if he was ordering a latte, "Hey, even if we score a touchdown, they still get the ball." At this point he starts shaking his head, and continues: "I didn't know that."
+The camera then cuts to 49ers fullback Kyle Juszczyk saying, as casually as if he were ordering a latte, “Hey, even if we score a touchdown, they still get the ball.” At this point, he starts shaking his head and continues: “I didn’t know that.”
 
 You can be very successful in your chosen career by becoming an expert in topics, ideas, or technologies that other people ignore and think aren’t important.
 
