@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c5261f784fdf2ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book-notes-the-gathering-storm-winston-churchill.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1776.md",
+                "file": "book-notes-the-gathering-storm-winston-churchill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1776.md",
+                "file": "book-notes-the-gathering-storm-winston-churchill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1776.md"
+                "file": "book-notes-the-gathering-storm-winston-churchill.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9a883813e459b19",
+  "active": "7c5261f784fdf2ee",
   "lastOpenFiles": [
-    "book-notes-american-moonshot.md",
     "1776.md",
+    "book-notes-the-gathering-storm-winston-churchill.md",
+    "book-notes-american-moonshot.md",
     "2-habits-for-a-better-intellectual-life copy.md",
     "new-ideas-suck.md",
     "my-reading-year-2023.md",
