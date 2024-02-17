@@ -71,7 +71,7 @@ Churchill reflects on the failure of the British government to act earlier:
 
 That description fits lots of things in life.
 
-==If you wait to prioritize your marriage until it's on the brink of failure, it will be a much harder battle to fight than if you would've prioritized date nights and intentionally loved your spouse from the outset.==
+If you wait to prioritize your marriage until it's on the brink of failure, it will be a much harder battle to fight than if you would've prioritized date nights and intentionally loved your spouse from the outset.
 
 If you wait to get your finances in order until you're on the brink of bankruptcy, it will be a much more difficult challenge than if you started budgeting when you first began working.
 
