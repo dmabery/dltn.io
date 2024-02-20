@@ -34,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -140,13 +140,19 @@
   },
   "active": "4f20acc10b500a1a",
   "lastOpenFiles": [
+    "advice-from-grandpa.md",
+    "no-one-cares-what-you-can-do-fresh.md",
+    "how-you-finish.md",
+    "success-is-found-in-the-minutiae.md",
+    "04-06-2022-assorted-thoughts.md",
+    "writing-in-your-head.md",
+    "working-by-robert-caro.md",
+    "newsletter-steinbeck-grant-churchill.md",
     "wonderers.md",
     "charles-dickens-active-patience.md",
     "why-legacy-career-paths-cant-innovate.md",
     "why-you-feel-stuck-in-life.md",
     "why-i-read.md",
-    "working-by-robert-caro.md",
-    "writing-in-your-head.md",
     "you-cant-imagine.md",
     "which-is-better-instinct-or-reason.md",
     "why-i-publish-my-notes-online.md",
