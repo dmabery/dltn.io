@@ -37,9 +37,6 @@ const BlogPost = ({ post }) => {
           content={post.content}
           image={post.featuredImage?.node.sourceUrl}
         />
-        <div className="flex w-full text-white">
-          <div className="bg-black px-3 py-1.5 text-xl md:m-0">↗︎</div>
-        </div>
       </section>
     </>
   );
