@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1776.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c5261f784fdf2ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book-notes-the-gathering-storm-winston-churchill.md",
+                "file": "on-increasing-the-likelihood-of-a-miracle-year.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jfk",
+                "query": "5:00 ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-notes-the-gathering-storm-winston-churchill.md",
+                "file": "2-habits-for-a-better-intellectual-life copy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-notes-the-gathering-storm-winston-churchill.md",
+                "file": "2-habits-for-a-better-intellectual-life copy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-notes-the-gathering-storm-winston-churchill.md"
+                "file": "2-habits-for-a-better-intellectual-life copy.md"
               }
             }
           }
@@ -171,12 +160,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c5261f784fdf2ee",
+  "active": "12040f113bfdf3a5",
   "lastOpenFiles": [
-    "1776.md",
-    "book-notes-the-gathering-storm-winston-churchill.md",
-    "book-notes-american-moonshot.md",
-    "2-habits-for-a-better-intellectual-life copy.md",
     "new-ideas-suck.md",
     "my-reading-year-2023.md",
     "looking-like-a-fool-at-first-leads-to-mastery-at-last.md",
@@ -187,6 +172,7 @@
     "2-strategies-to-help-you-remember-what-you-read.md",
     "thinking-about-blogging.md",
     "success-is-found-in-the-minutiae.md",
+    "2-habits-for-a-better-intellectual-life copy.md",
     "how-to-work.md",
     "how-to-blog.md",
     "7-lessons-from-the-splendid-and-the-vile-by-erik-larson.md",

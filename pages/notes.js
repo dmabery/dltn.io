@@ -66,18 +66,19 @@ const NoteList = ({ posts, frontmatter }) => {
           {sortedPosts
             .filter((post) => post.frontmatter.Type === "Book Notes")
             .map((post, index) => (
-              <Link
-                href={`/posts/${post.slug}`}
-                className="transition-all hover:scale-105"
-              >
-                <Image
-                  key={post.id}
-                  src={post.frontmatter.Image}
-                  layout="responsive"
-                  height={75}
-                  width={50}
-                />
-              </Link>
+              <div key={post.id}>
+                <Link
+                  href={`/posts/${post.slug}`}
+                  className="transition-all hover:scale-105"
+                >
+                  <Image
+                    src={post.frontmatter.Image}
+                    layout="responsive"
+                    height={75}
+                    width={50}
+                  />
+                </Link>
+              </div>
             ))}
         </div>
       </div>

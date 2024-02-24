@@ -3,11 +3,11 @@ import { useForm } from "react-hook-form";
 import { useMutation } from "react-query";
 
 const ErrorMessage = ({ message }) => (
-  <p className="mt-1 inline-block px-3 text-sm text-red-500">{message}</p>
+  <p className="inline-block px-3 text-sm text-red-500">{message}</p>
 );
 
 const SuccessMessage = () => (
-  <p className="border-success text-success mt-3 rounded-md border border-green-600/80 bg-green-100/80 p-2 text-sm text-green-800">
+  <p className="border-success text-success border border-green-600/80 bg-green-100/80 p-2 text-sm text-green-800">
     The game is afoot! Check your inbox and confirm your email.
   </p>
 );
@@ -32,7 +32,7 @@ const Subscribe = ({ title, placeholder }) => {
   });
 
   const inputClass = classNames({
-    "text-sm appearance-none rounded border border-slate-500 w-full text-gray-900/80 mr-2 py-2 px-2 leading-tight focus:border-gray-900": true,
+    "text-sm border-b bg-transparent border-slate-500 w-full text-gray-900/80 mr-2 py-2 px-2 leading-tight focus:border-gray-900": true,
     "opacity-100 cursor-not-allowed": isLoading,
   });
 
