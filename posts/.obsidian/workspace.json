@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-habits-for-a-better-intellectual-life copy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9a883813e459b19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book-notes-1776.md",
+                "file": "book-notes-the-gathering-storm-winston-churchill.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-notes-1776.md",
+                "file": "book-notes-the-gathering-storm-winston-churchill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-notes-1776.md",
+                "file": "book-notes-the-gathering-storm-winston-churchill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-notes-1776.md"
+                "file": "book-notes-the-gathering-storm-winston-churchill.md"
               }
             }
           }
@@ -159,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9a883813e459b19",
+  "active": "853b93569351a97c",
   "lastOpenFiles": [
-    "book-notes-the-gathering-storm.md",
-    "book-notes-1776.md",
+    "1776.md",
     "2-habits-for-a-better-intellectual-life copy.md",
+    "book-notes-1776.md",
+    "book-notes-the-gathering-storm.md",
     "new-ideas-suck.md",
     "my-reading-year-2023.md",
     "looking-like-a-fool-at-first-leads-to-mastery-at-last.md",
