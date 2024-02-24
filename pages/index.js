@@ -79,13 +79,6 @@ export default function Home({ posts, tags }) {
               </li>
             ))}
           </ol>
-          <div className="py-5">
-            Read more{" "}
-            <Link className="underline hover:no-underline" href="/writing">
-              here
-            </Link>
-            .
-          </div>
         </div>
       </div>
     </>
