@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "on-increasing-the-likelihood-of-a-miracle-year.md",
+                "file": "book-notes-1776.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-habits-for-a-better-intellectual-life copy.md",
+                "file": "book-notes-1776.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-habits-for-a-better-intellectual-life copy.md",
+                "file": "book-notes-1776.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-habits-for-a-better-intellectual-life copy.md"
+                "file": "book-notes-1776.md"
               }
             }
           }
@@ -160,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12040f113bfdf3a5",
+  "active": "f9a883813e459b19",
   "lastOpenFiles": [
+    "book-notes-the-gathering-storm.md",
+    "book-notes-1776.md",
+    "2-habits-for-a-better-intellectual-life copy.md",
     "new-ideas-suck.md",
     "my-reading-year-2023.md",
     "looking-like-a-fool-at-first-leads-to-mastery-at-last.md",
@@ -172,7 +174,6 @@
     "2-strategies-to-help-you-remember-what-you-read.md",
     "thinking-about-blogging.md",
     "success-is-found-in-the-minutiae.md",
-    "2-habits-for-a-better-intellectual-life copy.md",
     "how-to-work.md",
     "how-to-blog.md",
     "7-lessons-from-the-splendid-and-the-vile-by-erik-larson.md",
