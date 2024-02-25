@@ -49,7 +49,7 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage }) => {
           </div>
         </div>
       </div>
-      <div className="m-5 md:px-5">
+      <div className="m-5">
         <PostBodyContent content={content} />
       </div>
     </article>
