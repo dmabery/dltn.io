@@ -21,8 +21,7 @@ export default function Sidebar({ children, left, post }) {
               Subscribe
             </h2>
             <div className="mb-3 text-[16px]">
-              Sign up to receive seven new things to read, watch, listen to, or
-              learn from every week.
+              Sign up to recieve my monthly reading list email. It includes books and links you can learn from.
             </div>
             <Subscribe />
           </div>
