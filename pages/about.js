@@ -15,7 +15,7 @@ export const getStaticProps = async () => {
 
 export default function About({ data }) {
   return (
-    <div className="border border-black bg-white p-5">
+    <div>
       <Meta title="About me" />
       <PageTitle title="About me" />
       <PostBodyContent content={data} />

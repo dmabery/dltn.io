@@ -35,7 +35,7 @@ export const getStaticPaths = async () => {
 export default function TagPage({ posts, tag }) {
   const tagg = unslugify(tag);
   return (
-    <div className="border border-black bg-white p-5">
+    <div>
       <Meta
         title={tagg}
         description="A codex of my personal journey to understand the world."

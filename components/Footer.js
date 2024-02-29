@@ -17,7 +17,7 @@ const footerLink = [
 
 const Footer = () => (
   <div className="mt-10 bg-black py-10 text-white">
-    <div className="container mx-auto mt-10 flex max-w-[1000px] justify-between px-5 lg:px-0">
+    <div className="container mx-auto mt-10 flex max-w-[900px] justify-between px-5 lg:px-0">
       <div className="flex flex-col">
         <p className="mb-4 font-serif font-bold">Stay curious.</p>
         {footerLink.map((link) => (

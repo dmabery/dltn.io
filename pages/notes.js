@@ -26,7 +26,7 @@ export default function NoteList({ posts }) {
         title="Book Notes"
         description="Notes, summaries, and lessons from 30+ books."
       />
-      <div className="border border-black bg-white p-5">
+      <div>
         <div className="grid grid-cols-2 gap-5 md:grid-cols-3">
           {posts.map((post, index) => (
             <div className="cursor-pointer transition-all hover:scale-105">
