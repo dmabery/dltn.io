@@ -17,8 +17,8 @@ export default function Sidebar({ children }) {
   return (
     <>
       <div className="mt-20 flex justify-between divide-x">
-        <div className="mx-5 mt-5 w-[100%] md:m-0 pr-5">{children}</div>
-        <div className="mb-5 hidden flex-none pl-5 pt-5 text-sm md:flex md:w-[32%] md:flex-col">
+        <div className="mx-5 mt-5 w-[100%] md:m-0 pr-10">{children}</div>
+        <div className="mb-5 hidden flex-none pl-10 pt-5 text-sm md:flex md:w-[32%] md:flex-col">
           <h2 className="mb-5 border-b pb-3 font-sansSerif text-lg font-bold leading-tight text-gray-900">
             Words on words, books, people, and ideas.
           </h2>
