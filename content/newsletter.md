@@ -1,5 +1,5 @@
 <p><img className="w-full" src="https://res.cloudinary.com/dde1q4ekv/image/upload/v1677422401/41dff408ec203f444b0140923834ab3d_fjf6iz.jpg" /></p>
-<p>The Wandering Reader is a curated list of ideas into the “labyrinth” of human nature (to quote John Adams).</p>
+<p>My newsletter is a curated list of ideas into the “labyrinth” of human nature (to quote John Adams).</p>
 <p>Every week, you&#39;ll receive an email with the best insights, ideas, and stories from the books and content I consume.</p>
 <p>My motivation is simple, to &quot;promote useful ideas” – from writing, history, science, books, philosophy, and society. To quote Benjamin Franklin as he put forth the conversation topics for the American Philosophical Society (which he started), I aim for The Newsletter to cover…</p>
 <blockquote>
