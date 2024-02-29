@@ -18,7 +18,7 @@ function MyApp({ Component, pageProps }) {
         <link rel="icon" href="/favicon 3.png" />
       </Head>
       <Nav />
-      <div className="mx-auto max-w-[1000px] py-8">
+      <div className="mx-auto max-w-[1100px] py-8">
         <main className="mb-auto min-h-screen md:m-5 lg:m-0">
           <QueryClientProvider client={queryClient}>
             <Sidebar>

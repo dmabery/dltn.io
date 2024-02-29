@@ -20,9 +20,9 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage }) => {
   }, []);
 
   return (
-    <article className="border border-black bg-white text-neutral-300">
-      <div className="mb-5 flex flex-col gap-1 text-gray-900">
-        <div className="p-5 font-sansSerif text-[25px] font-bold leading-tight md:text-[28px]">
+    <article>
+      <div className="mb-5 border-b flex flex-col gap-1 text-gray-900">
+        <div className="pt-5 font-sansSerif text-[25px] font-bold leading-tight md:text-[28px]">
           {isHomePage ? (
             <div className="hover:underline">
               <Link href={`/posts/${slug}`}>{title || ""}</Link>
@@ -31,7 +31,7 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage }) => {
             <div>{title}</div>
           )}
         </div>
-        <div className="tags flex gap-1 border-t border-b border-black px-5 py-3 font-sansSerif text-xs text-gray-900 md:flex-row">
+        <div className="tags flex gap-1 py-3 font-sansSerif text-xs text-gray-900 md:flex-row">
           <div>{date.slice(0, 10)}</div>
           <div>•</div>
           <div className="hidden md:flex">Filed under:</div>
@@ -49,7 +49,7 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage }) => {
           </div>
         </div>
       </div>
-      <div className="m-5">
+      <div>
         <PostBodyContent content={content} />
       </div>
     </article>

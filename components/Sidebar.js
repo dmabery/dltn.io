@@ -1,22 +1,27 @@
+import Image from "next/image";
 import Subscribe from "../components/Subscribe";
 
-export default function Sidebar({ children, left, post }) {
+
+const reading = [
+  {
+    image: "http://evm.heg.mybluehost.me/wp-content/uploads/2024/02/81u3hoNxGwL._AC_UF10001000_QL80_.jpg"
+  },
+  {
+   image: "http://evm.heg.mybluehost.me/wp-content/uploads/2024/02/61jXs4mPISL._AC_UF10001000_QL80_.jpg"
+  },
+  {
+    image: "http://evm.heg.mybluehost.me/wp-content/uploads/2024/02/71cVf7LgG6L._AC_UF10001000_QL80_.jpg"
+  }
+]
+export default function Sidebar({ children }) {
   return (
     <>
-      <div className="mt-20 flex max-w-[1000px] justify-between">
-      <div className="mx-5 mt-5 w-[100%] md:m-0 md:w-[65%]">{children}</div>
-        <div className="mb-5 hidden h-full w-1/3 flex-none self-start border border-black bg-white p-5 text-sm md:flex md:w-[28%] md:flex-col">
-          <h2 className="mb-5 border-b border-[#191919] pb-3 font-sansSerif text-lg font-bold leading-tight text-gray-900">
+      <div className="mt-20 flex justify-between divide-x">
+        <div className="mb-5 hidden flex-none p-5 text-sm md:flex md:w-[22%] md:flex-col">
+          <h2 className="mb-5 border-b pb-3 font-sansSerif text-lg font-bold leading-tight text-gray-900">
             Words on words, books, people, and ideas.
           </h2>
-          <h2 className="mb-2 font-sansSerif text-lg font-bold text-gray-900">
-            Hi, I'm Dalton
-          </h2>
-          <div className=" mb-5 border-b border-[#191919] pb-5 text-gray-700">
-            <div className="mb-3 border-b border-[#191919] pb-5 text-[16px]">
-              I'm a video editor and designer who reads and writes about what I
-              learn.
-            </div>
+          <div className=" mb-5 border-b pb-5 text-gray-700">
             <h2 className="mb-2 font-sansSerif text-lg font-bold text-gray-900">
               Subscribe
             </h2>
@@ -36,6 +41,31 @@ export default function Sidebar({ children, left, post }) {
               </a>
             </li>
           </ul>
+        </div>
+        <div className="mx-5 mt-5 w-[100%] md:m-0 px-5">{children}</div>
+        <div className="mb-5 hidden flex-none p-5 text-sm md:flex md:w-[22%] md:flex-col">
+          <h2 className="mb-2 font-sansSerif text-lg font-bold text-gray-900">
+            Hi, I'm Dalton
+          </h2>
+          <div className="pb-5 text-gray-700">
+            <div className="mb-3 border-b pb-5 text-[16px]">
+              I'm a video editor and designer who reads and writes about what I
+              learn.
+            </div>
+          </div>
+          <h2 className="mb-3 font-sansSerif text-lg font-bold text-gray-900">
+            Currently reading...
+          </h2>
+          <div className="flex flex-col gap-5">
+            {reading.map((book) => (
+            <Image
+              src={book.image}
+              layout="responsive"
+              height={75}
+              width={50}
+            />
+            ))}
+          </div>
         </div>
       </div>
     </>
