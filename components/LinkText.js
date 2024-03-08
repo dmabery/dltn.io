@@ -14,7 +14,11 @@ function checkType(type) {
 }
 
 const LinkText = ({ slug, text, type }) => (
-  <Link href={slug} passHref className={`${checkType(type)} mb-1 transition-all`}>
+  <Link
+    href={slug}
+    passHref
+    className={`${checkType(type)} mb-1 transition-all`}
+    legacyBehavior>
     {text}
   </Link>
 );
