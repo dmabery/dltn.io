@@ -1,12 +1,10 @@
 import Meta from "../../components/Meta";
 import PageTitle from "../../components/PageTitle";
 import PostListSimple from "../../components/PostListSimple";
-import { getAllPosts, getTags } from "../../lib/getMarkdownFiles";
+import { getPostsByTags, getTags } from "../../lib/getMarkdownFiles";
 
 export const getStaticProps = async ({ params }) => {
-  const posts = await getAllPosts();
-
-  console.log(posts[0])
+  const posts = await getPostsByTags(params.tag);
 
   return {
     props: {
@@ -25,14 +23,6 @@ export const getStaticPaths = async () => {
     fallback: "blocking",
   };
 };
-
-function checkSource(source, slug) {
-  if (source === "WordPress") {
-    return `stream/${slug}`;
-  } else {
-    return `posts/${slug}`;
-  }
-}
 const TagPage = ({ posts, tag }) => (
   <>
     <Meta
@@ -46,7 +36,7 @@ const TagPage = ({ posts, tag }) => (
           <PostListSimple
             title={post.title}
             date={post.date}
-            slug={checkSource(post.source, post.slug)}
+            slug={post.slug}
           />
         ))}
       </div>
