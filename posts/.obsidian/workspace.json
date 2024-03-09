@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "853b93569351a97c",
+            "id": "6f9c658be5b4a034",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-notes-the-gathering-storm-winston-churchill.md",
+                "file": "wonderers.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-notes-the-gathering-storm-winston-churchill.md",
+                "file": "wonderers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-notes-the-gathering-storm-winston-churchill.md",
+                "file": "wonderers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-notes-the-gathering-storm-winston-churchill.md"
+                "file": "wonderers.md"
               }
             }
           }
@@ -146,9 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "853b93569351a97c",
+  "active": "6f9c658be5b4a034",
   "lastOpenFiles": [
+    "book-notes-the-gathering-storm-winston-churchill.md",
     "1776.md",
+    "sailing-the-graveyard-sea-by-richard-snow.md",
+    "a-love-letter-to-old-books.md",
+    "dont-create-a-horse-storm.md",
+    "how-i-choose-what-to-read-bullets-vs-cannonballs.md",
+    "wonderers.md",
+    "how-to-redirect-users-to-a-different-page-after-a-set-interval-with-next-js.md",
+    "12-rules-for-life.md",
     "2-habits-for-a-better-intellectual-life copy.md",
     "book-notes-1776.md",
     "book-notes-the-gathering-storm.md",
