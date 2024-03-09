@@ -24,7 +24,7 @@ const Nav = () => (
           href={`/${link.slug}`}
           className="hover:underline"
           key={link.slug}
-        >
+          legacyBehavior>
           {link.title}
         </Link>
       ))}

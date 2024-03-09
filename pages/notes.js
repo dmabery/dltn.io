@@ -43,46 +43,42 @@ const NoteList = ({ posts, frontmatter }) => {
     (a, b) => new Date(b.frontmatter.Date) - new Date(a.frontmatter.Date)
   );
 
-  return (
-    <>
-      <Meta
-        title="Book Notes"
-        description="Notes, summaries, and lessons from 30+ books."
-      />
-      <PageTitle
-        title="Book Notes"
-        description={
-          <div className="prose mt-3 mb-3 text-sm md:text-base">
-            <SideNote
-              title="Something to keep in mind..."
-              content="The more that you read, the more things you will know. The more that
-          you learn, the more places you'll go. – Dr. Seuss"
-            />
-          </div>
-        }
-      />
-      <div className="">
-        <div className="mt-7 grid grid-cols-3 gap-3">
-          {sortedPosts
-            .filter((post) => post.frontmatter.Type === "Book Notes")
-            .map((post, index) => (
-              <div className="transition-all hover:scale-105 cursor-pointer" key={post.id}>
-                <Link
-                  href={`/posts/${post.slug}`}
-                >
-                  <Image
-                    src={post.frontmatter.Image}
-                    layout="responsive"
-                    height={75}
-                    width={50}
-                  />
-                </Link>
-              </div>
-            ))}
+  return <>
+    <Meta
+      title="Book Notes"
+      description="Notes, summaries, and lessons from 30+ books."
+    />
+    <PageTitle
+      title="Book Notes"
+      description={
+        <div className="prose mt-3 mb-3 text-sm md:text-base">
+          <SideNote
+            title="Something to keep in mind..."
+            content="The more that you read, the more things you will know. The more that
+        you learn, the more places you'll go. – Dr. Seuss"
+          />
         </div>
+      }
+    />
+    <div className="">
+      <div className="mt-7 grid grid-cols-3 gap-3">
+        {sortedPosts
+          .filter((post) => post.frontmatter.Type === "Book Notes")
+          .map((post, index) => (
+            <div className="transition-all hover:scale-105 cursor-pointer" key={post.id}>
+              <Link href={`/posts/${post.slug}`} legacyBehavior>
+                <Image
+                  src={post.frontmatter.Image}
+                  layout="responsive"
+                  height={75}
+                  width={50}
+                />
+              </Link>
+            </div>
+          ))}
       </div>
-    </>
-  );
+    </div>
+  </>;
 };
 
 export default NoteList;
