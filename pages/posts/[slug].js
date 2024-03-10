@@ -3,6 +3,7 @@ import Meta from "../../components/Meta";
 
 import fs from "fs";
 import matter from "gray-matter";
+import SubscribeGroup from "../../components/SubscribeGroup";
 
 export async function getStaticPaths() {
   try {
@@ -51,7 +52,7 @@ const BlogPost = ({ frontmatter, content }) => {
   if (!frontmatter) return <h1>No posts</h1>;
   return (
     <>
-      <section>
+      <section className="border-b pb-10">
         <Meta
           title={frontmatter.Title}
           description={frontmatter.Description}
@@ -66,6 +67,9 @@ const BlogPost = ({ frontmatter, content }) => {
           image={frontmatter.Image}
         />
       </section>
+      <div className="py-10">
+      <SubscribeGroup />
+      </div>
     </>
   );
 };
