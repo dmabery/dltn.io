@@ -36,7 +36,7 @@ const TagPage = ({ posts, tag }) => (
           <PostListSimple
             title={post.title}
             date={post.date}
-            slug={post.slug}
+            slug={`posts/${post.slug}`}
           />
         ))}
       </div>
