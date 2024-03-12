@@ -9,7 +9,7 @@ body {
   margin: 0;
   font-family: 'Inter', sans-serif;
   background-color: #F5F5F5;
-  color: @apply gray-900
+  color: @apply gray-900;
 }
 
 
