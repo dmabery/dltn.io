@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wonderers.md",
+                "file": "mastery-follows-foolishness.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wonderers.md",
+                "file": "mastery-follows-foolishness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wonderers.md",
+                "file": "mastery-follows-foolishness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wonderers.md"
+                "file": "mastery-follows-foolishness.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "6f9c658be5b4a034",
   "lastOpenFiles": [
+    "you-cant-imagine.md",
+    "mastery-follows-foolishness.md",
+    "wonderers.md",
     "success-is-found-in-the-minutiae.md",
     "sailing-the-graveyard-sea-by-richard-snow.md",
     "how-i-choose-what-to-read-bullets-vs-cannonballs.md",
@@ -159,7 +162,6 @@
     "winston-churchill-naps.md",
     "twr-jfk.md",
     "newsletter-steinbeck-grant-churchill.md",
-    "wonderers.md",
     "how-to-redirect-users-to-a-different-page-after-a-set-interval-with-next-js.md",
     "12-rules-for-life.md",
     "2-habits-for-a-better-intellectual-life copy.md",
@@ -171,8 +173,6 @@
     "creative-procrastination.md",
     "blog-notion-nextjs.md",
     "are-you-playing-a-game-you-want-to-win.md",
-    "5-lessons-from-novelist-as-a-vocation.md",
-    "2-strategies-to-help-you-remember-what-you-read.md",
-    "thinking-about-blogging.md"
+    "5-lessons-from-novelist-as-a-vocation.md"
   ]
 }
