@@ -1,5 +1,5 @@
 ---
-Title: "Mastery follows foolishness"
+Title: "Foolishness leads to mastery"
 Tags: ["success", "mastery"]
 Date: "2024-03-22"
 Published: true
