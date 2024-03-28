@@ -20,34 +20,32 @@ export default function NoteList({ posts }) {
     return <div>Loading...</div>; // Handle loading state
   }
   console.log(posts);
-  return (
-    <>
-      <Meta
-        title="Book Notes"
-        description="Notes, summaries, and lessons from 30+ books."
-      />
-      <div className="border border-black bg-white p-5">
-        <div className="grid grid-cols-2 gap-5 md:grid-cols-3">
-          {posts.map((post, index) => (
-            <div className="cursor-pointer transition-all hover:scale-105">
-              <Link
-                href={`/posts/${post.slug}`}
-                className="transition-all hover:scale-105"
-              >
-                <a>
-                  <Image
-                    key={post.id}
-                    src={post.featuredImage?.node.sourceUrl}
-                    layout="responsive"
-                    height={75}
-                    width={50}
-                  />
-                </a>
-              </Link>
-            </div>
-          ))}
-        </div>
+  return <>
+    <Meta
+      title="Book Notes"
+      description="Notes, summaries, and lessons from 30+ books."
+    />
+    <div className="border border-black bg-white p-5">
+      <div className="grid grid-cols-2 gap-5 md:grid-cols-3">
+        {posts.map((post, index) => (
+          <div className="cursor-pointer transition-all hover:scale-105">
+            <Link
+              href={`/posts/${post.slug}`}
+              className="transition-all hover:scale-105"
+            >
+
+              <Image
+                key={post.id}
+                src={post.featuredImage?.node.sourceUrl}
+                layout="responsive"
+                height={75}
+                width={50}
+              />
+
+            </Link>
+          </div>
+        ))}
       </div>
-    </>
-  );
+    </div>
+  </>;
 }

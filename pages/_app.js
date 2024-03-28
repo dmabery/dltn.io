@@ -5,7 +5,6 @@ import "prismjs";
 import { QueryClient, QueryClientProvider } from "react-query";
 import Footer from "../components/Footer";
 import Nav from "../components/Nav";
-import Sidebar from "../components/Sidebar";
 import "../styles/globals.css";
 import "../styles/prism-theme.css";
 
@@ -18,13 +17,11 @@ function MyApp({ Component, pageProps }) {
         <link rel="icon" href="/favicon 3.png" />
       </Head>
       <Nav />
-      <div className="mx-auto max-w-[1000px] py-8">
-        <main className="mb-auto min-h-screen md:m-5 lg:m-0">
+      <div className="mt-20 mx-auto max-w-[650px] py-8">
+        <main className="mb-auto md:m-5 lg:m-0">
           <QueryClientProvider client={queryClient}>
-            <Sidebar>
               <Component {...pageProps} />
               <Analytics />
-            </Sidebar>
           </QueryClientProvider>
         </main>
       </div>
