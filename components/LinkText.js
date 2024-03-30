@@ -20,7 +20,7 @@ const LinkText = ({ slug, text, type }) => (
     className={`${checkType(
       type
     )} mb-1 decoration-white transition-all hover:underline`}
-    legacyBehavior>
+  >
     {text}
   </Link>
 );

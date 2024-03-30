@@ -25,7 +25,7 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage }) => {
         <div className="p-5 font-sansSerif text-[25px] font-bold leading-tight md:text-[28px]">
           {isHomePage ? (
             <div className="hover:underline">
-              <Link href={`/posts/${slug}`} legacyBehavior>{title || ""}</Link>
+              <Link href={`/posts/${slug}`}>{title || ""}</Link>
             </div>
           ) : (
             <div>{title}</div>
@@ -41,7 +41,7 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage }) => {
               ? tags.map((tag) => {
                   return (
                     <li className="inline hover:underline">
-                      <Link href={`/tags/${slugify(tag)}`} legacyBehavior>{tag}</Link>
+                      <Link href={`/tags/${slugify(tag)}`}>{tag}</Link>
                     </li>
                   );
                 })

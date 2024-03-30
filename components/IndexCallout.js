@@ -12,12 +12,10 @@ export default function IndexCallout() {
           <p>
             I'm a video editor and designer who reads and writes about what I
             learn. Read more about me{" "}
-            <Link
-              href="/about"
-              className="text-blue-700 hover:text-blue-900 hover:underline">
-              
+            <Link href="/about">
+              <a className="text-blue-700 hover:text-blue-900 hover:underline">
                 here
-              
+              </a>
             </Link>
             .
           </p>
