@@ -4,12 +4,11 @@ export default function Sidebar({ children, left, post }) {
   return (
     <>
       <div className="mt-20 flex max-w-[1000px] justify-between">
-      <div className="mx-5 mt-5 w-[100%] md:m-0 md:w-[65%]">{children}</div>
         <div className="mb-5 hidden h-full w-1/3 flex-none self-start border border-black bg-white p-5 text-sm md:flex md:w-[28%] md:flex-col">
-          <h2 className="mb-5 border-b border-[#191919] pb-3 font-sansSerif text-lg font-bold leading-tight text-gray-900">
+          <h2 className="mb-5 border-b border-[#191919] pb-3 font-sansSerif text-lg font-medium leading-tight text-gray-900">
             Words on words, books, people, and ideas.
           </h2>
-          <h2 className="mb-2 font-sansSerif text-lg font-bold text-gray-900">
+          <h2 className="mb-2 font-sansSerif text-lg font-medium text-gray-900">
             Hi, I'm Dalton
           </h2>
           <div className=" mb-5 border-b border-[#191919] pb-5 text-gray-700">
@@ -17,7 +16,7 @@ export default function Sidebar({ children, left, post }) {
               I'm a video editor and designer who reads and writes about what I
               learn.
             </div>
-            <h2 className="mb-2 font-sansSerif text-lg font-bold text-gray-900">
+            <h2 className="mb-2 font-sansSerif text-lg font-medium text-gray-900">
               Subscribe
             </h2>
             <div className="mb-3 text-[16px]">
@@ -25,7 +24,7 @@ export default function Sidebar({ children, left, post }) {
             </div>
             <Subscribe />
           </div>
-          <h2 className="mb-3 font-sansSerif text-lg font-bold text-gray-700">
+          <h2 className="mb-3 font-sansSerif text-lg font-medium text-gray-700">
             Quick Links
           </h2>
           <ul className="transition:all text-[16px] text-blue-700 hover:text-blue-800 hover:underline">
@@ -36,6 +35,7 @@ export default function Sidebar({ children, left, post }) {
             </li>
           </ul>
         </div>
+        <div className="mx-5 mt-5 w-[100%] md:m-0 md:w-[65%]">{children}</div>
       </div>
     </>
   );
