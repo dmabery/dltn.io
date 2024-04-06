@@ -20,7 +20,7 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage }) => {
   }, []);
 
   return (
-    <article className="border border-black bg-white text-neutral-300">
+    <article className="text-neutral-300">
       <div className="mb-5 flex flex-col gap-1 text-gray-900">
         <div className="p-5 font-sansSerif text-[25px] font-medium leading-tight md:text-[28px]">
           {isHomePage ? (
@@ -31,7 +31,7 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage }) => {
             <div>{title}</div>
           )}
         </div>
-        <div className="tags flex gap-1 border-t border-b border-black px-5 py-3 font-sansSerif text-xs text-gray-900 md:flex-row">
+        <div className="tags flex gap-1 mx-5 border-t border-b border-black py-3 font-sansSerif text-xs text-gray-900 md:flex-row">
           <div>{date.slice(0, 10)}</div>
           <div>•</div>
           <div className="hidden md:flex">Filed under:</div>
@@ -40,8 +40,8 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage }) => {
             {tags
               ? tags.map((tag) => {
                   return (
-                    <li className="inline hover:underline">
-                      <Link href={`/tags/${slugify(tag)}`} legacyBehavior>{tag}</Link>
+                    <li className="inline">
+                      <Link className="hover:underline" key={tag} href={`/tags/${slugify(tag)}`} legacyBehavior><a className="hover:underline">{tag}</a></Link>
                     </li>
                   );
                 })
