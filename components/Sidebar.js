@@ -1,10 +1,10 @@
 import Subscribe from "../components/Subscribe";
 
-export default function Sidebar({ children }) {
+export default function Sidebar({ children, left, post }) {
   return (
     <>
-      <div className="mt-20 md:divide-x divide-black flex justify-between md:border md:border-black bg-none md:bg-white">
-        <div className="mb-5 hidden h-full flex-none p-5 text-sm md:flex md:w-[28%] md:flex-col">
+      <div className="mt-20 flex max-w-[1000px] justify-between">
+        <div className="mb-5 hidden h-full w-1/3 flex-none self-start border border-black bg-white p-5 text-sm md:flex md:w-[28%] md:flex-col">
           <h2 className="mb-5 border-b border-[#191919] pb-3 font-sansSerif text-lg font-medium leading-tight text-gray-900">
             Words on words, books, people, and ideas.
           </h2>
@@ -35,7 +35,7 @@ export default function Sidebar({ children }) {
             </li>
           </ul>
         </div>
-        <div className="mx-2 w-[100%] justify-end md:m-0">{children}</div>
+        <div className="mx-5 mt-5 w-[100%] md:m-0 md:w-[65%]">{children}</div>
       </div>
     </>
   );

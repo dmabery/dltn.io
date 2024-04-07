@@ -35,7 +35,6 @@ export default function Home({ posts }) {
             image={post.featuredImage}
             slug={post.slug}
             isHomePage={true}
-            key={post.title}
           />
         ))}
       </div>

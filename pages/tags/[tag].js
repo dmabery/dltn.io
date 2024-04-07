@@ -25,6 +25,7 @@ export async function getStaticProps({ params }) {
 export const getStaticPaths = async () => {
   const tags = await getAllTags(100);
   const paths = tags.map((tag) => ({ params: { tag: tag } }));
+  console.log(paths);
   return {
     paths,
     fallback: "blocking",
