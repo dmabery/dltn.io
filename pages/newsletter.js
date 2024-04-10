@@ -1,7 +1,6 @@
 import fs from "fs";
 import path from "path";
 import Meta from "../components/Meta";
-import PageTitle from "../components/PageTitle";
 import PostBodyContent from "../components/PostBodyContent";
 
 export const getStaticProps = async () => {
@@ -16,9 +15,8 @@ export const getStaticProps = async () => {
 
 export default function Newsletter({ data }) {
   return (
-    <div className="flex flex-col gap-2 border border-black bg-white p-5">
+    <div className="flex flex-col gap-2">
       <Meta title="Newsletter" />
-      <PageTitle title="Newsletter" />
       <PostBodyContent content={data} />
     </div>
   );

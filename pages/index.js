@@ -2,14 +2,14 @@
 import IndexCallout from "../components/IndexCallout";
 import Meta from "../components/Meta";
 import PostDisplay from "../components/PostDisplay";
-import { getPosts } from "../lib/service";
+import { getLatestPosts } from "../lib/service";
 
 export const getStaticProps = async () => {
-  const posts = await getPosts();
+  const posts = await getLatestPosts();
 
   return {
     props: {
-      posts: posts.slice(0, 5),
+      posts,
     },
     revalidate: 60,
   };
@@ -24,7 +24,7 @@ export default function Home({ posts }) {
         description="Developer, Video Editor, Writer."
       />
       <IndexCallout />
-      <div className="flex flex-col gap-10">
+      <div className="flex flex-col gap-20">
         {posts.map((post) => (
           <PostDisplay
             title={post.title}

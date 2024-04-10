@@ -1,6 +1,5 @@
 import ImageWithCaption from "../components/ImageWithCaption";
 import Meta from "../components/Meta";
-import PageTitle from "../components/PageTitle";
 import PostListSimple from "../components/PostListSimple";
 import { getPosts } from "../lib/service";
 
@@ -16,12 +15,11 @@ export const getStaticProps = async () => {
 };
 
 const Writing = ({ posts }) => (
-  <div className="border border-black bg-white p-5">
+  <div>
     <Meta
       title="Writing"
       description="A codex of my personal journey to understand the world."
     />
-    <PageTitle title="Writing" />
     <ImageWithCaption
       src="https://res.cloudinary.com/dde1q4ekv/image/upload/v1694125376/Gustave-Caillebotte-Portrait-of-a-Man-Writing-in-His-Study_kakq4v.jpg"
       caption="Portrait of a Man Writing in His Study. Gustave Caillebotte - Oil On Canvas - 1885."
