@@ -9,6 +9,7 @@ module.exports = {
       "res.cloudinary.com",
       "_.cloudinary.com",
       "evm.heg.mybluehost.me",
+      "i0.wp.com",
     ],
   },
   async redirects() {
