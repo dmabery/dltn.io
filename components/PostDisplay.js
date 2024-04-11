@@ -21,8 +21,8 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage }) => {
 
   return (
     <article className="text-neutral-300">
-      <div className="mb-5 flex flex-col gap-1 text-gray-900">
-        <div className="font-sansSerif text-[25px] font-medium leading-tight md:text-[28px]">
+      <div className="mb-2 flex flex-col gap-1 text-gray-900">
+        <div className="font-sansSerif text-[25px] font-bold leading-tight md:text-[28px]">
           {isHomePage ? (
             <div className="hover:underline pb-2">
               <Link href={`/posts/${slug}`} legacyBehavior>{title || ""}</Link>
@@ -31,7 +31,11 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage }) => {
             <div>{title}</div>
           )}
         </div>
-        <div className="tags flex gap-1 border-t border-b border-black/10 py-2 font-sansSerif text-xs text-gray-900 md:flex-row">
+      </div>
+      <div className="mb-5">
+        <PostBodyContent content={content} />
+      </div>
+      <div className="tags flex gap-1 border-t border-black py-2 font-sansSerif text-xs text-gray-900 md:flex-row">
           <div>{date.slice(0, 10)}</div>
           <div>•</div>
           <div className="hidden md:flex">Filed under:</div>
@@ -48,10 +52,6 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage }) => {
               : "error"}
           </div>
         </div>
-      </div>
-      <div className="">
-        <PostBodyContent content={content} />
-      </div>
     </article>
   );
 };

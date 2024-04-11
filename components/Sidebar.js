@@ -3,8 +3,8 @@ import Subscribe from "../components/Subscribe";
 export default function Sidebar({ children, left, post }) {
   return (
     <>
-      <div className="mt-20 flex max-w-[1000px] justify-between">
-        <div className="mb-5 hidden h-full w-1/3 flex-none self-start border border-black bg-white p-5 text-sm md:flex md:w-[27%] md:flex-col">
+      <div className="flex gap-10 max-w-[1000px] justify-between">
+        <div className="hidden pt-10 min-h-full border-r border-b border-black bg-white px-8 p-5 text-sm md:flex w-[425px] md:flex-col">
           <h2 className="mb-5 border-b border-[#191919] pb-3 font-sansSerif text-lg font-medium leading-tight text-gray-900">
             Words on history, books, people, and ideas.
           </h2>
@@ -35,7 +35,7 @@ export default function Sidebar({ children, left, post }) {
             </li>
           </ul>
         </div>
-        <div className="mt-5 w-[100%] md:m-0 md:w-[67%]">{children}</div>
+        <div className="mt-5 pb-20 px-5 lg:pl-12 lg:pr-12 pt-10 w-[100%] md:m-0">{children}</div>
       </div>
     </>
   );

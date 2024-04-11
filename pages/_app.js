@@ -3,7 +3,6 @@ import { Analytics } from "@vercel/analytics/react";
 import Head from "next/head";
 import "prismjs";
 import { QueryClient, QueryClientProvider } from "react-query";
-import Footer from "../components/Footer";
 import Nav from "../components/Nav";
 import Sidebar from "../components/Sidebar";
 import "../styles/globals.css";
@@ -18,8 +17,8 @@ function MyApp({ Component, pageProps }) {
         <link rel="icon" href="/favicon 3.png" />
       </Head>
       <Nav />
-      <div className="mx-auto md:max-w-[1000px] px-5 md:px-0 py-8">
-        <main className="mb-auto min-h-screen md:m-5 lg:m-0">
+      <div>
+        <main className="mt-16 max-w-[1000px]">
           <QueryClientProvider client={queryClient}>
             <Sidebar>
               <Component {...pageProps} />
@@ -28,7 +27,6 @@ function MyApp({ Component, pageProps }) {
           </QueryClientProvider>
         </main>
       </div>
-      <Footer />
     </>
   );
 }
