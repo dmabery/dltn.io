@@ -19,14 +19,13 @@ export default function NoteList({ posts }) {
   if (!posts) {
     return <div>Loading...</div>; // Handle loading state
   }
-  console.log(posts);
   return <>
     <Meta
       title="Book Notes"
       description="Notes, summaries, and lessons from 30+ books."
     />
     <div>
-      <div className="grid grid-cols-2 gap-5 md:grid-cols-3">
+      <div className="grid grid-cols-2 gap-3 md:grid-cols-3">
         {posts.map((post, index) => (
           <div className="cursor-pointer transition-all hover:scale-105">
             <Link

@@ -23,15 +23,16 @@ const Nav = () => (
           <Link href="/">d.</Link>
         </div>
       </div>
-      <div className="md:hidden row flex space-x-4 font-sansSerif text-sm text-white">
+      <div className="row flex space-x-4 font-sansSerif text-sm text-white">
         {links.map((link) => (
-          <Link
-            href={`/${link.slug}`}
-            className="hover:underline"
-            key={link.slug}
-            legacyBehavior>
-            {link.title}
-          </Link>
+          <div className="hover:underline hover:text-blue-400">
+            <Link
+              href={`/${link.slug}`}
+              key={link.slug}
+              legacyBehavior>
+              {link.title}
+            </Link>
+          </div>
         ))}
       </div>
     </div>
