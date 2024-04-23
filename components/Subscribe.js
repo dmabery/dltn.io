@@ -7,7 +7,7 @@ const ErrorMessage = ({ message }) => (
 );
 
 const SuccessMessage = () => (
-  <p className="border-success text-success mt-3 rounded-md border border-green-600/80 bg-green-100/80 p-2 text-sm text-green-800">
+  <p className="border-success font-sansSerif text-success mt-3 border border-green-600/80 bg-green-100/80 p-3 text-sm text-green-800">
     The game is afoot! Check your inbox and confirm your email.
   </p>
 );
