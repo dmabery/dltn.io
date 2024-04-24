@@ -17,7 +17,7 @@ function MyApp({ Component, pageProps }) {
       </Head>
       <Nav />
       <div>
-        <main className="mt-20 p-10 mx-auto max-w-screen-sm">
+        <main className="mt-20 p-10 mx-auto max-w-[700px]">
           <QueryClientProvider client={queryClient}>
               <Component {...pageProps} />
               <Analytics />

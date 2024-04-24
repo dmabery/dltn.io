@@ -27,17 +27,17 @@ const Subscribe = ({ title, placeholder }) => {
   const onSubmit = (data) => mutate(data);
 
   const formClass = classNames({
-    "flex gap-1 flex-col font-sansSerif items-center rounded-md": true,
+    "flex flex-col md:flex-row gap-1 font-sansSerif rounded-md": true,
     "border-gray-100": isLoading,
   });
 
   const inputClass = classNames({
-    "text-sm appearance-none border border-slate-500 w-full text-gray-900/80 py-2 px-2 leading-tight focus:border-gray-900": true,
+    "text-sm appearance-none border border-slate-500 md:w-3/4 text-gray-900/80 py-2 px-2 leading-tight focus:border-gray-900": true,
     "opacity-100 cursor-not-allowed": isLoading,
   });
 
   const btnClass = classNames({
-    "flex-shrink-0 w-full bg-neutral-900 hover:bg-neutral-900/80 text-sm text-white py-2 px-4 transition-all": true,
+    "flex-shrink-0 md:w-1/4 bg-neutral-900 hover:bg-neutral-900/80 text-sm text-white py-2 px-4 transition-all": true,
     "opacity-50 cursor-not-allowed": isLoading,
   });
 
