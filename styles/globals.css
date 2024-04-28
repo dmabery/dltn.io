@@ -4,6 +4,11 @@
 @tailwind components;
 @tailwind utilities;
 
+.inline-image {
+  float: right;
+  margin-left: 25px;
+}
+
 html,
 body {
   margin: 0;
