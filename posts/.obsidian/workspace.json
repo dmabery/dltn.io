@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mastery-follows-foolishness.md",
+                "file": "dont-take-non-practitioner-advice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mastery-follows-foolishness.md",
+                "file": "dont-take-non-practitioner-advice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mastery-follows-foolishness.md",
+                "file": "dont-take-non-practitioner-advice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mastery-follows-foolishness.md"
+                "file": "dont-take-non-practitioner-advice.md"
               }
             }
           }
@@ -148,9 +148,18 @@
   },
   "active": "6f9c658be5b4a034",
   "lastOpenFiles": [
+    "dont-let-it-fade-to-black.md",
+    "dont-take-non-practitioner-advice.md",
+    "rental-car-envy.md",
+    "Untitled.md",
+    "explanation-vs-excuses.md",
+    "oliver-wendell-holmes-a-life-stephen-budiansky.md",
+    "specific-directions-or-shut-up.md",
+    "most-things-just-need-to-be-done.md",
+    "mastery-follows-foolishness.md",
+    "media-consumption-february-2022.md",
     "visible-progress.md",
     "you-cant-imagine.md",
-    "mastery-follows-foolishness.md",
     "wonderers.md",
     "success-is-found-in-the-minutiae.md",
     "sailing-the-graveyard-sea-by-richard-snow.md",
@@ -164,15 +173,6 @@
     "twr-jfk.md",
     "newsletter-steinbeck-grant-churchill.md",
     "how-to-redirect-users-to-a-different-page-after-a-set-interval-with-next-js.md",
-    "12-rules-for-life.md",
-    "2-habits-for-a-better-intellectual-life copy.md",
-    "book-notes-1776.md",
-    "book-notes-the-gathering-storm.md",
-    "new-ideas-suck.md",
-    "my-reading-year-2023.md",
-    "looking-like-a-fool-at-first-leads-to-mastery-at-last.md",
-    "creative-procrastination.md",
-    "blog-notion-nextjs.md",
-    "are-you-playing-a-game-you-want-to-win.md"
+    "12-rules-for-life.md"
   ]
 }
