@@ -6,7 +6,7 @@ export default function Sidebar({ children, left, post }) {
       <div className="flex gap-10 max-w-[1000px] justify-between">
         <div className="hidden pt-10 min-h-full border-r border-b border-black bg-white px-8 p-5 text-sm md:flex w-[425px] md:flex-col">
           <h2 className="mb-5 border-b border-[#191919] pb-3 font-sansSerif text-lg font-medium leading-tight text-gray-900">
-            Words on history, books, people, and ideas.
+            Helping you learn from history and books—one post at a time.
           </h2>
           <h2 className="mb-2 font-sansSerif text-lg font-medium text-gray-900">
             Hi, I'm Dalton
