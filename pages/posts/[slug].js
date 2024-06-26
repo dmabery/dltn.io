@@ -32,6 +32,7 @@ const BlogPost = ({ post }) => {
         <PostDisplay
           date={post.date}
           tags={post.tags.edges.map((edge) => edge.node.name)}
+          category={post.categories.edges.map((edge) => edge.node.name)}
           title={post.title}
           description={post.excerpt}
           content={post.content}

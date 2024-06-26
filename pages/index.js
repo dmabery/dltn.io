@@ -29,6 +29,7 @@ export default function Home({ posts }) {
           <PostDisplay
             title={post.title}
             tags={post.tags.edges.map((edge) => edge.node.name)}
+            category={post.categories.edges.map((edge) => edge.node.name)}
             description={post.excerpt}
             date={post.date}
             content={post.content}

@@ -39,7 +39,7 @@ export default function TagPage({ posts, tag }) {
         title={tagg}
         description="A codex of my personal journey to understand the world."
       />
-      <PageTitle title={tagg} description={`All posts tagged with ${tagg}`} />
+      <PageTitle description={`All posts tagged with ${tagg}`} />
       <div className="mt-7 flex flex-row">
         <div>
           {posts.map((post) => (
