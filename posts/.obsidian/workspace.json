@@ -1,79 +1,50 @@
 {
   "main": {
-    "id": "eb565907ed493aa7",
+    "id": "269a1ec453bf5ff1",
     "type": "split",
     "children": [
       {
-        "id": "fe18dc40d524ccd8",
+        "id": "5ff99e5abe15ded7",
         "type": "tabs",
         "children": [
           {
-            "id": "c27e7a2ef4657346",
+            "id": "4f20acc10b500a1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dont-let-it-fade-to-black.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7eb0e41250c611b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d447d0fcb1ec658c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "you-can-just.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4025f0d0b56f7c01",
+    "id": "4cfd1ca6504e44c7",
     "type": "split",
     "children": [
       {
-        "id": "60eb5621e7b788e5",
+        "id": "cb12e857461c86b2",
         "type": "tabs",
         "children": [
           {
-            "id": "364a0e71bc614bcd",
+            "id": "e9f66511034e7ad4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
           {
-            "id": "12040f113bfdf3a5",
+            "id": "4a3d514e713781af",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "5:00 ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +54,7 @@
             }
           },
           {
-            "id": "270d950edcf03c49",
+            "id": "2b40b252a9300259",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "f51f146359b86cf8",
+    "id": "54b545e61365d265",
     "type": "split",
     "children": [
       {
-        "id": "5abb6e1cb93e6aba",
+        "id": "4fe9a15dd442efca",
         "type": "tabs",
         "children": [
           {
-            "id": "f3fa6f0a7589434d",
+            "id": "5cfff7373bc31207",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "you-can-just.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +92,18 @@
             }
           },
           {
-            "id": "bb86f476091bf003",
+            "id": "7b89ff039108a1fe",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "you-can-just.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6209e521f226a9c2",
+            "id": "e7b958f44025859d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,13 +114,11 @@
             }
           },
           {
-            "id": "d7953dc3f6a78df3",
+            "id": "dcdf3b2e2537ca86",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "you-can-just.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,33 +138,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d447d0fcb1ec658c",
+  "active": "4f20acc10b500a1a",
   "lastOpenFiles": [
-    "dont-let-it-fade-to-black.md",
     "you-can-just.md",
-    "Untitled.md",
-    "dont-take-non-practitioner-advice.md",
-    "rental-car-envy.md",
-    "explanation-vs-excuses.md",
-    "oliver-wendell-holmes-a-life-stephen-budiansky.md",
-    "specific-directions-or-shut-up.md",
-    "most-things-just-need-to-be-done.md",
-    "mastery-follows-foolishness.md",
-    "media-consumption-february-2022.md",
     "visible-progress.md",
-    "you-cant-imagine.md",
-    "wonderers.md",
     "success-is-found-in-the-minutiae.md",
+    "specific-directions-or-shut-up.md",
     "sailing-the-graveyard-sea-by-richard-snow.md",
+    "rental-car-envy.md",
+    "oliver-wendell-holmes-a-life-stephen-budiansky.md",
+    "most-things-just-need-to-be-done.md",
+    "mornings-on-horseback-by-david-mccullough.md",
+    "mastery-follows-foolishness.md",
     "how-i-choose-what-to-read-bullets-vs-cannonballs.md",
+    "fix-the-fridge.md",
+    "explanation-vs-excuses.md",
+    "dont-take-non-practitioner-advice.md",
+    "dont-let-it-fade-to-black.md",
     "dont-create-a-horse-storm.md",
     "book-notes-the-gathering-storm-winston-churchill.md",
     "advice-from-grandpa.md",
     "a-love-letter-to-old-books.md",
     "1776.md",
-    "winston-churchill-naps.md",
-    "twr-jfk.md",
-    "newsletter-steinbeck-grant-churchill.md",
-    "how-to-redirect-users-to-a-different-page-after-a-set-interval-with-next-js.md"
+    "wonderers.md",
+    "charles-dickens-active-patience.md",
+    "why-legacy-career-paths-cant-innovate.md",
+    "why-you-feel-stuck-in-life.md",
+    "why-i-read.md",
+    "working-by-robert-caro.md",
+    "templates",
+    "images/F3MpsF1b0AMQHrI.webp",
+    "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg",
+    "images/F3G8VWfawAEFO7_.jpeg",
+    "images",
+    "images/Harry-S.-Truman-in-his-haberdashery-ca.-1921.webp"
   ]
 }
