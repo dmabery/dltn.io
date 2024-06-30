@@ -1,6 +1,6 @@
 ---
 Title: "Book Notes and Review of 'The Patriots by Winston Groom'"
-Tags: ["book", "history", "politics"]
+Tags: ["books", "history", "politics"]
 Date: "2024-06-30"
 Description: "Three founding fathers and the country they created."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1719780393/9781426223204_qm4iri.jpg"
