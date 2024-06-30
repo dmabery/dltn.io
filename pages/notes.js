@@ -41,36 +41,34 @@ const NoteList = ({ posts, frontmatter }) => {
     (a, b) => new Date(b.frontmatter.Date) - new Date(a.frontmatter.Date)
   );
 
-  return (
-    <>
-      <Meta
-        title="Book Notes"
-        description="Notes, summaries, and lessons from 30+ books."
-      />
-      <div className="border border-black bg-white p-5">
-        <div className="grid grid-cols-2 gap-5 md:grid-cols-3">
-          {sortedPosts
-            .filter((post) => post.frontmatter.Type === "Book Notes")
-            .map((post, index) => (
-              <div className="cursor-pointer transition-all hover:scale-105">
-                <Link
-                  href={`/posts/${post.slug}`}
-                  className="transition-all hover:scale-105"
-                >
-                  <Image
-                    key={post.id}
-                    src={post.frontmatter.Image}
-                    layout="responsive"
-                    height={75}
-                    width={50}
-                  />
-                </Link>
-              </div>
-            ))}
-        </div>
+  return <>
+    <Meta
+      title="Book Notes"
+      description="Notes, summaries, and lessons from 30+ books."
+    />
+    <div className="border border-black bg-white p-5">
+      <div className="grid grid-cols-2 gap-5 md:grid-cols-3">
+        {sortedPosts
+          .filter((post) => post.frontmatter.Type === "Book Notes")
+          .map((post, index) => (
+            <div className="cursor-pointer transition-all hover:scale-105">
+              <Link
+                href={`/posts/${post.slug}`}
+                className="transition-all hover:scale-105"
+                legacyBehavior>
+                <Image
+                  key={post.id}
+                  src={post.frontmatter.Image}
+                  layout="responsive"
+                  height={75}
+                  width={50}
+                />
+              </Link>
+            </div>
+          ))}
       </div>
-    </>
-  );
+    </div>
+  </>;
 };
 
 export default NoteList;

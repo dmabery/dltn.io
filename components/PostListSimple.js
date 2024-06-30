@@ -6,7 +6,7 @@ const PostListSimple = (props) => (
       {props.date}
     </div>
     <div className="mb-2 text-[19px] leading-tight underline hover:no-underline">
-      <Link href={`/${props.slug}`}>{props.title}</Link>
+      <Link href={`/${props.slug}`} legacyBehavior>{props.title}</Link>
     </div>
   </div>
 );
