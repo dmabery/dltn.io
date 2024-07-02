@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the-patriots-by-winston-groom.md",
+                "file": "learn-like-sherlock-holmes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the-patriots-by-winston-groom.md",
+                "file": "learn-like-sherlock-holmes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the-patriots-by-winston-groom.md",
+                "file": "learn-like-sherlock-holmes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the-patriots-by-winston-groom.md"
+                "file": "learn-like-sherlock-holmes.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "4f20acc10b500a1a",
   "lastOpenFiles": [
+    "the-patriots-by-winston-groom.md",
     "working-by-robert-caro.md",
     "The Associate by John Grisham.md",
     "Untitled.md",
-    "the-patriots-by-winston-groom.md",
     "you-can-just.md",
     "visible-progress.md",
     "success-is-found-in-the-minutiae.md",

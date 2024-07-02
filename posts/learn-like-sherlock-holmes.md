@@ -3,6 +3,7 @@ Title: "How to learn like Sherlock Holmes"
 Tags: ["learning"]
 Date: "2024-07-02"
 Published: true
+Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1719961283/Sherlock_Holmes_-_The_Man_with_the_Twisted_Lip_tlu0vk.jpg"
 Slug: "you-can-justlearn-like-sherlock-holmes"
 Type: "Essay"
 ---
