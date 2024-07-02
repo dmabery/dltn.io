@@ -9,13 +9,13 @@ Type: "Essay"
 
 The first few chapters of [_The Study in Scarlet_](https://www.gutenberg.org/ebooks/244), the first book in *The Adventures of Sherlock Holmes*, is when Dr. Watson and Mr. Holmes meet each other for the first time. Much of Holmes’ character and his philosophy on life and knowledge is revealed through these interactions.
 
-When Watson finally discovered what Holmes’ profession was, he didn't know exactly what Sherlock did that made him such a better detective than anyone else in the profession.
+When Watson finally discovered Holmes’ profession, he didn't know exactly what made Sherlock a better detective than anyone else.
 
 Holmes’ answer:
 
 > I’m generally able, through my knowledge of the history of crime, to set [mysteries] straight. There is a strong family resemblance about misdeeds, and if you have all the details of 1,000 at your finger ends, it is odd if you can’t unravel the 1,001.
 
-Sherlock said also: “I have a lot of special knowledge which I apply to the problem, and which facilitates matters wonderfully.”
+Sherlock also said: “I have a lot of special knowledge which I apply to the problem, and which facilitates matters wonderfully.”
 
 But Sherlock didn’t just go around cramming his head full of facts; he only remembered what would be useful for his “application.” When Watson first learned this, he was astonished:
 
