@@ -7,7 +7,7 @@ Published: true
 Slug: "recently-june-2024"
 Type: "Essay"
 ---
-I saw this post style on Tom MacWright's site and thought it was cool. It's basically a log of things you read, listened to, watched, or are thinking about that month.
+I saw this post style on [Tom MacWright's site](https://macwright.com/2024/06/01/recently) and thought it was cool. It's basically a log of things you read, listened to, watched, or are thinking about that month.
 
 I thought I'd give it a try, with the intention to keep it going.
 
