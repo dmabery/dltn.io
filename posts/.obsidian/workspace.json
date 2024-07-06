@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa04f7838f777d2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recently-june-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn-like-sherlock-holmes.md",
+                "file": "recently-june-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn-like-sherlock-holmes.md",
+                "file": "recently-june-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn-like-sherlock-holmes.md"
+                "file": "recently-june-2024.md"
               }
             }
           }
@@ -146,12 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f20acc10b500a1a",
+  "active": "fa04f7838f777d2b",
   "lastOpenFiles": [
+    "you-cant-go-there-by-doing-that.md",
+    "recently-june-2024.md",
+    "learn-like-sherlock-holmes.md",
     "the-patriots-by-winston-groom.md",
     "working-by-robert-caro.md",
     "The Associate by John Grisham.md",
-    "Untitled.md",
     "you-can-just.md",
     "visible-progress.md",
     "success-is-found-in-the-minutiae.md",
@@ -172,8 +187,6 @@
     "advice-from-grandpa.md",
     "a-love-letter-to-old-books.md",
     "1776.md",
-    "wonderers.md",
-    "charles-dickens-active-patience.md",
     "templates",
     "images/F3MpsF1b0AMQHrI.webp",
     "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg",
