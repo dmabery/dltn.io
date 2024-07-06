@@ -3,7 +3,7 @@ import Link from "next/link";
 const links = [
   {
     title: "notes",
-    slug: "book-notes",
+    slug: "notes",
   },
   {
     title: "about",

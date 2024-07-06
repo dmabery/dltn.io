@@ -12,11 +12,9 @@ const HomePagePostDisplay = ({
   }, []);
 
   return <>
-    <div className="gap-10 border-b border-black flex font-sansSerif">
-      <div className="pb-10">
-        <h2 className="font-semibold pt-10 pb-3"><a href={link} target="_blank?">{title}</a></h2>
+    <div className="border-b pb-10 border-black">
+        <h2 className="font-semibold pt-10 pb-3">{title}</h2>
         <div><PostBodyContent content={content} /></div>
-      </div>
     </div>
 
   </>;
