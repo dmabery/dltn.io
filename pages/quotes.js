@@ -1,5 +1,4 @@
 /* eslint-disable react/no-unescaped-entities */
-import Link from "next/link";
 import Meta from "../components/Meta";
 import StreamPostDisplay from "../components/StreamPostDisplay";
 import { getAllQuotes } from "../lib/getMarkdownFiles";
@@ -20,13 +19,13 @@ export default function Home({ posts }) {
     />
     <div className="flex flex-col divide-y">
       <div className="flex flex-col gap-2 py-10">
-        <Link href="/writing" className="text-gray-600 mb-5 hover:text-blue">Writing</Link>
         <ol>
           {posts.map((post) => (
             <li>
               <StreamPostDisplay
                 title={post.title}
                 content={post.content}
+                link={post.link}
               />
             </li>
           ))}

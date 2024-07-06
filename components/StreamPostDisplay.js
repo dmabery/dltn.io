@@ -5,16 +5,16 @@ const prism = require("prismjs");
 const HomePagePostDisplay = ({
   title,
   content,
-  slug,
+  link,
 }) => {
   useEffect(() => {
     prism.highlightAll();
   }, []);
 
   return <>
-    <div className="gap-10 flex font-sansSerif">
-      <div className="border-b pb-10">
-        <div className="font-bold pt-10 pb-3">{title}</div>
+    <div className="gap-10 border-b border-black flex font-sansSerif">
+      <div className="pb-10">
+        <h2 className="font-semibold pt-10 pb-3"><a href={link} target="_blank?">{title}</a></h2>
         <div><PostBodyContent content={content} /></div>
       </div>
     </div>
