@@ -1,5 +1,5 @@
 ---
-Title: "Recently June '24"
+Title: "Recently (June '24)"
 Tags: ["recently"]
 Date: "2024-07-06"
 Description: "Stuff I read, watched, and listened to."
