@@ -1,5 +1,5 @@
 ---
-Title: "Recently: June '24"
+Title: "Recently June '24"
 Tags: ["recently"]
 Date: "2024-07-06"
 Description: "Stuff I read, watched, and listened to."
@@ -7,11 +7,13 @@ Published: true
 Slug: "recently-june-2024"
 Type: "Essay"
 ---
+
 I saw this post style on [Tom MacWright's site](https://macwright.com/2024/06/01/recently) and thought it was cool. It's basically a log of things you read, listened to, watched, or are thinking about that month.
 
 I thought I'd give it a try, with the intention to keep it going.
 
 ---
+
 ## Read
 
 In June, I finally finished Erik Larson's *Demon of Unrest*. It was, of course, great. Larson focuses on the shelling of Fort Sumter (or "Sumpter" if you're Abraham Lincoln) and tells the dramatic story of the characters, plots, actions, and words involved in that dispute. Ryan Holiday said Larson also captures Lincoln's transformation from a politician to a leader, which I would agree with. Critics, however, argue that in a book about the Civil War, the lack of perspectives from enslaved persons is...interesting. I think this is less of an oversight and an intentional editorial decisions because the book isn't really about the Civil War or slavery, it's more about how political influences and personalities clash when there is great divisiveness in a country, no matter what the issue is—something that makes even more sense based on Larson's prologue describing the January 6th events at the Capitol.
