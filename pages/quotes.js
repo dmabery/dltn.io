@@ -19,13 +19,14 @@ export default function Home({ posts }) {
     />
     <div className="flex flex-col divide-y">
       <div className="flex flex-col gap-2 py-10">
-        <ol>
+        <ol className="divide-y divide-black">
           {posts.map((post) => (
-            <li>
+            <li key={post.index}>
               <StreamPostDisplay
                 title={post.title}
                 content={post.content}
                 link={post.link}
+                date={post.date}
               />
             </li>
           ))}
