@@ -59,6 +59,6 @@ Another way to think about this is the  [Russel Conjugation](https://en.wikipedi
 ## Russel Conjugation
 The Russel Conjugation, or sometimes called the Emotive Conjugation is when someone uses different words to describe something depending on the feelings they want to invoke in the listener.
 
-This is something most people do without ever realizing they are doing it. This happens because all words convey two meanings. The first is the factual information the word conveys. We all know what a dog is because the word "dog" describes it. The second meaning words coney are their intended  _emotional_  response. "Dog" is a kind, loving animal. "Mutt" is a dumb, unwanted creature. "Sleeping around" vs. "Having lots of sex." "Getting drunk" vs. "Having a few too many." "Murdering babies" vs. "Pro Choice."
+This is something most people do without ever realizing they are doing it. This happens because all words convey two meanings. The first is the factual information the word conveys. We all know what a dog is because the word "dog" describes it. The second meaning words coney are their intended  _emotional_  response. "Dog" is a kind, loving animal. "Mutt" is a dumb, unwanted creature. "Sleeping around" vs. "Having lots of sex." "Getting drunk" vs. "Having a few too many."
 
 By using a select choice of words instead of another, a speaker is able to create emotional responses to what they're saying. They can invoke love and sadness or fear and anger by describing the same situation based on factual meaning but that carries a different emotional load.
