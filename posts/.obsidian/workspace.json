@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03e2da0ef8134100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes-on-thoughts-for-young-men-by-jc-ryle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "if-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "54b545e61365d265",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recently-june-2024.md",
+                "file": "notes-on-thoughts-for-young-men-by-jc-ryle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recently-june-2024.md",
+                "file": "notes-on-thoughts-for-young-men-by-jc-ryle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recently-june-2024.md"
+                "file": "notes-on-thoughts-for-young-men-by-jc-ryle.md"
               }
             }
           }
@@ -159,13 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa04f7838f777d2b",
+  "active": "03e2da0ef8134100",
   "lastOpenFiles": [
-    "you-cant-go-there-by-doing-that.md",
+    "if-by-whiskey.md",
+    "podcast-timestamps-with-chat-gpt.md",
     "recently-june-2024.md",
+    "notes-on-thoughts-for-young-men-by-jc-ryle.md",
+    "working-by-robert-caro.md",
+    "you-cant-go-there-by-doing-that.md",
     "learn-like-sherlock-holmes.md",
     "the-patriots-by-winston-groom.md",
-    "working-by-robert-caro.md",
     "The Associate by John Grisham.md",
     "you-can-just.md",
     "visible-progress.md",
@@ -184,9 +200,6 @@
     "dont-let-it-fade-to-black.md",
     "dont-create-a-horse-storm.md",
     "book-notes-the-gathering-storm-winston-churchill.md",
-    "advice-from-grandpa.md",
-    "a-love-letter-to-old-books.md",
-    "1776.md",
     "templates",
     "images/F3MpsF1b0AMQHrI.webp",
     "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg",
