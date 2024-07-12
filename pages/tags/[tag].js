@@ -24,7 +24,7 @@ export const getStaticPaths = async () => {
 };
 
 const TagPage = ({ posts, tag }) => (
-  <div className="border border-black bg-white p-5">
+  <div>
     <Meta
       title={tag}
       description="A codex of my personal journey to understand the world."

@@ -46,7 +46,7 @@ const NoteList = ({ posts, frontmatter }) => {
       title="Book Notes"
       description="Notes, summaries, and lessons from 30+ books."
     />
-    <div className="border border-black bg-white p-5">
+    <div>
       <div className="grid grid-cols-2 gap-5 md:grid-cols-3">
         {sortedPosts
           .filter((post) => post.frontmatter.Type === "Book Notes")

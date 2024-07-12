@@ -21,7 +21,7 @@ const Footer = () => (
       <div className="flex flex-col">
         <p className="mb-4 font-serif font-bold">Stay curious.</p>
         {footerLink.map((link) => (
-          <a className="decoration-white hover:underline" href={link.link}>
+          <a className="decoration-white hover:underline" href={link.link} key={link.title}>
             {link.title}
           </a>
         ))}
