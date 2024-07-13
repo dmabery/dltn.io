@@ -2,7 +2,6 @@
 import IndexCallout from "../components/IndexCallout";
 import Meta from "../components/Meta";
 import PostDisplay from "../components/PostDisplay";
-import Sidebar from "../components/Sidebar";
 import { getLatestPosts } from "../lib/service";
 
 export const getStaticProps = async () => {
@@ -24,7 +23,6 @@ export default function Home({ posts }) {
         title="Dalton Mabery is a video editor who reads and writes."
         description="Developer, Video Editor, Writer."
       />
-      <Sidebar posts={posts}>
       <IndexCallout />
       <div className="flex flex-col gap-20">
         {posts.map((post) => (
@@ -41,7 +39,6 @@ export default function Home({ posts }) {
           />
         ))}
       </div>
-      </Sidebar>
     </>
   );
 }

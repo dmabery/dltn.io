@@ -22,6 +22,8 @@ module.exports = {
       },
     },
     fontFamily: {
+      heading: ["Newsreader", "sans serif"],
+      body: ["Newsreader", "serif"],
       mono: ["Inconsolata", "monospace"],
       serif: ["Newsreader", "serif"],
       sansSerif: ["Inter", "Sans Serif"],

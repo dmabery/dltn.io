@@ -4,6 +4,7 @@ import Head from "next/head";
 import "prismjs";
 import { QueryClient, QueryClientProvider } from "react-query";
 import Nav from "../components/Nav";
+import Sidebar from "../components/Sidebar";
 import "../styles/globals.css";
 import "../styles/prism-theme.css";
 
@@ -17,10 +18,12 @@ function MyApp({ Component, pageProps }) {
       </Head>
       <Nav />
       <div>
-        <main className="mt-16 mx-auto max-w-[1000px]">
+        <main className="mt-16 max-w-[1000px]">
           <QueryClientProvider client={queryClient}>
+            <Sidebar>
               <Component {...pageProps} />
               <Analytics />
+            </Sidebar>
           </QueryClientProvider>
         </main>
       </div>
