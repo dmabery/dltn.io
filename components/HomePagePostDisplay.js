@@ -30,7 +30,7 @@ const HomePagePostDisplay = ({
               ? tags.map((tag) => {
                   return (
                     <li className="inline">
-                      <Link className="hover:underline" href={`/tags/${tag}`} legacyBehavior>
+                      <Link className="hover:text-blue" href={`/tags/${tag}`}>
                         {tag}
                       </Link>
                     </li>

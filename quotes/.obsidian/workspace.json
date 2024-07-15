@@ -13,14 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lincoln's Wit.md",
-                "mode": "preview",
+                "file": "Commencement Address, America University Beirut.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "c612221dbf50e96c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Commencement Address, America University Beirut.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lincoln's Wit.md",
+                "file": "Commencement Address, America University Beirut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lincoln's Wit.md",
+                "file": "Commencement Address, America University Beirut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lincoln's Wit.md"
+                "file": "Commencement Address, America University Beirut.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f37cdf3a8ca2955e",
+  "active": "c612221dbf50e96c",
   "lastOpenFiles": [
-    "Commencement Address, America University Beirut.md",
+    "Lessons from Peter Thiel.md",
     "Lincoln's Wit.md",
+    "Commencement Address, America University Beirut.md",
     "A Post.md"
   ]
 }

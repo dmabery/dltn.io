@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03e2da0ef8134100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "if-by-whiskey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "if-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "54b545e61365d265",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn-like-sherlock-holmes.md",
+                "file": "if-by-whiskey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn-like-sherlock-holmes.md",
+                "file": "if-by-whiskey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn-like-sherlock-holmes.md"
+                "file": "if-by-whiskey.md"
               }
             }
           }
@@ -146,12 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f20acc10b500a1a",
+  "active": "03e2da0ef8134100",
   "lastOpenFiles": [
-    "the-patriots-by-winston-groom.md",
+    "notes-on-thoughts-for-young-men-by-jc-ryle.md",
+    "if-by-whiskey.md",
+    "podcast-timestamps-with-chat-gpt.md",
+    "recently-june-2024.md",
     "working-by-robert-caro.md",
+    "you-cant-go-there-by-doing-that.md",
+    "learn-like-sherlock-holmes.md",
+    "the-patriots-by-winston-groom.md",
     "The Associate by John Grisham.md",
-    "Untitled.md",
     "you-can-just.md",
     "visible-progress.md",
     "success-is-found-in-the-minutiae.md",
@@ -169,11 +188,6 @@
     "dont-let-it-fade-to-black.md",
     "dont-create-a-horse-storm.md",
     "book-notes-the-gathering-storm-winston-churchill.md",
-    "advice-from-grandpa.md",
-    "a-love-letter-to-old-books.md",
-    "1776.md",
-    "wonderers.md",
-    "charles-dickens-active-patience.md",
     "templates",
     "images/F3MpsF1b0AMQHrI.webp",
     "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg",

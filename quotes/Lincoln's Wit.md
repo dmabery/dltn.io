@@ -1,6 +1,7 @@
 ---
 Title: Lincoln's Wit
-Date: 2024-07-06
+Date: 2024-07-06T20:20:00
+Link: https://www.google.com
 ---
 
 In 1843, the people of Illinois met for the first nominating convention of the Whig party, to nominate someone for Congress. Abraham Lincoln and two others were front runners going into the convention. But after the first ballot it became clear Lincoln would not win. So the supporters of his opponent, Edward Baker, asked Lincoln to withdraw and support Baker, so as to have a unified front. He did so.
