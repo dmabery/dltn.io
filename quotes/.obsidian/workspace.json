@@ -26,14 +26,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commencement Address, America University Beirut.md",
+                "file": "Lincoln's Wit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96613a492462afad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessons from Peter Thiel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31d84fa3caa53f97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-142.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commencement Address, America University Beirut.md",
+                "file": "2024-07-142.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commencement Address, America University Beirut.md",
+                "file": "2024-07-142.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commencement Address, America University Beirut.md"
+                "file": "2024-07-142.md"
               }
             }
           }
@@ -160,11 +184,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c612221dbf50e96c",
+  "active": "31d84fa3caa53f97",
   "lastOpenFiles": [
     "Lessons from Peter Thiel.md",
-    "Lincoln's Wit.md",
+    "2024-07-142.md",
+    "2024-07-141.md",
+    "2025-05-05.md",
     "Commencement Address, America University Beirut.md",
+    "2024-05-08.md",
+    "Lincoln's Wit.md",
     "A Post.md"
   ]
 }

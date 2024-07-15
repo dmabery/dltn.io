@@ -1,7 +1,7 @@
 ---
 Title: Lessons from Peter Thiel
 Date: 2024-07-14T20:28:00
-Link: https://www.google.com
+Link: https://joelonsdale.com/lessons-peter-thiel/
 ---
 When you have something that’s working, it’s almost always better to spend time making that thing work better—and make it work so it makes you more money—and not start something new.
 
