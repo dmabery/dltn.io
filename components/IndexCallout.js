@@ -9,13 +9,13 @@ export default function IndexCallout() {
         </div>
         <div className="flex flex-col gap-4 text-[19px] leading-tight">
         <p>
-            I'm the digital creator and designer at Farnam Street.
+            I'm a first year law student in Sacramento.
           </p>
           <p>
-            I spend my free time <span className="italic">learning</span>, <span className="italic">reading</span>, and <span className="italic">writing</span> about history's most interesting people, ideas, essays, and inventions.
+            I blog about what I learn studying law and reading history.
           </p>
             <p>
-            Subscribe for new posts and my monthly reading list emails.
+            Subscribe for new posts and my monthly digest emails.
             </p>
             <Subscribe />
         </div>

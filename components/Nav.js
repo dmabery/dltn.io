@@ -2,10 +2,6 @@ import Link from "next/link";
 
 const links = [
   {
-    title: "writing",
-    slug: "writing",
-  },
-  {
     title: "notes",
     slug: "notes",
   },

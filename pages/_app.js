@@ -3,6 +3,7 @@ import { Analytics } from "@vercel/analytics/react";
 import Head from "next/head";
 import "prismjs";
 import { QueryClient, QueryClientProvider } from "react-query";
+import Footer from "../components/Footer";
 import Nav from "../components/Nav";
 import "../styles/globals.css";
 import "../styles/prism-theme.css";
@@ -23,6 +24,7 @@ function MyApp({ Component, pageProps }) {
               <Analytics />
           </QueryClientProvider>
         </main>
+        <Footer />
       </div>
     </>
   );
