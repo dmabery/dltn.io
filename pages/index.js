@@ -9,7 +9,6 @@ export const getStaticProps = async () => {
   const posts = await getLatestPosts();
   const categories = await getAllCategories(100);
   const tags = await getAllTags(100);
-  console.log(categories)
 
   return {
     props: {
@@ -40,20 +39,20 @@ export default function Home({ posts, categories, tags }) {
               title={post.title}
               date={post.date}
               slug={`posts/${post.slug}`}
-              key={post.index}
+              key={post.title}
             />
           ))}
       </div>
       <div className="py-10 flex flex-col">
           <Link href="/writing" className="hover:text-blue font-sansSerif mb-3">Categories</Link>
           {categories.map((category) => (
-            <div className="inline">{category}</div>
+            <div className="inline" key={category}>{category}</div>
           ))}
       </div>
       <div className="py-10 flex flex-col">
           <Link href="/writing" className="hover:text-blue font-sansSerif mb-3">Categories</Link>
           {tags.map((tag) => (
-            <p>{tag}</p>
+            <p key={tag}>{tag}</p>
           ))}
       </div>
       </div>
