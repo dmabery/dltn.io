@@ -38,6 +38,7 @@ export async function getStaticProps({ params: { slug } }) {
       props: {
         frontmatter,
         content,
+        date: new Date(frontmatter.Date).toISOString()
       },
     };
   } catch (error) {
@@ -59,7 +60,7 @@ const BlogPost = ({ frontmatter, content }) => {
           image={frontmatter.Image}
         />
         <HomePagePostDisplay
-          date={frontmatter.Date}
+          date={new Date(frontmatter.Date).toISOString()}
           title={frontmatter.Title}
           tags={frontmatter.Tags}
           description={frontmatter.Description}

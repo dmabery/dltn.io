@@ -1,12 +1,12 @@
 I have a new page on my site: dltn.io/links where I'll publish notes from (mostly) articles with brief editorial comments.
 
-I stole this idea from Jim Nielsen after I came across his site: www.notes.jiim-nielsen.com. I've long wondered how I can post quotes and ideas from articles that I read, publicly, but have never found something that really worked. After seeing how Jim made his site, reading the technicalities of how it works, and perusing his code, I decided to make my own page that does something similar.
+I stole this idea from Jim Nielsen after I came across his site: www.notes.jim-nielsen.com. I've long wondered how I can post quotes and ideas from articles that I read, publicly, but have never found something that really worked. After seeing how Jim made his site, reading the technicalities of how it works, and perusing his code, I decided to make my own page that does something similar.
 
 I like [how he explains it](https://blog.jim-nielsen.com/2023/notes-dot-jim-nielsen-dot-com/):
 
 > What makes those notes useful is 1) the process of internalizing their meaning through collecting, writing, and publishing them, and 2) the ability to reference them in the future.
 
-Since I already publish my book notes at /notes, I had to think of a different nomenclature. During development, it was /quotes, and I liked that. But then I realized, as Jim also explains in his post, I'm not really collecting the quotes to have a list of cool quotes; I'm collecting them to consolidate my own insights and notes from what I read publicly.
+Since I already publish my book notes at /notes, I had to think of a different nomenclature. During development, it was /quotes, and I liked that. But then I realized, as Jim also explains in his post, I'm not really collecting the quotes to have a list of cool quotes; I'm collecting them to consolidate my own insights and notes from what I read, publicly.
 
 I saw someone else name theirs /links, and I liked that, because to a reader, ideally this is a place they can land and find unique reading material.
 
