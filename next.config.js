@@ -7,10 +7,7 @@ module.exports = {
     domains: [
       "images.ctfassets.net",
       "res.cloudinary.com",
-      "_.cloudinary.com",
-      "evm.heg.mybluehost.me",
-      "i0.wp.com",
-      "sqb.jln.mybluehost.me",
+      "dltnio.wc.reclaim.press",
     ],
   },
   async redirects() {

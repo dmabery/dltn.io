@@ -7,7 +7,7 @@ export default function IndexCallout() {
         <div className="font-sansSerif text-[22px] font-bold">
           Hi, I'm Dalton
         </div>
-        <div className="flex flex-col gap-4 text-[19px] leading-tight">
+        <div className="flex flex-col gap-4 text-[20px] leading-tight">
         <p>
             I'm a first year law student in Sacramento.
           </p>
