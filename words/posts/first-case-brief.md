@@ -17,11 +17,6 @@ Anyway, here was the case. What follows is my brief.
 
 ---
 
-## Questions
-- Why is this case named so differently than a typical case like *The People V. Miller* or something? I think it's because it's a juvenile case, but not sure.
-	- Indeed, that's why. A lot of juvenile court cases are not about punishment necessarily, and are more about rehabilitation. The naming convention of the case reflects this. Instead of having the typical case name, which is bit adversarial (The People V Miller), juvenile court cases are title *In Re* followed by the defendant's name because the case is acting "In the matter of" or "concerning." This naming convention reflects the fact that the court is acting in the best interest of the child, and not as an adversarial prosecutor.
-- The court found that the appellant violated Penal Code section 647(f), which prohibits any person to be under the influence of a drug in a public setting if they cannot care for the safety of themselves or others. But, the officers didn't properly arrest the appellant until they found the bag of Tuinal, and then arrested him not for public intoxication, but for possession of a dangerous drug. How can he be arrested for one thing, but convicted of another? Or, is this *only* in reference to the charge of violation of penal code 647(f), and either the illegal drug charge was not brought formally to court, or they aren't appealing that charge.
-
 *Caption*
 - In re David W.
 - 116 Cal.App.3d 689

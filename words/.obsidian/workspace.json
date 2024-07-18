@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/first-case-brief.md",
+                "file": "draft - links.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91d54b2ed3edebf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Professors, Start Your Blogs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -75,7 +87,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/first-case-brief.md",
+                "file": "Professors, Start Your Blogs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/first-case-brief.md",
+                "file": "Professors, Start Your Blogs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/first-case-brief.md"
+                "file": "Professors, Start Your Blogs.md"
               }
             }
           }
@@ -184,22 +196,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5343f84b7464ee8c",
+  "active": "91d54b2ed3edebf9",
   "lastOpenFiles": [
     "draft - links.md",
+    "Professors, Start Your Blogs.md",
     "posts/first-case-brief.md",
+    "posts/why-legacy-career-paths-cant-innovate.md",
+    "posts/you-can-just.md",
+    "posts/you-cant-imagine.md",
+    "posts/you-cant-go-there-by-doing-that.md",
+    "posts/are-you-playing-a-game-you-want-to-win.md",
+    "posts/annie-dillard-keep-a-daily-routine.md",
+    "posts/what-we-see-when-we-read.md",
+    "posts/what-it-takes-to-be-a-great-teacher.md",
+    "posts/what-i-read-in-october-2022.md",
+    "posts/what-i-read-in-november.md",
+    "posts/what-do-you-care-what-other-people-think.md",
+    "posts/what-actually-happened-in-oppenheimer.md",
+    "posts/visible-progress.md",
+    "posts/twr-2023-10-07.md",
+    "posts/where-dead-cells-in-the-body-go.md",
+    "posts/2-habits-for-a-better-intellectual-life copy.md",
     "links/2024-07-15T1606.md",
     "links/2024-07-15.md",
     "templates/Post Template.md",
     "slug.md",
-    "posts/2-habits-for-a-better-intellectual-life copy.md",
     "templates/Links Template.md",
     "quotes/2024-07-15.md",
     "d.md",
-    "templates",
-    "quotes/2024-07-142.md",
-    "quotes/Lincoln's Wit.md",
-    "quotes/Commencement Address, America University Beirut.md",
-    "quotes/2025-05-05.md"
+    "templates"
   ]
 }
