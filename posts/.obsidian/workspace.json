@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes-on-thoughts-for-young-men-by-jc-ryle.md",
+                "file": "writing-in-your-head.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54b545e61365d265",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes-on-thoughts-for-young-men-by-jc-ryle.md",
+                "file": "writing-in-your-head.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes-on-thoughts-for-young-men-by-jc-ryle.md",
+                "file": "writing-in-your-head.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes-on-thoughts-for-young-men-by-jc-ryle.md"
+                "file": "writing-in-your-head.md"
               }
             }
           }
@@ -174,16 +173,20 @@
   },
   "active": "03e2da0ef8134100",
   "lastOpenFiles": [
+    "you-can-just.md",
+    "you-cant-go-there-by-doing-that.md",
+    "why-you-feel-stuck-in-life.md",
+    "why-legacy-career-paths-cant-innovate.md",
+    "writing-in-your-head.md",
+    "you-cant-imagine.md",
+    "notes-on-thoughts-for-young-men-by-jc-ryle.md",
     "if-by-whiskey.md",
     "podcast-timestamps-with-chat-gpt.md",
     "recently-june-2024.md",
-    "notes-on-thoughts-for-young-men-by-jc-ryle.md",
     "working-by-robert-caro.md",
-    "you-cant-go-there-by-doing-that.md",
     "learn-like-sherlock-holmes.md",
     "the-patriots-by-winston-groom.md",
     "The Associate by John Grisham.md",
-    "you-can-just.md",
     "visible-progress.md",
     "success-is-found-in-the-minutiae.md",
     "specific-directions-or-shut-up.md",
@@ -196,10 +199,6 @@
     "how-i-choose-what-to-read-bullets-vs-cannonballs.md",
     "fix-the-fridge.md",
     "explanation-vs-excuses.md",
-    "dont-take-non-practitioner-advice.md",
-    "dont-let-it-fade-to-black.md",
-    "dont-create-a-horse-storm.md",
-    "book-notes-the-gathering-storm-winston-churchill.md",
     "templates",
     "images/F3MpsF1b0AMQHrI.webp",
     "images/princeton-university-physicist-j-robert-oppenheimer_u-L-P442XW0.jpg",
