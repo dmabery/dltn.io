@@ -7,7 +7,7 @@ import SubscribeGroup from "../../components/SubscribeGroup";
 
 export async function getStaticPaths() {
   try {
-    const files = fs.readdirSync("posts");
+    const files = fs.readdirSync("words/posts");
 
     const paths = files.map((fileName) => ({
       params: {
@@ -31,13 +31,14 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params: { slug } }) {
   try {
-    const fileName = fs.readFileSync(`posts/${slug}.md`, "utf-8");
+    const fileName = fs.readFileSync(`words/posts/${slug}.md`, "utf-8");
     const { data: frontmatter, content } = matter(fileName);
 
     return {
       props: {
         frontmatter,
         content,
+        date: new Date(frontmatter.Date).toISOString()
       },
     };
   } catch (error) {
@@ -59,7 +60,7 @@ const BlogPost = ({ frontmatter, content }) => {
           image={frontmatter.Image}
         />
         <HomePagePostDisplay
-          date={frontmatter.Date}
+          date={new Date(frontmatter.Date).toISOString()}
           title={frontmatter.Title}
           tags={frontmatter.Tags}
           description={frontmatter.Description}

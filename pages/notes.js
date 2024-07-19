@@ -8,8 +8,8 @@ import Meta from "../components/Meta";
 import PageTitle from "../components/PageTitle";
 
 export const getStaticProps = async () => {
-  const files = fs.readdirSync("posts");
-  const postsDirectory = "posts";
+  const files = fs.readdirSync("words/posts");
+  const postsDirectory = "words/posts";
 
   const posts = files
     .filter((fileName) => {

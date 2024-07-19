@@ -9,9 +9,14 @@ body {
   margin: 0;
   font-family: 'Inter', sans-serif;
   background-color: #F5F5F5;
-  color: @apply gray-900;
+  color: #100f10;
 }
 
+em {
+  font-family: Newsreader, serif;
+  font-size: 17px;
+  font-kerning: auto;
+}
 
 a {
   text-decoration: none;
