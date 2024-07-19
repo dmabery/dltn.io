@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "case-brief",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,9 +186,9 @@
   },
   "active": "91d54b2ed3edebf9",
   "lastOpenFiles": [
-    "draft - links.md",
-    "Professors, Start Your Blogs.md",
     "posts/first-case-brief.md",
+    "Professors, Start Your Blogs.md",
+    "draft - links.md",
     "posts/why-legacy-career-paths-cant-innovate.md",
     "posts/you-can-just.md",
     "posts/you-cant-imagine.md",
