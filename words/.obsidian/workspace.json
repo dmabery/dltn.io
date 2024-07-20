@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/writing-in-your-head.md",
+                "file": "posts/2024-07-20-fort-sumter.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/writing-in-your-head.md",
+                "file": "posts/2024-07-20-fort-sumter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/writing-in-your-head.md",
+                "file": "posts/2024-07-20-fort-sumter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/writing-in-your-head.md"
+                "file": "posts/2024-07-20-fort-sumter.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "4a66b91888c0faf9",
   "lastOpenFiles": [
+    "posts/2024-07-20-slug.md",
+    "posts/2024-07-20-fort-sumter.md",
+    "posts/writing-in-your-head.md",
     "posts/you-can-just.md",
     "posts/you-cant-go-there-by-doing-that.md",
     "posts/you-cant-imagine.md",
@@ -159,7 +162,6 @@
     "templates/Post Template.md",
     "templates",
     "posts/ubi-caritas.md",
-    "posts/writing-in-your-head.md",
     "posts/wonderers.md",
     "posts/why-you-feel-stuck-in-life.md",
     "posts/working-by-robert-caro.md",
@@ -173,8 +175,6 @@
     "posts/where-the-term-zero-sum-comes-from.md",
     "posts/what-we-see-when-we-read.md",
     "posts/what-it-takes-to-be-a-great-teacher.md",
-    "posts/what-i-read-in-november.md",
-    "posts/what-i-read-in-october-2022.md",
     "posts",
     "Dalt - Obsidian/publish.css",
     "Dalt - Obsidian/Session 2 State v. Kremer Sample Brief.docx",

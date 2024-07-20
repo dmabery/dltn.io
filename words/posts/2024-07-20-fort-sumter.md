@@ -1,13 +1,5 @@
----
-Title: "Major Anderson Telegram: The Civil War Has Begun!"
-tags:
-  - "history"
-Date: "2024-07-20"
-Description: History by mail.
-Published: true
-Slug: fort-sumter
-Type: Essay
----
+#history 
+# Major Anderson: The Civil War Has Begun!
 Before the first shot was ever fired during the Civil War, tension between the North and South had been brewing for thirty years.
 
 But on April 18, 1861, Major Robert Anderson sent a telegram to Secretary of War Simon Cameron which effectively declared the beginning of the bloodshed. Major Anderson was in charge of Fort Sumter in South Carolina. Ever since South Carolina formally seceded from the Union, the question of what to do with federal territory in the state was hotly debated. States-rights advocated declared it was the property of South Carolina; Unionists disagreed.
@@ -19,4 +11,5 @@ Outgunned and outmanned, Major Anderson was forced to surrender the fort and att
 I subscribe to a service called History By Mail. Every month, they send a replica of a historical document along with brief commentary that explains the background and major players involved. It's usually some sort of letter.
 
 Below is the telegram Major Anderson sent. The first telegram of the Civil War.
+
 
