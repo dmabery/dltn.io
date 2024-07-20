@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2024-07-20-fort-sumter.md",
+                "file": "posts/book-notes-bird-by-bird-by-anne-lamott.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2024-07-20-fort-sumter.md",
+                "file": "posts/book-notes-bird-by-bird-by-anne-lamott.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2024-07-20-fort-sumter.md",
+                "file": "posts/book-notes-bird-by-bird-by-anne-lamott.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2024-07-20-fort-sumter.md"
+                "file": "posts/book-notes-bird-by-bird-by-anne-lamott.md"
               }
             }
           }
@@ -148,40 +148,38 @@
   },
   "active": "4a66b91888c0faf9",
   "lastOpenFiles": [
-    "posts/2024-07-20-slug.md",
     "posts/2024-07-20-fort-sumter.md",
-    "posts/writing-in-your-head.md",
-    "posts/you-can-just.md",
-    "posts/you-cant-go-there-by-doing-that.md",
-    "posts/you-cant-imagine.md",
-    "templates/Links Template.md",
-    "draft - links.md",
-    "Professors, Start Your Blogs.md",
-    "posts/slug.md",
-    "posts/2-habits-for-a-better-intellectual-life copy.md",
-    "templates/Post Template.md",
-    "templates",
-    "posts/ubi-caritas.md",
-    "posts/wonderers.md",
-    "posts/why-you-feel-stuck-in-life.md",
-    "posts/working-by-robert-caro.md",
-    "posts/why-i-wake-up-at-5-am.md",
-    "posts/why-i-read.md",
-    "posts/why-legacy-career-paths-cant-innovate.md",
-    "posts/twr-2023-10-07.md",
-    "posts/which-is-better-instinct-or-reason.md",
-    "posts/why-i-publish-my-notes-online.md",
-    "posts/where-dead-cells-in-the-body-go.md",
-    "posts/where-the-term-zero-sum-comes-from.md",
-    "posts/what-we-see-when-we-read.md",
-    "posts/what-it-takes-to-be-a-great-teacher.md",
-    "posts",
+    "Dalt - Obsidian/you ask I say.md",
     "Dalt - Obsidian/publish.css",
+    "Dalt - Obsidian/You Can't Judge a Thing for What It's Not.md",
+    "Dalt - Obsidian/Why feedback doesn't work.md",
+    "Dalt - Obsidian/Why I'm Going to Law School.md",
+    "Dalt - Obsidian/What's my law school contract?.md",
+    "Dalt - Obsidian/What if you just tried hard?.md",
+    "Dalt - Obsidian/What does it mean to learn well? Not strategies for learning, but prep and mindset..md",
+    "Dalt - Obsidian/To Read.md",
+    "Dalt - Obsidian/To Dragonfruit.md",
+    "Dalt - Obsidian/Time management and law school.md",
+    "Dalt - Obsidian/The difference between most people are just the standards they set for themselves.md",
+    "Dalt - Obsidian/The Boys in the Boat.md",
+    "Dalt - Obsidian/Stuff for sick things school.md",
     "Dalt - Obsidian/Session 2 State v. Kremer Sample Brief.docx",
     "Dalt - Obsidian/Session 2 Critical Reading Case for Actus Reus with Annotations.pdf",
     "Dalt - Obsidian/Session 2 Briefing Template.pdf",
     "Dalt - Obsidian/Screenshot 2024-07-16 at 5.59.10 PM.png",
     "Dalt - Obsidian/Screenshot 2024-07-15 at 6.00.16 PM.png",
+    "Dalt - Obsidian/References/sacl aw firm program.md",
+    "Dalt - Obsidian/References/haber london - leather stuff.md",
+    "Dalt - Obsidian/References/_The Economic Basis of Politics_.md",
+    "Dalt - Obsidian/References/_State and Revolution_.md",
+    "Dalt - Obsidian/References/_Sawdust Ceaser_.md",
+    "Dalt - Obsidian/References/_Mussolini’s Italy_.md",
+    "Dalt - Obsidian/References/_Germany Enters the Third Reich_.md",
+    "Dalt - Obsidian/References/_Dictatorship in the Modern World_.md",
+    "Dalt - Obsidian/References/_Communist Manifesto_.md",
+    "Dalt - Obsidian/References/_A Treasury of the World’s Greatest Speeches_.md",
+    "Dalt - Obsidian/References/Wingback - cool pens and stuff.md",
+    "Dalt - Obsidian/References/William Labov.md",
     "Dalt - Obsidian/References/A Map of Political Parties.canvas",
     "Dalt - Obsidian/References",
     "Dalt - Obsidian/Readwise",
@@ -189,12 +187,14 @@
     "Dalt - Obsidian/Notes/Tax_1099INT_2023_6556_1395699_474068.pdf",
     "Dalt - Obsidian/Notes/Screenshot 2024-01-21 at 1.06.24 PM.png",
     "Dalt - Obsidian/Notes/Note flow.canvas",
-    "Dalt - Obsidian/Meta/archive/Misc./Images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_dc134bc8-3047-49db-ace8-fd9df306696d_1522x872.webp",
-    "Dalt - Obsidian/Meta/archive/Misc./Images/Street Life - Standing.png",
-    "Dalt - Obsidian/Meta/archive/Misc./Images/Screen Shot 2022-07-02 at 11.55.30 AM.png",
-    "Dalt - Obsidian/Meta/archive/Misc./Images/Screen Shot 2022-06-13 at 9.11.58 PM.png",
-    "Dalt - Obsidian/Meta/archive/Misc./Images/2-01.png",
-    "Dalt - Obsidian/Meta/archive/Misc./Images/1-01.png",
-    "Dalt - Obsidian/Meta/archive/Misc./02 Published images/light box time dilation.jpeg"
+    "Dalt - Obsidian/Notes",
+    "Dalt - Obsidian/Meta/archive/favicon.ico",
+    "Dalt - Obsidian/Meta/archive/Misc./03 Unpublished images/Screen Shot 2022-02-09 at 6.01.18 AM.png",
+    "Dalt - Obsidian/Meta/archive/Misc./02 Published images/image.png",
+    "Dalt - Obsidian/Meta/archive/Misc./02 Published images/light box time dilation.jpeg",
+    "Dalt - Obsidian/Meta/archive/Misc./02 Published images/life 4.jpeg",
+    "Dalt - Obsidian/Meta/archive/Misc./02 Published images/Screen Shot 2022-05-16 at 10.29.26 PM.png",
+    "Dalt - Obsidian/Meta/archive/Misc./02 Published images/benfranklindaily.jpeg",
+    "Dalt - Obsidian/Meta/archive/Misc./02 Published images/Screen Shot 2022-04-19 at 8.00.53 PM.png"
   ]
 }
