@@ -1,7 +1,7 @@
 import Meta from "../../components/Meta";
 import PageTitle from "../../components/PageTitle";
 import PostListSimple from "../../components/PostListSimple";
-import { getPostsByTags, getTags } from "../../lib/getPosts";
+import { getPostsByTags, getTags } from "../../lib/getMarkdownFiles";
 
 export const getStaticProps = async ({ params }) => {
   const data = await getPostsByTags(params.tag);
@@ -34,13 +34,9 @@ const TagPage = ({ posts, tag }) => (
       <div>
         {posts.map((post) => (
           <PostListSimple
-            title={post.frontmatter.Title}
-            date={post.frontmatter.Date}
-            tags={post.frontmatter.Tags}
-            description={post.frontmatter.Description}
-            image={post.frontmatter.Image}
-            slug={`posts/${post.frontmatter.Slug}`}
-            content={post.content}
+            title={post.title}
+            slug={`posts/${post.slug}`}
+            date={post.date.slice(0,10)}
           />
         ))}
       </div>

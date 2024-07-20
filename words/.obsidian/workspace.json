@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2-habits-for-a-better-intellectual-life copy.md",
+                "file": "posts/writing-in-your-head.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/writing-in-your-head.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/writing-in-your-head.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/slug.md"
+                "file": "posts/writing-in-your-head.md"
               }
             }
           }
@@ -144,17 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eea3e51b295ff6f3",
+  "active": "4a66b91888c0faf9",
   "lastOpenFiles": [
-    "posts/2-habits-for-a-better-intellectual-life copy.md",
-    "posts/slug.md",
+    "posts/you-can-just.md",
+    "posts/you-cant-go-there-by-doing-that.md",
+    "posts/you-cant-imagine.md",
     "templates/Links Template.md",
+    "draft - links.md",
+    "Professors, Start Your Blogs.md",
+    "posts/slug.md",
+    "posts/2-habits-for-a-better-intellectual-life copy.md",
     "templates/Post Template.md",
     "templates",
-    "posts/you-cant-imagine.md",
     "posts/ubi-caritas.md",
-    "posts/you-cant-go-there-by-doing-that.md",
-    "posts/you-can-just.md",
     "posts/writing-in-your-head.md",
     "posts/wonderers.md",
     "posts/why-you-feel-stuck-in-life.md",
@@ -171,8 +175,6 @@
     "posts/what-it-takes-to-be-a-great-teacher.md",
     "posts/what-i-read-in-november.md",
     "posts/what-i-read-in-october-2022.md",
-    "posts/what-do-you-care-what-other-people-think.md",
-    "posts/weekend.md",
     "posts",
     "Dalt - Obsidian/publish.css",
     "Dalt - Obsidian/Session 2 State v. Kremer Sample Brief.docx",
