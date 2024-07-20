@@ -5,11 +5,15 @@ import PostListSimple from "../components/PostListSimple";
 import { getAllPosts } from "../lib/getMarkdownFiles";
 
 export const getStaticProps = async () => {
-  return getAllPosts();
+  const posts = await getAllPosts();
+
+  return {
+    props: {posts}
+  }
 };
 
 const Writing = ({ posts }) => (
-  <div className="border border-black bg-white p-5">
+  <div>
     <Meta
       title="Writing"
       description="A codex of my personal journey to understand the world."
@@ -22,9 +26,9 @@ const Writing = ({ posts }) => (
     <div className="mt-5">
       {posts.map((post, index) => (
         <PostListSimple
-          title={post.frontmatter.Title}
-          date={post.frontmatter.Date}
-          slug={`/posts/${post.slug}`}
+          title={post.title}
+          date={post.date.slice(0,10)}
+          slug={`posts/${post.slug}`}
           key={post.id}
         />
       ))}
