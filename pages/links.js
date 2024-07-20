@@ -18,7 +18,7 @@ export default function Home({ posts }) {
       description="Developer, Video Editor, Writer."
     />
     <div className="flex flex-col">
-      <p className="border-b pb-10">Links, quotes, ideas, and notes from articles and PDFs on the net. Have a recommendation? Let me know!</p>
+      <p className="border-b text-xl pb-10">Links, quotes, ideas, and notes from articles and PDFs on the net. Have a recommendation? Let me know!</p>
       <div className="flex flex-col gap-2 py-10">
         <ol>
           {posts.map((post) => (
