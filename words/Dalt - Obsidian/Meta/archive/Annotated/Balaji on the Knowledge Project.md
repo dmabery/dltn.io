@@ -1,0 +1,7 @@
+- Science is not about big citations but independent replications
+- The information supply chain:
+	- Academia writes about a topic,
+	- Media reports on the topic,
+	- Government regulates the topic #tweet
+- The distribution of ideas in the 90s was so scarce that [[The Unabomber]] had to kill to get distribution of his manifesto.
+- In the 1800s, you could have a physical war between groups because they were so separated. One group on one side and another group on another. But you can't do that now. So instead, victory is won by invading your mind. It's fought with ideologies and thoughts. That goes back to distribution (see point above)

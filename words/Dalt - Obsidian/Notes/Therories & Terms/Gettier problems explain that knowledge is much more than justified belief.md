@@ -1,0 +1,4 @@
+> _"Imagine that you are standing outside a field. You see, within it, what looks exactly like a sheep. What belief instantly occurs to you? Among the many that could have done so, it happens to be the belief that there is a sheep in the field. And in fact you are right, because there is a sheep behind the hill in the middle of the field. You cannot see that sheep, though, and you have no direct evidence of its existence. Moreover, what you are seeing is a dog, disguised as a sheep. Hence, you have a well justified true belief that there is a sheep in the field. But is that belief knowledge?"_ - [Source](https://iep.utm.edu/gettier/#H3)
+
+From [[James Gettier]]
+#thought-experiments #knowledge-synthesis #knowledge 

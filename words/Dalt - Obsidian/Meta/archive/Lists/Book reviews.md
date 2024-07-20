@@ -1,0 +1,2 @@
+- See how casual his tone is. I like how he just explains what the main ideas in the book are and what he thinks about them. He doesn't get into the structure or try to recreate the book. This is what I should try and do for my next review.
+	- http://noahpinionblog.blogspot.com/2019/01/book-review-stubborn-attachments-by.html

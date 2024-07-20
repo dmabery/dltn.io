@@ -1,0 +1,5 @@
+Status: #🌱
+Tags: 
+***
+# Henry Ford was the first to scale production
+At the core of Henry Ford’s achievement was the design of an automobile that was made for mass production. Ford’s engineers broke down the assembly process of the Model T into [84 discrete steps](https://www.mlive.com/news/detroit/2018/01/historic_photos_fords_assembly.html#:~:text=Ford%20was%20able%20to%20take,half%20of%20all%20automobiles%20sold.). The company standardized all the tasks and assigned each worker to do just one task, thus standardizing the work each worker performed as well. Ford further built machines that could stamp out parts automatically. Together with Ford’s innovative development of the first moving assembly line, this production system cut the time to build a car from 12 hours to [about 1.5 hours](https://www.history.com/this-day-in-history/fords-assembly-line-starts-rolling). The Model T is probably the paradigmatic example of how standardization enables designing processes for scalability.

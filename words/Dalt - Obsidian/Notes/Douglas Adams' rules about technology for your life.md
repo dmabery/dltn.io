@@ -1,0 +1,3 @@
+I think back to Douglas Adams' rules about technology, which he laid out in [_Hitchhiker's Guide to the Galaxy_](https://click.convertkit-mail.com/o8u6796wp4uqhk3eeeqav/p8heh9h960vrr0bq/aHR0cHM6Ly9hbXpuLnRvLzNHeFB4OFU=)_: “_ (1) anything that is in the world when you’re born is normal and ordinary and is just a natural part of the way the world works, (2) anything that's invented between when you’re fifteen and thirty-five is new and exciting and revolutionary and you can probably get a career in it, and (3) anything invented after you're thirty-five is against the natural order of things.”
+
+#technology [[The Adoption Curve]]

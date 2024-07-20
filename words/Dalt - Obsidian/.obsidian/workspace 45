@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "caa6c0205b3e3716",
+    "type": "split",
+    "children": [
+      {
+        "id": "03192745f960c2b9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "b - The Man from the Future.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3857f074b739744",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32ff3f4232c45a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edeb478e35100b64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2960c6c27005f391",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53d3937fa8009e26",
+    "type": "split",
+    "children": [
+      {
+        "id": "88d8e86de73e5eec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d5d703726c43266",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f74b65dfb324cfa5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "b - The Man from the Future.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd72ae7d36108a53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "b - The Man from the Future.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "208c14d1372747f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c34626887de14b1",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "03192745f960c2b9",
+  "lastOpenFiles": [
+    "The Art of Giving a F.md",
+    "b - The Man from the Future.md",
+    "On Game Theory.md",
+    "Links.md",
+    "My Common Place Book.md"
+  ]
+}

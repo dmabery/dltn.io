@@ -1,0 +1,19 @@
+- ~~Complete Health History Questionnaire~~
+- Enter immunization dates and ~~submit immunization/lab documentation~~
+- ~~Acknowledgement of Patient Lab Service Policy~~
+- ~~Acknowledgement of No-Show Cancellation Policy & Fee Schedule~~
+- ~~Acknowledgement of Receipt of Notice of Privacy Practices~~
+- ~~Physical Exam﻿ strongly recommended but not required~~
+- ~~Complete Tuberculosis (TB) Screening~~
+- ~~MMR (Measles, Mumps, Rubella) Series~~
+	- ~~Two documented doses OR antibody titer showing immunity~~ 
+- ~~Varicella Vaccine (Chickenpox) Series~~
+	- ~~Two documented doses OR antibody titer showing immunity~~ 
+	- ~~Documentation of Varicella disease is not acceptable~~
+- ~~Tdap Vaccine (Tetanus, Diphtheria, Acellular Pertussis)~~
+	- ~~One documented dose of Tdap after age 10~~
+- ~~Tuberculosis Screening Questionnaire~~
+	- ~~Students at higher risk for TB infections, as indicated by answering "Yes" to any of the screening questions is required to undergo a PPD skin test, blood test (QFGT), or chest x-ray within 6 months prior to start of matriculation.~~
+	- ~~Provide documentation of previous BCG vaccination, latent TB or active TB treatment~~
+- ~~Meningococcal Conjugate Vaccine~~
+	- ~~One documented dose given on or after 16 for all students who are under 22 years of age.~~

@@ -1,0 +1,3 @@
+- AIXI is not a computable solution for AI, but rather a theoretical illustration.
+- It says to take into account all possible computable models of the environment, Bayes-update them from past experiences.
+- It's the border between AI problems that would be 'simple' to solve using unlimited computing power and problems that are structurally 'complicated.'

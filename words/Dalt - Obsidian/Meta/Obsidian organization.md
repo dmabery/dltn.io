@@ -1,0 +1,13 @@
+- Categories should be types
+	- Podcast
+	- Blog post
+	- Blog Drafts
+	- YouTube video
+	- Book
+- Tags should be topics
+	- Health and fitness
+	- Reading
+	- Learning
+	- Success
+	- Discipline
+#meta

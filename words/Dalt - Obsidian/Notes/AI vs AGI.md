@@ -1,0 +1,1 @@
+AGI is [[Artificial general intelligence]], in which an AI can do intelligent things in a broad set of fields and isn't limited to doing something that an AI was pre-programmed specifically to do, that if it were a human doing it, it wouldn't be that impressive.

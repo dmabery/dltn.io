@@ -1,0 +1,1 @@
+Read general history before diving head-first into a multi volume biography so you start the series with greater context for what you’re reading and you have some semblance of what’s happening 

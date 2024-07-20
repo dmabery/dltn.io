@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "f28711b627d48861",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce5a994ad8cf97be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "065a7eeb5068f2fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attention and Focus/Sherlock Holmes Attic Quote.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19e11f07427c84d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aceca2e05c18e8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9c12835d3a4a026",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "269e18c35b72a41b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#quote",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a4c5f55cf292131",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "74629d5adc0b16b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "27bec7171d1aa09b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0dd32ea8d30bbae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Attention and Focus/Sherlock Holmes Attic Quote.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "536d13335e1cd5b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Attention and Focus/Sherlock Holmes Attic Quote.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d54ce7eec4c6b656",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "773d9fc3f3173629",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Consistency is proficiency.md"
+              }
+            }
+          },
+          {
+            "id": "7bf5f4006482188f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "981c0f219766a444",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "869d1c409ebdd8dd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "065a7eeb5068f2fd",
+  "lastOpenFiles": [
+    "95 Daily Notes/07-28-2023.md",
+    "Archive/Personal/95 Daily Notes/07-28-2023.md",
+    "Archive/Personal/95 Daily Notes",
+    "95 Daily Notes/2023-07-28.md",
+    "95 Daily Notes/09-23-2022.md",
+    "95 Daily Notes/Be prepared for the disasters you can't imagine.md",
+    "95 Daily Notes/12-12-2022.md",
+    "95 Daily Notes/12-10-2022.md",
+    "95 Daily Notes/11-20-2022.md",
+    "95 Daily Notes/11-11-2022.md",
+    "95 Daily Notes/11-08-2022.md",
+    "95 Daily Notes/11-05-2022.md",
+    "95 Daily Notes/11-03-2022.md",
+    "95 Daily Notes/11-01-2022.md",
+    "95 Daily Notes/10-31-2022.md",
+    "95 Daily Notes/10-30-2022.md",
+    "95 Daily Notes/10-29-2022.md",
+    "95 Daily Notes/10-27-2022.md",
+    "95 Daily Notes/10-25-2022.md",
+    "95 Daily Notes/10-15-2022.md",
+    "95 Daily Notes/10-13-2022.md",
+    "95 Daily Notes/10-12-2022.md",
+    "95 Daily Notes/10-11-2022.md",
+    "95 Daily Notes/10-10-2022.md",
+    "95 Daily Notes/10-06-2022.md",
+    "95 Daily Notes/10-05-2022.md",
+    "95 Daily Notes/10-04-2022.md",
+    "95 Daily Notes",
+    "Daily Notes",
+    "Untitled 2",
+    "Evergreen Notes",
+    "Literature Notes",
+    "Areas",
+    "Untitled 1",
+    "Projects",
+    "MOC",
+    "Untitled.canvas",
+    "Archive/Misc./Images/Street Life - Standing.png",
+    "Archive/Misc./Images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_dc134bc8-3047-49db-ace8-fd9df306696d_1522x872.webp",
+    "Archive/Misc./Images/Screen Shot 2022-07-02 at 11.55.30 AM.png",
+    "Archive/Misc./Images/Screen Shot 2022-06-13 at 9.11.58 PM.png",
+    "Archive/Misc./Images/2-01.png",
+    "Archive/Misc./Images/1-01.png",
+    "Archive/Misc./03 Unpublished images/Screen Shot 2022-02-09 at 6.01.18 AM.png",
+    "Archive/Misc./02 Published images/light box time dilation.jpeg",
+    "Archive/Misc./02 Published images/life 4.jpeg",
+    "Archive/Misc./02 Published images/image.png"
+  ]
+}

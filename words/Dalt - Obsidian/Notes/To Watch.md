@@ -1,0 +1,11 @@
+- Downfall
+- Schindler's List
+- Se7en
+- 12 O’Clock High
+- Anatomy of a Fall
+- Saving Private Ryan
+- Battle of Britain
+- Unforgiven
+- The Verdict
+- Apocalypse Now
+- 12 Angry Men

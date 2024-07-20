@@ -1,0 +1,1 @@
+When you share an essay, instead of using OG image, upload a screenshot of the first few paragraphs. That way when someone retweets it or QT it, they see the image because a RT removes the OG image

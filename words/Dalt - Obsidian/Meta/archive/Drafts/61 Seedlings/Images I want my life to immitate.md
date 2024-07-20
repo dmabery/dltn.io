@@ -1,0 +1,2 @@
+- https://twitter.com/basisofculture/status/1550178305961107457?s=11&t=2Lc9C85aWZgql17DaUcXZQ
+- https://twitter.com/patriciamou_/status/1531445850215329792?s=20&t=I1qaItoZWs7eSF-Qn82ngA

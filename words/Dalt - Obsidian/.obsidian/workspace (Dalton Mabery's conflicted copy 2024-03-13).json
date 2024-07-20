@@ -1,0 +1,319 @@
+{
+  "main": {
+    "id": "7acd58ae5fa86138",
+    "type": "split",
+    "children": [
+      {
+        "id": "6afa9cb03913e551",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa063d3b21e77145",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/Oliver Wendell Holmes Jr..md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a8017a1f782a692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Portfolio tracker for investors.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be3c4aaff3fc17e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cool highlight format post.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "013545e13d71c221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bad habits break when the consequence of doing them are so overwhelming you can't take it anymore.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3b47523094a3579",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
+            "id": "12438b3200e20f67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What makes a great employee (and therefore a great business).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "872bf5a2f41b87e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What makes a great employee (and therefore a great business).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70c5e448f7a26e22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Careers Law.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e346cb87dc1c7f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Chris Davis.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5fa00ed65815b9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6ff17cfee515248",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e179f92e7e51e53a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5ffdff58afd62df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tobuy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93b2e3d319595054",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1733f241c6bce990",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a5732f794034007",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5736d16014b192c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bad habits break when the consequence of doing them are so overwhelming you can't take it anymore.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62fad9c14fd7fb63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bad habits break when the consequence of doing them are so overwhelming you can't take it anymore.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "997dfd99f91e31c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ffc12d9be728345",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Oliver Wendell Holmes Jr..md"
+              }
+            }
+          },
+          {
+            "id": "4d7e2c79aee35a57",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc258eb58fcdbd0a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "35f94ee59e73e422",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "c3b47523094a3579",
+  "lastOpenFiles": [
+    "Categories/Blog Posts.md",
+    "Notes/Make the invisible progress visible.md",
+    "04 Resouces/Readwise/Articles/Decoder Guest Host Hank Green Makes Nilay Patel Explain Why Websites Have a Future - The Verge.md",
+    "McGeorge Scholarships.md",
+    "04 Resouces/Readwise/Articles/“Calculated Misery” How Airlines Profit From Your Miserable Flying Experience.md",
+    "04 Resouces/Readwise/Articles/The Best Essay.md",
+    "04 Resouces/Readwise/Articles/How I Learned to Concentrate.md",
+    "04 Resouces/Readwise/Articles/Bertrand Russell On Avoiding Foolish Opinions.md",
+    "I believe in the power of online writing.md",
+    "What makes a great employee (and therefore a great business).md",
+    "Bad habits break when the consequence of doing them are so overwhelming you can't take it anymore.md",
+    "Brad Jacobs notes.md",
+    "04 Resouces/Readwise/Articles/How Not to Die.md",
+    "04 Resouces/Readwise/Articles/An Excerpt From the Demon of Unrest.md",
+    "Images/Screenshot 2024-03-05 at 12.33.34 PM.png",
+    "Screenshot 2024-03-05 at 12.33.21 PM.png",
+    "04 Resouces/Readwise/Articles/Tyler Cowen’s Three Laws.md",
+    "04 Resouces/Readwise/Articles/Opinion  the Supreme Court Just Erased Part of the Constitution - The New York Times.md",
+    "Cool highlight format post.md",
+    "Portfolio tracker for investors.md",
+    "References/Oliver Wendell Holmes Jr..md",
+    "Careers Law.md",
+    "Notes/Bullet vs. cannon ball reading.md",
+    "Notes/Chris Davis.md",
+    "04 Resouces/Readwise/Articles/My Simple Habit for Smarter Book Reading.md",
+    "Notes/Active Patience.md",
+    "Hamilton - A good watch company.md",
+    "Categories/Books.md",
+    "Images/Screenshot 2024-02-25 at 7.14.11 PM.png"
+  ]
+}

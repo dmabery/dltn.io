@@ -1,0 +1,3 @@
+- An eloquent explanation of the problem doesn't mean that person has the perfect solution
+	- Ex: Obama explaining the problem of the financial crisis in '08, p.191 [[B - Revolt of the Public]]
+- If you want to climb Mt. Everest, for 364 days you have to climb smaller mountaintops until that day when you actually climb the mountain. Success, long-term success comes to people who can set their calendar up in a way to effectively climb smaller mountaintops for three years before they get to the big one. 

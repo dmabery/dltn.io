@@ -1,0 +1,21 @@
+- [ ] The Bully Pulpit
+- [ ] A Terrible Glory
+- [ ] American Ulysses
+- [ ] Lincoln in Private
+- [ ] The General and the President
+- [ ] Ascent to Power
+- [ ] Salmon P Chase by Stahr
+- [ ] Lincoln David Herbert Donald
+- [ ] Abe Lincoln in His Times by David S Reynolds
+- [ ] The Hamilton Scheme
+- [ ] The Great Dissenter
+- [ ] TR WH Brands
+- [ ] Leadership in Turbulent Times
+- [ ] Lincoln’s Mentors
+- [ ] Hymns of the Republic
+- [ ] The Rise and Fall of the American Republic
+- [ ] Coolidge by Shlaes
+- [ ] Hoover by Whyte
+- [ ] The Ambassador by Ronald
+- [ ] Accidental Presidents Cohen
+- [ ] Life After Power by Cohen

@@ -1,0 +1,16 @@
+- Refrain from doing things that cause other people to hate you. "There's 8 billion people on the planet, and I'm one of them. If I can get the other 7.9 billion to...at least not hate me, that's a recipe for profound success."
+- Companies that do things *for* their customers are superior than companies that do things *to* their customers.
+- When you make a decision, by virtue of making a choice, you're also choosing *not* to do something. Make sure you evaluate that other path, and know exactly what you're saying no to.
+- Just because you won a poker hand doesn't mean you played it well. This insight is not about poker. Focus on process, not outcomes. (Annie Duke calls this "resulting.")
+- You can't have a bank run on an insurance business.
+- To play the long game, you have to be willing to look like an idiot in the short-term. – Shane
+- Risk: "More things can happen than will happen."
+- You can never enter a good deal with a bad person, no matter how favorable the terms seem to be.
+- "Doing more of what works is the great algorithm in life." This is simple, but not easy. Because it's simple, people want to complicate things and mess things up, and they stop doing what's working.
+- "There are no called strikes in life."
+#work 
+
+
+The latest episode eaturing Tom Gayner, CEO of Markel, is out now! Gayner shares his philosophy about debt, why he disagrees with Munger about the value of reading fiction, how simplicity is the superior management philosophy, and more. [https://fs.blog/knowledge-project-podcast/tom-gayner/](https://t.co/BESOFj2v4v)
+
+Our two-hour conversation with Tom Gayner is available now. It's a masterclass on investing, living well, and playing the long-term game. Here's what we learned: 1. Refrain from doing things that cause other people to hate you. "There are 8 billion people on the planet, and I'm one of them. If I can get the other 7.9 billion to...at least not hate me, that's a recipe for profound success." 2. Companies that do things for their customers are superior than companies that do things to their customers. 3. When you make a decision, by making a choice, you're also choosing not to do something. Ensure you evaluate that other path and know exactly what you're saying no to. 4. Just because you won a poker hand doesn't mean you played it well. This insight is not about poker. Focus on process, not outcomes. (Annie Duke calls this "resulting.") 5. You can't have a bank run on an insurance business. 6. To play the long game, you have to be willing to look like an idiot in the short term. – Shane 7. Risk: "More things can happen than will happen." 8. You can never enter a good deal with a bad person, no matter how favorable the terms seem to be. 9. “Doing more of what works is the great algorithm in life.” This is simple but not easy. Because it’s simple, people want to complicate things, so they try something different. Sometimes, this works; often, it doesn’t. Keep doing what’s working. 10. "There are no called strikes in life." You have to reject good opportunities so you can be ready for the great ones.

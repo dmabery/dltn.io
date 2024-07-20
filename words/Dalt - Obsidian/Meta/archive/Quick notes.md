@@ -1,0 +1,7 @@
+- [[10-13-2022]]
+	- What if I comitted to reading, live on YouTube everyday for an hour or 30 minutes?
+	- All content businesses are just a library of intellectual property. The value of making great work that no one sees is that when someone does finally see it, they have hundereds of posts, videos, etc., to read through.
+	- The movie Elf makes money, a lot of money, around Christmas time every year. But no executive is hounding some marketing time in June going, "why isn't anyone watching Elf right now." It's okay to have timely content, especially if it's something you can re-sell every year. It can't be your *only* content, but just because something doesn't sell 24/7 doesn't make it a failure.
+	- Every ounce of energy you spend wishing life was different is wasted by not actually working to make it different.
+- [[10-27-2022]]
+	- Trying to develop a stream of consciousness for writing...how the heck can I write more, even without having any ideas? I'm jealous of the people who can write about something so abstract as "beauty" and make it remarkeable. Am I just not thinking deeply enough about things? What am I confused by right now?

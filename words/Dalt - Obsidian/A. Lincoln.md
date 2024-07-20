@@ -1,0 +1,3 @@
+Just finished - amazing book. I loved how much detail we got about AL’s education and early years as a lawyer. The first half of the war seemed very detailed, but the second half seemed rushed. I could probably go back to look at page counts, but I don’t think I will, that’s just a feeling.
+
+Lee surrendered to Grant at Appomattox on page 674, and the book ended in 676. I get the war ended and stuff, but I was expecting there to be more commentary about the war and what it meant for the future. I suppose this is a Lincoln biography though, not

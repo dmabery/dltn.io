@@ -1,0 +1,7 @@
+Few episodes in The Knowledge Project's nine-year history have impacted people's relationships and lives more than when Esther Perel shared her infinite wisdom for the first time in 2019.
+
+Shane and Esther discuss how the stories you tell yourself shape how you see the world (and what to do about that), the important conversations to have at the beginning of a relationship, the most common arguments couples have and how to prevent them, what to say to a partner if the relationship isn't working out, the relationship between desire, love, and pleasure, and so much more. Plus, the conversation starts out on an interesting note: Esther Perel shares stories about her parents surviving the Holocaust and how their experiences shaped her childhood and continue to shape her life today.
+
+Esther Perel is a couples therapist and New York Times best-selling author of _[Mating in Captivity](https://amzn.to/3qVjmsZ)_ and _[The State of Affairs](https://amzn.to/3BBIWYO)_. Esther’s refreshingly frank approach to topics like sex, intimacy, divorce, and fidelity has made her one of the most unique and sought-after voices on modern relationships.
+
+**Metadata:** Learn the secrets to cultivating desire and passion in your relationships.

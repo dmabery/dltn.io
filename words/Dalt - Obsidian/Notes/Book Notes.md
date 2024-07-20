@@ -1,0 +1,16 @@
+---
+category:
+  - "[[Projects]]"
+---
+- [[Oliver Wendell Holmes, Jr.]]
+- Johnstown Flood
+- Life of Samuel Johnson
+- Truman
+- John Adams
+- Thomas Jefferson
+- G-Man
+- The Gathering Storm
+- And There Was Light
+- Team of Rivals
+- Alexander Hamilton
+- [[Practicing the Way]]

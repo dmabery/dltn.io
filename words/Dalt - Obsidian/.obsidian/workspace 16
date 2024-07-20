@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "b200391c0be3ae70",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7d7313996ba5127",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Annotated/B - Pieces of Action.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4993d473cd2f0e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e423f640c95fa17a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95809448ef09d713",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfa76454996b02c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61cdbc7bbf2b52b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9460b389f01f338b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2e744be896c8d79",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbb86a44644cd52c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Annotated/B - Pieces of Action.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42aad35ec87e12bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Annotated/B - Pieces of Action.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5358eec7cc36c00d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c0dafd902ddc51b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d7d7313996ba5127",
+  "lastOpenFiles": [
+    "Plan for future conduct - august 2022.md",
+    "Newsletter 08-26.md",
+    "Book Review - Revolt of the Public.md",
+    "Book reviews.md",
+    "CS/Calulus/Compounding functions.md",
+    "CS/Calulus/Math 104 Table of Contents.md"
+  ]
+}

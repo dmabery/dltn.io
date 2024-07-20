@@ -1,0 +1,4 @@
+- What are AC and DC currents
+- How do submarines work
+- How fire breaks work
+	- https://www.google.com/search?q=how+do+fire+breaks+work&oq=how+do+fire+breaks+work&aqs=chrome..69i57j33i22i29i30l9.5826j0j7&sourceid=chrome&ie=UTF-8

@@ -1,0 +1,2 @@
+- https://www.theatlantic.com/magazine/archive/2016/09/dont-know-much-about-history/492746/
+- https://www.theatlantic.com/science/archive/2019/07/we-need-new-science-progress/594946/

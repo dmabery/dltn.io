@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "ab8c9a82a0eeeab5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c70c398c3e7e9486",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Personal/94 Life/Reading Log.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cda1e3a7726c35b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e98bf92fa54ffe9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd96a6aaf94548c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c4e3ded22fd6e27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ac97492596ac815",
+    "type": "split",
+    "children": [
+      {
+        "id": "083bc6ebd4598d15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffd9c0008c03d689",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "623b86cc19a3f968",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal/94 Life/Reading Log.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e9b6c6092af7c63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/94 Life/Reading Log.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63a3361618efbd64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "256ba8f2da1a13bf",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c70c398c3e7e9486",
+  "lastOpenFiles": [
+    "Personal/95 Daily Notes/09-12-2022.md",
+    "My Common Place Book 2.md",
+    "My Common Place Book.md",
+    "Drafts/How I Built My Blog.md"
+  ]
+}

@@ -1,0 +1,1 @@
+I’m going to have to get really good at time management. I’m good now, but only because my schedule is so flexible. If it wasn’t as flexible, I wouldn’t be able to sit down in Scool Twitter for 15 minutes and still be productive the rest of the day. Going to have to really time block and stick to my schedule. Maybe I should look at Motion app? Just so expensive. #law-school 

@@ -1,0 +1,1 @@
+- One model will click on a lightbulb, but the right combination of models will light up the room. 

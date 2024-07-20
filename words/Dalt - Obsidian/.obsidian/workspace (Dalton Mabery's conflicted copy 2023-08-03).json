@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "f28711b627d48861",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce5a994ad8cf97be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee4262b0b2dae369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tyler Cowen also on reading well.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19e11f07427c84d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aceca2e05c18e8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9c12835d3a4a026",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "269e18c35b72a41b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#reading",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a4c5f55cf292131",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "74629d5adc0b16b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "27bec7171d1aa09b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0dd32ea8d30bbae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tyler Cowen also on reading well.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "536d13335e1cd5b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tyler Cowen also on reading well.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d54ce7eec4c6b656",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "773d9fc3f3173629",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Consistency is proficiency.md"
+              }
+            }
+          },
+          {
+            "id": "7bf5f4006482188f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "981c0f219766a444",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "869d1c409ebdd8dd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b06e15c89c4f5bb",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "ee4262b0b2dae369",
+  "lastOpenFiles": [
+    "Readwise/📰 David Sedaris Knows What You’ll Laugh at When No One Is Judging - The New York Times.md",
+    "Readwise/📰 The Hidden Storehouse.md",
+    "Tyler Cowen.md",
+    "Tyler Cowen also on reading well.md",
+    "Evergreen Notes/Reading books gives you a perspective on life that you can't get anywhere else.md",
+    "Tyler Cowen on reading well.md",
+    "Readwise/📰 Chase Your Reading.md",
+    "95 Daily Notes/08-02-2023.md",
+    "There is an correlation between the amount of words given in a platitude to its intended reach.md",
+    "The tools are irrelevant. What matters is the creation..md",
+    "Evergreen Notes/Motivation is a myth.md",
+    "No one cares what you can do fresh.md",
+    "People",
+    "95 Daily Notes/08-01-2023.md",
+    "How do you learn like an athlete?.md",
+    "().md",
+    "Lang thesis.md",
+    "95 Daily Notes/07-31-2023.md",
+    "Archive/Lists/Ugly blogs with beautiful content.md",
+    "Weekly Notes/2023-W31.md",
+    "People/Anthony Bourdain on enjoying the ride of life and living casually.md",
+    "03 PROJECTS",
+    "01 INBOX",
+    "00 META",
+    "Active Patience.md",
+    "People/Maya Angelou.md",
+    "What i Talk About When I Talk About Running.md",
+    "95 Daily Notes/07-30-2023.md",
+    "Stephan Ango on Muse Podcast.md",
+    "Screen Shot 2023-07-30 at 4.22.04 PM.png",
+    "Research - The Sinking of the RMS Lancastria.md",
+    "Weekly Notes",
+    "Images",
+    "Literature Notes",
+    "Archive/Personal/95 Daily Notes",
+    "Daily Notes",
+    "Evergreen Notes",
+    "Untitled.canvas",
+    "Archive/Misc./Images/Street Life - Standing.png",
+    "Archive/Misc./Images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_dc134bc8-3047-49db-ace8-fd9df306696d_1522x872.webp",
+    "Archive/Misc./Images/Screen Shot 2022-07-02 at 11.55.30 AM.png",
+    "Archive/Misc./Images/Screen Shot 2022-06-13 at 9.11.58 PM.png",
+    "Archive/Misc./Images/2-01.png",
+    "Archive/Misc./Images/1-01.png",
+    "Archive/Misc./03 Unpublished images/Screen Shot 2022-02-09 at 6.01.18 AM.png",
+    "Archive/Misc./02 Published images/light box time dilation.jpeg",
+    "Archive/Misc./02 Published images/life 4.jpeg"
+  ]
+}

@@ -1,0 +1,3 @@
+When you get married at twenty years old, you think the discovery part of your life has ended, and the providing part of your life has begun. Marriage is looked at—rightfully so—as the closing of a chapter in one's life that's filled with trying new things, being whimsical, and not thinking further than the weekend, to a chapter filled with utility bills, grocery shopping, duel calendars with your spouse, and, in general, a life that's not as risky.
+
+That is a big. Fat. Lie.

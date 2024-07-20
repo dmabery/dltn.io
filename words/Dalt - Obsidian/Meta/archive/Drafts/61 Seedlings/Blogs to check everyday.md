@@ -1,0 +1,4 @@
+- Overcoming bias
+- Ribbon Farm
+- Marginal Revolution
+- Scott Aronson

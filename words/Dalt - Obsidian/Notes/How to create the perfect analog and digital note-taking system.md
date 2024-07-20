@@ -1,0 +1,3 @@
+- Create a document for each thing you want to annotate: books, articles, movies, etc. Take notes on this document and in the book while reading. There should be no filter here. Anything you think is interesting, write it down.
+- When you're done, go through the notes and write down the best pieces of information or stories you want to really remember on notecards. You can add the category in the top left and a hex code on the top right that matches your notecard up with the section in the book or the digital note.
+- Seperate out by category and voila.
