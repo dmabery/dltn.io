@@ -28,7 +28,7 @@ export default function Home({ posts, tags }) {
             I'm a first year law student in Sacramento.
           </p>
           <p>
-            I write about what I learn studying law and reading history and biography books.
+            I write about what I learn studying law officially and history.
           </p>
           <p>
             Subscribe for new posts and my monthly digest emails.
@@ -49,7 +49,7 @@ export default function Home({ posts, tags }) {
           ))}
         </div>
       </div>
-      <div className="flex flex-col gap-2 py-10">
+      <div className="flex flex-col py-10">
         <Link href="/writing" className="text-gray-600 mb-5 font-sansSerif text-base hover:text-blue">Writing</Link>
         <ol>
           {posts.map((post) => (
