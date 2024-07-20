@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/fort-sumter.md",
+                "file": "posts/2-habits-for-a-better-intellectual-life copy.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/fort-sumter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/fort-sumter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/fort-sumter.md"
+                "file": "posts/slug.md"
               }
             }
           }
@@ -146,9 +144,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a66b91888c0faf9",
+  "active": "eea3e51b295ff6f3",
   "lastOpenFiles": [
+    "posts/2-habits-for-a-better-intellectual-life copy.md",
+    "posts/slug.md",
     "templates/Links Template.md",
-    "posts/fort-sumter.md"
+    "templates/Post Template.md",
+    "templates",
+    "posts/you-cant-imagine.md",
+    "posts/ubi-caritas.md",
+    "posts/you-cant-go-there-by-doing-that.md",
+    "posts/you-can-just.md",
+    "posts/writing-in-your-head.md",
+    "posts/wonderers.md",
+    "posts/why-you-feel-stuck-in-life.md",
+    "posts/working-by-robert-caro.md",
+    "posts/why-i-wake-up-at-5-am.md",
+    "posts/why-i-read.md",
+    "posts/why-legacy-career-paths-cant-innovate.md",
+    "posts/twr-2023-10-07.md",
+    "posts/which-is-better-instinct-or-reason.md",
+    "posts/why-i-publish-my-notes-online.md",
+    "posts/where-dead-cells-in-the-body-go.md",
+    "posts/where-the-term-zero-sum-comes-from.md",
+    "posts/what-we-see-when-we-read.md",
+    "posts/what-it-takes-to-be-a-great-teacher.md",
+    "posts/what-i-read-in-november.md",
+    "posts/what-i-read-in-october-2022.md",
+    "posts/what-do-you-care-what-other-people-think.md",
+    "posts/weekend.md",
+    "posts",
+    "Dalt - Obsidian/publish.css",
+    "Dalt - Obsidian/Session 2 State v. Kremer Sample Brief.docx",
+    "Dalt - Obsidian/Session 2 Critical Reading Case for Actus Reus with Annotations.pdf",
+    "Dalt - Obsidian/Session 2 Briefing Template.pdf",
+    "Dalt - Obsidian/Screenshot 2024-07-16 at 5.59.10 PM.png",
+    "Dalt - Obsidian/Screenshot 2024-07-15 at 6.00.16 PM.png",
+    "Dalt - Obsidian/References/A Map of Political Parties.canvas",
+    "Dalt - Obsidian/References",
+    "Dalt - Obsidian/Readwise",
+    "Dalt - Obsidian/Notes/Therories & Terms",
+    "Dalt - Obsidian/Notes/Tax_1099INT_2023_6556_1395699_474068.pdf",
+    "Dalt - Obsidian/Notes/Screenshot 2024-01-21 at 1.06.24 PM.png",
+    "Dalt - Obsidian/Notes/Note flow.canvas",
+    "Dalt - Obsidian/Meta/archive/Misc./Images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_dc134bc8-3047-49db-ace8-fd9df306696d_1522x872.webp",
+    "Dalt - Obsidian/Meta/archive/Misc./Images/Street Life - Standing.png",
+    "Dalt - Obsidian/Meta/archive/Misc./Images/Screen Shot 2022-07-02 at 11.55.30 AM.png",
+    "Dalt - Obsidian/Meta/archive/Misc./Images/Screen Shot 2022-06-13 at 9.11.58 PM.png",
+    "Dalt - Obsidian/Meta/archive/Misc./Images/2-01.png",
+    "Dalt - Obsidian/Meta/archive/Misc./Images/1-01.png",
+    "Dalt - Obsidian/Meta/archive/Misc./02 Published images/light box time dilation.jpeg"
   ]
 }

@@ -60,7 +60,7 @@ const BlogPost = ({ frontmatter, content }) => {
         <PostDisplay
           date={frontmatter.Date}
           title={frontmatter.Title}
-          tags={frontmatter.Tags}
+          tags={frontmatter.tags || frontmatter.Tags}
           description={frontmatter.Description}
           content={content}
           image={frontmatter.Image}
