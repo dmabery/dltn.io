@@ -25,25 +25,13 @@ export default function Home({ posts, tags }) {
       <p className="text-gray-900 font-sansSerif font-semibold text-xl">Hi, I'm Dalton</p>
         <div className="flex flex-col gap-3 text-slate-900">
           <p>
-            I'm the digital creator and editor at{" "}
-            <a
-              className="underline decoration-gray-400 underline-offset-2 hover:no-underline"
-              href="https://fs.blog/"
-              target="_blank?"
-            >
-              Farnam Street
-            </a>
-            .
+            I'm a first year law student in Sacramento.
           </p>
           <p>
-            I spend my free time{" "}
-            <span className="font-serif text-lg italic">learning</span>,
-            <span className="font-serif text-lg italic"> reading</span>, and
-            <span className="font-serif text-lg italic"> writing</span> about
-            history's most interesting people, ideas, essays, and inventions.
+            I write about what I learn studying law and reading history and biography books.
           </p>
           <p>
-            Subscribe for new posts and my monthly reading list emails.
+            Subscribe for new posts and my monthly digest emails.
           </p>
           <Subscribe />
         </div>
