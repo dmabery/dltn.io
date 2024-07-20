@@ -17,19 +17,22 @@ export default function Home({ posts }) {
       title="Dalton Mabery is a video editor who reads and writes."
       description="Developer, Video Editor, Writer."
     />
-    <div>
-        <ol className="flex flex-col gap-8">
+    <div className="flex flex-col">
+      <p className="border-b pb-10">Links, quotes, ideas, and notes from articles and PDFs on the net. Have a recommendation? Let me know!</p>
+      <div className="flex flex-col gap-2 py-10">
+        <ol>
           {posts.map((post) => (
-            <li key={post.title}>
+            <li key={post.index}>
               <StreamPostDisplay
                 title={post.title}
                 content={post.content}
-                link={post.link || null}
+                link={post.link}
                 date={post.date}
               />
             </li>
           ))}
         </ol>
       </div>
+    </div>
   </>;
 }
