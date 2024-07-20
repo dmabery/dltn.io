@@ -1,6 +1,0 @@
----
-category:
-  - "[[References]]"
-tags:
-  - health
----

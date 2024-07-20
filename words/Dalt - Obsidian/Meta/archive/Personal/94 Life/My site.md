@@ -1,3 +1,0 @@
-- Add tooltip
-- Fix OG Images
-- Add archives page

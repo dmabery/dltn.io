@@ -1,1 +1,0 @@
-"You can't be curipous about everything. But you can be curious for a few seconds about lots of things"

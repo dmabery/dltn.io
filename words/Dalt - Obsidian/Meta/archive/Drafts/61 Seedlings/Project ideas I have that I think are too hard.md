@@ -1,2 +1,0 @@
-- An app that processes the input from your computer microphone, processes it, and makes it sound wayy better. 
-	- https://twitter.com/stephsmithio/status/1550816450465746944?s=20&t=eOaQgZsyGfiVC8GHNT73Yg

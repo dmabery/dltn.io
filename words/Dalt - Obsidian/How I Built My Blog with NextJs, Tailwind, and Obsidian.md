@@ -1,1 +1,0 @@
-The actual code of my website is incredibly simple. There is little 

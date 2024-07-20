@@ -1,2 +1,0 @@
-Evergreen notes are written to take on a life of their own as the idea evolves and time goes on. Most people only write [[fleeting notes]]. Few take the time to develop those [[fleeting notes]] that they "just had to write down somewhere", into something meaningful and important. Without the development of turning [[fleeting notes]] or [[literature notes]] into [[Notes/Therories & Terms/Evergreen Notes]], there would be no orignal ideas and we'd all be served up by a young Matt Damon in a bar. (If you got that reference, we're now best friends.)
-

@@ -1,4 +1,0 @@
-Status: #MOC
-Tags:
-***
-# {{title}}

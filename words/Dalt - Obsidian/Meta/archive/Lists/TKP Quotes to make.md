@@ -1,1 +1,0 @@
-Kunal Shah - Having favorites or being a fan is signaling to the world that you're easy to offend.

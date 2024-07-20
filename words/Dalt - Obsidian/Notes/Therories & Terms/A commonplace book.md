@@ -1,1 +1,0 @@
-https://www.erasmusdarwin.org/wp-content/uploads/2016/08/Commonplace-Book.pdf

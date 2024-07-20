@@ -1,7 +1,0 @@
-- A good rule: "My basic rule is to read as much as possible." #quotes #reading 
-- "I don't take notes really in any way. I fold over pages, but I don't underline interesting things because when I read it again, I'll find new things, and I want to surprise myself a bit."
-- Book: Land politics and nationalism #book-to-read 
-- Cowen reccomends reading books in clusters. So if you read a book on Irish land and politics, read four or give more books on that subject.
-	- That way, you won't remember everything from every book, but as the ideas get repeated over the books, you'll have a higher likelihood of actually retaining the information and getting a broad framework for what it is you're writing about
-		- (I've never heard it put quite this way before and i think that it's brilliant)
-		- 

@@ -1,4 +1,0 @@
-Status: #🌱
-Tags:
-***
-# {{title}}
