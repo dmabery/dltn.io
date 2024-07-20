@@ -15,7 +15,7 @@ const HomePagePostDisplay = ({
 
   return <>
     <div className="pb-10 mb-28">
-        <h2 className="font-semibold font-sansSerif text-lg decoration-1 text-gray-800 underline hover:text-blue hover:no-underline" id={date}><a target="blank_" href={`${link}`}>{title}</a></h2>
+        <h2 className="font-semibold font-sansSerif text-lg decoration-1 text-black underline hover:text-blue hover:no-underline" id={date}><a target="blank_" href={`${link}`}>{title}</a></h2>
         <PostBodyContent content={content} />
         <div className="flex justify-between items-center">
           <a href={`https://www.${psl.get(new URL(link).hostname)}`} target="blank_" className="underline font-mono text-sm hover:no-underline hover:text-blue">{psl.get(new URL(link).hostname)}</a>
