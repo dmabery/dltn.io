@@ -3,7 +3,7 @@ import { useEffect } from "react";
 import PostBodyContent from "./PostBodyContent";
 const prism = require("prismjs");
 
-const HomePagePostDisplay = ({
+const PostDisplay = ({
   title,
   description,
   image,
@@ -18,7 +18,7 @@ const HomePagePostDisplay = ({
 
   return <>
     <article className="text-[neutral-200]">
-      <div className="font-sansSerif">
+      <div className="mb-5 font-sansSerif">
         <div className="text-2xl font-medium text-neutral-800">
           {title || ""}
         </div>
@@ -47,4 +47,4 @@ const HomePagePostDisplay = ({
   </>;
 };
 
-export default HomePagePostDisplay;
+export default PostDisplay;

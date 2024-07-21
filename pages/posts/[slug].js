@@ -1,76 +1,66 @@
-import HomePagePostDisplay from "../../components/HomePagePostDisplay";
 import Meta from "../../components/Meta";
-
-import fs from "fs";
-import matter from "gray-matter";
-import SubscribeGroup from "../../components/SubscribeGroup";
+import PostDisplay from "../../components/PostDisplay";
+import { getAllPosts } from "../../lib/getMarkdownFiles";
 
 export async function getStaticPaths() {
-  try {
-    const files = fs.readdirSync("words/posts");
+  const posts = await getAllPosts();
 
-    const paths = files.map((fileName) => ({
-      params: {
-        slug: fileName.replace(".md", ""),
-      },
-    }));
+  const paths = posts.map((post) => ({
+    params: {
+      slug: post.slug,
+    },
+  }));
 
-    return {
-      paths,
-      fallback: "blocking",
-    };
-  } catch (error) {
-    console.error(error);
-
-    return {
-      paths: [],
-      fallback: false,
-    };
-  }
+  return {
+    paths,
+    fallback: "blocking",
+  };
 }
 
 export async function getStaticProps({ params: { slug } }) {
-  try {
-    const fileName = fs.readFileSync(`words/posts/${slug}.md`, "utf-8");
-    const { data: frontmatter, content } = matter(fileName);
+  const posts = await getAllPosts();
+  const post = posts.find((post) => post.slug === slug);
 
+  if (!post) {
     return {
-      props: {
-        frontmatter,
-        content,
-        date: new Date(frontmatter.Date).toISOString()
-      },
-    };
-  } catch (error) {
-    console.error(error);
-
-    return {
-      props: {},
+      notFound: true,
     };
   }
+
+  // Ensure tags are an array of strings
+  const tags = post.tags.map(tag => tag.name);
+
+  return {
+    props: {
+      frontmatter: {
+        ...post,
+        tags: tags, // Ensure tags are an array of strings
+        date: post.date, // Ensure date is serialized as string
+      },
+      content: post.content,
+    },
+  };
 }
+
 const BlogPost = ({ frontmatter, content }) => {
   if (!frontmatter) return <h1>No posts</h1>;
   return (
     <>
-      <section className="border-b pb-10">
+      <section>
         <Meta
-          title={frontmatter.Title}
-          description={frontmatter.Description}
-          image={frontmatter.Image}
+          title={frontmatter.title}
+          description={frontmatter.excerpt}
+          image={frontmatter.featuredImage}
         />
-        <HomePagePostDisplay
-          date={new Date(frontmatter.Date).toISOString()}
-          title={frontmatter.Title}
-          tags={frontmatter.Tags}
-          description={frontmatter.Description}
+        <PostDisplay
+          date={frontmatter.date.slice(0,10)}
+          title={frontmatter.title}
+          tags={frontmatter.tags} // Now an array of strings
+          description={frontmatter.excerpt}
           content={content}
-          image={frontmatter.Image}
+          image={frontmatter.featuredImage}
         />
       </section>
-      <div className="py-10">
-      <SubscribeGroup />
-      </div>
     </>
   );
 };

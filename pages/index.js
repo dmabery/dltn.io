@@ -22,54 +22,43 @@ export default function Home({ posts, tags }) {
     />
     <div className="flex flex-col divide-y">
       <div className="flex flex-col gap-2 pb-10">
-      <p className="text-gray-900 text-xl">Hi, I'm Dalton</p>
+      <p className="text-gray-900 font-sansSerif font-semibold text-xl">Hi, I'm Dalton</p>
         <div className="flex flex-col gap-3 text-slate-900">
           <p>
-            I'm the digital creator and editor at{" "}
-            <a
-              className="underline decoration-gray-400 underline-offset-2 hover:no-underline"
-              href="https://fs.blog/"
-              target="_blank?"
-            >
-              Farnam Street
-            </a>
-            .
+            I'm a first year law student in Sacramento.
           </p>
           <p>
-            I spend my free time{" "}
-            <span className="font-serif text-lg italic">learning</span>,
-            <span className="font-serif text-lg italic"> reading</span>, and
-            <span className="font-serif text-lg italic"> writing</span> about
-            history's most interesting people, ideas, essays, and inventions.
+            I write about what I learn studying law officially and history.
           </p>
           <p>
-            Subscribe for new posts and my monthly reading list emails.
+            Subscribe for new posts and my monthly digest emails.
           </p>
           <Subscribe />
         </div>
         <p></p>
       </div>
       <div className="taglist flex flex-col py-10">
-        <p className="text-gray-600 mb-5">Topics</p>
+        <p className="text-gray-600 font-sansSerif text-base mb-5">Topics</p>
         <div>
           {tags.map((tag) => (
-            <li className="inline mb-2 font-sansSerif text-slate-900" key={tag}>
-              <Link href={`/tags/${tag}`} className="underline hover:text-blue">
+            <li className="inline mb-2 text-slate-900" key={tag}>
+              <Link href={`/tags/${tag}`} className="underline decoration-1 hover:text-blue">
                 {tag}
               </Link>
             </li>
           ))}
         </div>
       </div>
-      <div className="flex flex-col gap-2 py-10">
-        <Link href="/writing" className="text-gray-600 mb-5 hover:text-blue">Writing</Link>
+      <div className="flex flex-col py-10">
+        <Link href="/writing" className="text-gray-600 mb-5 font-sansSerif text-base hover:text-blue">Writing</Link>
         <ol>
           {posts.map((post) => (
             <li>
               <PostListSimple
                 title={post.title}
-                date={post.date}
+                date={`${post.date.slice(0,4)} ${post.date.slice(5,7)}`}
                 slug={`posts/${post.slug}`}
+                key={post.title}
               />
             </li>
           ))}
