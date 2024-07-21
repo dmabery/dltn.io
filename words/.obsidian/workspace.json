@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2023-analog-productivity-system.md",
+                "file": "draft - links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "draft - links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "draft - links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2024-07-20-writing-advice.md"
+                "file": "draft - links.md"
               }
             }
           }
@@ -145,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eea3e51b295ff6f3",
+  "active": "ea2b48ba9ffe646d",
   "lastOpenFiles": [
-    "posts/2023-analog-productivity-system.md",
     "posts/2024-07-20-writing-advice.md",
+    "posts/2023-analog-productivity-system.md",
     "draft - links.md",
     "posts/2020-07-20-slug.md",
     "Professors, Start Your Blogs.md",
