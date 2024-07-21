@@ -28,7 +28,7 @@ export default function Home({ posts, tags }) {
             I'm a first year law student in Sacramento.
           </p>
           <p>
-            I write about what I learn studying law officially and history.
+            I write about what I learn studying law and reading about history.
           </p>
           <p>
             Subscribe for new posts and my monthly digest emails.
