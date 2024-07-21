@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0d5fa3c66a2620b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2024-07-20-writing-advice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2024-07-20-writing-advice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2024-07-20-writing-advice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +145,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d5fa3c66a2620b7",
+  "active": "eea3e51b295ff6f3",
   "lastOpenFiles": [
     "posts/2023-analog-productivity-system.md",
     "posts/2024-07-20-writing-advice.md",
