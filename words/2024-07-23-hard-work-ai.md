@@ -7,7 +7,7 @@ For example, there are a lot of PDF summarization tools being built. After you u
 
 Lawyers, bankers, and people who just like to read PDFs for fun are praising these tools because it's making their lives easier. Now, they don't have to spend as much time reading PDFs, trying to glean unique insights.
 
-But if you're rewarded for gleaning unique insights from PDFs, why are you using a tool that *prevents* you from doing that?
+But if you're rewarded for gleaning unique insights from PDFs, why are you using a tool that attempts to glean unique insights for you?
 
 AI tools should *help* you do the hard work that's required to make something great; AI tools should not *replace* the hard work that's required to make something great.
 
