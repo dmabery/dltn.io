@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-23-hard-work-ai.md",
+                "file": "posts/2024-07-23-hard-work-ai.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-23-hard-work-ai.md",
+                "file": "posts/2024-07-23-hard-work-ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-23-hard-work-ai.md",
+                "file": "posts/2024-07-23-hard-work-ai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-23-hard-work-ai.md"
+                "file": "posts/2024-07-23-hard-work-ai.md"
               }
             }
           }
@@ -162,10 +162,10 @@
   },
   "active": "eea3e51b295ff6f3",
   "lastOpenFiles": [
-    "posts/you-cant-go-there-by-doing-that.md",
-    "2024-07-23-hard-work-ai.md",
-    "posts/survive-technology.md",
     "Professors, Start Your Blogs.md",
+    "posts/you-cant-go-there-by-doing-that.md",
+    "posts/2024-07-23-hard-work-ai.md",
+    "posts/survive-technology.md",
     "no rule.md",
     "Screenshot 2024-07-21 at 4.01.26 PM.png",
     "draft - links.md",
