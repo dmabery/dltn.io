@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2024-07-23-hard-work-ai.md",
+                "file": "draft - links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70d15d2ca3803af5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/plain-speaking-an-oral-biography-of-harry-truman.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2024-07-23-hard-work-ai.md",
+                "file": "posts/plain-speaking-an-oral-biography-of-harry-truman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2024-07-23-hard-work-ai.md",
+                "file": "posts/plain-speaking-an-oral-biography-of-harry-truman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2024-07-23-hard-work-ai.md"
+                "file": "posts/plain-speaking-an-oral-biography-of-harry-truman.md"
               }
             }
           }
@@ -160,15 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ada2c537b330511",
+  "active": "eea3e51b295ff6f3",
   "lastOpenFiles": [
+    "draft - links.md",
+    "posts/plain-speaking-an-oral-biography-of-harry-truman.md",
     "Professors, Start Your Blogs.md",
-    "posts/you-cant-go-there-by-doing-that.md",
     "posts/2024-07-23-hard-work-ai.md",
+    "posts/you-cant-go-there-by-doing-that.md",
     "posts/survive-technology.md",
     "no rule.md",
     "Screenshot 2024-07-21 at 4.01.26 PM.png",
-    "draft - links.md",
     "posts/2024-07-20-writing-advice.md",
     "posts/2023-analog-productivity-system.md",
     "posts/2020-07-20-slug.md",
@@ -194,7 +207,6 @@
     "Dalt - Obsidian/Session 2 Briefing Template.pdf",
     "Dalt - Obsidian/Screenshot 2024-07-16 at 5.59.10 PM.png",
     "Dalt - Obsidian/Screenshot 2024-07-15 at 6.00.16 PM.png",
-    "Dalt - Obsidian/References/sacl aw firm program.md",
     "Dalt - Obsidian/References/A Map of Political Parties.canvas",
     "Dalt - Obsidian/References",
     "Dalt - Obsidian/Readwise",
