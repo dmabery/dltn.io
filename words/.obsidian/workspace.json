@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f34de3df506eafe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-26-microblog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/plain-speaking-an-oral-biography-of-harry-truman.md",
+                "file": "2024-07-26-microblog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/plain-speaking-an-oral-biography-of-harry-truman.md",
+                "file": "2024-07-26-microblog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/plain-speaking-an-oral-biography-of-harry-truman.md"
+                "file": "2024-07-26-microblog.md"
               }
             }
           }
@@ -172,11 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eea3e51b295ff6f3",
+  "active": "6f34de3df506eafe",
   "lastOpenFiles": [
+    "Professors, Start Your Blogs.md",
+    "2024-07-26-microblog.md",
     "draft - links.md",
     "posts/plain-speaking-an-oral-biography-of-harry-truman.md",
-    "Professors, Start Your Blogs.md",
     "posts/2024-07-23-hard-work-ai.md",
     "posts/you-cant-go-there-by-doing-that.md",
     "posts/survive-technology.md",
@@ -201,7 +214,6 @@
     "Dalt - Obsidian/Time management and law school.md",
     "Dalt - Obsidian/The difference between most people are just the standards they set for themselves.md",
     "Dalt - Obsidian/The Boys in the Boat.md",
-    "Dalt - Obsidian/Stuff for sick things school.md",
     "Dalt - Obsidian/Session 2 State v. Kremer Sample Brief.docx",
     "Dalt - Obsidian/Session 2 Critical Reading Case for Actus Reus with Annotations.pdf",
     "Dalt - Obsidian/Session 2 Briefing Template.pdf",
