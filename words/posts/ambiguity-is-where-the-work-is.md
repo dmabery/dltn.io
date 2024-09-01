@@ -6,7 +6,6 @@ I just finished my second week of law school, and when people say it's a lot of 
 But I've been explaining to people that, so far, the material isn't hard, it's the volume. It doesn't take the same type of brain power that learning calculus does, but the amount of information you're expected to absorb (and retain) is a lot.
 
 But that's not what this post is about.
-## On Ambiguity
 
 I had very little formal training or experience in the law before going to law school. I had a laymen's understanding of the Constitution and knew that we live in a common law system, but I still expected most of the "rules" that govern society to be somewhat clear.
 
