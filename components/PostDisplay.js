@@ -27,9 +27,9 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage, category })
   });
 
   return (
-    <article className="text-neutral-300">
+    <article className="text-neutral-300 bg-white border border-black p-5">
       <div className="mb-5 flex flex-col text-gray-900">
-        <div className="font-sansSerif text-[25px] font-bold leading-tight md:text-[28px]">
+        <div className="font-sansSerif text-[25px] font-bold leading-tight md:text-[26px]">
           {isHomePage ? (
             <div className="hover:underline">
               <Link href={`/posts/${slug}`} legacyBehavior>{title || ""}</Link>
