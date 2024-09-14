@@ -48,11 +48,11 @@ export default function CategoryPage({ posts, category }) {
 
   const categoryDisplay = unslugify(category)
   return (
-    <div>
+    <div className="border bg-white border-black p-5">
       <Meta
         description="A codex of my personal journey to understand the world."
       />
-      <PageTitle description={`All ${categoryDisplay} on the blog`} />
+      <PageTitle description={`All posts about ${categoryDisplay}`} />
       <div className="mt-7 flex flex-row">
         <div>
           {posts.map((post) => (

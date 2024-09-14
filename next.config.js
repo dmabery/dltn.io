@@ -10,6 +10,7 @@ module.exports = {
       "_.cloudinary.com",
       "evm.heg.mybluehost.me",
       "i0.wp.com",
+      "dltnio.wc.reclaim.press",
     ],
   },
   async redirects() {

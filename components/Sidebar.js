@@ -7,15 +7,14 @@ export default function Sidebar({ children, left, post }) {
         <div className="mt-5 px-5 pb-20 pt-10 w-[100%] md:m-0">{children}</div>
         <div className="hidden h-full w-2/5 pt-10 border border-black bg-white mt-10 px-8 p-5 text-sm md:flex md:flex-col">
           <h2 className="mb-5 border-b border-[#191919] pb-3 font-sansSerif text-lg font-medium leading-tight text-gray-900">
-            Helping you learn from history and books—one post at a time.
+            A personal blog about books, history, and the law.
           </h2>
           <h2 className="mb-2 font-sansSerif text-lg font-medium text-gray-900">
-            Hi, I'm Dalton
+            I'm Dalton
           </h2>
           <div className=" mb-5 border-b border-[#191919] pb-5 text-gray-700">
             <div className="mb-3 border-b border-[#191919] pb-5 text-[16px]">
-              I'm a video editor and designer who reads and writes about what I
-              learn.
+              I'm a first-year law student who reads (a lot) and writes about what I learn.
             </div>
             <h2 className="mb-2 font-sansSerif text-lg font-medium text-gray-900">
               Subscribe

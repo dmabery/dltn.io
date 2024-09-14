@@ -27,6 +27,7 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage, category })
   });
 
   return (
+    <div>
     <article className="text-neutral-300 bg-white border border-black p-5">
       <div className="mb-5 flex flex-col text-gray-900">
         <div className="font-sansSerif text-[25px] font-bold leading-tight md:text-[26px]">
@@ -46,22 +47,23 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage, category })
       <div className="mb-5">
         <PostBodyContent content={content} />
       </div>
-      <div className="tags gap-1 border-t border-black py-2 font-sansSerif text-xs text-gray-900 md:flex">
-          <div className="md:flex">Tags: </div>
-          <div className="taglist">
+    </article>
+        <div className="tags justify-between bg-black px-5 py-5 font-sansSerif text-xs text-white md:flex">
+          <div className="md:flex">Tagged</div>
+          <div className="flex divide-x">
             {" "}
             {tags
               ? tags.map((tag) => {
                   return (
-                    <li className="inline">
-                        <Link href={`/tags/${slugify(tag)}`} legacyBehavior><a className="text-blue-800 hover:underline">{tag}</a></Link>
+                    <li className="inline px-3">
+                        <Link href={`/tags/${slugify(tag)}`} legacyBehavior><a className="text-white hover:underline">{tag}</a></Link>
                     </li>
                   );
                 })
               : "error"}
           </div>
         </div>
-    </article>
+    </div>
   );
 };
 
