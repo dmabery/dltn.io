@@ -5,7 +5,7 @@ import Meta from "../components/Meta";
 import { getPostsByCategories } from "../lib/service";
 
 export const getStaticProps = async () => {
-  const posts = await getPostsByCategories(100, "notes"); // retrieve first 100 posts
+  const posts = await getPostsByCategories(100, "book notes"); // retrieve first 100 posts
 
   return {
     props: {
