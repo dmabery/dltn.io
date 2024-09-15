@@ -40,7 +40,13 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage, category })
           )}
         </div>
         <div className="mt-1.5 font-sansSerif flex gap-3 text-xs">
-          <div>{formattedDate}</div>
+        {isHomePage ? (
+            <div className="hover:underline">
+              <Link href={`/posts/${slug}`} legacyBehavior>{formattedDate || ""}</Link>
+            </div>
+          ) : (
+            <div>{formattedDate}</div>
+          )}
           <div>Category: <span className="text-blue-800 hover:underline"><Link href={`/categories/${category}`}>{category}</Link></span></div>
         </div>
       </div>
@@ -48,23 +54,24 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage, category })
         <PostBodyContent content={content} />
       </div>
     </article>
-        <div className="tags justify-between bg-black px-5 py-5 font-sansSerif text-xs text-white md:flex">
-          <div className="md:flex">Tagged</div>
-          <div className="flex divide-x">
-            {" "}
-            {tags
-              ? tags.map((tag) => {
-                  return (
-                    <li className="inline px-3">
-                        <Link href={`/tags/${slugify(tag)}`} legacyBehavior><a className="text-white hover:underline">{tag}</a></Link>
-                    </li>
-                  );
-                })
-              : "error"}
-          </div>
+    {tags && tags.length > 0 && (
+      <div className="tags justify-between bg-black px-5 py-5 font-sansSerif text-xs text-white md:flex">
+        <div className="md:flex">Tagged</div>
+        <div className="flex divide-x">
+          {tags.map((tag) => (
+            <li key={tag} className="inline px-3">
+              <Link href={`/tags/${slugify(tag)}`} legacyBehavior>
+                <a className="text-white hover:underline">{tag}</a>
+              </Link>
+            </li>
+          ))}
         </div>
+      </div>
+    )}
+
     </div>
   );
 };
 
 export default PostDisplay;
+

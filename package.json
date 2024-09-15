@@ -22,7 +22,7 @@
     "eslint-config-next": "^13.4.13",
     "eslint-config-wesbos": "^3.2.3",
     "framer-motion": "^7.3.2",
-    "markdown-to-jsx": "^7.1.7",
+    "markdown-to-jsx": "^7.5.0",
     "net": "^1.0.2",
     "next": "^13.4.13",
     "notion-to-md": "^2.5.5",
