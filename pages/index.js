@@ -24,7 +24,7 @@ export default function Home({ posts }) {
         description="Developer, Video Editor, Writer."
       />
       <IndexCallout />
-      <div className="flex flex-col gap-20">
+      <div className="flex flex-col gap-14">
         {posts.map((post) => (
           <PostDisplay
             title={post.title}

@@ -57,7 +57,7 @@ export default function CategoryPage({ posts, category }) {
         <div>
           {posts.map((post) => (
             <PostListSimple
-              title={post.title}
+              title={post.title || post.date.slice(0,10)}
               date={post.date}
               slug={`posts/${post.slug}`}
             />

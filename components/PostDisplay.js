@@ -47,7 +47,16 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage, category })
           ) : (
             <div>{formattedDate}</div>
           )}
-          <div>Category: <span className="text-blue-800 hover:underline"><Link href={`/categories/${category}`}>{category}</Link></span></div>
+          <div className="flex divide-x">
+            Categorized:
+          {category.map((category) => (
+            <li key={category} className="inline text-blue-800 px-3">
+              <Link href={`/tags/${slugify(category)}`} legacyBehavior>
+                <a className="text-blue hover:underline">{category}</a>
+              </Link>
+            </li>
+          ))}
+        </div>
         </div>
       </div>
       <div className="mb-5">
