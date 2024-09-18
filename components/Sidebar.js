@@ -34,7 +34,7 @@ export default function Sidebar({ children, left, post }) {
             </li>
           </ul>
         </div>
-        <div className="mt-5 px-5 pb-20 pt-10 md:max-w-[625px] md:m-0">{children}</div>
+        <div className="mt-5 px-5 pb-20 pt-10 w-full md:w-[625px] md:m-0">{children}</div>
       </div>
     </>
   );
