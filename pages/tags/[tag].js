@@ -31,7 +31,7 @@ export const getStaticPaths = async () => {
   };
 };
 
-export default function TagPage({ posts, tag }) {
+export default function TagPage({ posts = [], tag }) {
   const tagg = unslugify(tag);
   return (
     <div className="border bg-white border-black p-5">
@@ -42,15 +42,21 @@ export default function TagPage({ posts, tag }) {
       <PageTitle description={`All posts tagged with ${tagg}`} />
       <div className="mt-7 flex flex-row">
         <div>
-          {posts.map((post) => (
-            <PostListSimple
-              title={post.title}
-              date={post.date}
-              slug={`posts/${post.slug}`}
-            />
-          ))}
+          {posts.length > 0 ? (
+            posts.map((post) => (
+              <PostListSimple
+                key={post.slug}
+                title={post.title}
+                date={post.date}
+                slug={`posts/${post.slug}`}
+              />
+            ))
+          ) : (
+            <p>No posts found for this tag.</p>
+          )}
         </div>
       </div>
     </div>
   );
 }
+
