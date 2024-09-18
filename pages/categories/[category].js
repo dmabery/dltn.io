@@ -36,7 +36,6 @@ export async function getStaticProps({ params }) {
 
 export const getStaticPaths = async () => {
   const categories = await getAllCategories(100);
-  console.log(categories)
   const paths = categories.map((category) => ({ params: { category: slugify(category) } }));
   return {
     paths,
@@ -57,7 +56,7 @@ export default function CategoryPage({ posts, category }) {
         <div>
           {posts.map((post) => (
             <PostListSimple
-              title={post.title || post.date.slice(0,10)}
+              title={post.title || post.excerpt }
               date={post.date}
               slug={`posts/${post.slug}`}
             />

@@ -47,12 +47,12 @@ const PostDisplay = ({ title, date, tags, content, slug, isHomePage, category })
           ) : (
             <div>{formattedDate}</div>
           )}
-          <div className="flex divide-x">
+          <div className="flex taglist">
             Categorized:
           {category.map((category) => (
-            <li key={category} className="inline text-blue-800 px-3">
-              <Link href={`/tags/${slugify(category)}`} legacyBehavior>
-                <a className="text-blue hover:underline">{category}</a>
+            <li key={category} className="inline ml-1 text-blue-800 tags">
+              <Link href={`/categories/${slugify(category)}`} legacyBehavior>
+                <a className="text-blue hover:underline tags">{category}</a>
               </Link>
             </li>
           ))}

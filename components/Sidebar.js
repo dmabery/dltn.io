@@ -3,10 +3,10 @@ import Subscribe from "../components/Subscribe";
 export default function Sidebar({ children, left, post }) {
   return (
     <>
-      <div className="flex gap-16 justify-between max-w-[1000px]">
-        <div className="hidden h-full w-2/5 pt-10 border border-black bg-white mt-10 px-8 p-5 text-sm md:flex md:flex-col">
+      <div className="flex justify-between max-w-[1000px]">
+        <div className="ml-2 max-w-[270px] hidden h-full w-2/5 border border-black bg-white mt-10 px-4 p-5 text-sm md:flex md:flex-col">
           <h2 className="mb-5 border-b border-[#191919] pb-3 font-sansSerif text-lg font-medium leading-tight text-gray-900">
-            A personal blog about books, history, and the law.
+            A personal blog about books, history, and law.
           </h2>
           <h2 className="mb-2 font-sansSerif text-lg font-medium text-gray-900">
             I'm Dalton
@@ -34,7 +34,7 @@ export default function Sidebar({ children, left, post }) {
             </li>
           </ul>
         </div>
-        <div className="mt-5 px-5 pb-20 pt-10 w-[100%] md:m-0">{children}</div>
+        <div className="mt-5 px-5 pb-20 pt-10 md:max-w-[625px] md:m-0">{children}</div>
       </div>
     </>
   );
