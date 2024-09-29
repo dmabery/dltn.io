@@ -18,7 +18,7 @@ const PostDisplay = ({
 
   return <>
     <article className="text-[neutral-200]">
-      <div className="mb-8 font-sansSerif">
+      <div className="mb-14 font-sansSerif">
         <div className="text-2xl font-medium text-neutral-800">
           {title || ""}
         </div>

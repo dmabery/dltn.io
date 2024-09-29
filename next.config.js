@@ -3,6 +3,7 @@ module.exports = {
   images: {
     domains: ["images.ctfassets.net", "res.cloudinary.com", "_.cloudinary.com", "evm.heg.mybluehost.me", "github.com"],
   },
+
   async redirects() {
     return [
       {
@@ -16,5 +17,9 @@ module.exports = {
         permanent: true,
       },
     ];
+  },
+
+  experimental: {
+    scrollRestoration: true,
   },
 };
