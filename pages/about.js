@@ -17,6 +17,12 @@ export default function About({ data }) {
     <div>
       <PageTitle title="About me" />
       <PostBodyContent content={data} />
+      <Image
+        src="/reading book.png"
+        width={95}
+        height={100}
+        alt="astronaut on planet reading a book"
+      />
     </div>
   );
 }

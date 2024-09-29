@@ -25,15 +25,14 @@ export default function Home({ posts, tags }) {
       <p className="text-gray-900 font-sansSerif font-semibold text-xl">Hi, I'm Dalton</p>
         <div className="flex flex-col gap-3 text-slate-900">
           <p>
-            I'm a first year law student in Sacramento.
+            I'm a first year law student in Sacramento. I write about what I learn studying law and reading history.
           </p>
-          <p>
-            I write about what I learn studying law officially and history.
+          <p className="md:hidden">
+            Subscribe to get my monthly reading list emails.
           </p>
-          <p>
-            Subscribe for new posts and my monthly digest emails.
-          </p>
-          <Subscribe />
+          <div className="md:hidden">
+            <Subscribe />
+          </div>
         </div>
         <p></p>
       </div>

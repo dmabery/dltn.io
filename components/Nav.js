@@ -12,7 +12,7 @@ const links = [
 ];
 
 const Nav = () => (
-  <nav className="fixed top-0 z-10 w-full border-b-4 border-gray-400 bg-black py-4">
+  <nav className="md:hidden top-0 w-full border-b-4 border-gray-400 bg-black py-4">
     <div className="mx-auto flex max-w-[650px] flex-col items-center justify-between  text-white md:mb-0 md:flex-row md:px-5 lg:p-0">
       <div className="flex items-center">
         <div className="font-serif text-3xl font-bold">
