@@ -1,6 +1,6 @@
 ---
 Title: "How I Built my Blog with Next.js and Notion with Custom React Components in Blog Posts"
-Tags: ["programming”, “myblog”]
+Tags: ["programming”]
 Date: "2023-01-29"
 Description: "A high-level overview of how I built my blog."
 Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1675028670/blog_wtsxei.png"
