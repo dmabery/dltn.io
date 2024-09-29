@@ -3,7 +3,6 @@ import { Analytics } from "@vercel/analytics/react";
 import Head from "next/head";
 import "prismjs";
 import { QueryClient, QueryClientProvider } from "react-query";
-import Footer from "../components/Footer";
 import Nav from "../components/Nav";
 import "../styles/globals.css";
 import "../styles/prism-theme.css";
@@ -19,16 +18,13 @@ function MyApp({ Component, pageProps }) {
       <nav className="container mx-auto mt-5 mb-10 max-w-[650px]">
         <Nav className="" />
       </nav>
-      <div className="mx-auto mt-2 max-w-[650px] p-3 md:mt-5 md:p-0">
+      <div className="mx-auto mt-2 max-w-[620px] p-3 md:mt-5 md:p-0">
         <main className="mb-auto min-h-screen">
           <QueryClientProvider client={queryClient}>
             <Component {...pageProps} />
             <Analytics />
           </QueryClientProvider>
         </main>
-        <footer className="h-10">
-          <Footer />
-        </footer>
       </div>
     </>
   );

@@ -31,7 +31,7 @@ export default function Home({ posts, tags }) {
             I write about what I learn studying law and reading about history.
           </p>
           <p>
-            Subscribe for new posts and my monthly digest emails.
+            Subscribe for my monthly reading list emails.
           </p>
           <Subscribe />
         </div>
