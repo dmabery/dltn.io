@@ -21,6 +21,7 @@
     "esbuild": "^0.12.9",
     "eslint-config-next": "^13.4.13",
     "eslint-config-wesbos": "^3.2.3",
+    "feed": "^4.2.2",
     "framer-motion": "^7.3.2",
     "markdown-to-jsx": "^7.1.7",
     "net": "^1.0.2",
