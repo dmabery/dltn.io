@@ -10,7 +10,7 @@ If the Burden to do something was low, they didn’t do it, the probability of h
 
 If the Burden to not act was low, and they acted, and the probability of the harm was high and likely magnitude of the harm was high, then they breached their duty.
 
-Res Ipsa Loquitur
+## Res Ipsa Loquitur
 
 The judge, just like in any case, is the gatekeeper to the jury of a res ipsa loquitur charge. If a judge determines that every element of res ipsa loquitur can be found by a reasonable jury, it gets sent to the jury and it will survive a motion to dismiss.
 
@@ -18,6 +18,6 @@ Once in front of a jury, the jury gets to decide whether or not it’s more like
 
 If the jury decides that one element, just one, of res ipsa loquitur was not met, then they cannot infer breach of duty, and likely, the case will be dismissed or found for the defendant. There can usually be no other unreasonable conduct on the part of the defendant because if there was, the jury would never have contemplated res ipsa loquitur in the first place.
 
-Res Ipsa Loquitur and B < (P)(L)
+## Res Ipsa Loquitur and B < (P)(L)
 
 Typically, you don’t need to use BPL when you analyze a set of facts based on res ipsa loquitur because the elements of RIL go to establish breach, and BPL is just another way to establish breach. If they are met, there is breach; if they aren’t met, there is no breach.
