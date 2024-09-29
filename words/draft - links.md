@@ -1,3 +1,9 @@
+Jim Nielsen has a cool page on his site: www.notes.jim-nielsen.com.
+
+I've long wondered how I can post quotes and ideas from articles that I read, but have never found something that really worked. After seeing how Jim made his site,[ reading the technicalities of how it works](https://blog.jim-nielsen.com/tags/#myNotesSite), and perusing his code, I made a page that did something similar.
+
+This was going to be a fun new announcement, but then I realized I really don’t want to build this feature into my site.
+
 I have a new page on my site: dltn.io/links where I'll publish notes from (mostly) articles with brief editorial comments.
 
 I stole this idea from Jim Nielsen after I came across his site: www.notes.jim-nielsen.com. I've long wondered how I can post quotes and ideas from articles that I read, publicly, but have never found something that really worked. After seeing how Jim made his site, reading the technicalities of how it works, and perusing his code, I decided to make my own page that does something similar.
