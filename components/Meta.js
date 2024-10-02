@@ -25,6 +25,7 @@ const Meta = (props) => (
         'https://res.cloudinary.com/dde1q4ekv/image/upload/v1675112289/site_og_image_dseevc.png'
       }
     />
+    <link rel="alternative" type="application/rss+xml" title="RSS" href="/rss.xml"/>
   </Head>
 );
 
