@@ -14,7 +14,7 @@ export default async function generateRssFeed(allPosts) {
     description: "A personal blog about books, history, and the law.",
     site_url: site_url,
     feed_url: `${site_url}/rss.xml`,
-    image_url: "favicon 3.png",
+    image_url: "public/favicon 3.png",
     pubDate: new Date(),
     copyright: `All rights reserved ${new Date().getFullYear()}`,
   };
