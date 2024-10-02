@@ -4,15 +4,15 @@
         <description><![CDATA[A personal blog about books, history, and the law.]]></description>
         <link>http://localhost:3000</link>
         <image>
-            <url>favicon 3.png</url>
+            <url>public/favicon 3.png</url>
             <title>dltn.io feed</title>
             <link>http://localhost:3000</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Oct 2024 01:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 01:56:16 GMT</lastBuildDate>
         <atom:link href="http://localhost:3000/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></author>
-        <pubDate>Wed, 02 Oct 2024 01:46:29 GMT</pubDate>
+        <pubDate>Wed, 02 Oct 2024 01:56:16 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2024]]></copyright>
         <item>
             <title><![CDATA[Justice Holmes]]></title>
@@ -70,7 +70,7 @@ One of the reasons I’ve been tempted to switch—and in fact have switched a f
 </content:encoded>
         </item>
         <item>
-            <title><![CDATA[Will my blog ever be finished?]]></title>
+            <title><![CDATA[There are no rules]]></title>
             <description><![CDATA[
 The downside of reading a series like People and Blogs every week is that, every week, I contemplate redoing everything about my blog—from the tech s...]]></description>
             <link>http://localhost:3000/posts/blog-design</link>
@@ -80,7 +80,7 @@ The downside of reading a series like People and Blogs every week is that, every
             <content:encoded>&lt;p&gt;The downside of reading a series like People and Blogs every week is that, every week, I contemplate redoing everything about my blog—from the tech stack to the layout to the format. It takes a lot of self control not to “waste” time fiddling with the design or backend.&lt;/p&gt;
 &lt;p&gt;The upside of reading a series like People and Blogs every week is that, every week, I realize that although blogging is still a very niche “hobby,” there have been a lot of people doing it for a very long time. This is encouraging because when I find those sites and people I probably wouldn’t have found otherwise, I get lost in a rabbit hole of reading the blog posts they wrote, sometimes before I was even alive!&lt;/p&gt;
 &lt;p&gt;This makes me feel good because I realize (1) everyone goes through constant redesigns of their blog, and (2) the type of stuff they post usually isn’t some world-altering idea, yet it’s interesting and fun to read nonetheless. This encourages me to just keep writing, and see who finds and resonates with it.&lt;/p&gt;
-&lt;p&gt;The latest guest, Giles Turnbull, was one of those. Turnbull started blogging in the 90s, and his blog has gone through many iterations of design and tech. His current site is just HTML files with “terrible hand-coded CSS.” His posts range from documenting his honeymoon in India in 1995 (! before I was born), to his routine for taking care of a baby, to thinking about the permanence and tradeoffs of using a hosted CMS system. There isn’t really a “theme” to his blog, other than the fact that he thought about the posts, and then he wrote them.&lt;/p&gt;
+&lt;p&gt;The latest guest, &lt;a href=&quot;https://manuelmoreale.com/pb-giles-turnbull&quot;&gt;Giles Turnbull&lt;/a&gt;, was one of those. &lt;a href=&quot;https://gilest.org/&quot;&gt;Turnbull started blogging&lt;/a&gt; in the 90s, and his blog has gone through many iterations of design and tech. His current site is just HTML files with “terrible hand-coded CSS.” His posts range from documenting his honeymoon in India in 1995 (! before I was born), to his routine for taking care of a baby, to thinking about the permanence and tradeoffs of using a hosted CMS system. There isn’t really a “theme” to his blog, other than the fact that he thought about the posts, and then he wrote them.&lt;/p&gt;
 &lt;p&gt;Some people think your blog needs to be more. I don’t. A blog is your website. If other people like it, great! If not, they can visit the million other sites online.&lt;/p&gt;
 &lt;p&gt;This goes for other web projects as well. There was lately some “beef” about how Manu hosts the People and Blog series. Someone thought sending pre-formatted questions via email was not the proper way to conduct an interview. And they’re right. But Manu isn’t conducting “proper interviews,” his goals are:&lt;/p&gt;
 &lt;blockquote&gt;
