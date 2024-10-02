@@ -9,6 +9,10 @@ const links = [
     title: "about",
     slug: "about",
   },
+  {
+    title: "rss",
+    slug: "rss",
+  },
 ];
 
 const Nav = () => (
