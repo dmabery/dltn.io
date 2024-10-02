@@ -4,10 +4,13 @@ import Meta from "../components/Meta";
 import PostListSimple from "../components/PostListSimple";
 import Subscribe from "../components/Subscribe";
 import { getAllPosts, getTags } from "../lib/getMarkdownFiles";
+import generateRssFeed from "../utils/rss";
 
 export const getStaticProps = async () => {
   const posts = await getAllPosts();
   const tags = await getTags();
+
+  generateRssFeed(posts);
 
   return {
     props: { posts, tags },
