@@ -9,7 +9,8 @@ export default async function generateRssFeed(allPosts) {
       : "http://localhost:3000";
 
   const feedOptions = {
-    title: "Dalton Mabery's RSS Feed",
+    title: "dltn.io feed",
+    author: "maberydalton@gmail.com | Dalton Mabery",
     description: "A personal blog about books, history, and the law.",
     site_url: site_url,
     feed_url: `${site_url}/rss.xml`,
