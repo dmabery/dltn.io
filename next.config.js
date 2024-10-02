@@ -16,6 +16,11 @@ module.exports = {
         destination: "/posts/:path*",
         permanent: true,
       },
+      {
+        source: "/rss",
+        destination: "/rss.xml/",
+        permanent: true,
+      },
     ];
   },
 
