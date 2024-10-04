@@ -34,7 +34,7 @@ const PostDisplay = ({
             {tags
               ? tags.map((tag) => {
                   return (
-                    <li className="inline mr-2 border bg-neutral-100 hover:bg-slate-00 text-blue font-medium rounded-xl text-sm px-3 py-1">
+                    <li className="inline-flex mr-2 border hover:bg-neutral-100 text-blue font-medium rounded-lg text-sm px-1.5 py-0.5">
                       <Link className="hover:text-blue" href={`/tags/${tag}`}>
                         {tag}
                       </Link>
