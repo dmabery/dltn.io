@@ -23,4 +23,4 @@ But sometimes I wonder, is it worth it? When I’m falling into the mindset of, 
 
 *I* took the LSAT, *I* wrote the application essay, *I* paid all the money for textbooks. This is, quite literally, what *I* asked for.
 
-Heavy is the crown, but if I don’t want to wear it, I can always just take t off.
+Heavy is the crown, but if I don’t want to wear it, I can always just take it off.
