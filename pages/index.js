@@ -2,7 +2,6 @@
 import Link from "next/link";
 import Meta from "../components/Meta";
 import PostListSimple from "../components/PostListSimple";
-import Subscribe from "../components/Subscribe";
 import { getAllPosts, getTags } from "../lib/getMarkdownFiles";
 import generateRssFeed from "../utils/rss";
 
@@ -25,26 +24,22 @@ export default function Home({ posts, tags }) {
     />
     <div className="flex flex-col divide-y">
       <div className="flex flex-col gap-2 pb-10">
-      <p className="text-gray-900 font-sansSerif font-semibold text-xl">Hi, I'm Dalton</p>
-        <div className="flex flex-col gap-3 text-slate-900">
+      <p className="font-sansSerif font-semibold text-xl">Hi, I'm Dalton</p>
+        <div className="flex flex-col gap-3">
           <p>
             I'm a first year law student in Sacramento.
           </p>
           <p>
             I write about what I learn studying law and reading about history.
           </p>
-          <p>
-            Subscribe for my monthly reading list emails.
-          </p>
-          <Subscribe />
         </div>
         <p></p>
       </div>
       <div className="taglist flex flex-col py-10">
-        <p className="text-gray-600 font-sansSerif text-base mb-5">Topics</p>
+        <p className="font-sansSerif text-base mb-5">Topics</p>
         <div>
           {tags.map((tag) => (
-            <li className="inline mb-2 text-slate-900" key={tag}>
+            <li className="inline mb-2" key={tag}>
               <Link href={`/tags/${tag}`} className="underline decoration-1 hover:text-blue">
                 {tag}
               </Link>
@@ -53,7 +48,7 @@ export default function Home({ posts, tags }) {
         </div>
       </div>
       <div className="flex flex-col py-10">
-        <Link href="/writing" className="text-gray-600 mb-5 font-sansSerif text-base hover:text-blue">Writing</Link>
+        <Link href="/writing" className="mb-5 font-sansSerif text-base hover:text-blue">Writing</Link>
         <ol>
           {posts.map((post) => (
             <li>

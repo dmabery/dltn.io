@@ -7,13 +7,13 @@
 html,
 body {
   margin: 0;
-  font-family: 'Inter', sans-serif;
-  background-color: #FAFBFF;
-  color: #100f10;
+  font-family: 'Verdana', sans-serif;
+  background-color: #191919;
+  color: #FAFAFA;
 }
 
 em {
-  font-family: Newsreader, serif;
+  font-family: Verdana ;
   font-size: 17px;
   font-kerning: auto;
 }

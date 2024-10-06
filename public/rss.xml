@@ -9,11 +9,36 @@
             <link>http://localhost:3000</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Oct 2024 03:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Oct 2024 17:54:47 GMT</lastBuildDate>
         <atom:link href="http://localhost:3000/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></author>
-        <pubDate>Fri, 04 Oct 2024 03:14:24 GMT</pubDate>
+        <pubDate>Sun, 06 Oct 2024 17:54:46 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2024]]></copyright>
+        <item>
+            <title><![CDATA[Heavy is the Crown]]></title>
+            <description><![CDATA[After a run this morning, my friend told me about Linkin Park’s new song, “[Heavy is the Crown](https://genius.com/Linkin-park-heavy-is-the-crown-lyri...]]></description>
+            <link>http://localhost:3000/posts/heavy-is-the-crown</link>
+            <guid isPermaLink="true">http://localhost:3000/posts/heavy-is-the-crown</guid>
+            <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
+            <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded>&lt;p&gt;After a run this morning, my friend told me about Linkin Park’s new song, “&lt;a href=&quot;https://genius.com/Linkin-park-heavy-is-the-crown-lyrics&quot;&gt;Heavy is the Crown&lt;/a&gt;.” Apparently they’re making a comeback? I never really got into them, so I don’t know.&lt;/p&gt;
+&lt;p&gt;But.&lt;/p&gt;
+&lt;p&gt;I listened to the song on the way home. It gave me a bit of a headache (why are they yelling so much?) but the lyrics were great.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is what you asked for, heavy is the crown /
+Fire in the sunrise, ashes rainin&amp;#39; down /
+Try to hold it in, but it keeps bleedin&amp;#39; out /
+This is what you asked for, heavy is the / 
+Heavy is the crown&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/LinkinPark/comments/1fogrhh/what_do_you_think_the_lyrics_to_heavy_is_the/&quot;&gt;No one really seems to know&lt;/a&gt; exactly what the lyrics are referring to. Some say it’s a bash on critics saying the band was over, others say it’s a stab at politicians: “I think it&amp;#39;s aimed much more at world leaders in general, politicians playing the politics &amp;#39;game&amp;#39;. This is what you asked for, you&amp;#39;re in a position of power, so deal with all the shit. It&amp;#39;s not nice, heavy is the crown, but you put yourself there so do something about it.”&lt;/p&gt;
+&lt;p&gt;Although I don’t analogize that reasoning to the political sphere, I had the same interpretation about the lyrics. It made me think about people who want something really bad and them complain about it when they get it.&lt;/p&gt;
+&lt;p&gt;I’m reminding myself of this now when I fall into a victim mindset about law school. For the most part, I’m loving all of the reading and class time. But it’s a lot. And it’s stressful. So much of my future—so they say—rests on my first year. I want to do well so I can get a good job, and because of that, I add even more pressure on myself to perform, feeling like this year is all or nothing.&lt;/p&gt;
+&lt;p&gt;But sometimes I wonder, is it worth it? When I’m falling into the mindset of, “There’s so much reading,” or, “I’m so busy,” or, “Why do we have to do this extra class?” I’ll try to remind myself, “&lt;em&gt;this is what you asked for...&lt;/em&gt;”&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I&lt;/em&gt; took the LSAT, &lt;em&gt;I&lt;/em&gt; wrote the application essay, &lt;em&gt;I&lt;/em&gt; paid all the money for textbooks. This is, quite literally, what &lt;em&gt;I&lt;/em&gt; asked for.&lt;/p&gt;
+&lt;p&gt;Heavy is the crown, but if I don’t want to wear it, I can always just take it off.&lt;/p&gt;
+</content:encoded>
+        </item>
         <item>
             <title><![CDATA[Your site should let you do what you want]]></title>
             <description><![CDATA[For the last few months, I debated switching my site to a headless CMS using WordPress. I liked—nay, loved—how easy it was to open a browser window, t...]]></description>
