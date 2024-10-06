@@ -40,7 +40,7 @@ export default function Home({ posts, tags }) {
         <div>
           {tags.map((tag) => (
             <li className="inline mb-2" key={tag}>
-              <Link href={`/tags/${tag}`} className="underline decoration-1 hover:text-blue">
+              <Link href={`/tags/${tag}`} className="underline decoration-1 hover:text-blue-500">
                 {tag}
               </Link>
             </li>
@@ -48,7 +48,7 @@ export default function Home({ posts, tags }) {
         </div>
       </div>
       <div className="flex flex-col py-10">
-        <Link href="/writing" className="mb-5 font-sansSerif text-base hover:text-blue">Writing</Link>
+        <Link href="/writing" className="mb-5 font-sansSerif text-base hover:text-blue-500">Writing</Link>
         <ol>
           {posts.map((post) => (
             <li>

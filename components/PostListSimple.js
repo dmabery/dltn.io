@@ -5,7 +5,7 @@ const PostListSimple = (props) => (
     <div className="hidden shrink-0 text-neutral-200/90 md:inline">
       {props.date.slice(0,4)} <span className="text-sm">•</span> {props.date.slice(5,7)}
     </div>
-    <div className="underline hover:text-blue">
+    <div className="underline hover:text-blue-500">
       <Link href={`/${props.slug}`}>{props.title}</Link>
     </div>
   </div>
