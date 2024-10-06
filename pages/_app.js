@@ -18,7 +18,7 @@ function MyApp({ Component, pageProps }) {
       <nav className="mt-5 ml-0mb-10">
         <Nav/>
       </nav>
-      <div className="p-3 md:mt-20 md:p-0">
+      <div className="p-3 mt-20 md:p-0">
         <main className="mb-auto min-h-screen pb-32">
           <QueryClientProvider client={queryClient}>
             <Component {...pageProps} />
