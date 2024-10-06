@@ -11,22 +11,22 @@ const queryClient = new QueryClient();
 
 function MyApp({ Component, pageProps }) {
   return (
-    <>
+    <div className="mx-auto pl-0 max-w-[620px]">
       <Head>
         <link rel="icon" href="/favicon 3.png" />
       </Head>
-      <nav className="mt-5 ml-0 md:ml-20 mb-10 max-w-[650px]">
+      <nav className="mt-5 ml-0mb-10">
         <Nav/>
       </nav>
-      <div className="max-w-[620px] p-3 md:mt-20 md:p-0">
-        <main className="mb-auto min-h-screen pl-0 md:pl-20 pb-32">
+      <div className="p-3 md:mt-20 md:p-0">
+        <main className="mb-auto min-h-screen pb-32">
           <QueryClientProvider client={queryClient}>
             <Component {...pageProps} />
             <Analytics />
           </QueryClientProvider>
         </main>
       </div>
-    </>
+    </div>
   );
 }
 
