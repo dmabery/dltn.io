@@ -15,11 +15,11 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <link rel="icon" href="/favicon 3.png" />
       </Head>
-      <nav className="mt-5 ml-20 mb-10 max-w-[650px]">
+      <nav className="mt-5 ml-0 md:ml-20 mb-10 max-w-[650px]">
         <Nav/>
       </nav>
       <div className="max-w-[620px] p-3 md:mt-20 md:p-0">
-        <main className="mb-auto min-h-screen pl-20 pb-32">
+        <main className="mb-auto min-h-screen pl-0 md:pl-20 pb-32">
           <QueryClientProvider client={queryClient}>
             <Component {...pageProps} />
             <Analytics />
