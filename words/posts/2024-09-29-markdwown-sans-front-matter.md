@@ -1,4 +1,4 @@
-#myBlog
+#meta
 
 # Markdown sans front matter
 

@@ -1,4 +1,4 @@
-#myBlog #blogging
+#meta #blogging
 
 # There are no rules
 

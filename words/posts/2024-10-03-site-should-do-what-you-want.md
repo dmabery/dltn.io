@@ -1,4 +1,4 @@
-#blogging #myBlog
+#blogging #meta
 
 # Your site should let you do what you want
 For the last few months, I debated switching my site to a headless CMS using WordPress. I liked—nay, loved—how easy it was to open a browser window, type words, add images, and make a new post. It was much simpler than pushing to GitHub, dealing with front matter, and all those things.
