@@ -4,7 +4,7 @@
 
 From [Jack Baty](https://archive.baty.net/2017/wordpress-is-a-typewriter/):
 
-> The problem I have with publishing a static site is that creating and editing content is too far removed from the actual rendered page.\
+> The problem I have with publishing a static site is that creating and editing content is too far removed from the actual rendered page.
 > 
 > I fly pretty fast and loose with my writing. I publish things I’m interested in and am eager to share. I’m impatient. If I had to write three drafts of every post before putting it out there I’d never publish anything. This is why I like using WordPress.
 > 
