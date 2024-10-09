@@ -11,11 +11,11 @@ const queryClient = new QueryClient();
 
 function MyApp({ Component, pageProps }) {
   return (
-    <div className="bg-white px-10">
-      <nav className="py-3 px-10 ml-0 mb-10">
+    <div className="bg-white md:px-10 px-0">
+      <nav className="py-3 px-0 md:px-10 ml-0 mb-10">
         <Nav/>
       </nav>
-      <div className="p-10 max-w-[650px]">
+      <div className="md:p-10 max-w-[650px]">
       <Head>
         <link rel="icon" href="/favicon 3.png" />
       </Head>

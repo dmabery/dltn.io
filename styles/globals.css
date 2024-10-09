@@ -11,10 +11,15 @@
 html,
 body {
   margin: 0;
-  font-family: "Crimson Pro", sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   background-color: #000623;
   color: #004a80;
-  font-size: 23px;
+  font-size: 20px;
+}
+
+nav {
+  font-family: Inter;
+  font-size: 18;
 }
 
 .prose {
@@ -25,9 +30,16 @@ body {
   color: #6696D9;
 }
 
+.prose blockquote {
+  color: black;
+
+}
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: Inter, Geneva, Tahoma, sans-serif;
+  font-weight: 800 !important;
+  color: #004a80 !important;
 }
 
 a {
@@ -36,53 +48,6 @@ a {
 
 * {
   box-sizing: border-box;
-}
-
-/* width */
-::-webkit-scrollbar {
-  width: 8px;
-  height: 5px;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  background: @apply stone-200;
-}
-
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #ffffff;
-  border-radius: 10px;
-  height:15px;
-	width:20px;
-	position: inherit;
-	background:#2563eb;
-	background-color: -webkit-linear-gradient(-45deg, #f1f5f9 25%, #2563eb 25%, #2563eb 50%, #f1f5f9 50%, #f1f5f9 75%, #2563eb 75%);
-	background: -moz-linear-gradient(-45deg, #f1f5f9 25%, #2563eb 25%, #2563eb 50%, #f1f5f9 50%, #f1f5f9 75%, #2563eb 75%);
-	background: -o-linear-gradient(-45deg, #f1f5f9 25%, #2563eb 25%, #2563eb 50%, #f1f5f9 50%, #f1f5f9 75%, #2563eb 75%);
-	background: linear-gradient(-45deg, #f1f5f9 25%, #2563eb 25%, #2563eb 50%, #f1f5f9 50%, #f1f5f9 75%, #2563eb 75%);
-	background-size: 27px 27px;
-}
-
-@-webkit-keyframes barberpole {
-		from {background-position: 0%;}
-		to {background-position: 100%;}
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #ffffff;
-  border-radius: 10px;
-  height:172px;
-	width:54px;
-	position: inherit;
-	background:#2563eb;
-	background-color: -webkit-linear-gradient(-45deg, #94a3b8 25%, #2563eb 25%, #2563eb 50%, #94a3b8 50%, #94a3b8 75%, #2563eb 75%);
-	background: -moz-linear-gradient(-45deg, #94a3b8 25%, #2563eb 25%, #2563eb 50%, #94a3b8 50%, #94a3b8 75%, #2563eb 75%);
-	background: -o-linear-gradient(-45deg, #94a3b8 25%, #2563eb 25%, #2563eb 50%, #94a3b8 50%, #94a3b8 75%, #2563eb 75%);
-	background: linear-gradient(-45deg, #94a3b8 25%, #2563eb 25%, #2563eb 50%, #94a3b8 50%, #94a3b8 75%, #2563eb 75%);
-	background-size: 27px 27px;
-  transition: all;
 }
 
 .tags{
