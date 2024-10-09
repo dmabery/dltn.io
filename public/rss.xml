@@ -9,10 +9,10 @@
             <link>http://localhost:3000</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Oct 2024 00:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Oct 2024 23:11:53 GMT</lastBuildDate>
         <atom:link href="http://localhost:3000/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></author>
-        <pubDate>Wed, 09 Oct 2024 00:19:33 GMT</pubDate>
+        <pubDate>Wed, 09 Oct 2024 23:11:53 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2024]]></copyright>
         <item>
             <title><![CDATA[Heavy is the Crown]]></title>
