@@ -76,7 +76,7 @@ export default function Home({ posts }) {
         <h2><Link href="/writing" className="mb-5 text-xl font-semibold font-sansSerif hover:text-blue-500">Popular Tags</Link></h2>
         <ol className="mt-2 flex flex-col gap-2 list-disc list-inside">
           {popularTags.map((tag) => (
-            <li className="underline decoration-blue-300">
+            <li className="underline hover:decoration-blue-500 decoration-blue-300">
               <Link href={`tags/${tag.slug}`}>{tag.name}</Link>
             </li>
           ))}
