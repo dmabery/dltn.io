@@ -19,12 +19,12 @@ const PostDisplay = ({
   return <>
     <article>
       <div className="mb-14 font-sansSerif">
-        <div className="text-[27px] leading-tight font-semibold">
+        <h1 className="text-[35px] leading-tight font-semibold">
           {title || ""}
-        </div>
-        <div className="tags flex gap-2 py-2 text-sm">
+        </h1>
+        <h5 className="tags flex gap-2 py-2 text-xs">
           <div>{date.slice(0,10)}</div>
-        </div>
+        </h5>
       </div>
       <div>
         <PostBodyContent content={content} />

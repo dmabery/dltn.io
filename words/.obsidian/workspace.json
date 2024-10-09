@@ -11,12 +11,8 @@
             "id": "ea2b48ba9ffe646d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Professors, Start Your Blogs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -47,12 +43,8 @@
             "id": "6f34de3df506eafe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-07-26-microblog.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -122,8 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-26-microblog.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -139,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-26-microblog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,17 +151,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-07-26-microblog.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f34de3df506eafe",
+  "active": "8435bee80b0e727c",
   "lastOpenFiles": [
     "Professors, Start Your Blogs.md",
     "2024-07-26-microblog.md",

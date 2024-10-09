@@ -11,7 +11,7 @@ const queryClient = new QueryClient();
 
 function MyApp({ Component, pageProps }) {
   return (
-    <div className="mx-auto pl-0 max-w-[620px]">
+    <div className="ml-0 md:ml-40 max-w-[620px]">
       <Head>
         <link rel="icon" href="/favicon 3.png" />
       </Head>
