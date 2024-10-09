@@ -11,20 +11,22 @@ const queryClient = new QueryClient();
 
 function MyApp({ Component, pageProps }) {
   return (
-    <div className="ml-0 md:ml-40 max-w-[620px]">
+    <div className="bg-white px-10">
+      <nav className="py-3 px-10 ml-0 mb-10">
+        <Nav/>
+      </nav>
+      <div className="p-10 max-w-[650px]">
       <Head>
         <link rel="icon" href="/favicon 3.png" />
       </Head>
-      <nav className="mt-5 ml-0mb-10">
-        <Nav/>
-      </nav>
-      <div className="p-3 mt-20 md:p-0">
+      <div className="p-3 md:p-0">
         <main className="mb-auto min-h-screen pb-32">
           <QueryClientProvider client={queryClient}>
             <Component {...pageProps} />
             <Analytics />
           </QueryClientProvider>
         </main>
+        </div>
       </div>
     </div>
   );

@@ -11,15 +11,14 @@
 html,
 body {
   margin: 0;
-  font-family: 'Verdana', sans-serif;
+  font-family: "Crimson Pro", sans-serif;
   background-color: #000623;
-  color: #D2E1F3;
-  font-size: 20px;
-  font-family: "IBM Plex Sans";
+  color: #004a80;
+  font-size: 23px;
 }
 
 .prose {
-  color: #D2E1F3;
+  color: #004a80;
 }
 
 .prose a {
@@ -28,7 +27,6 @@ body {
 
 
 h1, h2, h3, h4, h5, h6 {
-  color: #C1D9F0;
   font-family: Inter, Geneva, Tahoma, sans-serif;
 }
 
