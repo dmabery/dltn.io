@@ -63,20 +63,20 @@ export default function Home({ posts }) {
         <p></p>
       </div>
       <div className="flex flex-col pt-10">
-        <h2><Link href="/writing" className="text-xl hover:text-blue-500">Latest posts</Link></h2>
+        <h2><Link href="/writing" className="text-xl">Latest posts</Link></h2>
         <ol className="mt-2 flex flex-col gap-2 list-disc list-inside">
           {posts.map((post) => (
-            <li className="underline decoration-blue-300">
+            <li className="underline">
               <Link href={`posts/${post.slug}`}>{post.title}</Link>
             </li>
           ))}
         </ol>
       </div>
       <div className="flex flex-col py-10">
-        <h2><Link href="/writing" className="mb-5 text-xl hover:text-blue-500">Popular Tags</Link></h2>
+        <h2><Link href="/writing" className="mb-5 text-xl">Popular Tags</Link></h2>
         <ol className="mt-2 flex flex-col gap-2 list-disc list-inside">
           {popularTags.map((tag) => (
-            <li className="underline decoration-blue-300">
+            <li className="underline">
               <Link href={`tags/${tag.slug}`}>{tag.name}</Link>
             </li>
           ))}
