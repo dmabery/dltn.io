@@ -1,21 +1,44 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Recursive:wght@300..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 html,
 body {
-  margin: 0;
-  font-family: 'Inter', sans-serif;
-  background-color: #FAFBFF;
-  color: #100f10;
+  font-family: "Inter", sans-serif;
+  background-color: #FAFAFA;
+  color: #1b1c26;
+  font-size: 17px;
 }
 
-em {
-  font-family: Newsreader, serif;
-  font-size: 17px;
-  font-kerning: auto;
+nav {
+  font-family: Inter;
+  font-size: 16px;
+}
+
+.prose {
+  color: #191919;
+}
+
+.prose a {
+  color: #003EDB;
+}
+
+.prose blockquote {
+  color: black;
+
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Inter, Geneva, Tahoma, sans-serif;
+  font-weight: 800 !important;
+  color: #191919 !important;
 }
 
 a {
@@ -24,53 +47,6 @@ a {
 
 * {
   box-sizing: border-box;
-}
-
-/* width */
-::-webkit-scrollbar {
-  width: 8px;
-  height: 5px;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  background: @apply stone-200;
-}
-
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #ffffff;
-  border-radius: 10px;
-  height:15px;
-	width:20px;
-	position: inherit;
-	background:#2563eb;
-	background-color: -webkit-linear-gradient(-45deg, #f1f5f9 25%, #2563eb 25%, #2563eb 50%, #f1f5f9 50%, #f1f5f9 75%, #2563eb 75%);
-	background: -moz-linear-gradient(-45deg, #f1f5f9 25%, #2563eb 25%, #2563eb 50%, #f1f5f9 50%, #f1f5f9 75%, #2563eb 75%);
-	background: -o-linear-gradient(-45deg, #f1f5f9 25%, #2563eb 25%, #2563eb 50%, #f1f5f9 50%, #f1f5f9 75%, #2563eb 75%);
-	background: linear-gradient(-45deg, #f1f5f9 25%, #2563eb 25%, #2563eb 50%, #f1f5f9 50%, #f1f5f9 75%, #2563eb 75%);
-	background-size: 27px 27px;
-}
-
-@-webkit-keyframes barberpole {
-		from {background-position: 0%;}
-		to {background-position: 100%;}
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #ffffff;
-  border-radius: 10px;
-  height:172px;
-	width:54px;
-	position: inherit;
-	background:#2563eb;
-	background-color: -webkit-linear-gradient(-45deg, #94a3b8 25%, #2563eb 25%, #2563eb 50%, #94a3b8 50%, #94a3b8 75%, #2563eb 75%);
-	background: -moz-linear-gradient(-45deg, #94a3b8 25%, #2563eb 25%, #2563eb 50%, #94a3b8 50%, #94a3b8 75%, #2563eb 75%);
-	background: -o-linear-gradient(-45deg, #94a3b8 25%, #2563eb 25%, #2563eb 50%, #94a3b8 50%, #94a3b8 75%, #2563eb 75%);
-	background: linear-gradient(-45deg, #94a3b8 25%, #2563eb 25%, #2563eb 50%, #94a3b8 50%, #94a3b8 75%, #2563eb 75%);
-	background-size: 27px 27px;
-  transition: all;
 }
 
 .tags{

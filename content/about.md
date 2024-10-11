@@ -1,6 +1,8 @@
 ### About me
 I’m Dalton, a first-year law student at the University of the Pacific, McGeorge School of Law in Sacramento, California. (Follow me on [Twitter](https://twitter.com/dltnio).)
 
+<ImageWithCaption src="https://res.cloudinary.com/dde1q4ekv/image/upload/v1728244501/Screenshot_2024-09-21_at_7.07.38_PM_1_inyr44.png" caption="Me, reading.">
+
 Before I started law school, I was the senior digital creator and designer at [Farnam Street](https://fs.blog/). While there, I grew a YouTube channel to 250,000 subscribers, [edited a video](https://youtu.be/zEx_IGVfi7Y) that received one million views, worked on a social media campaign for a [*New York Times* bestselling book](https://fs.blog/clear/), [produced a podcast](https://fs.blog/knowledge-project-podcast/) that got over 250,000 downloads per month, and[ edited](https://www.dropbox.com/scl/fi/ekl1yfq2iecszxk2yvl2g/Model-Situation-2.mp4?rlkey=zvyy3692j35hcw2mhhwzhdtdn&dl=0) and [animated](https://www.dropbox.com/scl/fi/qnnlow9fcqcttohkhluof/Module-Overview.mp4?rlkey=q92ib56m84vlo365l0mwjyxkh&dl=0) online course videos that were taken by employees and executives at companies like Apple and Twitter.
 
 I graduated from Southeastern University in 2021 with a bachelors in Digital Media and Design.
