@@ -8,6 +8,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        bodyText: "#111827",
         grayAccent: "rgba(224, 224, 224, 0.63)",
         customBlack: "#191919",
         base: {
@@ -24,7 +25,7 @@ module.exports = {
           150: '#DAD8CE',
           100: '#E6E4D9',
           50: '#F2F0E5',
-          paper: '#FFFCF0',
+          paper: '#FFFCF0', 
         },
         red: {
           DEFAULT: '#AF3029',
@@ -67,6 +68,13 @@ module.exports = {
           },
         },
       },
+    },
+    fontFamily: {
+      heading: ["Newsreader", "sans serif"],
+      body: ["Newsreader", "serif"],
+      mono: ["Inconsolata", "monospace"],
+      serif: ["Newsreader", "serif"],
+      sansSerif: ["Inter", "Sans Serif"],
     },
   },
   plugins: [require("@tailwindcss/typography")],

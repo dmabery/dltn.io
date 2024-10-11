@@ -2,36 +2,9 @@
 import Link from "next/link";
 import Meta from "../components/Meta";
 import PostListSimple from "../components/PostListSimple";
+import Subscribe from "../components/Subscribe";
 import { getAllPosts, getTags } from "../lib/getMarkdownFiles";
 import generateRssFeed from "../utils/rss";
-
-const popularTags = [
-  {
-    name: "History",
-    slug: "history"
-  },
-  {
-    name: "Books",
-    slug: "books"
-  },
-  {
-    name: "People",
-    slug: "people"
-  },
-  {
-    name: "Life",
-    slug: "life"
-  },
-  {
-    name: "Writing",
-    slug: "writing"
-  },
-  {
-    name: "Reading",
-    slug: "reading"
-  },
-
-]
 
 export const getStaticProps = async () => {
   const posts = await getAllPosts();
@@ -43,7 +16,7 @@ export const getStaticProps = async () => {
     props: { posts, tags },
   }};
 
-export default function Home({ posts }) {
+export default function Home({ posts, tags }) {
   if (!posts) return <h1>No posts</h1>;
   return <>
     <Meta
@@ -52,7 +25,7 @@ export default function Home({ posts }) {
     />
     <div className="flex flex-col">
       <div className="flex flex-col gap-2">
-      <h1 className="text-2xl">Hi, I'm Dalton</h1>
+      <h1 className="text-xl">Hi, I'm Dalton</h1>
         <div className="flex flex-col gap-3">
           <p>
             I'm a first year law student in Sacramento.
@@ -60,28 +33,23 @@ export default function Home({ posts }) {
           <p>
             I write about what I learn studying law and reading about history.
           </p>
+          <p>
+            Subscribe for my monthly reading list emails.
+          </p>
+          <Subscribe />
         </div>
         <p></p>
       </div>
-      <div className="flex flex-col py-10">
-        <h2><Link href="/writing" className="mb-5 text-2xl">Popular Tags</Link></h2>
-        <ol className="mt-2 flex flex-col gap-2">
-          {popularTags.map((tag) => (
-            <li className="underline hover:text-[#003EDB]">
-              <Link href={`tags/${tag.slug}`}>{tag.name}</Link>
-            </li>
-          ))}
-        </ol>
-      </div>
-      <div className="flex flex-col">
-        <h2><Link href="/writing" className="text-2xl hover:text-[#003EDB]">Writing</Link></h2>
+      <div className="flex flex-col pt-10">
+        <h2><Link href="/writing" className="text-xl hover:text-[#003EDB]">Writing</Link></h2>
         <ol className="mt-2">
           {posts.map((post) => (
             <li>
               <PostListSimple
-              slug={`posts/${post.slug}`}
-              date={post.date}
-              title={post.title}
+                title={post.title}
+                date={`${post.date.slice(0,4)} ${post.date.slice(5,7)}`}
+                slug={`posts/${post.slug}`}
+                key={post.title}
               />
             </li>
           ))}
