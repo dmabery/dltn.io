@@ -64,7 +64,7 @@ export default function Home({ posts }) {
         <p></p>
       </div>
       <div className="flex flex-col pt-10">
-        <h2><Link href="/writing" className="text-xl hover:text-[#003EDB]">Latest posts</Link></h2>
+        <h2><Link href="/writing" className="text-xl hover:text-[#003EDB]">Writing</Link></h2>
         <ol className="mt-2">
           {posts.map((post) => (
             <li>
