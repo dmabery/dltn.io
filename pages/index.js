@@ -40,7 +40,7 @@ export const getStaticProps = async () => {
   generateRssFeed(posts);
 
   return {
-    props: { posts: posts.slice(0,7), tags },
+    props: { posts, tags },
   }};
 
 export default function Home({ posts }) {
@@ -63,7 +63,17 @@ export default function Home({ posts }) {
         </div>
         <p></p>
       </div>
-      <div className="flex flex-col pt-10">
+      <div className="flex flex-col py-10">
+        <h2><Link href="/writing" className="mb-5 text-xl">Popular Tags</Link></h2>
+        <ol className="mt-2 flex flex-col gap-2">
+          {popularTags.map((tag) => (
+            <li className="underline hover:text-[#003EDB]">
+              <Link href={`tags/${tag.slug}`}>{tag.name}</Link>
+            </li>
+          ))}
+        </ol>
+      </div>
+      <div className="flex flex-col">
         <h2><Link href="/writing" className="text-xl hover:text-[#003EDB]">Writing</Link></h2>
         <ol className="mt-2">
           {posts.map((post) => (
@@ -73,16 +83,6 @@ export default function Home({ posts }) {
               date={post.date}
               title={post.title}
               />
-            </li>
-          ))}
-        </ol>
-      </div>
-      <div className="flex flex-col py-10">
-        <h2><Link href="/writing" className="mb-5 text-xl">Popular Tags</Link></h2>
-        <ol className="mt-2 flex flex-col gap-2">
-          {popularTags.map((tag) => (
-            <li className="underline hover:text-[#003EDB]">
-              <Link href={`tags/${tag.slug}`}>{tag.name}</Link>
             </li>
           ))}
         </ol>
