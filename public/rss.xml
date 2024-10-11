@@ -9,11 +9,73 @@
             <link>http://localhost:3000</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Oct 2024 16:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 04:26:00 GMT</lastBuildDate>
         <atom:link href="http://localhost:3000/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></author>
-        <pubDate>Sun, 06 Oct 2024 16:29:47 GMT</pubDate>
+        <pubDate>Fri, 11 Oct 2024 04:26:00 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2024]]></copyright>
+        <item>
+            <title><![CDATA[My blog’s identity crisis]]></title>
+            <description><![CDATA[
+Now that I have officially decided to keep my blog built with Next, I thought my blog tinkering time was over and I could just go back to sitting dow...]]></description>
+            <link>http://localhost:3000/posts/my-blogs-identity-crisis</link>
+            <guid isPermaLink="true">http://localhost:3000/posts/my-blogs-identity-crisis</guid>
+            <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
+            <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded>&lt;p&gt;Now that I have officially decided to keep my blog built with Next, I thought my blog tinkering time was over and I could just go back to sitting down and writing posts.&lt;/p&gt;
+&lt;p&gt;But then I realized I can still mess with the design...duh!&lt;/p&gt;
+&lt;p&gt;The blog has been pretty much this same design since its inception: white background, black text, using Inter. It’s clean, easy to read, and looks great on any device.&lt;/p&gt;
+&lt;p&gt;But it is a bit boring. I resonated with what &lt;a href=&quot;https://thejollyteapot.com/2023/10/11/on-a-blogs-visual-identity&quot;&gt;The Jelly Teapot wrote&lt;/a&gt; about a site’s visual identity:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When I visit [certain] websites...I don’t need to read a single word, know the URL or the name of the site to know the one I am viewing. Same when I see the entries from Michael Tsai, Kev Quirk, or Quanta Magazine in my newsreader: they stand out in the feed and I know from which blog or website it’s from, as I recognise their icon.&lt;/p&gt;
+&lt;p&gt;I feel like my blog currently lacks this kind of visual identity. Its current icon — or rather its lack of an icon — feels a little like other feeds I am subscribed to, coming from Mastodon or Medium which all share the same favicon: generic, anonymous, and doesn’t stand out visually from the others.&lt;/p&gt;
+&lt;p&gt;Like I wrote in a previous post, There is no place like home: Why I love my blog, I know what makes my blog mine, what its identity is: bare-bones design, minimal style, tiny footprint, etc. But for the casual reader, for someone stumbling upon one of my posts, it can definitely feel a bit plain, boring, forgettable.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Might feels plain, boring, and forgettable. Like Magand’s though, that’s sort of the point? I like how easy everything is to read. But, still, I think I’m ready for something new.&lt;/p&gt;
+&lt;p&gt;I’ve tried using serif fonts in the past because since I write about history and books a lot, I wanted my site to feel more serious and studious. &lt;a href=&quot;https://fonts.google.com/specimen/Crimson+Text&quot;&gt;Crimson&lt;/a&gt; is an amazing typeface for that vibe. But the result was almost too serious and studios; when I read shorter posts from the archive, it just felt out of place.&lt;/p&gt;
+&lt;p&gt;Here are some renditions I’ve been working on.&lt;/p&gt;
+&lt;p&gt;Here’s a futuristic space vibe, inspired by &lt;a href=&quot;https://www.lkhrs.com/&quot;&gt;Luke Harris’s site&lt;/a&gt;. I love the colors and the typeface, but my wife and I both agree that it doesn’t fit the overall content of my site very much. I do like it, a lot though.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1728516658/Screenshot_2024-10-09_at_4.11.08_PM_o6wz4y.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;And light mode&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1728516659/Screenshot_2024-10-09_at_4.10.50_PM_fesrcb.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I think I’m going to remove the entire list of tags and posts from the /index because there are just too many things to click on. I’ll just build out a separate /tags page. So I think I’ll stick with this layout, I just don’t know which vibe to go with.&lt;/p&gt;
+&lt;p&gt;Here are some serif options.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1728516658/Screenshot_2024-10-09_at_4.30.41_PM_rjrmwc.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1728516659/Screenshot_2024-10-09_at_4.10.37_PM_uqdfx2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;And, of course I had to see what the genius-professor-too-busy-to-write-CSS was like. (I actually really love it.)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1728516658/Screenshot_2024-10-09_at_4.12.16_PM_hkesbt.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I also tried a pure black background with Verdana. My reasoning with trying Verdana was that it’s so classic and timeless that it looks studios and serious, but it’s not &lt;em&gt;too&lt;/em&gt; serious to be out of place on a personal blog.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1728516658/Screenshot_2024-10-09_at_4.11.33_PM_u9mdi5.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Still, every time I’ve tried a new color scheme or layout in the past, I always end up liking it &lt;em&gt;less&lt;/em&gt; than what I currently have. I don’t know if that’s because what I have is familiar, or what I have &lt;em&gt;actually&lt;/em&gt; just works really well. (Either way, thanks, &lt;a href=&quot;https://stephango.com/&quot;&gt;Steph for the inspiration&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;For now the designs will sit in limbo in a GitHub branch, maybe never seeing the light of day.&lt;/p&gt;
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Static blogs are like printers]]></title>
+            <description><![CDATA[
+From [Jack Baty](https://archive.baty.net/2017/wordpress-is-a-typewriter/):
+
+> The problem I have with publishing a static site is that creating and ...]]></description>
+            <link>http://localhost:3000/posts/static-site-printer</link>
+            <guid isPermaLink="true">http://localhost:3000/posts/static-site-printer</guid>
+            <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
+            <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded>&lt;p&gt;From &lt;a href=&quot;https://archive.baty.net/2017/wordpress-is-a-typewriter/&quot;&gt;Jack Baty&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The problem I have with publishing a static site is that creating and editing content is too far removed from the actual rendered page.&lt;/p&gt;
+&lt;p&gt;I fly pretty fast and loose with my writing. I publish things I’m interested in and am eager to share. I’m impatient. If I had to write three drafts of every post before putting it out there I’d never publish anything. This is why I like using WordPress.&lt;/p&gt;
+&lt;p&gt;Using WordPress makes me feel like that boy at the Type-In. I feel like the words are going right onto the paper. Sure, the metaphor is a little thin, but the point is that when writing with WordPress (or any CMS, really), the distance between what I’m typing and what I’m publishing is very short. The only thing closer is editing HTML directly on a live page, but that’s something only crazy people do.&lt;/p&gt;
+&lt;p&gt;On the other hand, publishing a static site is like sending a document to a printer. I have to make sure everything is connected, that there’s paper in the machine, and then wait for the job to finish before seeing the output. If something needs editing, and something always needs editing, the whole process starts over.&lt;/p&gt;
+&lt;p&gt;So I struggle with choosing publishing tools. I much prefer the idea of statically rendered websites, but in practice I’d rather use WordPress.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I’ve been struggling with this back and forth for about two years and have never been able to put it so succinctly. (Thanks, &lt;a href=&quot;https://www.lkhrs.com/blog/2021/12/hugo/&quot;&gt;Luke Harris&lt;/a&gt;!)&lt;/p&gt;
+&lt;p&gt;It’s my eternal struggle when it comes to blogging. Having markdown files safely stored on my machine, with all of the code and everything else that makes my site run seems, to me, to far outweigh any inconvenience from actually &lt;em&gt;writing&lt;/em&gt; a new post. Plus, I’ve &lt;a href=&quot;https://www.dltn.io/posts/markdwown-sans-front-matter&quot;&gt;done some things&lt;/a&gt; to make just a tad bit easier.&lt;/p&gt;
+&lt;p&gt;But still, nothing is as nice as opening a browser window, typing some words in a big blank text area, and then hitting publish. Plus, the fact that WordPress lets you highlight text and then automatically link to other posts on your blog is an insanely nice feature that I haven’t seen elsewhere.&lt;/p&gt;
+&lt;p&gt;But WordPress and other site builders still limit what you can do. They either limit it expressly, by making certain areas of functionality closed off, or limit it implicitly by making it extremely difficult to do certain things.&lt;/p&gt;
+&lt;p&gt;With all of the WordPress drama going on lately, I’m happy to have my site &lt;em&gt;not&lt;/em&gt; relying on their technology–or anyone else’s (except Vercel). But, I still resonate with Baty’s well-put observation.&lt;/p&gt;
+&lt;p&gt;To quote him, brb, gotta check the printer.&lt;/p&gt;
+</content:encoded>
+        </item>
         <item>
             <title><![CDATA[Heavy is the Crown]]></title>
             <description><![CDATA[After a run this morning, my friend told me about Linkin Park’s new song, “[Heavy is the Crown](https://genius.com/Linkin-park-heavy-is-the-crown-lyri...]]></description>
