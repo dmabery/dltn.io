@@ -4,7 +4,7 @@ function PageTitle({ title, description }) {
       <h2 className="mb-1 font-sansSerif text-2xl font-medium">
         {title}
       </h2>
-      <div className="font-sansSerif text-neutral-200">{description}</div>
+      <div className="font-sansSerif text-neutral-800">{description}</div>
     </div>
   );
 }
