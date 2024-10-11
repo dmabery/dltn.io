@@ -29,13 +29,13 @@ const PostDisplay = ({
       <div>
         <PostBodyContent content={content} />
       </div>
-      <div className="my-28">
-        <p className="text-sm text-neutral-700 mb-3">Tagged</p>
+      <div className="my-28 inline-flex items-center">
+        <p className="text-sm text-neutral-700 mr-2">Tagged</p>
             {tags
               ? tags.map((tag) => {
                   return (
-                    <li className="inline-flex mr-2 border hover:bg-neutral-100 text-blue font-medium rounded-lg text-sm px-1.5 py-0.5">
-                      <Link className="hover:text-blue" href={`/tags/${tag}`}>
+                    <li className="inline mr-2 hover:text-blue-800 text-blue font-medium text-sm">
+                      <Link className="underline" href={`/tags/${tag}`}>
                         {tag}
                       </Link>
                     </li>
