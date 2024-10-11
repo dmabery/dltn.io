@@ -8,11 +8,12 @@
 @tailwind components;
 @tailwind utilities;
 
-html,
+
 body {
   font-family: "Inter", system-ui, -apple-system;
   background-color: #FAFAFA;
   color: #1b1c26;
+  font-size: 17px;
 }
 
 nav {
@@ -22,6 +23,7 @@ nav {
 
 .prose {
   color: #191919;
+  font-size: 17px;
 }
 
 .prose a {
