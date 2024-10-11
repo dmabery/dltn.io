@@ -24,7 +24,7 @@ export default function Home({ posts, tags }) {
     />
     <div className="flex flex-col">
       <div className="flex flex-col gap-2">
-      <h1 className="text-xl">Hi, I'm Dalton</h1>
+      <h1 className="text-2xl">Hi, I'm Dalton</h1>
         <div className="flex pb-10 border-b flex-col gap-3">
           <p>
             I'm a first year law student in Sacramento.
@@ -36,7 +36,7 @@ export default function Home({ posts, tags }) {
         <p></p>
       </div>
       <div className="flex flex-col pt-10">
-        <h2><Link href="/writing" className="text-xl hover:text-[#003EDB]">Writing</Link></h2>
+        <h2><Link href="/writing" className="text-2xl hover:text-[#003EDB]">Writing</Link></h2>
         <ol className="mt-2">
           {posts.map((post) => (
             <li>
