@@ -12,8 +12,8 @@ html,
 body {
   font-family: "Inter", sans-serif;
   background-color: #FAFAFA;
-  color: #191919;
-  font-size: 18px;
+  color: #1b1c26;
+  font-size: 17px;
 }
 
 nav {
@@ -26,7 +26,7 @@ nav {
 }
 
 .prose a {
-  color: #6696D9;
+  color: #003EDB;
 }
 
 .prose blockquote {

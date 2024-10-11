@@ -11,7 +11,7 @@ const queryClient = new QueryClient();
 
 function MyApp({ Component, pageProps }) {
   return (
-    <div className="px-0 mx-auto max-w-[610px]">
+    <div className="p-5 md:p-0 mx-auto max-w-[610px]">
       <nav className="py-3 mb-10">
         <Nav/>
       </nav>

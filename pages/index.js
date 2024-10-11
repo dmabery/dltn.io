@@ -1,6 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 import Link from "next/link";
 import Meta from "../components/Meta";
+import PostListSimple from "../components/PostListSimple";
 import { getAllPosts, getTags } from "../lib/getMarkdownFiles";
 import generateRssFeed from "../utils/rss";
 
@@ -39,7 +40,7 @@ export const getStaticProps = async () => {
   generateRssFeed(posts);
 
   return {
-    props: { posts: posts.slice(0,5), tags },
+    props: { posts: posts.slice(0,7), tags },
   }};
 
 export default function Home({ posts }) {
@@ -63,20 +64,24 @@ export default function Home({ posts }) {
         <p></p>
       </div>
       <div className="flex flex-col pt-10">
-        <h2><Link href="/writing" className="text-xl">Latest posts</Link></h2>
-        <ol className="mt-2 flex flex-col gap-2 list-disc list-inside">
+        <h2><Link href="/writing" className="text-xl hover:text-[#003EDB]">Latest posts</Link></h2>
+        <ol className="mt-2">
           {posts.map((post) => (
-            <li className="underline">
-              <Link href={`posts/${post.slug}`}>{post.title}</Link>
+            <li>
+              <PostListSimple
+              slug={`posts/${post.slug}`}
+              date={post.date}
+              title={post.title}
+              />
             </li>
           ))}
         </ol>
       </div>
       <div className="flex flex-col py-10">
         <h2><Link href="/writing" className="mb-5 text-xl">Popular Tags</Link></h2>
-        <ol className="mt-2 flex flex-col gap-2 list-disc list-inside">
+        <ol className="mt-2 flex flex-col gap-2">
           {popularTags.map((tag) => (
-            <li className="underline">
+            <li className="underline hover:text-[#003EDB]">
               <Link href={`tags/${tag.slug}`}>{tag.name}</Link>
             </li>
           ))}

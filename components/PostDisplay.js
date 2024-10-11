@@ -22,7 +22,7 @@ const PostDisplay = ({
         <h1 className="text-[35px] leading-tight font-semibold">
           {title || ""}
         </h1>
-        <div className="tags flex gap-2 py-2 text-xs">
+        <div className="tags flex gap-2 py-2 text-sm">
           <div>{date.slice(0,10)}</div>
         </div>
       </div>
@@ -34,8 +34,8 @@ const PostDisplay = ({
             {tags
               ? tags.map((tag) => {
                   return (
-                    <li className="inline-flex mr-2 hover:bg-neutral-100 text-blue-400 font-medium rounded-lg text-sm">
-                      <Link className="hover:text-blue" href={`/tags/${tag}`}>
+                    <li className="inline-flex mr-2 font-medium rounded-lg text-sm">
+                      <Link className="hover:underline text-[#003EDB]" href={`/tags/${tag}`}>
                         {tag}
                       </Link>
                     </li>
