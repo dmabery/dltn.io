@@ -2,7 +2,6 @@
 import Link from "next/link";
 import Meta from "../components/Meta";
 import PostListSimple from "../components/PostListSimple";
-import Subscribe from "../components/Subscribe";
 import { getAllPosts, getTags } from "../lib/getMarkdownFiles";
 import generateRssFeed from "../utils/rss";
 
@@ -26,17 +25,13 @@ export default function Home({ posts, tags }) {
     <div className="flex flex-col">
       <div className="flex flex-col gap-2">
       <h1 className="text-xl">Hi, I'm Dalton</h1>
-        <div className="flex flex-col gap-3">
+        <div className="flex pb-10 border-b flex-col gap-3">
           <p>
             I'm a first year law student in Sacramento.
           </p>
           <p>
             I write about what I learn studying law and reading about history.
           </p>
-          <p>
-            Subscribe for my monthly reading list emails.
-          </p>
-          <Subscribe />
         </div>
         <p></p>
       </div>
