@@ -40,7 +40,7 @@ export const getStaticProps = async () => {
   generateRssFeed(posts);
 
   return {
-    props: { posts: posts.slice(0,7), tags },
+    props: { posts, tags },
   }};
 
 export default function Home({ posts }) {
