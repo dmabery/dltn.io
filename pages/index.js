@@ -52,7 +52,7 @@ export default function Home({ posts }) {
     />
     <div className="flex flex-col">
       <div className="flex flex-col gap-2">
-      <h1 className="text-xl">Hi, I'm Dalton</h1>
+      <h1 className="text-2xl">Hi, I'm Dalton</h1>
         <div className="flex flex-col gap-3">
           <p>
             I'm a first year law student in Sacramento.
@@ -64,7 +64,7 @@ export default function Home({ posts }) {
         <p></p>
       </div>
       <div className="flex flex-col py-10">
-        <h2><Link href="/writing" className="mb-5 text-xl">Popular Tags</Link></h2>
+        <h2><Link href="/writing" className="mb-5 text-2xl">Popular Tags</Link></h2>
         <ol className="mt-2 flex flex-col gap-2">
           {popularTags.map((tag) => (
             <li className="underline hover:text-[#003EDB]">
@@ -74,7 +74,7 @@ export default function Home({ posts }) {
         </ol>
       </div>
       <div className="flex flex-col">
-        <h2><Link href="/writing" className="text-xl hover:text-[#003EDB]">Writing</Link></h2>
+        <h2><Link href="/writing" className="text-2xl hover:text-[#003EDB]">Writing</Link></h2>
         <ol className="mt-2">
           {posts.map((post) => (
             <li>

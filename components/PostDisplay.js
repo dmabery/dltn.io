@@ -19,7 +19,7 @@ const PostDisplay = ({
   return <>
     <article>
       <div className="mb-14 font-sansSerif">
-        <h1 className="text-[35px] leading-tight font-semibold">
+        <h1 className="text-[30px] leading-tight">
           {title || ""}
         </h1>
         <div className="tags flex gap-2 py-2 text-sm">
