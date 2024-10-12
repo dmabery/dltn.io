@@ -1,7 +1,6 @@
 /* eslint-disable react/no-unescaped-entities */
 import Link from "next/link";
 import Meta from "../components/Meta";
-import PostListSimple from "../components/PostListSimple";
 import { getAllPosts, getTags } from "../lib/getMarkdownFiles";
 import generateRssFeed from "../utils/rss";
 
@@ -17,6 +16,22 @@ export const getStaticProps = async () => {
 
 export default function Home({ posts, tags }) {
   if (!posts) return <h1>No posts</h1>;
+
+  const posts2024 = posts.filter(item => {
+    const year = new Date(item.date).getFullYear();
+    return year === 2024
+  })
+
+  const posts2023 = posts.filter(item => {
+    const year = new Date(item.date).getFullYear();
+    return year === 2023
+  })
+
+  const posts2022 = posts.filter(item => {
+    const year = new Date(item.date).getFullYear();
+    return year === 2022
+  })
+
   return <>
     <Meta
       title="Dalton Mabery is a video editor who reads and writes."
@@ -41,17 +56,48 @@ export default function Home({ posts, tags }) {
         <p></p>
       </div>
       <div className="flex flex-col pt-10">
-        <h2><Link href="/writing" className="text-2xl hover:text-[#003EDB]">Writing</Link></h2>
+        <h2 className="text-2xl">Writing</h2>
+        <h3 className="mt-2">2024</h3>
         <ol className="mt-2">
-          {posts.map((post) => (
-            <li>
-              <PostListSimple
-                title={post.title}
-                date={`${post.date.slice(0,4)} ${post.date.slice(5,7)}`}
-                slug={`posts/${post.slug}`}
-                key={post.title}
-              />
-            </li>
+          {posts2024.map((post) => (
+            <div className="flex mb-1.5 justify-between">
+              <div>
+                <Link className="text-[#003EDB] hover:text-blue-900 underline" href={`/posts/${post.slug}`}>{post.title}</Link>
+              </div>
+              <div className="hidden md:flex text-neutral-600">
+                {post.date.slice(5,10)}
+              </div>
+            </div>
+          ))}
+        </ol>
+      </div>
+      <div className="flex flex-col pt-10">
+        <h3 className="mt-2">2023</h3>
+        <ol className="mt-2">
+          {posts2023.map((post) => (
+            <div className="flex mb-1.5 justify-between">
+              <div>
+                <Link className="text-[#003EDB] hover:text-blue-900 underline" href={`/posts/${post.slug}`}>{post.title}</Link>
+              </div>
+              <div className="hidden md:flex text-neutral-600">
+                {post.date.slice(5,10)}
+              </div>
+            </div>
+          ))}
+        </ol>
+      </div>
+      <div className="flex flex-col pt-10">
+        <h3 className="mt-2">2022</h3>
+        <ol className="mt-2">
+          {posts2022.map((post) => (
+            <div className="flex mb-1.5 justify-between">
+              <div>
+                <Link className="text-[#003EDB] hover:text-blue-900 underline" href={`/posts/${post.slug}`}>{post.title}</Link>
+              </div>
+              <div className="hidden md:flex text-neutral-600">
+                {post.date.slice(5,10)}
+              </div>
+            </div>
           ))}
         </ol>
       </div>

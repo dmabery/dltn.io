@@ -35,7 +35,7 @@ const TagPage = ({ posts, tag }) => (
         {posts.map((post) => (
           <PostListSimple
             title={post.title}
-            date={post.date}
+            date={post.date.slice(0,10)}
             slug={`posts/${post.slug}`}
           />
         ))}
