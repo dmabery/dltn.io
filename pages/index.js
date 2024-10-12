@@ -27,11 +27,16 @@ export default function Home({ posts, tags }) {
       <h1 className="text-2xl">Hi, I'm Dalton</h1>
         <div className="flex pb-10 border-b flex-col gap-3">
           <p>
-            I'm a first year law student in Sacramento.
+            I'm a first year law student in Sacramento. I write about what I learn studying law and reading about history.
           </p>
-          <p>
-            I write about what I learn studying law and reading about history.
-          </p>
+          <p>Explore my pages and posts:</p>
+          <ol className="list-disc pl-4">
+            <li>Posts about <Link className="text-[#003EDB] hover:text-blue-900 underline" href="/tags/books">books</Link></li>
+            <li>Posts about <Link className="text-[#003EDB] hover:text-blue-900 underline" href="/tags/reading">reading</Link></li>
+            <li>Posts about <Link className="text-[#003EDB] hover:text-blue-900 underline" href="/tags/history">history</Link></li>
+            <li>Posts about <Link className="text-[#003EDB] hover:text-blue-900 underline" href="/tags/writing">writing</Link></li>
+            <li>Posts about <Link className="text-[#003EDB] hover:text-blue-900 underline" href="/tags/people">people</Link></li>
+          </ol>
         </div>
         <p></p>
       </div>
