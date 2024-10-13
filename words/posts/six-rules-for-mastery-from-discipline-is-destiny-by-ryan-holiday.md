@@ -19,7 +19,7 @@ Discipline is everywhere and applicable to everyone. Here are six rules I learne
 
 Most of the lessons are pulled from chapter titles, so thanks to Holiday for making that easy. I’m just highlighting the ones I thought were most important.
 
-![https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72758897-ef8e-47f9-b8c9-057237074995_1280x720.png](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72758897-ef8e-47f9-b8c9-057237074995_1280x720.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72758897-ef8e-47f9-b8c9-057237074995_1280x720.png)
 
 ### **1. Treat the body rigorously**
 
