@@ -1,0 +1,22 @@
+#weeknotes #lawschool
+
+# Law school: week 8
+
+Here’s what I learned this week in law school.
+
+**Contracts**
+- You can sometimes get paid for a benefit you conferred on someone else. It’s called”unjust enrichment.” This can happen if there was a contract, one side performed but the other side breached, or where there was no contract at all, but one side took the services or goods of another without giving anything in exchange.
+- For the enrichment to be unjust, it has to be unfair to let the other party keep the benefit. There are a whole host of reasons why it might be fair, but two are if the party conferring the benefit was a volunteer or an officious intermeddler.
+	- Volunteer: Someone who conferred the benefit as a gift without the intent to be paid for it. A case we read was Martin v. Little Brown and Co. Martin saw that a book published by Little Brown was being plagarized. He sent a letter to the publisher warning them, and asked if he could send his notes and highlights comparing the two passages. The company agreed and Martin sent his copy. Afterward, Martin sent letters checking in on the status, but Little Brown didn’t reply. He learned that they pursued and won a copyright claim against the other publisher, and said he deserved that money. He brought suit for unjust enrichment. The court ruled against him, arguing that at no time did he or Little Brown ever discuss payment, he offered to send the book and was in the position to ask to be paid beforehand, but didn’t. He was considered a volunteer, and therefore the enrichment was not unjust.
+	- Officious intermeddler: An officious intermeddler is one who imposes a benefit on another party that is not easily returnable. We read a case, Birchwood v. K, where K owned an undeveloped property for thirty years. Birchwood came in and built all of the surrounding property and laid electrical lines and did a bunch of work that would allow them to build on the land. After they completed the work, K decided that she wanted to build on her land now, too, and could do so thanks to the work that Birchwood did. As a result of their work, her property raised in value by some $100,000, and Birchwood sued for unjust enrichment, seeking some of that value conferred upon her. The court ruled against Birchwood, ruling that K didn’t *have* to develop her property, and therefore Birchwood wasn’t saving K an unexpected expense. Birchwood did the work solely for their benefit, and the benefit was incidentally imposed upon K. K didn’t agree to any of the work, and even if she disagreed to it, Birchwood still would have been able to develop the land, because it was their land. What she did with the property afterward was irrelevant.
+- When a contract is actually created (there’s an offer, acceptance, and consideration), they are rarely voidable. In contract law, there is a thing called an objective manifestation of assent, and if that’s present, it’s hard to argue your way out of a contract. Your signature on a document is an objective manifestation that you agreed, and just because you didn’t read a term—or understand it—doesn’t mean the contract isn’t enforceable. But there are exceptions to that objective test because people are slimy. These defenses allow someone to make a contract voidable if one party uses “improper bargaining” techniques that induced the other party’s assent.
+- Examples of improper bargaining techniques are fraud and duress. Fraud is a misrepresentation of a material fact asserted that is not in accordance with the truth. If I say this house doesn’t have any black mold, but there is black mold, that’s fraud, and it’s a basis for rending a contact *voidable*. (We haven’t learned about duress yet, stay tuned.)
+- Voidable vs. void: Each of these defenses have similar remedies, which are two. You can rescind the contract and make it not enforceable, rendering it void, or you can keep the contract and get damages that is the difference between what you got and what you paid for. This is why the contract is *voidable* and not void; a void contract is a legal nullity and cannot be enforced no matter what. A *voidable* contract *allows* one party to make it void if it so chooses, but doesn’t have to.
+
+**Civil Procedure**
+- Before courts can enter a judgement against someone, they have to have personal jurisdiction over them. I can’t be sued in Alaska if I live in Florida. Unlike subject matter 
+
+
+
+
+

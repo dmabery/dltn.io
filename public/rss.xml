@@ -9,10 +9,10 @@
             <link>http://localhost:3000</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Oct 2024 02:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Oct 2024 21:53:26 GMT</lastBuildDate>
         <atom:link href="http://localhost:3000/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></author>
-        <pubDate>Sat, 12 Oct 2024 02:29:53 GMT</pubDate>
+        <pubDate>Sun, 13 Oct 2024 21:53:26 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2024]]></copyright>
         <item>
             <title><![CDATA[My blog’s identity crisis]]></title>
@@ -247,7 +247,7 @@ I just finished my second week of law school, and when people say it's a lot of 
         </item>
         <item>
             <title><![CDATA[Book Notes on 'Plain Speaking: An Oral Biography of Harry S Truman']]></title>
-            <description><![CDATA[Book notes, quotes, lessons, and ideas from the life and times of a remarkable man.]]></description>
+            <description><![CDATA[I have a strange affection for Harry Truman. Maybe it's because we were both born in Missouri—and both proud to be so—or maybe it's because David McCullough's biography of him is one of the first full-scale biographies I read of a President. Whatever it may be, I love him. He never let the office of the President of the United States—or the perks of the office—get to him or his head. And unlike so many others after they leave the White House, he moved back to where he was from, Independence, Missouri.]]></description>
             <link>http://localhost:3000/posts/plain-speaking-an-oral-biography-of-harry-truman</link>
             <guid isPermaLink="true">http://localhost:3000/posts/plain-speaking-an-oral-biography-of-harry-truman</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>

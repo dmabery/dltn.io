@@ -69,6 +69,7 @@ export default function Home({ posts, tags }) {
               </div>
             </div>
           ))}
+          
         </ol>
       </div>
       <div className="flex flex-col pt-10">

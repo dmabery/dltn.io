@@ -6,8 +6,7 @@ tags:
   - people
   - politics
 Date: 2024-07-24T16:49:00
-Description: Book notes, quotes, lessons, and ideas from the life and times of a remarkable man.
-Published: false
+Description: I have a strange affection for Harry Truman. Maybe it's because we were both born in Missouri—and both proud to be so—or maybe it's because David McCullough's biography of him is one of the first full-scale biographies I read of a President. Whatever it may be, I love him. He never let the office of the President of the United States—or the perks of the office—get to him or his head. And unlike so many others after they leave the White House, he moved back to where he was from, Independence, Missouri.
 Slug: plain-speaking-an-oral-biography-of-harry-truman
 Type: Book Notes
 Image: /book covers/plain-speaking.jpg
