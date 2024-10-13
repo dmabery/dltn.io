@@ -36,7 +36,7 @@ const NoteList = ({ posts }) => {
         {posts
           .map((post) => (
             <div>
-              <div className="mr-5 mb-3 cursor-pointer w-40 md:float-left transition-all hover:scale-105">
+              <div className="mr-5 mb-3 cursor-pointer w-32 md:w-40 float-left transition-all hover:scale-105">
                 <Link
                   href={`/posts/${post.slug}`}
                   className="transition-all hover:scale-105"
