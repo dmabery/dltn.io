@@ -12,6 +12,7 @@ export const getStaticProps = async () => {
 
 export default function Home({ posts }) {
   if (!posts) return <h1>No posts</h1>;
+  console.log(posts)
   return <>
     <Meta
       title="Dalton Mabery is a video editor who reads and writes."
@@ -28,6 +29,7 @@ export default function Home({ posts }) {
                 content={post.content}
                 link={post.link}
                 date={post.date}
+                id={post.id}
               />
             </li>
           ))}
