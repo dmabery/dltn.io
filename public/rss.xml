@@ -9,10 +9,10 @@
             <link>http://localhost:3000</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Oct 2024 01:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 03:27:17 GMT</lastBuildDate>
         <atom:link href="http://localhost:3000/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></author>
-        <pubDate>Mon, 14 Oct 2024 01:52:41 GMT</pubDate>
+        <pubDate>Mon, 14 Oct 2024 03:27:17 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2024]]></copyright>
         <item>
             <title><![CDATA[My blog’s identity crisis]]></title>
