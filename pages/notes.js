@@ -51,8 +51,8 @@ const NoteList = ({ posts }) => {
                 </Link>
               </div>
               <div>
-                <Link href={`/posts/${post.slug}`} className="text-xl hover:text-blue-900 font-semibold">{post.title}</Link>
-                <p className="mt-1 md:mt-3"><Markdown>{`${post.excerpt.slice(0,200)}...`}</Markdown></p>
+                <Link href={`/posts/${post.slug}`} className="md:text-xl hover:text-blue-900 font-semibold">{post.title}</Link>
+                <p className="text-sm mt-1 md:text-base md:mt-3"><Markdown>{`${post.excerpt.slice(0,200)}...`}</Markdown></p>
               </div>
             </div>
           ))}
