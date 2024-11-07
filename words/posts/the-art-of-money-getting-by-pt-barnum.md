@@ -52,6 +52,7 @@ If you pick the wrong job, you'll never win.
 
 > If a man was to take such a boy as I was, and attempt to make a watchmaker of him, the boy might, after an apprenticeship of five or seven years, be able to take apart and put together a watch; but all through life he would be working up hill and seizing every excuse for leaving his work and idling away his time. Unless a man enters upon the vocation intended for him by nature, and best suited to his peculiar genius, he cannot succeed. I am glad to believe that the majority of persons do find their right vocation. Yet we see many who have mistaken their calling, from the blacksmith up (or down) to the clergyman.
 
+---
 ### Avoid debt
 
 > Money is in some respects like fire; it is a very excellent servant but a terrible master. When you have it mastering you; when interest is constantly piling up against you, it will keep you down in the worst kind of slavery. But let money work for you, and you have the most devoted servant in the world.
