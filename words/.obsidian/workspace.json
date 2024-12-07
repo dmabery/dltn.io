@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "83 Years Ago, One Man Was Happy.md",
+                "file": "83-years-ago.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "83 Years Ago, One Man Was Happy"
+              "title": "83-years-ago"
             }
           }
         ],
@@ -181,7 +181,7 @@
   "active": "3546eaa5465470ca",
   "lastOpenFiles": [
     "Nuclear War by Annie Jacobsen.md",
-    "83 Years Ago, One Man Was Happy.md",
+    "83-years-ago.md",
     "posts/2024-11-14-concurring-opinions.md",
     "posts/2024-11-17-why-save.md",
     "characer-attacks.md",
