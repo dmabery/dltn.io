@@ -4,153 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "7403169ff67c8a2f",
+        "id": "9e044dd15e90e283",
         "type": "tabs",
         "children": [
           {
-            "id": "ea2b48ba9ffe646d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "2ada2c537b330511",
+            "id": "326ddc05f7e44d0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft - links.md",
+                "file": "Nuclear War by Annie Jacobsen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "draft - links"
+              "title": "Nuclear War by Annie Jacobsen"
             }
           },
           {
-            "id": "70d15d2ca3803af5",
+            "id": "3546eaa5465470ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/plain-speaking-an-oral-biography-of-harry-truman.md",
+                "file": "83 Years Ago, One Man Was Happy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plain-speaking-an-oral-biography-of-harry-truman"
-            }
-          },
-          {
-            "id": "6f34de3df506eafe",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f2eda4b0bf6d6321",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "company-democracy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "company-democracy"
-            }
-          },
-          {
-            "id": "4a0d1c813252da6b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "6ef23d62eaa5e23c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2024-10-12-paint.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-12-paint"
-            }
-          },
-          {
-            "id": "ec296ef9eaa898cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characer-attacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "characer-attacks"
-            }
-          },
-          {
-            "id": "ba2aee3a0c22cf3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/the-art-of-money-getting-by-pt-barnum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "the-art-of-money-getting-by-pt-barnum"
-            }
-          },
-          {
-            "id": "fd6afd0384e61caa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2024-11-14-concurring-opinions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-14-concurring-opinions"
-            }
-          },
-          {
-            "id": "0424a6f63ea014f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2024-11-17-why-save.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-17-why-save"
+              "title": "83 Years Ago, One Man Was Happy"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,8 +178,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eea3e51b295ff6f3",
+  "active": "3546eaa5465470ca",
   "lastOpenFiles": [
+    "Nuclear War by Annie Jacobsen.md",
+    "83 Years Ago, One Man Was Happy.md",
     "posts/2024-11-14-concurring-opinions.md",
     "posts/2024-11-17-why-save.md",
     "characer-attacks.md",
@@ -320,8 +208,6 @@
     "Dalt - Obsidian/you ask I say.md",
     "Dalt - Obsidian/publish.css",
     "Dalt - Obsidian/You Can't Judge a Thing for What It's Not.md",
-    "Dalt - Obsidian/Why feedback doesn't work.md",
-    "Dalt - Obsidian/Why I'm Going to Law School.md",
     "Dalt - Obsidian/Session 2 State v. Kremer Sample Brief.docx",
     "Dalt - Obsidian/Session 2 Critical Reading Case for Actus Reus with Annotations.pdf",
     "Dalt - Obsidian/Session 2 Briefing Template.pdf",
