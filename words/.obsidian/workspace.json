@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "83-years-ago.md",
+                "file": "posts/83-years-ago.md",
                 "mode": "source",
                 "source": false
               },
@@ -178,10 +178,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3546eaa5465470ca",
+  "active": "eea3e51b295ff6f3",
   "lastOpenFiles": [
     "Nuclear War by Annie Jacobsen.md",
-    "83-years-ago.md",
+    "posts/83-years-ago.md",
     "posts/2024-11-14-concurring-opinions.md",
     "posts/2024-11-17-why-save.md",
     "characer-attacks.md",
