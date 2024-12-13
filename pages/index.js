@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 import Link from "next/link";
 import Meta from "../components/Meta";
-import PostListSimple from "../components/PostListSimple";
+import PostDisplay from "../components/PostDisplay";
 import Subscribe from "../components/Subscribe";
 import { getAllPosts, getTags } from "../lib/getMarkdownFiles";
 
@@ -53,11 +53,12 @@ export default function Home({ posts, tags }) {
         <ol>
           {posts.map((post) => (
             <li>
-              <PostListSimple
+              <PostDisplay
                 title={post.title}
                 date={`${post.date.slice(0,4)} • ${post.date.slice(5,7)}`}
                 slug={`posts/${post.slug}`}
                 key={post.title}
+                content={post.content}
               />
             </li>
           ))}

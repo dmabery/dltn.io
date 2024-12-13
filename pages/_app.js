@@ -3,6 +3,7 @@ import { Analytics } from "@vercel/analytics/react";
 import Head from "next/head";
 import "prismjs";
 import { QueryClient, QueryClientProvider } from "react-query";
+import Header from "../components/Header";
 import Nav from "../components/Nav";
 import Sidebar from "../components/Sidebar";
 import "../styles/globals.css";
@@ -17,8 +18,9 @@ function MyApp({ Component, pageProps }) {
       </Head>
       <div>
         <Nav />
-        <main className="mb-auto">
+        <main className="mb-auto mx-auto max-w-[1200px]">
           <QueryClientProvider client={queryClient}>
+              <Header />
               <Sidebar>
                 <Component {...pageProps} />
                 <Analytics />
