@@ -7,6 +7,8 @@ Before I started law school, I was the senior digital creator and designer at [F
 
 I graduated from Southeastern University in 2021 with a bachelors in Digital Media and Design.
 
+In 2020, I edited and produced the video version of Morning Brew's *Business Casual* podcast.
+
 From 2017-2019, I participated in a leadership college and internship program at Bayside Church. When I graduated the program, I was hired as the Communicators Director for one of the campuses and then became the Global Social Media Manager.
 
 # About the blog
