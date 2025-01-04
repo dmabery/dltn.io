@@ -9,7 +9,8 @@ Date: 2025-01-04T13:09:00
 Description: Book notes, quotes, and ideas.
 Published: true
 Slug: thomas-jefferson-by-jon-meacham
-Type: '"Book Notes"'
+Type: Book Notes
+Image: https://res.cloudinary.com/dde1q4ekv/image/upload/v1736029799/61z3QDRb7-L_dfunqq.jpg
 ---
 I finished reading this book, and almost instantly started re-reading it and listening to the audiobook version of it. It's phenomenal, insightful, and engaging.
 
@@ -17,7 +18,7 @@ Here are my notes, quotes, and ideas:
 
 ---
 
-I loved this quote from John F. Kennedy that preceded the Table of Contents:
+I loved this quote from John F. Kennedy that preceded the Table of Contents, given during a dinner to honor Nobel laureates:
 
 > I think this is the most extraordinary collection of talent, of human knowledge, that has ever been gathered together at the White House, with the possible exception of when Thomas Jefferson dined alone.
 
