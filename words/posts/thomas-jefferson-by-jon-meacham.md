@@ -9,7 +9,7 @@ Date: 2025-01-04T13:09:00
 Description: Book notes, quotes, and ideas.
 Published: true
 Slug: thomas-jefferson-by-jon-meacham
-Type: Book Notes
+Type: '"Book Notes"'
 ---
 I finished reading this book, and almost instantly started re-reading it and listening to the audiobook version of it. It's phenomenal, insightful, and engaging.
 
