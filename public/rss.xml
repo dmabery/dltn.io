@@ -9,10 +9,10 @@
             <link>http://localhost:3000</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jan 2025 22:33:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 22:33:46 GMT</lastBuildDate>
         <atom:link href="http://localhost:3000/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></author>
-        <pubDate>Sat, 04 Jan 2025 22:33:34 GMT</pubDate>
+        <pubDate>Sat, 04 Jan 2025 22:33:46 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2025]]></copyright>
         <item>
             <title><![CDATA[Thomas Jefferson: The Art of Power by Jon Meacham]]></title>
