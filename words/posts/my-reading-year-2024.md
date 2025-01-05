@@ -9,13 +9,15 @@ Published: true
 Slug: my-reading-year-2024
 Type: Essay
 ---
+[Read last year's here](http://localhost:3000/posts/my-reading-year-2023).
+
 This was the lightest reading year I've had in awhile, if measured by books completed, thanks to law school. However, if measured by pages or words read, I probably read more than ever before.
 
 Until August, my reading schedule was normal. But once school started, I was only able to finish two "fun" books throughout the entire semester. It's not that I didn't have the time to read fun books, but whenever I sat down to do so, there was a small voice inside my head that convinced me that my time was better spent reading books for school. I don't regret that, though. The rationale was that every hour spent studying should, hopefully, be worth it when the semester is over, and though reading fun books helps me learn, it's not as "productive" as being caught up on reading for school. Plus, spending a few hours reading for school helped me get ahead for the week, which allowed me to slow down and make sure I really understand the material, identify the areas I was confused, and come up with specific questions to ask my professors. I don't think I would have had that luxury if I wasn't so ahead.
 
 All that to say, I didn't read as many books in the back half of the year. Still, here are the ones I *did* read.
 
-![[https://res.cloudinary.com/dde1q4ekv/image/upload/v1736110370/IMG_3416_p02syu.jpg](https://res.cloudinary.com/dde1q4ekv/image/upload/v1736110370/IMG_3416_p02syu.jpg)
+![](https://res.cloudinary.com/dde1q4ekv/image/upload/v1736110370/IMG_3416_p02syu.jpg)
 
 I started the year continuing my Ron Chernow and early American history kick by finishing [*Grant*](https://bookshop.org/p/books/grant-ron-chernow/586755?ean=9780143110637) and reading [*Alexander Hamilton*](https://bookshop.org/p/books/alexander-hamilton-ron-chernow/586714?ean=9780143034759). Being from Missouri, I feel a special connection to Grant. (Though I was surprised that he really didn't spend a lot of time in Missouri.) I also loved smoking cigars while making my way through the pages. I felt an even stronger connection to him then. And I don't know if I didn't pay attention in school well enough, or just forgot, but I don't remember learning anything about what Hamilton did during the early days of America. He was a political genius, even if he was slightly arrogant. I can't help but wonder what impact he would have had on America had he not died so young.
 
