@@ -4,22 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "7403169ff67c8a2f",
+        "id": "9e044dd15e90e283",
         "type": "tabs",
         "children": [
           {
-            "id": "ea2b48ba9ffe646d",
+            "id": "326ddc05f7e44d0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft - links.md",
+                "file": "posts/feynmans-rainbow.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "feynmans-rainbow"
+            }
+          },
+          {
+            "id": "68b5a751b7641e30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/2024-07-20-fort-sumter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-07-20-fort-sumter"
+            }
+          },
+          {
+            "id": "a305e6c7667e842b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/justice-mosk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "justice-mosk"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -38,8 +69,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +82,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#technology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +98,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7e3b231dfab7f057",
@@ -85,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "draft - links.md",
+                "file": "posts/the-art-of-money-getting-by-pt-barnum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +131,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for the-art-of-money-getting-by-pt-barnum"
             }
           },
           {
@@ -102,10 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "draft - links.md",
+                "file": "posts/the-art-of-money-getting-by-pt-barnum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from the-art-of-money-getting-by-pt-barnum"
             }
           },
           {
@@ -116,7 +158,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draft - links.md"
-              }
+                "file": "posts/the-art-of-money-getting-by-pt-barnum.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of the-art-of-money-getting-by-pt-barnum"
             }
           }
         ]
@@ -143,43 +189,45 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ea2b48ba9ffe646d",
+  "active": "a305e6c7667e842b",
   "lastOpenFiles": [
-    "2024-07-20-unstuck.md",
     "posts/2024-07-20-fort-sumter.md",
+    "posts/justice-mosk.md",
+    "posts/my-reading-year-2024.md",
+    "posts/justice-stanley-mosk.md",
+    "felix-frankfurter-advice-to-law-student.md",
+    "posts/blog-notion-nextjs.md",
+    "links/Lincoln's Wit.md",
+    "links/Lessons from Peter Thiel.md",
+    "links/Commencement Address, America University Beirut.md",
+    "links/2025-05-05.md",
+    "links/2024-07-15T1606.md",
+    "links/2024-07-142.md",
+    "Professors, Start Your Blogs.md",
+    "2024-07-20-unstuck.md",
+    "posts/blog-questions-challenge.md",
+    "posts/thomas-jefferson-by-jon-meacham.md",
+    "posts/feynmans-rainbow.md",
+    "posts/83-years-ago.md",
+    "Nuclear War by Annie Jacobsen.md",
+    "posts/2024-11-14-concurring-opinions.md",
+    "posts/2024-11-17-why-save.md",
+    "characer-attacks.md",
+    "posts/the-art-of-money-getting-by-pt-barnum.md",
+    "posts/2024-10-12-paint.md",
     "draft - links.md",
-    "posts/book-notes-bird-by-bird-by-anne-lamott.md",
-    "Dalt - Obsidian/you ask I say.md",
+    "company-democracy.md",
+    "Screenshot 2024-07-21 at 4.01.26 PM.png",
     "Dalt - Obsidian/publish.css",
-    "Dalt - Obsidian/You Can't Judge a Thing for What It's Not.md",
-    "Dalt - Obsidian/Why feedback doesn't work.md",
-    "Dalt - Obsidian/Why I'm Going to Law School.md",
-    "Dalt - Obsidian/What's my law school contract?.md",
-    "Dalt - Obsidian/What if you just tried hard?.md",
-    "Dalt - Obsidian/What does it mean to learn well? Not strategies for learning, but prep and mindset..md",
-    "Dalt - Obsidian/To Read.md",
-    "Dalt - Obsidian/To Dragonfruit.md",
-    "Dalt - Obsidian/Time management and law school.md",
-    "Dalt - Obsidian/The difference between most people are just the standards they set for themselves.md",
-    "Dalt - Obsidian/The Boys in the Boat.md",
-    "Dalt - Obsidian/Stuff for sick things school.md",
     "Dalt - Obsidian/Session 2 State v. Kremer Sample Brief.docx",
     "Dalt - Obsidian/Session 2 Critical Reading Case for Actus Reus with Annotations.pdf",
     "Dalt - Obsidian/Session 2 Briefing Template.pdf",
     "Dalt - Obsidian/Screenshot 2024-07-16 at 5.59.10 PM.png",
     "Dalt - Obsidian/Screenshot 2024-07-15 at 6.00.16 PM.png",
-    "Dalt - Obsidian/References/sacl aw firm program.md",
-    "Dalt - Obsidian/References/haber london - leather stuff.md",
-    "Dalt - Obsidian/References/_The Economic Basis of Politics_.md",
-    "Dalt - Obsidian/References/_State and Revolution_.md",
-    "Dalt - Obsidian/References/_Sawdust Ceaser_.md",
-    "Dalt - Obsidian/References/_Mussolini’s Italy_.md",
-    "Dalt - Obsidian/References/_Germany Enters the Third Reich_.md",
-    "Dalt - Obsidian/References/_Dictatorship in the Modern World_.md",
-    "Dalt - Obsidian/References/_A Treasury of the World’s Greatest Speeches_.md",
     "Dalt - Obsidian/References/A Map of Political Parties.canvas",
     "Dalt - Obsidian/References",
     "Dalt - Obsidian/Readwise",
@@ -194,7 +242,6 @@
     "Dalt - Obsidian/Meta/archive/Misc./Images/Screen Shot 2022-06-13 at 9.11.58 PM.png",
     "Dalt - Obsidian/Meta/archive/Misc./Images/2-01.png",
     "Dalt - Obsidian/Meta/archive/Misc./Images/1-01.png",
-    "Dalt - Obsidian/Meta/archive/Personal/94 Life/Day Planners",
-    "Dalt - Obsidian/Meta/archive/Misc./03 Unpublished images/Screen Shot 2022-02-09 at 6.01.18 AM.png"
+    "Dalt - Obsidian/Meta/archive/Personal/94 Life/Day Planners"
   ]
 }

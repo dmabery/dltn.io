@@ -2,7 +2,6 @@
 import Link from "next/link";
 import Meta from "../components/Meta";
 import PostListSimple from "../components/PostListSimple";
-import Subscribe from "../components/Subscribe";
 import { getAllPosts, getTags } from "../lib/getMarkdownFiles";
 
 export const getStaticProps = async () => {
@@ -28,26 +27,10 @@ export default function Home({ posts, tags }) {
             I'm a first year law student in Sacramento.
           </p>
           <p>
-            I write about what I learn studying law officially and history.
+            I write about what I learn studying law and history.
           </p>
-          <p>
-            Subscribe for new posts and my monthly digest emails.
-          </p>
-          <Subscribe />
         </div>
         <p></p>
-      </div>
-      <div className="taglist flex flex-col py-10">
-        <p className="text-gray-600 font-sansSerif text-base mb-5">Topics</p>
-        <div>
-          {tags.map((tag) => (
-            <li className="inline mb-2 text-slate-900" key={tag}>
-              <Link href={`/tags/${tag}`} className="underline decoration-1 hover:text-blue">
-                {tag}
-              </Link>
-            </li>
-          ))}
-        </div>
       </div>
       <div className="flex flex-col py-10">
         <Link href="/writing" className="text-gray-600 mb-5 font-sansSerif text-base hover:text-blue">Writing</Link>
