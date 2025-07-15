@@ -39,15 +39,15 @@ export default function Home({ posts, tags }) {
 
   return <>
     <Meta
-      title="Dalton Mabery is a video editor who reads and writes."
-      description="Developer, Video Editor, Writer."
+      title="Dalton Mabery is a law student who reads and writes."
+      description="Law and history nerd. Writer."
     />
     <div className="flex flex-col">
       <div className="flex flex-col gap-2">
       <h1 className="text-2xl">Hi, I'm Dalton</h1>
         <div className="flex pb-10 border-b flex-col gap-3">
           <p>
-            I'm a first year law student in Sacramento. I write about what I learn studying law and reading about history.
+            I'm a rising second year law student in Sacramento. I write about what I learn studying law and reading about history.
           </p>
           <p>Explore my pages and posts:</p>
           <ol className="list-disc pl-4">
@@ -66,12 +66,17 @@ export default function Home({ posts, tags }) {
         <h3 className="mt-2">2025</h3>
         <ol className="mt-2">
           {posts2025.map((post) => (
-            <div className="flex mb-1.5 justify-between">
-              <div>
-                <Link className="text-[#003EDB] hover:text-blue-900 underline" href={`/posts/${post.slug}`}>{post.title}</Link>
+            <div className="flex items-center justify-between mb-1.5">
+              <div className="flex-1 md:mr-20">
+                <Link
+                  className="text-[#003EDB] hover:text-blue-900 underline"
+                  href={`/posts/${post.slug}`}
+                >
+                  {post.title}
+                </Link>
               </div>
-              <div className="hidden md:flex text-neutral-600">
-                {post.date.slice(5,10)}
+              <div className="text-neutral-600 hidden md:flex whitespace-nowrap">
+                {post.date.slice(5, 10)}
               </div>
             </div>
           ))}
@@ -80,28 +85,37 @@ export default function Home({ posts, tags }) {
         <h3 className="mt-2">2024</h3>
         <ol className="mt-2">
           {posts2024.map((post) => (
-            <div className="flex mb-1.5 justify-between">
-              <div>
-                <Link className="text-[#003EDB] hover:text-blue-900 underline" href={`/posts/${post.slug}`}>{post.title}</Link>
+            <div className="flex items-center justify-between mb-1.5">
+              <div className="flex-1 md:mr-20">
+                <Link
+                  className="text-[#003EDB] hover:text-blue-900 underline"
+                  href={`/posts/${post.slug}`}
+                >
+                  {post.title}
+                </Link>
               </div>
-              <div className="hidden md:flex text-neutral-600">
-                {post.date.slice(5,10)}
+              <div className="text-neutral-600 hidden md:flex whitespace-nowrap">
+                {post.date.slice(5, 10)}
               </div>
             </div>
           ))}
-
         </ol>
       </div>
       <div className="flex flex-col pt-10">
         <h3 className="mt-2">2023</h3>
         <ol className="mt-2">
           {posts2023.map((post) => (
-            <div className="flex mb-1.5 justify-between">
-              <div>
-                <Link className="text-[#003EDB] hover:text-blue-900 underline" href={`/posts/${post.slug}`}>{post.title}</Link>
+            <div className="flex items-center justify-between mb-1.5">
+              <div className="flex-1 md:mr-20">
+                <Link
+                  className="text-[#003EDB] hover:text-blue-900 underline"
+                  href={`/posts/${post.slug}`}
+                >
+                  {post.title}
+                </Link>
               </div>
-              <div className="hidden md:flex text-neutral-600">
-                {post.date.slice(5,10)}
+              <div className="text-neutral-600 hidden md:flex whitespace-nowrap">
+                {post.date.slice(5, 10)}
               </div>
             </div>
           ))}
@@ -111,12 +125,17 @@ export default function Home({ posts, tags }) {
         <h3 className="mt-2">2022</h3>
         <ol className="mt-2">
           {posts2022.map((post) => (
-            <div className="flex mb-1.5 justify-between">
-              <div>
-                <Link className="text-[#003EDB] hover:text-blue-900 underline" href={`/posts/${post.slug}`}>{post.title}</Link>
+            <div className="flex items-center justify-between mb-1.5">
+              <div className="flex-1 md:mr-20">
+                <Link
+                  className="text-[#003EDB] hover:text-blue-900 underline"
+                  href={`/posts/${post.slug}`}
+                >
+                  {post.title}
+                </Link>
               </div>
-              <div className="hidden md:flex text-neutral-600">
-                {post.date.slice(5,10)}
+              <div className="text-neutral-600 hidden md:flex whitespace-nowrap">
+                {post.date.slice(5, 10)}
               </div>
             </div>
           ))}
