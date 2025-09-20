@@ -1,5 +1,5 @@
 # About me
-I’m Dalton, a rising second year law student at the University of the Pacific, McGeorge School of Law in Sacramento, California.
+I’m Dalton, a second-year law student at the University of the Pacific, McGeorge School of Law in Sacramento, California.
 
 <ImageWithCaption src="https://res.cloudinary.com/dde1q4ekv/image/upload/v1728244501/Screenshot_2024-09-21_at_7.07.38_PM_1_inyr44.png" caption="Me, reading.">
 
