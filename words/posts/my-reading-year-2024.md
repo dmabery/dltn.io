@@ -9,7 +9,7 @@ Published: true
 Slug: my-reading-year-2024
 Type: Essay
 ---
-[Read last year's here](http://localhost:3000/posts/my-reading-year-2023).
+[Read last year's here](http://dltn.io/posts/my-reading-year-2023).
 
 This was the lightest reading year I've had in awhile, if measured by books completed, thanks to law school. However, if measured by pages or words read, I probably read more than ever before.
 
