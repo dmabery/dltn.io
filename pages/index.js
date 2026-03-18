@@ -17,6 +17,11 @@ export const getStaticProps = async () => {
 export default function Home({ posts, tags }) {
   if (!posts) return <h1>No posts</h1>;
 
+  const posts2026 = posts.filter(item => {
+    const year = new Date(item.date).getFullYear();
+    return year === 2026
+  })
+
   const posts2025 = posts.filter(item => {
     const year = new Date(item.date).getFullYear();
     return year === 2025
@@ -63,6 +68,24 @@ export default function Home({ posts, tags }) {
       <div className="flex flex-col pt-10">
         <h2 className="text-2xl">Writing</h2>
         <div className="flex flex-col pt-10">
+        <h3 className="mt-2">2026</h3>
+        <ol className="mt-2">
+          {posts2026.map((post) => (
+            <div className="flex items-center justify-between mb-1.5">
+              <div className="flex-1 md:mr-20">
+                <Link
+                  className="text-[#003EDB] hover:text-blue-900 underline"
+                  href={`/posts/${post.slug}`}
+                >
+                  {post.title}
+                </Link>
+              </div>
+              <div className="text-neutral-600 hidden md:flex whitespace-nowrap">
+                {post.date.slice(5, 10)}
+              </div>
+            </div>
+          ))}
+        </ol>
         <h3 className="mt-2">2025</h3>
         <ol className="mt-2">
           {posts2025.map((post) => (
