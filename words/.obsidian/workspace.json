@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chief-justice-john-roberts-baker-institute.md",
+                "file": "posts/chief-justice-john-roberts-baker-institute.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,11 +194,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "970c23fae80fe854",
+  "active": "eea3e51b295ff6f3",
   "lastOpenFiles": [
     "posts/my-reading-year-2024.md",
     "posts/my-reading-year-2025.md",
-    "chief-justice-john-roberts-baker-institute.md",
+    "posts/chief-justice-john-roberts-baker-institute.md",
     "posts/gifts.md",
     "posts/Felix-Frankfurter’s-Letter-of-Advice-to-a-Young Person-Interested-in-Going-into-the-Law.md",
     "posts/thomas-jefferson-by-jon-meacham.md",
