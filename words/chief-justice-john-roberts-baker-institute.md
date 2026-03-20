@@ -4,7 +4,7 @@ tags:
   - judges
 Date: 2026-03-19T16:52:00
 Description: A conversation about history and the law
-Published: false
+Published: true
 Slug: chief-justice-john-roberts-baker-institute
 Type: Essay
 ---
