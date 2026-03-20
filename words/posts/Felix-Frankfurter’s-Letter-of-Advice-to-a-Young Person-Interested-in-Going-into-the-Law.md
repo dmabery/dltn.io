@@ -2,6 +2,7 @@
 Title: Felix Frankfurter’s Letter of Advice to a Young Person Interested in Going into the Law
 tags:
   - lawschool
+  - judges
 Date: 2025-07-06
 Description:
 Published: true
