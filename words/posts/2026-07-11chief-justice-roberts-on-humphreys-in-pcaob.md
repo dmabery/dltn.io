@@ -11,7 +11,7 @@ The following remarks made at oral argument in *[Free Enterprise Fund v. Public 
 > 
 > **Justice Scalia:** I did, I did. We did overrule it, by the way, in Morrison, didn't we?
 
-Chief Justice Roberts has no said something bad of Humphrey's Executor: "If anything is left of Humphrey's, we overrule it."
+Chief Justice Roberts has now said something bad of Humphrey's Executor: "If anything is left of Humphrey's Executor, we overrule it."
 
 
 
