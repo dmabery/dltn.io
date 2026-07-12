@@ -3,6 +3,13 @@ import { useEffect } from "react";
 import PostBodyContent from "./PostBodyContent";
 const prism = require("prismjs");
 
+function formatMonthYear(date) {
+  return new Date(date).toLocaleDateString("en-US", {
+    month: "long",
+    year: "numeric",
+  });
+}
+
 const PostDisplay = ({
   title,
   description,
@@ -10,41 +17,52 @@ const PostDisplay = ({
   date,
   tags,
   content,
-  slug,
+  prevPost,
+  nextPost,
 }) => {
   useEffect(() => {
     prism.highlightAll();
   }, []);
 
-  return <>
-    <article className="text-[neutral-200]">
-      <div className="mb-14 font-sansSerif">
-        <div className="text-[27px] leading-tight font-semibold text-neutral-800">
-          {title || ""}
-        </div>
-        <div className="tags flex gap-2 py-2 text-sm text-[#868686]">
-          <div>{date.slice(0,10)}</div>
-        </div>
+  return (
+    <article>
+      <div className="mb-3 text-[20px] font-medium leading-tight">
+        {title || ""}
       </div>
-      <div>
-        <PostBodyContent content={content} />
+      <div className="mb-3.5 text-[11.5px] text-[#555]">
+        {formatMonthYear(date)}
+        {tags && tags.length > 0 && (
+          <>
+            {" "}
+            &middot; filed under{" "}
+            {tags.map((tag, i) => (
+              <span key={tag}>
+                {i > 0 && ", "}
+                <Link href={`/tags/${tag}`}>{tag}</Link>
+              </span>
+            ))}
+          </>
+        )}
       </div>
-      <div className="my-28 inline-flex items-center">
-        <p className="text-sm text-neutral-700 mr-2">Tagged</p>
-            {tags
-              ? tags.map((tag) => {
-                  return (
-                    <li className="inline mr-2 hover:text-blue-800 text-[#003EDB] font-medium text-sm">
-                      <Link className="underline" href={`/tags/${tag}`}>
-                        {tag}
-                      </Link>
-                    </li>
-                  );
-                })
-              : "error"}
+
+      <PostBodyContent content={content} dropCap />
+
+      {(prevPost || nextPost) && (
+        <div className="my-4 flex justify-between border-y border-dotted border-[#999] py-1.5 text-[11.5px]">
+          <div>
+            {prevPost && (
+              <Link href={`/posts/${prevPost.slug}`}>&laquo; {prevPost.title}</Link>
+            )}
           </div>
+          <div className="text-right">
+            {nextPost && (
+              <Link href={`/posts/${nextPost.slug}`}>{nextPost.title} &raquo;</Link>
+            )}
+          </div>
+        </div>
+      )}
     </article>
-  </>;
+  );
 };
 
 export default PostDisplay;

@@ -1,48 +1,26 @@
-import Image from "next/image";
-import LinkText from "./LinkText";
-
-const footerLink = [
-  {
-    title: "Twitter",
-    link: "https://www.twitter.com/dltnio",
-  },
-  {
-    title: "YouTube",
-    link: "https://www.youtube.com/daltonmabery",
-  },
-  {
-    title: "GitHub",
-    link: "https://github.com/dmabery",
-  },
+const footerLinks = [
+  { title: "Twitter", link: "https://www.twitter.com/dltnio" },
+  { title: "GitHub", link: "https://github.com/dmabery" },
+  { title: "YouTube", link: "https://www.youtube.com/daltonmabery" },
 ];
 
 const Footer = () => (
-  <>
-    <div className="mt-5 flex items-center gap-5">
-      <hr className="w-2/3"></hr>
-      <div className="font-serif text-4xl font-bold">d.</div>
-      <hr className="w-2/3"></hr>
+  <footer className="mt-6 border-t border-[#ccc] pt-2 text-center text-[11px] text-[#555]">
+    <div>
+      dltn.io is proudly hand-rolled &middot;{" "}
+      <a href="/rss.xml">Entries (RSS)</a>
     </div>
-    <div className="container mx-auto mt-10 flex justify-between pb-10">
-      <div className="flex flex-col">
-        <p className="mb-4 font-serif font-bold text-gray-900">Stay curious.</p>
-        {footerLink.map((link) => (
-          <LinkText
-            slug={link.link}
-            text={link.title}
-            type="small"
-            key={link.title}
-          />
-        ))}
-      </div>
-      <Image
-        src="/reading book.png"
-        width={80}
-        height={100}
-        alt="astronaut on planet reading a book"
-      />
+    <div className="mt-1">
+      {footerLinks.map((link, i) => (
+        <span key={link.link}>
+          {i > 0 && <span className="mx-1">&middot;</span>}
+          <a href={link.link} target="_blank" rel="noreferrer">
+            {link.title}
+          </a>
+        </span>
+      ))}
     </div>
-  </>
+  </footer>
 );
 
 export default Footer;

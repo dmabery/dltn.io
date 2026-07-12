@@ -19,13 +19,18 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params: { slug } }) {
   const posts = await getAllPosts();
-  const post = posts.find((post) => post.slug === slug);
+  const postIndex = posts.findIndex((post) => post.slug === slug);
 
-  if (!post) {
+  if (postIndex === -1) {
     return {
       notFound: true,
     };
   }
+
+  const post = posts[postIndex];
+  // posts are sorted newest first, so the "next" post chronologically is the previous array entry
+  const newerPost = posts[postIndex - 1] || null;
+  const olderPost = posts[postIndex + 1] || null;
 
   // Ensure tags are an array of strings
   const tags = post.tags.map(tag => tag.name);
@@ -38,11 +43,13 @@ export async function getStaticProps({ params: { slug } }) {
         date: post.date, // Ensure date is serialized as string
       },
       content: post.content,
+      prevPost: olderPost ? { slug: olderPost.slug, title: olderPost.title } : null,
+      nextPost: newerPost ? { slug: newerPost.slug, title: newerPost.title } : null,
     },
   };
 }
 
-const BlogPost = ({ frontmatter, content }) => {
+const BlogPost = ({ frontmatter, content, prevPost, nextPost }) => {
   if (!frontmatter) return <h1>No posts</h1>;
   return (
     <>
@@ -59,6 +66,8 @@ const BlogPost = ({ frontmatter, content }) => {
           description={frontmatter.excerpt}
           content={content}
           image={frontmatter.featuredImage}
+          prevPost={prevPost}
+          nextPost={nextPost}
         />
       </section>
     </>

@@ -2,25 +2,89 @@
     <channel>
         <title><![CDATA[dltn.io feed]]></title>
         <description><![CDATA[A personal blog about books, history, and the law.]]></description>
-        <link>http://localhost:3000</link>
+        <link>https://dltn.io</link>
         <image>
             <url>public/favicon 3.png</url>
             <title>dltn.io feed</title>
-            <link>http://localhost:3000</link>
+            <link>https://dltn.io</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 04:32:55 GMT</lastBuildDate>
-        <atom:link href="http://localhost:3000/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 12 Jul 2026 21:25:44 GMT</lastBuildDate>
+        <atom:link href="https://dltn.io/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></author>
-        <pubDate>Wed, 18 Mar 2026 04:32:55 GMT</pubDate>
+        <pubDate>Sun, 12 Jul 2026 21:25:43 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2026]]></copyright>
         <item>
-            <title><![CDATA[My Reading Year, 2025]]></title>
-            <description><![CDATA[Like [last year](https://www.dltn.io/posts/my-reading-year-2024), 2025 was another light reading year for me. I echo the same thing I [wrote last](htt...]]></description>
-            <link>http://localhost:3000/posts/my-reading-year-2025</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/my-reading-year-2025</guid>
+            <title><![CDATA[Chief Justice Roberts on Humphrey's Executor in 2009 and 2026]]></title>
+            <description><![CDATA[The following remarks made at oral argument in Free Enterprise Fund v. Public Accounting Oversight Board seemed timely given the nature of Chief Justi...]]></description>
+            <link>https://dltn.io/posts/2026-07-11chief-justice-roberts-on-humphreys-in-pcaob</link>
+            <guid isPermaLink="true">https://dltn.io/posts/2026-07-11chief-justice-roberts-on-humphreys-in-pcaob</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
-            <pubDate>Sat, 17 Jan 2026 11:43:00 GMT</pubDate>
+            <pubDate>Sun, 12 Jul 2026 21:25:43 GMT</pubDate>
+            <content:encoded>&lt;p&gt;The following remarks made at oral argument in &lt;em&gt;&lt;a href=&quot;https://www.supremecourt.gov/opinions/25pdf/25-332_qn12.pdf&quot;&gt;Free Enterprise Fund v. Public Accounting Oversight Board&lt;/a&gt;&lt;/em&gt; seemed timely given the nature of Chief Justice Roberts&amp;#39; majority opinion in &lt;a href=&quot;https://www.supremecourt.gov/opinions/25pdf/25-332_qn12.pdf&quot;&gt;&lt;em&gt;Trump v. Slaughter&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Solicitor General Elena Kagan:&lt;/strong&gt; I understand the temptation to say something like, well, we don&amp;#39;t really much like Humphrey&amp;#39;s Executor, but we are stuck with it, but not an inch further.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chief Justice Roberts:&lt;/strong&gt; I didn&amp;#39;t say anything bad about Humphrey&amp;#39;s Executor.&lt;/p&gt;
+&lt;p&gt;[Laughter.]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Justice Scalia:&lt;/strong&gt; I did, I did. We did overrule it, by the way, in Morrison, didn&amp;#39;t we?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Chief Justice Roberts has now said something bad of Humphrey&amp;#39;s Executor: &amp;quot;If anything is left of Humphrey&amp;#39;s Executor, we overrule it.&amp;quot;&lt;/p&gt;
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Presidential Candidates Defending their Dogs]]></title>
+            <description><![CDATA[I was watching Bobby Kennedy for President last week and laughed when Kennedy, after learning that he won the Democratic primary in California—and jus...]]></description>
+            <link>https://dltn.io/posts/presidential-candidates-and-their-dogs</link>
+            <guid isPermaLink="true">https://dltn.io/posts/presidential-candidates-and-their-dogs</guid>
+            <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded>&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1779507900/rfk-and-his-dog-freckles-v0-czqezg77kurd1_sbcp5i.webp&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I was watching &lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Bobby_Kennedy_for_President&quot;&gt;Bobby Kennedy for President&lt;/a&gt;&lt;/em&gt; last week and laughed when Kennedy, after learning that he won the Democratic primary in California—and just before he was shot—said the following about his dog, Freckles:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I want to express my gratitude to my dog, Freckles, who’s been maligned. I don’t care what they say—as Franklin Roosevelt said—“I don’t care what they say about me, but when they start to attack my dog. . .”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Kennedy then embraces a sly grin, and the crowd erupts in cheers and laughter.&lt;/p&gt;
+&lt;p&gt;I also just finished &lt;a href=&quot;https://bookshop.org/p/books/fdr-jean-edward-smith/f5f978a622af6a60&quot;&gt;&lt;em&gt;FDR&lt;/em&gt; by Jean Edward Smith&lt;/a&gt;, and found the quote that Kennedy was referring to:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;These Republican leaders have not been content with attacks on me, or my wife, or my sons. No, they now include my little dog, Fala. Well, of course, I don’t resent attacks, and my family doesn’t resent attacks, but Fala does resent them. You know, Fala is Scotch, and being a Scottie, as soon as he learned that the Republican fiction writers in Congress had concocted a story that I had left him behind on an Aleutian Island and had sent a destroyer back to find him—at a cost to the taxpayers of two or three, or eight or twenty million dollars—his Scotch soul was furious. He has not been the same dog since. I am accustomed to hearing malicious falsehoods about myself . . . but I think I have a right to resent, to object to libelous statements about my dog.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It was also pretty funny that, after Kennedy thanked Freckles, he said:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I&amp;#39;m not doing this in order of importance, but I also want to thank my wife, Ethel. [Loud laughter and cheers.]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1779507905/150917-fdr-fala-09_jotrs8.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Chief Justice John Roberts at the Baker Institute]]></title>
+            <description><![CDATA[A conversation about history and the law]]></description>
+            <link>https://dltn.io/posts/chief-justice-john-roberts-baker-institute</link>
+            <guid isPermaLink="true">https://dltn.io/posts/chief-justice-john-roberts-baker-institute</guid>
+            <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
+            <pubDate>Thu, 19 Mar 2026 16:52:00 GMT</pubDate>
+            <content:encoded>&lt;p&gt;Chief Justice John Roberts &lt;a href=&quot;https://youtu.be/j8vUUl_vcKc&quot;&gt;joined &lt;/a&gt;Judge Rosenthal of the Southern District of Texas for a conversation at the Baker Institute. It was a fun watch.&lt;/p&gt;
+&lt;p&gt;What struck me the most about the conversation was how intellectually curious the Chief Justice is and how much he loves history. Though both of those things are not surprising, considering his job title and his undergraduate degree in History. But it seemed as if he came to life more when he was telling a historical anecdote than when he expounded on the role of the judiciary in America.&lt;/p&gt;
+&lt;p&gt;For example, he talked about how when he first went into one of the conference rooms at the Court, he did not recognize some of the former Chief Justices. He thought how embarrassing it would have been for him had a Senator asked him, &amp;quot;So, you&amp;#39;re the 17th Chief Justice. Who are the others?&amp;quot; Only for him to respond with &amp;quot;I don&amp;#39;t know.&amp;quot; So, he spent the first summer after he was appointed reading and learning everything he could about the other Chief Justices.&lt;/p&gt;
+&lt;p&gt;Further evidence of his intellectual curiosity was that he also said the Chancellorship of the Smithsonian is the best part of being the Chief Justice. He then went onto explain where the finances for the Smithsonian originally came from, and contrasted Andrew Jackson&amp;#39;s response to the offer with something along the lines of &amp;quot;We don&amp;#39;t need British money&amp;quot; with John Quincy Adams&amp;#39; response with something like, &amp;quot;Well, hang on there, not so fast.&amp;quot;&lt;/p&gt;
+&lt;p&gt;He recounted an anecdote from Chief Justice John Jay—the first Chief Justice—after Washington asked him for legal advice. Chief Justice Jay said that it was not his job to provide advice to a sitting President, for he was in a different branch of the government. While that is a commonplace notion today, it wasn&amp;#39;t then.&lt;/p&gt;
+&lt;p&gt;The Chief Justice also recounted the story of when he was nominated to the D.C. Circuit in 1992, but the Senate never voted on his confirmation. He said it was sad, of course, but looking back he was glad it happened.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It was a disappointment. You look ahead and plan what your life will be like. I think it was a great honor. It was a great calling to be a federal judge. In retrospect, 100%, it was one of the best things that ever happened to me. That is a young age to take on a life-tenure job. You give up a lot of opportunity for other experiences. I&amp;#39;m pretty sure if I had done that, I wouldn&amp;#39;t have ended up where I am now. You do develop something of a track record and it is not always something that appeals to people. And I went on and was able to do private practice but also another government opportunity. It was a disappointment but turned out alright.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;quot;It turned out alright&amp;quot; is a bit of an understatement, Mr. Chief Justice of the United States Supreme Court.&lt;/p&gt;
+&lt;p&gt;Regarding the Court&amp;#39;s summer recess, he mentioned that it was important in order to maintain collegiality on the Court. It allows the Justices to decompress after a long ten-months filled with contentious issues and important decisions, and he said it allows them to remain friendly throughout the term.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Louis Brandeis said he could do the 12 months worth of work on the court in 10 months, but he couldn&amp;#39;t do it in 12 months. And I think there was a lot of wisdom in that. And, you know, sometimes people get together in the summer, do this and that whatnot. I am, I think I got the group right, a four seasons fan. And my approach is, see you in September . . . . But so that helps sort of recharge the batteries.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[My Reading Year, 2025]]></title>
+            <description><![CDATA[Like last year, 2025 was another light reading year for me. I echo the same thing I wrote last year: I read fewer "fun" books, but more words than eve...]]></description>
+            <link>https://dltn.io/posts/my-reading-year-2025</link>
+            <guid isPermaLink="true">https://dltn.io/posts/my-reading-year-2025</guid>
+            <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
+            <pubDate>Tue, 17 Mar 2026 11:43:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Like &lt;a href=&quot;https://www.dltn.io/posts/my-reading-year-2024&quot;&gt;last year&lt;/a&gt;, 2025 was another light reading year for me. I echo the same thing I &lt;a href=&quot;https://www.dltn.io/posts/my-reading-year-2024&quot;&gt;wrote last&lt;/a&gt; year: I read fewer &amp;quot;fun&amp;quot; books, but more words than ever before in 2025. However, my law books were still fun to read, especially my textbooks and supplemental materials for Administrative Law, Constitutional Law, Criminal Law, and Statutes and Regulations.&lt;/p&gt;
 &lt;p&gt;I started the year finishing &lt;a href=&quot;https://bookshop.org/p/books/no-ordinary-time-franklin-and-eleanor-roosevelt-the-home-front-in-world-war-ii-doris-kearns-goodwin/df4e9f71007b1d2b&quot;&gt;&lt;em&gt;No Ordinary Time&lt;/em&gt;&lt;/a&gt; by Doris Kearns Goodwin. She is one of my favorite history authors because she has a unique ability to bring subjects of her works to life. I think this is because she spends time exploring the side characters in many of their lives—like Joe Lash, Eleanor Roosevelt’s good friend. When you understand not just the main subject, but the people that subject interacted with, the page comes to life.&lt;/p&gt;
 &lt;p&gt;Sadly, I didn’t pick up another fun book until my Spring semester ended. But the book I jumped to first was well worth the wait. In &lt;a href=&quot;https://www.dltn.io/posts/my-reading-year-2024&quot;&gt;2024&lt;/a&gt;, I read the first two books of Robert Caro’s &lt;em&gt;The Years of Lyndon Johnson&lt;/em&gt;. I wasn’t able to finish the rest of the series because school started, so I thought picking up where I left off after my first year was the best thing to do. Thus, I read the largest volume of the series, &lt;a href=&quot;https://bookshop.org/p/books/master-of-the-senate-the-years-of-lyndon-johnson-iii-robert-a-caro/56e6e291d6d0dfe2?ean=9780394720951&amp;next=t&quot;&gt;&lt;em&gt;Master of the Senate&lt;/em&gt; &lt;/a&gt;and was enthralled. Lyndon Johnson figured out how the Senate works, and he figured out he could work the Senate. There are countless stories of Johnson’s logrolling and political maneuverers that helped me see the current Congress in a different light. The final couple hundred pages tells the most dramatic story of Johnson trying to balance the line between not upsetting the North over the South’s position on racial segregation while not upsetting the South’s support of him as a presidential candidate because of his stance on racial segregation. Caro does an incredible job of making you wonder: was Johnson a supporter of Civil Rights because he truly believed that was right, or because he wanted to become President? There are parts of his story that indicate both could be true, such as his time spent teaching and transforming a small school in Cotulla. It would not do the book justice to attempt to summarize everything here. If you read one book, one book at all, it should be &lt;em&gt;Master of the Senate&lt;/em&gt;.&lt;/p&gt;
@@ -39,8 +103,8 @@
         <item>
             <title><![CDATA[Misconceptions About Gift-Giving]]></title>
             <description><![CDATA[It turns out, there are some rules about gift-giving.]]></description>
-            <link>http://localhost:3000/posts/gifts</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/gifts</guid>
+            <link>https://dltn.io/posts/gifts</link>
+            <guid isPermaLink="true">https://dltn.io/posts/gifts</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 20 Jul 2025 11:43:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I stumbled upon &lt;a href=&quot;https://journals.sagepub.com/doi/epub/10.1177/0963721416656937&quot;&gt;this paper discussing a unique aspect&lt;/a&gt; of gift-giving. Mainly, it talks about how gifts that givers love to give are not always the gifts that recipients love to receive.&lt;/p&gt;
@@ -58,9 +122,9 @@
         </item>
         <item>
             <title><![CDATA[Felix Frankfurter’s Letter of Advice to a Young Person Interested in Going into the Law]]></title>
-            <description><![CDATA[I found this letter [uploaded here](https://www.studocu.com/ph/document/university-of-san-agustin/ethics/advice-to-a-young-man-interested-in-going-int...]]></description>
-            <link>http://localhost:3000/posts/Felix-Frankfurter’s-Letter-of-Advice-to-a-Young Person-Interested-in-Going-into-the-Law</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/Felix-Frankfurter’s-Letter-of-Advice-to-a-Young Person-Interested-in-Going-into-the-Law</guid>
+            <description><![CDATA[I found this letter uploaded here, after it was referenced in a ceremony by Justice Stanley Mosk’s son, honoring the late Justice. I wrote about more ...]]></description>
+            <link>https://dltn.io/posts/Felix-Frankfurter’s-Letter-of-Advice-to-a-Young Person-Interested-in-Going-into-the-Law</link>
+            <guid isPermaLink="true">https://dltn.io/posts/Felix-Frankfurter’s-Letter-of-Advice-to-a-Young Person-Interested-in-Going-into-the-Law</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I found this letter &lt;a href=&quot;https://www.studocu.com/ph/document/university-of-san-agustin/ethics/advice-to-a-young-man-interested-in-going-into-law/37348196&quot;&gt;uploaded here&lt;/a&gt;, after it was referenced &lt;a href=&quot;https://www.cschs.org/history/california-supreme-court-justices/stanley-mosk/&quot;&gt;in a ceremony&lt;/a&gt; by Justice Stanley Mosk’s son, honoring the late Justice. I wrote about more quotes from that ceremony here.&lt;/p&gt;
@@ -77,8 +141,8 @@
         <item>
             <title><![CDATA[Justice Stanley Mosk]]></title>
             <description><![CDATA[A look at the life and ideas of Justice Mosk.]]></description>
-            <link>http://localhost:3000/posts/justice-stanley-mosk</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/justice-stanley-mosk</guid>
+            <link>https://dltn.io/posts/justice-stanley-mosk</link>
+            <guid isPermaLink="true">https://dltn.io/posts/justice-stanley-mosk</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 19 Feb 2025 17:56:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I read a few opinions by Justice Mosk this week, which had made me curious to learn more 
@@ -119,8 +183,8 @@ about who he was, what he did, and how he lived.&lt;/p&gt;
         <item>
             <title><![CDATA[Blog Questions Challenge]]></title>
             <description><![CDATA[On blogging.]]></description>
-            <link>http://localhost:3000/posts/blog-questions-challenge</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/blog-questions-challenge</guid>
+            <link>https://dltn.io/posts/blog-questions-challenge</link>
+            <guid isPermaLink="true">https://dltn.io/posts/blog-questions-challenge</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 06 Jan 2025 07:04:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I saw &lt;a href=&quot;https://manuelmoreale.com/blog-questions-challenge&quot;&gt;Manu&amp;#39;s post&lt;/a&gt; in my RSS feed this morning answering these questions and thought, why not?&lt;/p&gt;
@@ -152,8 +216,8 @@ about who he was, what he did, and how he lived.&lt;/p&gt;
         <item>
             <title><![CDATA[My Reading Year, 2024]]></title>
             <description><![CDATA[All the books I read in 2024.]]></description>
-            <link>http://localhost:3000/posts/my-reading-year-2024</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/my-reading-year-2024</guid>
+            <link>https://dltn.io/posts/my-reading-year-2024</link>
+            <guid isPermaLink="true">https://dltn.io/posts/my-reading-year-2024</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 05 Jan 2025 12:51:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;&lt;a href=&quot;http://dltn.io/posts/my-reading-year-2023&quot;&gt;Read last year&amp;#39;s here&lt;/a&gt;.&lt;/p&gt;
@@ -184,8 +248,8 @@ about who he was, what he did, and how he lived.&lt;/p&gt;
         <item>
             <title><![CDATA[Thomas Jefferson: The Art of Power by Jon Meacham]]></title>
             <description><![CDATA[Book notes, quotes, and ideas.]]></description>
-            <link>http://localhost:3000/posts/thomas-jefferson-by-jon-meacham</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/thomas-jefferson-by-jon-meacham</guid>
+            <link>https://dltn.io/posts/thomas-jefferson-by-jon-meacham</link>
+            <guid isPermaLink="true">https://dltn.io/posts/thomas-jefferson-by-jon-meacham</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 04 Jan 2025 13:09:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I finished reading this book, and almost instantly started re-reading it and listening to the audiobook version of it. It&amp;#39;s phenomenal, insightful, and engaging.&lt;/p&gt;
@@ -389,8 +453,8 @@ From 5 till bed-time, read English, write, etc.&lt;/p&gt;
         <item>
             <title><![CDATA[Feynman's Rainbow by Leonard Mlodinow]]></title>
             <description><![CDATA[Book notes and ideas from Feynman's Rainbow by Leonard Mlodinow.]]></description>
-            <link>http://localhost:3000/posts/feynmans-rainbow</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/feynmans-rainbow</guid>
+            <link>https://dltn.io/posts/feynmans-rainbow</link>
+            <guid isPermaLink="true">https://dltn.io/posts/feynmans-rainbow</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 16 Dec 2024 10:40:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I picked up this book after overhearing &lt;a href=&quot;https://www.youtube.com/watch?v=RHayBwf8cJY&quot;&gt;Ryan Holiday mention it to Morgan Housel during their bookshop tour&lt;/a&gt;. I finished my first semester of law school on Thursday, and woke up Friday morning waiting to read a &amp;quot;fun&amp;quot; book. So, naturally, I picked one about Richard Feynman.&lt;/p&gt;
@@ -479,10 +543,9 @@ From 5 till bed-time, read English, write, etc.&lt;/p&gt;
         </item>
         <item>
             <title><![CDATA[Concurring opinions]]></title>
-            <description><![CDATA[
-When you're a huge nerd like me, you not only read court opinions for school, but you also get really excited to read those court opinions when it's ...]]></description>
-            <link>http://localhost:3000/posts/concurring-opinions</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/concurring-opinions</guid>
+            <description><![CDATA[When you're a huge nerd like me, you not only read court opinions for school, but you also get really excited to read those court opinions when it's w...]]></description>
+            <link>https://dltn.io/posts/concurring-opinions</link>
+            <guid isPermaLink="true">https://dltn.io/posts/concurring-opinions</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;When you&amp;#39;re a huge nerd like me, you not only read court opinions for school, but you also get really excited to read those court opinions when it&amp;#39;s written by a judge that you like to read. There are a few judges I &lt;em&gt;love&lt;/em&gt; to read, even if I don&amp;#39;t agree with everything they write. Judge Posner from the 7th Circuit Court of Appeals is one of those. The latest opinion we read from him &lt;a href=&quot;https://law.justia.com/cases/federal/appellate-courts/F3/17/209/566491/&quot;&gt;opens with&lt;/a&gt;, &amp;quot;Richard Welge, forty-something but young in spirit, loves to sprinkle peanuts on his ice cream sundaes.&amp;quot; And continues later:&lt;/p&gt;
@@ -507,8 +570,8 @@ When you're a huge nerd like me, you not only read court opinions for school, bu
         <item>
             <title><![CDATA[The Art of Money Getting by P.T. Barnum]]></title>
             <description><![CDATA[A few short lessons and ideas about living well, finding success, getting rich, and not being a fool.]]></description>
-            <link>http://localhost:3000/posts/the-art-of-money-getting-by-pt-barnum</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-art-of-money-getting-by-pt-barnum</guid>
+            <link>https://dltn.io/posts/the-art-of-money-getting-by-pt-barnum</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-art-of-money-getting-by-pt-barnum</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 06 Nov 2024 19:15:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;The title of this book is gaudy. I admit that. But it caught my attention when I wasn&amp;#39;t trying to read a book like this, so maybe gaudy titles work.&lt;/p&gt;
@@ -635,10 +698,9 @@ No profession, trade, or calling, is overcrowded in the upper story. Wherever yo
         </item>
         <item>
             <title><![CDATA[A New Coat of Paint]]></title>
-            <description><![CDATA[
-If you read this blog on dltn.io, you might have noticed a new coat of paint recently. I didn’t do anything too drastic, but I *love* the new look. I...]]></description>
-            <link>http://localhost:3000/posts/paint</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/paint</guid>
+            <description><![CDATA[If you read this blog on dltn.io, you might have noticed a new coat of paint recently. I didn’t do anything too drastic, but I love the new look. It’s...]]></description>
+            <link>https://dltn.io/posts/paint</link>
+            <guid isPermaLink="true">https://dltn.io/posts/paint</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 12 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;If you read this blog on dltn.io, you might have noticed a new coat of paint recently. I didn’t do anything too drastic, but I &lt;em&gt;love&lt;/em&gt; the new look. It’s simple, elegant, and timeless.&lt;/p&gt;
@@ -683,10 +745,9 @@ If you read this blog on dltn.io, you might have noticed a new coat of paint rec
         </item>
         <item>
             <title><![CDATA[My blog’s identity crisis]]></title>
-            <description><![CDATA[
-Now that I have officially decided to keep my blog built with Next, I thought my blog tinkering time was over and I could just go back to sitting dow...]]></description>
-            <link>http://localhost:3000/posts/my-blogs-identity-crisis</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/my-blogs-identity-crisis</guid>
+            <description><![CDATA[Now that I have officially decided to keep my blog built with Next, I thought my blog tinkering time was over and I could just go back to sitting down...]]></description>
+            <link>https://dltn.io/posts/my-blogs-identity-crisis</link>
+            <guid isPermaLink="true">https://dltn.io/posts/my-blogs-identity-crisis</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Now that I have officially decided to keep my blog built with Next, I thought my blog tinkering time was over and I could just go back to sitting down and writing posts.&lt;/p&gt;
@@ -719,12 +780,9 @@ Now that I have officially decided to keep my blog built with Next, I thought my
         </item>
         <item>
             <title><![CDATA[Static blogs are like printers]]></title>
-            <description><![CDATA[
-From [Jack Baty](https://archive.baty.net/2017/wordpress-is-a-typewriter/):
-
-> The problem I have with publishing a static site is that creating and ...]]></description>
-            <link>http://localhost:3000/posts/static-site-printer</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/static-site-printer</guid>
+            <description><![CDATA[From Jack Baty: The problem I have with publishing a static site is that creating and editing content is too far removed from the actual rendered page...]]></description>
+            <link>https://dltn.io/posts/static-site-printer</link>
+            <guid isPermaLink="true">https://dltn.io/posts/static-site-printer</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;From &lt;a href=&quot;https://archive.baty.net/2017/wordpress-is-a-typewriter/&quot;&gt;Jack Baty&lt;/a&gt;:&lt;/p&gt;
@@ -746,8 +804,8 @@ From [Jack Baty](https://archive.baty.net/2017/wordpress-is-a-typewriter/):
         <item>
             <title><![CDATA[Your site should let you do what you want]]></title>
             <description><![CDATA[For the last few months, I debated switching my site to a headless CMS using WordPress. I liked—nay, loved—how easy it was to open a browser window, t...]]></description>
-            <link>http://localhost:3000/posts/site-should-do-what-you-want</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/site-should-do-what-you-want</guid>
+            <link>https://dltn.io/posts/site-should-do-what-you-want</link>
+            <guid isPermaLink="true">https://dltn.io/posts/site-should-do-what-you-want</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;For the last few months, I debated switching my site to a headless CMS using WordPress. I liked—nay, loved—how easy it was to open a browser window, type words, add images, and make a new post. It was much simpler than pushing to GitHub, dealing with front matter, and all those things.&lt;/p&gt;
@@ -769,10 +827,9 @@ From [Jack Baty](https://archive.baty.net/2017/wordpress-is-a-typewriter/):
         </item>
         <item>
             <title><![CDATA[Justice Holmes]]></title>
-            <description><![CDATA[
-One of the reasons I went to law school was because of Oliver Wendell Holmes, Jr. It’s not like a had a conversation with him...obviously. He’s long ...]]></description>
-            <link>http://localhost:3000/posts/holmes-and-risk</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/holmes-and-risk</guid>
+            <description><![CDATA[One of the reasons I went to law school was because of Oliver Wendell Holmes, Jr. It’s not like a had a conversation with him...obviously. He’s long d...]]></description>
+            <link>https://dltn.io/posts/holmes-and-risk</link>
+            <guid isPermaLink="true">https://dltn.io/posts/holmes-and-risk</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;One of the reasons I went to law school was because of Oliver Wendell Holmes, Jr. It’s not like a had a conversation with him...obviously. He’s long dead. But his works, ideas, and life are not!&lt;/p&gt;
@@ -799,10 +856,9 @@ One of the reasons I went to law school was because of Oliver Wendell Holmes, Jr
         </item>
         <item>
             <title><![CDATA[Markdown sans front matter]]></title>
-            <description><![CDATA[
-One of the reasons I’ve been tempted to switch—and in fact have switched a few times (and then back again)—to WordPress as a headless CMS was because...]]></description>
-            <link>http://localhost:3000/posts/markdwown-sans-front-matter</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/markdwown-sans-front-matter</guid>
+            <description><![CDATA[One of the reasons I’ve been tempted to switch—and in fact have switched a few times (and then back again)—to WordPress as a headless CMS was because ...]]></description>
+            <link>https://dltn.io/posts/markdwown-sans-front-matter</link>
+            <guid isPermaLink="true">https://dltn.io/posts/markdwown-sans-front-matter</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;One of the reasons I’ve been tempted to switch—and in fact have switched a few times (and then back again)—to WordPress as a headless CMS was because of how dead simple and easy it was to write a new post.&lt;/p&gt;
@@ -825,8 +881,8 @@ One of the reasons I’ve been tempted to switch—and in fact have switched a f
         <item>
             <title><![CDATA[Probably your fault]]></title>
             <description><![CDATA[Last year on the podcast, Jerry Colonna said something that deeply resonated with me: how are you complicit in creating the conditions you say you don...]]></description>
-            <link>http://localhost:3000/posts/probably-your-fault</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/probably-your-fault</guid>
+            <link>https://dltn.io/posts/probably-your-fault</link>
+            <guid isPermaLink="true">https://dltn.io/posts/probably-your-fault</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Last year on the podcast, Jerry Colonna said something that deeply resonated with me: how are you complicit in creating the conditions you say you don’t want?&lt;/p&gt;
@@ -844,10 +900,9 @@ One of the reasons I’ve been tempted to switch—and in fact have switched a f
         </item>
         <item>
             <title><![CDATA[Ambiguity is where the work is]]></title>
-            <description><![CDATA[
-I just finished my second week of law school, and when people say it's a lot of reading...it's a lot of reading—even for someone who loves to read li...]]></description>
-            <link>http://localhost:3000/posts/ambiguity-is-where-the-work-is</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/ambiguity-is-where-the-work-is</guid>
+            <description><![CDATA[I just finished my second week of law school, and when people say it's a lot of reading...it's a lot of reading—even for someone who loves to read lik...]]></description>
+            <link>https://dltn.io/posts/ambiguity-is-where-the-work-is</link>
+            <guid isPermaLink="true">https://dltn.io/posts/ambiguity-is-where-the-work-is</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I just finished my second week of law school, and when people say it&amp;#39;s a lot of reading...it&amp;#39;s a lot of reading—even for someone who loves to read like me.&lt;/p&gt;
@@ -868,8 +923,8 @@ I just finished my second week of law school, and when people say it's a lot of 
         <item>
             <title><![CDATA[Book Notes on 'Plain Speaking: An Oral Biography of Harry S Truman']]></title>
             <description><![CDATA[I have a strange affection for Harry Truman. Maybe it's because we were both born in Missouri—and both proud to be so—or maybe it's because David McCullough's biography of him is one of the first full-scale biographies I read of a President. Whatever it may be, I love him. He never let the office of the President of the United States—or the perks of the office—get to him or his head. And unlike so many others after they leave the White House, he moved back to where he was from, Independence, Missouri.]]></description>
-            <link>http://localhost:3000/posts/plain-speaking-an-oral-biography-of-harry-truman</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/plain-speaking-an-oral-biography-of-harry-truman</guid>
+            <link>https://dltn.io/posts/plain-speaking-an-oral-biography-of-harry-truman</link>
+            <guid isPermaLink="true">https://dltn.io/posts/plain-speaking-an-oral-biography-of-harry-truman</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 24 Jul 2024 16:49:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I have a strange affection for Harry Truman. Maybe it&amp;#39;s because we were both born in Missouri—and both proud to be so—or maybe it&amp;#39;s because David McCullough&amp;#39;s biography of him is one of the first full-scale biographies I read of a President. Whatever it may be, I love him. He never let the office of the President of the United States—or the perks of the office—get to him or his head. And unlike so many others after they leave the White House, he moved back to where he was from: Independence, Missouri.&lt;/p&gt;
@@ -1252,10 +1307,9 @@ I just finished my second week of law school, and when people say it's a lot of 
         </item>
         <item>
             <title><![CDATA[Do The Hard Work That's Required]]></title>
-            <description><![CDATA[
-[My biggest gripe with AI companies](https://x.com/dltnio/status/1813267142642639201)—and people who seem incapable of thinking about anything *other...]]></description>
-            <link>http://localhost:3000/posts/hard-work-ai</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/hard-work-ai</guid>
+            <description><![CDATA[My biggest gripe with AI companies—and people who seem incapable of thinking about anything other than AI—is that they're all building and using produ...]]></description>
+            <link>https://dltn.io/posts/hard-work-ai</link>
+            <guid isPermaLink="true">https://dltn.io/posts/hard-work-ai</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;&lt;a href=&quot;https://x.com/dltnio/status/1813267142642639201&quot;&gt;My biggest gripe with AI companies&lt;/a&gt;—and people who seem incapable of thinking about anything &lt;em&gt;other&lt;/em&gt; than AI—is that they&amp;#39;re all building and using products with the implied goal to replace the hard work that&amp;#39;s required to do or make something great.&lt;/p&gt;
@@ -1295,9 +1349,9 @@ I just finished my second week of law school, and when people say it's a lot of 
         </item>
         <item>
             <title><![CDATA[Notes on Thoughts for Young Men by JC Ryle]]></title>
-            <description><![CDATA["Remember what I say: if you would cling to earthly pleasures--these are the things which murder souls," JC Ryle wrote. "There is no surer way to get ...]]></description>
-            <link>http://localhost:3000/posts/notes-on-thoughts-for-young-men-by-jc-ryle</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/notes-on-thoughts-for-young-men-by-jc-ryle</guid>
+            <description><![CDATA["Remember what I say: if you would cling to earthly pleasuresthese are the things which murder souls," JC Ryle wrote. "There is no surer way to get a ...]]></description>
+            <link>https://dltn.io/posts/notes-on-thoughts-for-young-men-by-jc-ryle</link>
+            <guid isPermaLink="true">https://dltn.io/posts/notes-on-thoughts-for-young-men-by-jc-ryle</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;&amp;quot;Remember what I say: if you would cling to earthly pleasures--these are the things which murder souls,&amp;quot; JC Ryle wrote. &amp;quot;There is no surer way to get a seared conscience and a hard heart towards the things of God, than to give way to the desires of the flesh and mind. It seems like nothing at first, but it tells in the long run.&amp;quot;&lt;/p&gt;
@@ -1386,10 +1440,9 @@ I just finished my second week of law school, and when people say it's a lot of 
         </item>
         <item>
             <title><![CDATA[How to learn like Sherlock Holmes]]></title>
-            <description><![CDATA[
-The first few chapters of [_The Study in Scarlet_](https://www.gutenberg.org/ebooks/244), the first book in *The Adventures of Sherlock Holmes*, is w...]]></description>
-            <link>http://localhost:3000/posts/learn-like-sherlock-holmes</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/learn-like-sherlock-holmes</guid>
+            <description><![CDATA[The first few chapters of The Study in Scarlet, the first book in The Adventures of Sherlock Holmes, is when Dr. Watson and Mr. Holmes meet each other...]]></description>
+            <link>https://dltn.io/posts/learn-like-sherlock-holmes</link>
+            <guid isPermaLink="true">https://dltn.io/posts/learn-like-sherlock-holmes</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;The first few chapters of &lt;a href=&quot;https://www.gutenberg.org/ebooks/244&quot;&gt;&lt;em&gt;The Study in Scarlet&lt;/em&gt;&lt;/a&gt;, the first book in &lt;em&gt;The Adventures of Sherlock Holmes&lt;/em&gt;, is when Dr. Watson and Mr. Holmes meet each other for the first time. Much of Holmes’ character and his philosophy on life and knowledge is revealed through these interactions.&lt;/p&gt;
@@ -1447,8 +1500,8 @@ The first few chapters of [_The Study in Scarlet_](https://www.gutenberg.org/eb
         <item>
             <title><![CDATA[Book Notes and Review of 'The Patriots by Winston Groom']]></title>
             <description><![CDATA[Three founding fathers and the country they created.]]></description>
-            <link>http://localhost:3000/posts/the-patriots-by-winston-groom</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-patriots-by-winston-groom</guid>
+            <link>https://dltn.io/posts/the-patriots-by-winston-groom</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-patriots-by-winston-groom</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions and Review&lt;/h2&gt;
@@ -1586,8 +1639,8 @@ The first few chapters of [_The Study in Scarlet_](https://www.gutenberg.org/eb
         <item>
             <title><![CDATA[Mornings on Horseback by David McCullough]]></title>
             <description><![CDATA[What I learned reading Mornings on Horseback by David McCullough]]></description>
-            <link>http://localhost:3000/posts/mornings-on-horseback-by-david-mccullough</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/mornings-on-horseback-by-david-mccullough</guid>
+            <link>https://dltn.io/posts/mornings-on-horseback-by-david-mccullough</link>
+            <guid isPermaLink="true">https://dltn.io/posts/mornings-on-horseback-by-david-mccullough</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -1692,12 +1745,9 @@ Depart better to serve thy country and they kind.&lt;/p&gt;
         </item>
         <item>
             <title><![CDATA[Fix the fridge]]></title>
-            <description><![CDATA[
-A lot of "complicated" problems have simple solutions.
-
-It doesn't seem like this is true because smart people don't want to admit that their problem...]]></description>
-            <link>http://localhost:3000/posts/fix-the-fridge</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/fix-the-fridge</guid>
+            <description><![CDATA[A lot of "complicated" problems have simple solutions. It doesn't seem like this is true because smart people don't want to admit that their problems ...]]></description>
+            <link>https://dltn.io/posts/fix-the-fridge</link>
+            <guid isPermaLink="true">https://dltn.io/posts/fix-the-fridge</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;A lot of &amp;quot;complicated&amp;quot; problems have simple solutions.&lt;/p&gt;
@@ -1720,11 +1770,9 @@ It doesn't seem like this is true because smart people don't want to admit that 
         </item>
         <item>
             <title><![CDATA[Don't let it fade to black]]></title>
-            <description><![CDATA[On a podcast I was listening to, someone told the story about how he first met—and eventually started dating—his wife.
-
-He said at first, they would g...]]></description>
-            <link>http://localhost:3000/posts/dont-let-it-fade-to-black</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/dont-let-it-fade-to-black</guid>
+            <description><![CDATA[On a podcast I was listening to, someone told the story about how he first met—and eventually started dating—his wife. He said at first, they would go...]]></description>
+            <link>https://dltn.io/posts/dont-let-it-fade-to-black</link>
+            <guid isPermaLink="true">https://dltn.io/posts/dont-let-it-fade-to-black</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;On a podcast I was listening to, someone told the story about how he first met—and eventually started dating—his wife.&lt;/p&gt;
@@ -1740,13 +1788,9 @@ He said at first, they would g...]]></description>
         </item>
         <item>
             <title><![CDATA[Rental car envy]]></title>
-            <description><![CDATA[You have a nice car at home that you love. Maybe it’s even paid off.
-
-It has a few miles on it, but it still runs well. You’re happy.
-
-But then you go...]]></description>
-            <link>http://localhost:3000/posts/rental-car-envy</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/rental-car-envy</guid>
+            <description><![CDATA[You have a nice car at home that you love. Maybe it’s even paid off. It has a few miles on it, but it still runs well. You’re happy. But then you go o...]]></description>
+            <link>https://dltn.io/posts/rental-car-envy</link>
+            <guid isPermaLink="true">https://dltn.io/posts/rental-car-envy</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;You have a nice car at home that you love. Maybe it’s even paid off.&lt;/p&gt;
@@ -1764,8 +1808,8 @@ But then you go...]]></description>
         <item>
             <title><![CDATA[Explanation vs. excuses]]></title>
             <description><![CDATA[An explanation helps all parties understand why something went wrong. By offering an explanation, you’re saying, “This thing happened because Y. It’s ...]]></description>
-            <link>http://localhost:3000/posts/explanation-vs-excuses</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/explanation-vs-excuses</guid>
+            <link>https://dltn.io/posts/explanation-vs-excuses</link>
+            <guid isPermaLink="true">https://dltn.io/posts/explanation-vs-excuses</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;An explanation helps all parties understand why something went wrong. By offering an explanation, you’re saying, “This thing happened because Y. It’s my fault Y happened. I’m not sure how I didn’t see that coming. In the future, I will do X and Z to make sure Y never happens.”&lt;/p&gt;
@@ -1779,8 +1823,8 @@ But then you go...]]></description>
         <item>
             <title><![CDATA[Oliver Wendell Holmes: A Life in War, Law, and Ideas]]></title>
             <description><![CDATA[Oliver Wendell Holmes Jr. believed in hard work and knowledge. He remarked, “most things in this world, half their terrors vanish when you walk up and...]]></description>
-            <link>http://localhost:3000/posts/oliver-wendell-holmes-a-life-stephen-budiansky</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/oliver-wendell-holmes-a-life-stephen-budiansky</guid>
+            <link>https://dltn.io/posts/oliver-wendell-holmes-a-life-stephen-budiansky</link>
+            <guid isPermaLink="true">https://dltn.io/posts/oliver-wendell-holmes-a-life-stephen-budiansky</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 28 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Oliver Wendell Holmes Jr. believed in hard work and knowledge. He remarked, “most things in this world, half their terrors vanish when you walk up and tackle them.” The anxious thoughts about what “might” happen were often worse than the actual situation. Once “you lay hold of the lion’s skin it comes off and the same old donkey is underneath.”&lt;/p&gt;
@@ -1853,11 +1897,9 @@ But then you go...]]></description>
         </item>
         <item>
             <title><![CDATA[Most things just need to be done]]></title>
-            <description><![CDATA[I used to like the phrase, “How you do anything is how you do everything.”
-
-Doing the little things right is important. But there’s not enough time in...]]></description>
-            <link>http://localhost:3000/posts/most-things-just-need-to-be-done</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/most-things-just-need-to-be-done</guid>
+            <description><![CDATA[I used to like the phrase, “How you do anything is how you do everything.” Doing the little things right is important. But there’s not enough time in ...]]></description>
+            <link>https://dltn.io/posts/most-things-just-need-to-be-done</link>
+            <guid isPermaLink="true">https://dltn.io/posts/most-things-just-need-to-be-done</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I used to like the phrase, “How you do anything is how you do everything.”&lt;/p&gt;
@@ -1870,11 +1912,9 @@ Doing the little things right is important. But there’s not enough time in...]
         </item>
         <item>
             <title><![CDATA[Visible progress makes doing hard things easy]]></title>
-            <description><![CDATA[Doing hard things for a long time isn't difficult because they're hard or because you have to do them for a long time.
-
-It's difficult because the pay...]]></description>
-            <link>http://localhost:3000/posts/visible-progress</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/visible-progress</guid>
+            <description><![CDATA[Doing hard things for a long time isn't difficult because they're hard or because you have to do them for a long time. It's difficult because the payo...]]></description>
+            <link>https://dltn.io/posts/visible-progress</link>
+            <guid isPermaLink="true">https://dltn.io/posts/visible-progress</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Doing hard things for a long time isn&amp;#39;t difficult because they&amp;#39;re hard or because you have to do them for a long time.&lt;/p&gt;
@@ -1891,10 +1931,9 @@ It's difficult because the pay...]]></description>
         </item>
         <item>
             <title><![CDATA[How I choose what to read: bullets vs. cannonballs]]></title>
-            <description><![CDATA[
-Jim Collins writes about a [bullet and cannonball analogy](https://www.jimcollins.com/concepts/fire-bullets-then-cannonballs.html) for business. Inst...]]></description>
-            <link>http://localhost:3000/posts/how-i-choose-what-to-read-bullets-vs-cannonballs</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/how-i-choose-what-to-read-bullets-vs-cannonballs</guid>
+            <description><![CDATA[Jim Collins writes about a bullet and cannonball analogy for business. Instead of going allin on something that may or may not work, he advises shooti...]]></description>
+            <link>https://dltn.io/posts/how-i-choose-what-to-read-bullets-vs-cannonballs</link>
+            <guid isPermaLink="true">https://dltn.io/posts/how-i-choose-what-to-read-bullets-vs-cannonballs</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Jim Collins writes about a &lt;a href=&quot;https://www.jimcollins.com/concepts/fire-bullets-then-cannonballs.html&quot;&gt;bullet and cannonball analogy&lt;/a&gt; for business. Instead of going all-in on something that may or may not work, he advises shooting bullets—small bets at various things—until one hits the target. When it does, then you shoot a cannonball and go all in.&lt;/p&gt;
@@ -1908,9 +1947,9 @@ Jim Collins writes about a [bullet and cannonball analogy](https://www.jimcolli
         </item>
         <item>
             <title><![CDATA[Sailing the Graveyard Sea by Richard Snow]]></title>
-            <description><![CDATA[Every good story-at-sea has at least two of three elements: a shipwreck, murder, or mutiny. While this tale definitely had the second, the third is qu...]]></description>
-            <link>http://localhost:3000/posts/sailing-the-graveyard-sea-by-richard-snow</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/sailing-the-graveyard-sea-by-richard-snow</guid>
+            <description><![CDATA[Every good storyatsea has at least two of three elements: a shipwreck, murder, or mutiny. While this tale definitely had the second, the third is ques...]]></description>
+            <link>https://dltn.io/posts/sailing-the-graveyard-sea-by-richard-snow</link>
+            <guid isPermaLink="true">https://dltn.io/posts/sailing-the-graveyard-sea-by-richard-snow</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Every good story-at-sea has at least two of three elements: a shipwreck, murder, or mutiny. While this tale definitely had the second, the third is questionable, and the first doesn’t appear at all.&lt;/p&gt;
@@ -1939,10 +1978,9 @@ Jim Collins writes about a [bullet and cannonball analogy](https://www.jimcolli
         </item>
         <item>
             <title><![CDATA[Don't Create a Horse Storm]]></title>
-            <description><![CDATA[
-Back when the quickest way to transport horses from one place to another was by boat, ship captains had to beware. Transporting inanimate objects was...]]></description>
-            <link>http://localhost:3000/posts/dont-create-a-horse-storm</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/dont-create-a-horse-storm</guid>
+            <description><![CDATA[Back when the quickest way to transport horses from one place to another was by boat, ship captains had to beware. Transporting inanimate objects was ...]]></description>
+            <link>https://dltn.io/posts/dont-create-a-horse-storm</link>
+            <guid isPermaLink="true">https://dltn.io/posts/dont-create-a-horse-storm</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Back when the quickest way to transport horses from one place to another was by boat, ship captains had to beware. Transporting inanimate objects was simple: you load the cargo on the ship, sail to your destination, and unload.&lt;/p&gt;
@@ -1961,8 +1999,8 @@ Back when the quickest way to transport horses from one place to another was by 
         <item>
             <title><![CDATA[1776]]></title>
             <description><![CDATA[An intense saga of Washington and War.]]></description>
-            <link>http://localhost:3000/posts/1776</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/1776</guid>
+            <link>https://dltn.io/posts/1776</link>
+            <guid isPermaLink="true">https://dltn.io/posts/1776</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -2015,8 +2053,8 @@ Back when the quickest way to transport horses from one place to another was by 
         <item>
             <title><![CDATA[The Gathering Storm]]></title>
             <description><![CDATA[Book notes and insights on Winston Churchill's The Gathering Storm, volume one of his Memoirs of the Second World War.]]></description>
-            <link>http://localhost:3000/posts/book-notes-the-gathering-storm-winston-churchill</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/book-notes-the-gathering-storm-winston-churchill</guid>
+            <link>https://dltn.io/posts/book-notes-the-gathering-storm-winston-churchill</link>
+            <guid isPermaLink="true">https://dltn.io/posts/book-notes-the-gathering-storm-winston-churchill</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;If, like me, you&amp;#39;ve long wondered how Germany—after the Treaty of Versailles—was able to amass a big enough army and enough weapons to invade Poland and France, and wage war on Britain, just a few short years later, this is how: 1. They ignored the treaty and 2. Hitler played Neville Chamberlain like a violin.&lt;/p&gt;
@@ -2074,11 +2112,9 @@ Back when the quickest way to transport horses from one place to another was by 
         </item>
         <item>
             <title><![CDATA[Success is found in the minutiae]]></title>
-            <description><![CDATA[“Your works?” Watson shouted.
-
-“Oh, you didn’t know?” Sherlock cried, laughing. “Yes I have been guilty of several monographs. They are all upon techn...]]></description>
-            <link>http://localhost:3000/posts/success-is-found-in-the-minutiae</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/success-is-found-in-the-minutiae</guid>
+            <description><![CDATA[“Your works?” Watson shouted. “Oh, you didn’t know?” Sherlock cried, laughing. “Yes I have been guilty of several monographs. They are all upon techni...]]></description>
+            <link>https://dltn.io/posts/success-is-found-in-the-minutiae</link>
+            <guid isPermaLink="true">https://dltn.io/posts/success-is-found-in-the-minutiae</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;“Your works?” Watson shouted.&lt;/p&gt;
@@ -2110,8 +2146,8 @@ Back when the quickest way to transport horses from one place to another was by 
         <item>
             <title><![CDATA[Who you are is who you will be (but you can change)]]></title>
             <description><![CDATA[We're all becoming someone. The question is who?.]]></description>
-            <link>http://localhost:3000/posts/becoming</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/becoming</guid>
+            <link>https://dltn.io/posts/becoming</link>
+            <guid isPermaLink="true">https://dltn.io/posts/becoming</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;One of the main ideas in &lt;em&gt;Practicing the Way&lt;/em&gt; by John Mark Comer is that each of us – “religious” or not – is following something and allowing that thing to change us.&lt;/p&gt;
@@ -2137,8 +2173,8 @@ Are you becoming the over-protective snowplow parent, ensuring your sweet little
         <item>
             <title><![CDATA[My Reading Year, 2023]]></title>
             <description><![CDATA[Some books I read this year.]]></description>
-            <link>http://localhost:3000/posts/my-reading-year-2023</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/my-reading-year-2023</guid>
+            <link>https://dltn.io/posts/my-reading-year-2023</link>
+            <guid isPermaLink="true">https://dltn.io/posts/my-reading-year-2023</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1702584403/cover_cq7dj3.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;/p&gt;
@@ -2174,8 +2210,8 @@ Are you becoming the over-protective snowplow parent, ensuring your sweet little
         <item>
             <title><![CDATA[Reading plants seeds]]></title>
             <description><![CDATA[“You may not understand everything you read now, but you will one day.”]]></description>
-            <link>http://localhost:3000/posts/reading-plants-seeds</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/reading-plants-seeds</guid>
+            <link>https://dltn.io/posts/reading-plants-seeds</link>
+            <guid isPermaLink="true">https://dltn.io/posts/reading-plants-seeds</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I started reading John Stuart Mill&amp;#39;s &lt;em&gt;Autobiography&lt;/em&gt; this week, and it&amp;#39;s terrific. Mill had a unique childhood filled with self-education and, you guessed it–reading! He writes:&lt;/p&gt;
@@ -2190,8 +2226,8 @@ Are you becoming the over-protective snowplow parent, ensuring your sweet little
         <item>
             <title><![CDATA[JFK: Coming of Age in the American Century]]></title>
             <description><![CDATA[Notes, insights, and ideas.]]></description>
-            <link>http://localhost:3000/posts/book-notes-jfk-by-frederik-logevall</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/book-notes-jfk-by-frederik-logevall</guid>
+            <link>https://dltn.io/posts/book-notes-jfk-by-frederik-logevall</link>
+            <guid isPermaLink="true">https://dltn.io/posts/book-notes-jfk-by-frederik-logevall</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h3&gt;Impressions&lt;/h3&gt;
@@ -2285,8 +2321,8 @@ Are you becoming the over-protective snowplow parent, ensuring your sweet little
         <item>
             <title><![CDATA[An example of Chekhov's Gun]]></title>
             <description><![CDATA[An example of Chekhov's Gun from The Firm.]]></description>
-            <link>http://localhost:3000/posts/an-example-of-chekhovs-gun</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/an-example-of-chekhovs-gun</guid>
+            <link>https://dltn.io/posts/an-example-of-chekhovs-gun</link>
+            <guid isPermaLink="true">https://dltn.io/posts/an-example-of-chekhovs-gun</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;In &lt;em&gt;The Firm&lt;/em&gt;, a 1993 legal thriller with Tom Cruise, there’s a great example of a storytelling technique called Chekhov’s Gun.&lt;/p&gt;
@@ -2303,8 +2339,8 @@ Are you becoming the over-protective snowplow parent, ensuring your sweet little
         <item>
             <title><![CDATA[TWR: Work, Position, Reading, Economists]]></title>
             <description><![CDATA[5 reads worth sharing.]]></description>
-            <link>http://localhost:3000/posts/221b-20 copy</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/221b-20 copy</guid>
+            <link>https://dltn.io/posts/221b-20 copy</link>
+            <guid isPermaLink="true">https://dltn.io/posts/221b-20 copy</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 07 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h1&gt;&lt;/h1&gt;
@@ -2322,8 +2358,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[Spillane: King of Pulp Fiction by Max Collins]]></title>
             <description><![CDATA[The events, stories, and quotes that made Mickey Spillane the king of pulp fiction.]]></description>
-            <link>http://localhost:3000/posts/spillane-king-of-pulp-fiction</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/spillane-king-of-pulp-fiction</guid>
+            <link>https://dltn.io/posts/spillane-king-of-pulp-fiction</link>
+            <guid isPermaLink="true">https://dltn.io/posts/spillane-king-of-pulp-fiction</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 09 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;From a young age, Spillane loved to read. “When I was a little kid,” he said, “we had moved into a school where there was a library that ran underneath the windows–and I remember the teacher saying, ‘Children, someday you’ll be able to read this book’ and she held up a copy of Moby-Dick. And I said to the teacher, ‘I like this book!’ She says to me, ‘You certainly didn’t read this book!’ And I said, ‘Call me Ishmael.’ She could never get over that!”&lt;/p&gt;
@@ -2364,8 +2400,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[Charles Dickens and Active Patience]]></title>
             <description><![CDATA[Don't just wait. Work.]]></description>
-            <link>http://localhost:3000/posts/charles-dickens-active-patience</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/charles-dickens-active-patience</guid>
+            <link>https://dltn.io/posts/charles-dickens-active-patience</link>
+            <guid isPermaLink="true">https://dltn.io/posts/charles-dickens-active-patience</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Active Patience Active Patience is the idea that while you&amp;#39;re waiting, you should be preparing.&lt;/p&gt;
@@ -2381,8 +2417,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[David McCullough on The Art of Writing, History, and Success]]></title>
             <description><![CDATA[Notes and quotes from the insightful documentary, ‘David McCullough: Painting with Words.’]]></description>
-            <link>http://localhost:3000/posts/david-mccullough-on-the-art-of-writing-history-and-success</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/david-mccullough-on-the-art-of-writing-history-and-success</guid>
+            <link>https://dltn.io/posts/david-mccullough-on-the-art-of-writing-history-and-success</link>
+            <guid isPermaLink="true">https://dltn.io/posts/david-mccullough-on-the-art-of-writing-history-and-success</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;InlineImage src={https://res.cloudinary.com/dde1q4ekv/image/upload/v1690338124/mt_david_mccullough_inside_c4uapi.jpg} /&gt;
@@ -2416,8 +2452,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[What Actually Happened in Oppenheimer]]></title>
             <description><![CDATA[Scenes and events in Oppenheimer compared to real life.]]></description>
-            <link>http://localhost:3000/posts/what-actually-happened-in-oppenheimer</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/what-actually-happened-in-oppenheimer</guid>
+            <link>https://dltn.io/posts/what-actually-happened-in-oppenheimer</link>
+            <guid isPermaLink="true">https://dltn.io/posts/what-actually-happened-in-oppenheimer</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 22 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;“Oppenheimer” was incredible. I’d watch it a hundred more times. The storytelling and cinema was top-notch of course, but that’s to be expected with a Nolan film.&lt;/p&gt;
@@ -2451,8 +2487,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[Crooked: The Roaring '20s Tale of a Corrupt Attorney General, A Crusading Senator, And the Birth of the American Political Scandal]]></title>
             <description><![CDATA[A book]]></description>
-            <link>http://localhost:3000/posts/book-notes-crooked-by-nathan-masters</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/book-notes-crooked-by-nathan-masters</guid>
+            <link>https://dltn.io/posts/book-notes-crooked-by-nathan-masters</link>
+            <guid isPermaLink="true">https://dltn.io/posts/book-notes-crooked-by-nathan-masters</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 09 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;&lt;strong&gt;Impressions&lt;/strong&gt;&lt;/h2&gt;
@@ -2490,8 +2526,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[Bird by Bird by Anne Lamott]]></title>
             <description><![CDATA[Some instructions on writing and life.]]></description>
-            <link>http://localhost:3000/posts/book-notes-bird-by-bird-by-anne-lamott</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/book-notes-bird-by-bird-by-anne-lamott</guid>
+            <link>https://dltn.io/posts/book-notes-bird-by-bird-by-anne-lamott</link>
+            <guid isPermaLink="true">https://dltn.io/posts/book-notes-bird-by-bird-by-anne-lamott</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Anne Lamott’s father taught prisoners at San Quentin, and herself, how to write. “But he taught me too,” she writes. “Mostly be example…But while he helped the prisoners and me to discover that we had a lot of feelings and observations and memories and dreams and (God knows) opinions we wanted to share, we all ended up just the tiniest bit resentful when we found the one fly in the ointment: that at some point we had to actually sit down and write.”&lt;/p&gt;
@@ -2606,8 +2642,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[Break the Mold]]></title>
             <description><![CDATA[What I learned from Cormac McCarthy]]></description>
-            <link>http://localhost:3000/posts/break-the-mold</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/break-the-mold</guid>
+            <link>https://dltn.io/posts/break-the-mold</link>
+            <guid isPermaLink="true">https://dltn.io/posts/break-the-mold</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;The only light in the motel room came in through the blinds from the street lights. This didn’t stop him from writing. Oh no. Because he’d been in a thousand rooms just like the one he was in now, he knew exactly what to do. He took out the high-wattage light bulb he always had and screwed it in. With a now-illuminated room, Cormac McCarthy began killing off his characters in the most brutal way imaginable.&lt;/p&gt;
@@ -2652,8 +2688,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[The Accidental President: Harry S. Truman and the Four Months That Changed the World]]></title>
             <description><![CDATA[Book notes and insights.]]></description>
-            <link>http://localhost:3000/posts/the-accidental-president-harry-truman-and-the-four-months-that-changed-the-world-book-notes</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-accidental-president-harry-truman-and-the-four-months-that-changed-the-world-book-notes</guid>
+            <link>https://dltn.io/posts/the-accidental-president-harry-truman-and-the-four-months-that-changed-the-world-book-notes</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-accidental-president-harry-truman-and-the-four-months-that-changed-the-world-book-notes</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;The Accidental President&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt; is a unique biography. A couple of chapters are dedicated to Truman’s upbringing and his “political education,” but as the subtitle suggests, the book focuses on the dramatic four months between April and August 1945. Those four months contained more world-changing events than most centuries: the death of Franklin Delano Roosevelt in April and the atomic bombings off Hiroshima and Nagasaki in August. In between those two events, Harry S. Truman became the most powerful man in the world. Though he dealt with wars on multiple fronts – the Pacific and the East, yes, but also at home with his wife who did not approve of his newfound presidential status – he also took control of a country where most of the population knew no other President than FDR, and, who all asked the same question when he took the oath: &lt;strong&gt;&lt;strong&gt;Who is Harry Truman?&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -2738,8 +2774,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[221b: Get Up and Write]]></title>
             <description><![CDATA[5 short stories and interesting ideas.]]></description>
-            <link>http://localhost:3000/posts/221b-june-09-2023</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/221b-june-09-2023</guid>
+            <link>https://dltn.io/posts/221b-june-09-2023</link>
+            <guid isPermaLink="true">https://dltn.io/posts/221b-june-09-2023</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Get Up and Write&lt;/h2&gt;
@@ -2759,8 +2795,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[Telling old stories in new ways]]></title>
             <description><![CDATA[I spent the afternoon walking around the Hoover Institute at Stanford University today. My mission was to find and a piece of a lifeboat from the RMS ...]]></description>
-            <link>http://localhost:3000/posts/new-stories-in-old-ways</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/new-stories-in-old-ways</guid>
+            <link>https://dltn.io/posts/new-stories-in-old-ways</link>
+            <guid isPermaLink="true">https://dltn.io/posts/new-stories-in-old-ways</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 06 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I spent the afternoon walking around the Hoover Institute at Stanford University today. My mission was to find and a piece of a lifeboat from the RMS &lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;Lusitania&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;. While reading &lt;em&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;Dead Wake&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/em&gt; by Erik Larson, I learned it was there.&lt;/p&gt;
@@ -2782,8 +2818,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[Isaac Asimov on writing and reading]]></title>
             <description><![CDATA[“I don't like to travel, it keeps me away from my typewriter.”]]></description>
-            <link>http://localhost:3000/posts/june-05-2023-isaac-asimov-on-writing</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/june-05-2023-isaac-asimov-on-writing</guid>
+            <link>https://dltn.io/posts/june-05-2023-isaac-asimov-on-writing</link>
+            <guid isPermaLink="true">https://dltn.io/posts/june-05-2023-isaac-asimov-on-writing</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 05 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;After starting &lt;a href=&quot;https://twitter.com/dltnio/status/1665743018257793024?s=20&quot;&gt;Foundation&lt;/a&gt; on Apple TV (I’m late, I know), I became interested in Isaac Asimov. I had a vague idea that he was an influential writer, but for what and why, I was ignorant.&lt;/p&gt;
@@ -2816,8 +2852,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[Shake things up]]></title>
             <description><![CDATA[If you’re stuck creatively, shake things up; do something differently.]]></description>
-            <link>http://localhost:3000/posts/june-2-2023-shake-things-up</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/june-2-2023-shake-things-up</guid>
+            <link>https://dltn.io/posts/june-2-2023-shake-things-up</link>
+            <guid isPermaLink="true">https://dltn.io/posts/june-2-2023-shake-things-up</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 02 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I don&amp;#39;t believe in writer&amp;#39;s block in the traditional sense. If you can&amp;#39;t write, you probably have nothing to say, so you should go find something to say.&lt;/p&gt;
@@ -2841,8 +2877,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[221b: Poetry and Politics]]></title>
             <description><![CDATA[5 short ideas.]]></description>
-            <link>http://localhost:3000/posts/june-2-2023</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/june-2-2023</guid>
+            <link>https://dltn.io/posts/june-2-2023</link>
+            <guid isPermaLink="true">https://dltn.io/posts/june-2-2023</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 02 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h3&gt;Poetry and Politics&lt;/h3&gt;
@@ -2861,8 +2897,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[221b: Unlocking Success]]></title>
             <description><![CDATA[5 short ideas and stories.]]></description>
-            <link>http://localhost:3000/posts/221b-20</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/221b-20</guid>
+            <link>https://dltn.io/posts/221b-20</link>
+            <guid isPermaLink="true">https://dltn.io/posts/221b-20</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h3&gt;Knowledge&lt;/h3&gt;
@@ -2881,8 +2917,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[Notes: American Prometheus by Kai Bird & Martin J. Sherwin]]></title>
             <description><![CDATA[A sordid read full of science and sarcasm, dialogue and drama, love and war.]]></description>
-            <link>http://localhost:3000/posts/american-prometheus-the-triumph-and-tragedy-of-j-robert-oppenheimer-book-notes</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/american-prometheus-the-triumph-and-tragedy-of-j-robert-oppenheimer-book-notes</guid>
+            <link>https://dltn.io/posts/american-prometheus-the-triumph-and-tragedy-of-j-robert-oppenheimer-book-notes</link>
+            <guid isPermaLink="true">https://dltn.io/posts/american-prometheus-the-triumph-and-tragedy-of-j-robert-oppenheimer-book-notes</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -2945,8 +2981,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[221b: Work, Places, Sentences, Problems, Timeless]]></title>
             <description><![CDATA[5 short ideas.]]></description>
-            <link>http://localhost:3000/posts/221b-19</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/221b-19</guid>
+            <link>https://dltn.io/posts/221b-19</link>
+            <guid isPermaLink="true">https://dltn.io/posts/221b-19</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h3&gt;Enjoy the Doing&lt;/h3&gt;
@@ -2964,8 +3000,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[221b: Reading, Nobody Cares, Wealth and Wisdom, AI and Writing, Van Cleaves]]></title>
             <description><![CDATA[5 cool stories, ideas, and insights.]]></description>
-            <link>http://localhost:3000/posts/221b-18</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/221b-18</guid>
+            <link>https://dltn.io/posts/221b-18</link>
+            <guid isPermaLink="true">https://dltn.io/posts/221b-18</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 12 May 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Chase Your Reading&lt;/h2&gt;
@@ -2983,8 +3019,8 @@ All these outside options naturally make young econ PhD graduates more reluctant
         <item>
             <title><![CDATA[The Wright Brothers by David McCullough]]></title>
             <description><![CDATA[Book notes, insights, and thoughts.]]></description>
-            <link>http://localhost:3000/posts/the-wright-brothers-by-david-mccullough</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-wright-brothers-by-david-mccullough</guid>
+            <link>https://dltn.io/posts/the-wright-brothers-by-david-mccullough</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-wright-brothers-by-david-mccullough</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 10 May 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;No one influenced the ideas and philosophies of Orville and Wilbur more than their father, the Bishop Milton Wright. He said, “It is assumed that young folks know best, and old folks are fogies. It may be so, but old folks may be as right about new fangles as young folks are about fogy ways. &lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;Make business first, pleasure afterward, and that guarded. All the money anyone needs is just enough to prevent one from being a burden on others.”&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -3127,8 +3163,8 @@ Which tells us the way to go.&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/s
         <item>
             <title><![CDATA[How to Approach Life: From Leonardo da Vinci]]></title>
             <description><![CDATA[and more about the artist himself.]]></description>
-            <link>http://localhost:3000/posts/leonardo-da-vinci-lessons</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/leonardo-da-vinci-lessons</guid>
+            <link>https://dltn.io/posts/leonardo-da-vinci-lessons</link>
+            <guid isPermaLink="true">https://dltn.io/posts/leonardo-da-vinci-lessons</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 05 May 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Being born out of wedlock in 1400s Italy didn&amp;#39;t leave a lot of options for the son of a multi-generation notary. It was customary in that day for the sons of tradesmen to acquire the skills of the father, but Leonardo da Vinci didn&amp;#39;t have that luxury since he was illegitimate. He also couldn’t enroll in proper schooling.&lt;/p&gt;
@@ -3178,8 +3214,8 @@ Which tells us the way to go.&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/s
         <item>
             <title><![CDATA[The Wright Brothers]]></title>
             <description><![CDATA[Genius knows no class]]></description>
-            <link>http://localhost:3000/posts/the-wright-brothers-summary</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-wright-brothers-summary</guid>
+            <link>https://dltn.io/posts/the-wright-brothers-summary</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-wright-brothers-summary</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;&lt;em&gt;One ship drives east and another drives westWith the self-same winds that blow.’Tis the set of the sailsAnd not the galesWhich tells us the way to go.&lt;/em&gt;&lt;/p&gt;
@@ -3247,8 +3283,8 @@ Which tells us the way to go.&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/s
         <item>
             <title><![CDATA[9 Lessons on Curiosity and Adventure from Richard Feynman]]></title>
             <description><![CDATA[The most insightful and entertaining stories from 'Surely You're Joking, Mr. Feynman!']]></description>
-            <link>http://localhost:3000/posts/9-lessons-from-surely-youre-joking-mr-feynman</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/9-lessons-from-surely-youre-joking-mr-feynman</guid>
+            <link>https://dltn.io/posts/9-lessons-from-surely-youre-joking-mr-feynman</link>
+            <guid isPermaLink="true">https://dltn.io/posts/9-lessons-from-surely-youre-joking-mr-feynman</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;20th-century scientists often embody a certain stereotype that befits their profession as stuffy and dry, only caring about smoking pipes and reading books. Richard P. Feynman – and his bongo-banging, night-club hanging, lock-picking self – fit none of them. If you liked to talk, you might enjoy riding shotgun with him behind the wheel. If you didn’t, you might ask to be let out at the next light.&lt;/p&gt;
@@ -3303,8 +3339,8 @@ Which tells us the way to go.&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/s
         <item>
             <title><![CDATA[6 Rules for Self-Mastery | 'Discipline is Destiny' by Ryan Holiday]]></title>
             <description><![CDATA[The power of self-control.]]></description>
-            <link>http://localhost:3000/posts/six-rules-for-mastery-from-discipline-is-destiny-by-ryan-holiday</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/six-rules-for-mastery-from-discipline-is-destiny-by-ryan-holiday</guid>
+            <link>https://dltn.io/posts/six-rules-for-mastery-from-discipline-is-destiny-by-ryan-holiday</link>
+            <guid isPermaLink="true">https://dltn.io/posts/six-rules-for-mastery-from-discipline-is-destiny-by-ryan-holiday</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Discipline is a habit. But it’s also a choice and not an easy one. Discipline is ignoring what you desire in the moment for what you want in the future.&lt;/p&gt;
@@ -3345,8 +3381,8 @@ Which tells us the way to go.&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/s
         <item>
             <title><![CDATA[Surely You're Joking Mr. Feynman by Richard Feynman]]></title>
             <description><![CDATA[Book notes.]]></description>
-            <link>http://localhost:3000/posts/surely-youre-joking-mr-feynman</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/surely-youre-joking-mr-feynman</guid>
+            <link>https://dltn.io/posts/surely-youre-joking-mr-feynman</link>
+            <guid isPermaLink="true">https://dltn.io/posts/surely-youre-joking-mr-feynman</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;&lt;em&gt;You can read more structured notes &lt;a href=&quot;https://thewanderingreader.substack.com/p/he-wasnt-like-other-scientists&quot;&gt;on this book here&lt;/a&gt;. It was originally posted on my newsletter.&lt;/em&gt;&lt;/p&gt;
@@ -3415,8 +3451,8 @@ Which tells us the way to go.&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/s
         <item>
             <title><![CDATA[7 Life Lessons from 'The Splendid and the Vile' by Erik Larson]]></title>
             <description><![CDATA[What Churchill, London, and life during the Blitz taught me about human nature.]]></description>
-            <link>http://localhost:3000/posts/7-lessons-from-the-splendid-and-the-vile-by-erik-larson</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/7-lessons-from-the-splendid-and-the-vile-by-erik-larson</guid>
+            <link>https://dltn.io/posts/7-lessons-from-the-splendid-and-the-vile-by-erik-larson</link>
+            <guid isPermaLink="true">https://dltn.io/posts/7-lessons-from-the-splendid-and-the-vile-by-erik-larson</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;As if it were a movie, &lt;em&gt;&lt;a href=&quot;https://a.co/d/j3riSq6&quot;&gt;The Splendid and the Vile&lt;/a&gt;&lt;/em&gt; captures the courage and hope of Winston Churchill – the newly minted Prime Minister – his family, close associates, and other Londoners during The Blitz, a nine-month rampage of German bombings on the capital of the United Kingdom during World War II.&lt;/p&gt;
@@ -3471,8 +3507,8 @@ Which tells us the way to go.&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/s
         <item>
             <title><![CDATA[5 lessons from 'Novelist as a Vocation' by Haruki Murakami]]></title>
             <description><![CDATA[Consistency, writer's block, criticism, and more]]></description>
-            <link>http://localhost:3000/posts/5-lessons-from-novelist-as-a-vocation</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/5-lessons-from-novelist-as-a-vocation</guid>
+            <link>https://dltn.io/posts/5-lessons-from-novelist-as-a-vocation</link>
+            <guid isPermaLink="true">https://dltn.io/posts/5-lessons-from-novelist-as-a-vocation</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;&lt;em&gt;Novelist as a Vocation&lt;/em&gt; gives a glimpse into the creative mind of novelist Haruki Murakami. It’s an anthology of essays – some new, some original – on what it means to be a novelist, why literary prizes are worthless, how Murakami writes, writing great dialogue, originality, and more.&lt;/p&gt;
@@ -3519,8 +3555,8 @@ Which tells us the way to go.&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/s
         <item>
             <title><![CDATA[Novelist as a Vocation by Haruki Murakami]]></title>
             <description><![CDATA[How a world-renowned novelist writes.]]></description>
-            <link>http://localhost:3000/posts/novelist-as-a-vocation</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/novelist-as-a-vocation</guid>
+            <link>https://dltn.io/posts/novelist-as-a-vocation</link>
+            <guid isPermaLink="true">https://dltn.io/posts/novelist-as-a-vocation</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -3630,8 +3666,8 @@ Which tells us the way to go.&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/s
         <item>
             <title><![CDATA[How to read more (if you have trouble reading)]]></title>
             <description><![CDATA[some tips and tricks]]></description>
-            <link>http://localhost:3000/posts/read</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/read</guid>
+            <link>https://dltn.io/posts/read</link>
+            <guid isPermaLink="true">https://dltn.io/posts/read</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I don’t think there are any secrets to reading more other than just sitting down to read. &lt;/p&gt;
@@ -3674,8 +3710,8 @@ Which tells us the way to go.&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/s
         <item>
             <title><![CDATA[221b: Irrationality, Mistakes, Ego, Third-Place, & Impressions]]></title>
             <description><![CDATA[5 short ideas.]]></description>
-            <link>http://localhost:3000/posts/221b-11</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/221b-11</guid>
+            <link>https://dltn.io/posts/221b-11</link>
+            <guid isPermaLink="true">https://dltn.io/posts/221b-11</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Irrational&lt;/h2&gt;
@@ -3699,8 +3735,8 @@ Which tells us the way to go.&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/s
         <item>
             <title><![CDATA[221b: Fish, Thinking, Knowledge, Waste, Genius]]></title>
             <description><![CDATA[5 short ideas.]]></description>
-            <link>http://localhost:3000/posts/221b-10</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/221b-10</guid>
+            <link>https://dltn.io/posts/221b-10</link>
+            <guid isPermaLink="true">https://dltn.io/posts/221b-10</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Look at Your Fish&lt;/h2&gt;
@@ -3720,8 +3756,8 @@ Which tells us the way to go.&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/s
         <item>
             <title><![CDATA[221b: Kubrick, Reputation, Star Trek, Time, & Observation]]></title>
             <description><![CDATA[Reputation: it takes a lifetime to build and a second to lose.]]></description>
-            <link>http://localhost:3000/posts/221b-9</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/221b-9</guid>
+            <link>https://dltn.io/posts/221b-9</link>
+            <guid isPermaLink="true">https://dltn.io/posts/221b-9</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Rules&lt;/h2&gt;
@@ -3763,8 +3799,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[Annie Dillard’s Advice on Keeping a Daily Routine]]></title>
             <description><![CDATA[How you spend your day is how you spend your life.]]></description>
-            <link>http://localhost:3000/posts/annie-dillard-keep-a-daily-routine</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/annie-dillard-keep-a-daily-routine</guid>
+            <link>https://dltn.io/posts/annie-dillard-keep-a-daily-routine</link>
+            <guid isPermaLink="true">https://dltn.io/posts/annie-dillard-keep-a-daily-routine</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Whenever great artists talk about their craft, I pay attention. The meta-analyses on why they do what they do (and how) is refreshing because there is rarely a trick. There’s no praying to a special creative god to give them powers or spell they cast on their typewriter. It’s often that they just show up, work, leave, and repeat.&lt;/p&gt;
@@ -3784,8 +3820,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[The Splendid and the Vile]]></title>
             <description><![CDATA[A intense look at Churchill and London during the Blitz.]]></description>
-            <link>http://localhost:3000/posts/the-splendid-and-the-vile</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-splendid-and-the-vile</guid>
+            <link>https://dltn.io/posts/the-splendid-and-the-vile</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-splendid-and-the-vile</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -3927,8 +3963,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[Working by Robert Caro]]></title>
             <description><![CDATA[Advice on writing, researching, and political power.]]></description>
-            <link>http://localhost:3000/posts/working-by-robert-caro</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/working-by-robert-caro</guid>
+            <link>https://dltn.io/posts/working-by-robert-caro</link>
+            <guid isPermaLink="true">https://dltn.io/posts/working-by-robert-caro</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -4025,8 +4061,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[221b: Sandwich, Death, Fitzgerald, Sitzfleisch, Genius]]></title>
             <description><![CDATA[5 short ideas from history.]]></description>
-            <link>http://localhost:3000/posts/221b-8</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/221b-8</guid>
+            <link>https://dltn.io/posts/221b-8</link>
+            <guid isPermaLink="true">https://dltn.io/posts/221b-8</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Sandwich&lt;/h2&gt;
@@ -4072,8 +4108,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[The Crack-Up by F. Scott Fitzgerald]]></title>
             <description><![CDATA[Book notes.]]></description>
-            <link>http://localhost:3000/posts/the-crack-up-by-f-scott-fitzgerald</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-crack-up-by-f-scott-fitzgerald</guid>
+            <link>https://dltn.io/posts/the-crack-up-by-f-scott-fitzgerald</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-crack-up-by-f-scott-fitzgerald</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 19 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -4118,8 +4154,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[221b: Comparison, Simplicity, Details, Silence, Responsibility]]></title>
             <description><![CDATA[5 interesting stories and ideas from history.]]></description>
-            <link>http://localhost:3000/posts/221b-7</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/221b-7</guid>
+            <link>https://dltn.io/posts/221b-7</link>
+            <guid isPermaLink="true">https://dltn.io/posts/221b-7</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Comparison&lt;/h2&gt;
@@ -4158,8 +4194,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[3 Lessons on Human Psychology and Project Management]]></title>
             <description><![CDATA[Lessons learned from reading about the construction of the 1893 Chicago World’s Fair.]]></description>
-            <link>http://localhost:3000/posts/three-lessons-from-reading-devil-in-the-white-city</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/three-lessons-from-reading-devil-in-the-white-city</guid>
+            <link>https://dltn.io/posts/three-lessons-from-reading-devil-in-the-white-city</link>
+            <guid isPermaLink="true">https://dltn.io/posts/three-lessons-from-reading-devil-in-the-white-city</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Here are three lessons I learned from reading &lt;em&gt;The Devil in the White City,&lt;/em&gt; a book on the construction of the Chicago World’s Fair (juxtaposed with a suave, murderous criminal), on human psychology and project management.&lt;/p&gt;
@@ -4199,8 +4235,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[221b: Da Vinci, Brevity, X-15, Ballomania, Thinking]]></title>
             <description><![CDATA[Five interesting ideas and stories from history.]]></description>
-            <link>http://localhost:3000/posts/221b-6</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/221b-6</guid>
+            <link>https://dltn.io/posts/221b-6</link>
+            <guid isPermaLink="true">https://dltn.io/posts/221b-6</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Da Vinci&lt;/h2&gt;
@@ -4254,8 +4290,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[The Devil in the White City by Erik Larson]]></title>
             <description><![CDATA[Books notes and what I learned from reading “The Devil in the White City” by Erik Larson.]]></description>
-            <link>http://localhost:3000/posts/devil-in-the-white-city</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/devil-in-the-white-city</guid>
+            <link>https://dltn.io/posts/devil-in-the-white-city</link>
+            <guid isPermaLink="true">https://dltn.io/posts/devil-in-the-white-city</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 04 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -4291,8 +4327,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[221b: Curiosity and Edison]]></title>
             <description><![CDATA[5 interesting ideas.]]></description>
-            <link>http://localhost:3000/posts/221b-5</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/221b-5</guid>
+            <link>https://dltn.io/posts/221b-5</link>
+            <guid isPermaLink="true">https://dltn.io/posts/221b-5</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Curiosity&lt;/h2&gt;
@@ -4336,8 +4372,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[Perennial Seller by Ryan Holiday]]></title>
             <description><![CDATA[Book notes takeaways from reading Perennial Seller by Ryan Holiday]]></description>
-            <link>http://localhost:3000/posts/perennial-seller-ryan-holiday</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/perennial-seller-ryan-holiday</guid>
+            <link>https://dltn.io/posts/perennial-seller-ryan-holiday</link>
+            <guid isPermaLink="true">https://dltn.io/posts/perennial-seller-ryan-holiday</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -4388,8 +4424,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[221b: Edison, Einstein, Pursuit, Gödel, Rest]]></title>
             <description><![CDATA[5 interesting ideas.]]></description>
-            <link>http://localhost:3000/posts/221b-4</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/221b-4</guid>
+            <link>https://dltn.io/posts/221b-4</link>
+            <guid isPermaLink="true">https://dltn.io/posts/221b-4</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Edison&lt;/h2&gt;
@@ -4426,8 +4462,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[Check all kinds of unusual things]]></title>
             <description><![CDATA[A short story about Richard Feynman.]]></description>
-            <link>http://localhost:3000/posts/unusual-things</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/unusual-things</guid>
+            <link>https://dltn.io/posts/unusual-things</link>
+            <guid isPermaLink="true">https://dltn.io/posts/unusual-things</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;After the space shuttle &lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;Challenger&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt; exploded, Richard Feynman got a call asking to be apart of a committee to investigate the accident. When he heard the job would be in Washington, Feynman had an immediate hesitancy to accept the role. His biggest question was, &amp;quot;How am I going to get out of this?&amp;quot;&lt;/p&gt;
@@ -4445,8 +4481,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[A few funny things about time]]></title>
             <description><![CDATA[It has no memory.]]></description>
-            <link>http://localhost:3000/posts/time</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/time</guid>
+            <link>https://dltn.io/posts/time</link>
+            <guid isPermaLink="true">https://dltn.io/posts/time</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Time is funny.&lt;/p&gt;
@@ -4467,8 +4503,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[The best thinkers are ‘wonderers’]]></title>
             <description><![CDATA[A short post on curiosity.]]></description>
-            <link>http://localhost:3000/posts/wonderers</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/wonderers</guid>
+            <link>https://dltn.io/posts/wonderers</link>
+            <guid isPermaLink="true">https://dltn.io/posts/wonderers</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 22 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;The life and wisdom of Albert Einstein was the result of his innate curiosity.&lt;/p&gt;
@@ -4483,8 +4519,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[221b: Time, Moonshots, Artistry, 26.2 Miles, & Genius]]></title>
             <description><![CDATA[An anthology of ideas on history, science, philosophy, and more.]]></description>
-            <link>http://localhost:3000/posts/221b-3</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/221b-3</guid>
+            <link>https://dltn.io/posts/221b-3</link>
+            <guid isPermaLink="true">https://dltn.io/posts/221b-3</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Time&lt;/h2&gt;
@@ -4508,8 +4544,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[A Practical Summary of How to Live on 24 Hours a Day by Arnold Bennett]]></title>
             <description><![CDATA[Practical ideas and insights about how to live on just 24 hours a day (and be satisfied).]]></description>
-            <link>http://localhost:3000/posts/how-to-live-on-24-hours-a-day-summary</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/how-to-live-on-24-hours-a-day-summary</guid>
+            <link>https://dltn.io/posts/how-to-live-on-24-hours-a-day-summary</link>
+            <guid isPermaLink="true">https://dltn.io/posts/how-to-live-on-24-hours-a-day-summary</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;There’s no better manual on time management than Arnold Bennett’s &lt;em&gt;&lt;strong&gt;How to Live on 24 Hours a Day&lt;/strong&gt;&lt;/em&gt; (&lt;a href=&quot;https://www.dltn.io/posts/book-notes-how-to-live-on-24-hours-a-day&quot;&gt;notes&lt;/a&gt;). It’s a masterpiece of philosophical advice and practical ideas for how to not fritter one’s day away.&lt;/p&gt;
@@ -4578,8 +4614,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[221b: Writing, Detectives, Libraries, Leadership, Reading]]></title>
             <description><![CDATA[5 interesting ideas that stoke your curiosity.]]></description>
-            <link>http://localhost:3000/posts/221b-2</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/221b-2</guid>
+            <link>https://dltn.io/posts/221b-2</link>
+            <guid isPermaLink="true">https://dltn.io/posts/221b-2</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Writing Advice from Hemingway&lt;/h2&gt;
@@ -4602,8 +4638,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[How to Live on 24 Hours a Day by Arnold Bennett]]></title>
             <description><![CDATA[Book notes.]]></description>
-            <link>http://localhost:3000/posts/book-notes-how-to-live-on-24-hours-a-day</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/book-notes-how-to-live-on-24-hours-a-day</guid>
+            <link>https://dltn.io/posts/book-notes-how-to-live-on-24-hours-a-day</link>
+            <guid isPermaLink="true">https://dltn.io/posts/book-notes-how-to-live-on-24-hours-a-day</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 10 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -4681,8 +4717,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[The Writing Life by Annie Dillard]]></title>
             <description><![CDATA[Book notes: The Writing Life by Annie Dillard]]></description>
-            <link>http://localhost:3000/posts/the-writing-life-by-annie-dillard</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-writing-life-by-annie-dillard</guid>
+            <link>https://dltn.io/posts/the-writing-life-by-annie-dillard</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-writing-life-by-annie-dillard</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 08 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -4759,8 +4795,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[221b: Droste Effect, Rules, History, Work, Death]]></title>
             <description><![CDATA[5 things you can learn.]]></description>
-            <link>http://localhost:3000/posts/221b-1</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/221b-1</guid>
+            <link>https://dltn.io/posts/221b-1</link>
+            <guid isPermaLink="true">https://dltn.io/posts/221b-1</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 06 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Droste Effect&lt;/h2&gt;
@@ -4801,8 +4837,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[The War of Art by Steven Pressfield]]></title>
             <description><![CDATA[Book notes on The War of Art by Steven Pressfield]]></description>
-            <link>http://localhost:3000/posts/the-war-of-art</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-war-of-art</guid>
+            <link>https://dltn.io/posts/the-war-of-art</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-war-of-art</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -4880,8 +4916,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[Reflections on Calculus]]></title>
             <description><![CDATA[I enjoyed it.]]></description>
-            <link>http://localhost:3000/posts/reflections-on-calculus</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/reflections-on-calculus</guid>
+            <link>https://dltn.io/posts/reflections-on-calculus</link>
+            <guid isPermaLink="true">https://dltn.io/posts/reflections-on-calculus</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 20 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Simple reflections&lt;/h2&gt;
@@ -4909,8 +4945,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[American Moonshot by Douglas Brinkley]]></title>
             <description><![CDATA[An intense saga of politics and space.]]></description>
-            <link>http://localhost:3000/posts/book-notes-american-moonshot</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/book-notes-american-moonshot</guid>
+            <link>https://dltn.io/posts/book-notes-american-moonshot</link>
+            <guid isPermaLink="true">https://dltn.io/posts/book-notes-american-moonshot</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 17 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -5035,8 +5071,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[Not Long Ago in a Galaxy Not Very Far]]></title>
             <description><![CDATA[Book review: American Moonshot]]></description>
-            <link>http://localhost:3000/posts/book-review-american-Moonshot</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/book-review-american-Moonshot</guid>
+            <link>https://dltn.io/posts/book-review-american-Moonshot</link>
+            <guid isPermaLink="true">https://dltn.io/posts/book-review-american-Moonshot</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;“If someone can just tell me how to catch up [to the Soviets in the space race],” John F. Kennedy thundered to a room full of space advisors. “Let’s find somebody–anybody. I don’t care if it’s the janitor over there, if he knows.”&lt;/p&gt;
@@ -5072,8 +5108,8 @@ If you break it, repair it!&lt;/li&gt;
         <item>
             <title><![CDATA[getStaticPaths in NextJS Explained (Simply)]]></title>
             <description><![CDATA[It always confused me.]]></description>
-            <link>http://localhost:3000/posts/get-static-paths-explained</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/get-static-paths-explained</guid>
+            <link>https://dltn.io/posts/get-static-paths-explained</link>
+            <guid isPermaLink="true">https://dltn.io/posts/get-static-paths-explained</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;&lt;code&gt;getStaticPaths&lt;/code&gt; always confused me. I never learned exactly ****what it did or how it works. I’d usually end up copying and pasting code from StackOverflow and pray for the best.&lt;/p&gt;
@@ -5132,8 +5168,8 @@ params: {
         <item>
             <title><![CDATA[How to time travel]]></title>
             <description><![CDATA[Time is so fake]]></description>
-            <link>http://localhost:3000/posts/how-to-time-travel</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/how-to-time-travel</guid>
+            <link>https://dltn.io/posts/how-to-time-travel</link>
+            <guid isPermaLink="true">https://dltn.io/posts/how-to-time-travel</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Before I begin, there is one thing you need to understand: every event has a time and a place. An event happening in Sacramento and New York at the same exact time is not the same event because they’re happening in different places. An event in Sacramento in June is not the same event as one that’s happening in Sacramento in August because they’re at different times. But, &lt;strong&gt;if an event happens at the same time and at the same place, then it’s the same event.&lt;/strong&gt; Got it?&lt;/p&gt;
@@ -5189,8 +5225,8 @@ params: {
         <item>
             <title><![CDATA[Hidden Figures by Margot Lee Shetterly]]></title>
             <description><![CDATA[A captivating book about the African American women who helped send a man to the moon.]]></description>
-            <link>http://localhost:3000/posts/hidden-figures</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/hidden-figures</guid>
+            <link>https://dltn.io/posts/hidden-figures</link>
+            <guid isPermaLink="true">https://dltn.io/posts/hidden-figures</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 04 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -5225,8 +5261,8 @@ params: {
         <item>
             <title><![CDATA[David Starr Jordan on Life, Education, and Politics]]></title>
             <description><![CDATA[What the founding president of Stanford has to say about the care and culture of men]]></description>
-            <link>http://localhost:3000/posts/david-starr-jordan-on-life-education-and-politics</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/david-starr-jordan-on-life-education-and-politics</guid>
+            <link>https://dltn.io/posts/david-starr-jordan-on-life-education-and-politics</link>
+            <guid isPermaLink="true">https://dltn.io/posts/david-starr-jordan-on-life-education-and-politics</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;blockquote&gt;
@@ -5283,8 +5319,8 @@ params: {
         <item>
             <title><![CDATA[Ernest Hemingway by Mary V. Dearborn]]></title>
             <description><![CDATA[Though The Washington Post touted this book as 'The most fully faceted portrait of Hemingway now available', I was unimpressed.]]></description>
-            <link>http://localhost:3000/posts/ernest-hemingway</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/ernest-hemingway</guid>
+            <link>https://dltn.io/posts/ernest-hemingway</link>
+            <guid isPermaLink="true">https://dltn.io/posts/ernest-hemingway</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -5312,8 +5348,8 @@ params: {
         <item>
             <title><![CDATA[On Ribbonfarm's Portal and Flags]]></title>
             <description><![CDATA[People who spend their time debating others online are throwing their precious hours of human existence into a pit they'll never retrieve them from. It's the most useless act someone can partake in, even more so than playing video games or watching]]></description>
-            <link>http://localhost:3000/posts/on-ribbonfarms-portal-and-flags</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/on-ribbonfarms-portal-and-flags</guid>
+            <link>https://dltn.io/posts/on-ribbonfarms-portal-and-flags</link>
+            <guid isPermaLink="true">https://dltn.io/posts/on-ribbonfarms-portal-and-flags</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;People who spend their time debating others online are throwing their precious hours of human existence into a pit they&amp;#39;ll never retrieve them from. It&amp;#39;s the most useless act someone can partake in, even more so than playing video games or watching &lt;em&gt;Rick and Morty&lt;/em&gt;.&lt;/p&gt;
@@ -5335,8 +5371,8 @@ params: {
         <item>
             <title><![CDATA[Killers of the Flower Moon by David Grann]]></title>
             <description><![CDATA[Killers of the Flower Moon opened my narrow mind to a new (for me) genre of writing: narrative non-fiction. I highly recommend.]]></description>
-            <link>http://localhost:3000/posts/killers-of-the-flower-moon-by-david-grann</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/killers-of-the-flower-moon-by-david-grann</guid>
+            <link>https://dltn.io/posts/killers-of-the-flower-moon-by-david-grann</link>
+            <guid isPermaLink="true">https://dltn.io/posts/killers-of-the-flower-moon-by-david-grann</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 16 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -5361,8 +5397,8 @@ params: {
         <item>
             <title><![CDATA[Letters to a Young Poet by Rainer Maria Rilke]]></title>
             <description><![CDATA[A book for the soul, not the mind.]]></description>
-            <link>http://localhost:3000/posts/letters-to-a-young-poet</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/letters-to-a-young-poet</guid>
+            <link>https://dltn.io/posts/letters-to-a-young-poet</link>
+            <guid isPermaLink="true">https://dltn.io/posts/letters-to-a-young-poet</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 16 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -5405,8 +5441,8 @@ params: {
         <item>
             <title><![CDATA[Leonardo da Vinci]]></title>
             <description><![CDATA[I could not have been happier with the few hours I spent reading this book. How da Vinci's life ebbs and flows through his curiosity is a whirlwind of unbelievable stories.]]></description>
-            <link>http://localhost:3000/posts/leonardo-da-vinci</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/leonardo-da-vinci</guid>
+            <link>https://dltn.io/posts/leonardo-da-vinci</link>
+            <guid isPermaLink="true">https://dltn.io/posts/leonardo-da-vinci</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 15 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -5480,8 +5516,8 @@ params: {
         <item>
             <title><![CDATA[Adventures of a Curious Richard Feynman]]></title>
             <description><![CDATA[I have a deep admiration for Feynman's beliefs on life, knowledge, and science, but that admiration went deeper still as I followed the stories of his life told by the man himself. This is a small collection of a few of those stories.]]></description>
-            <link>http://localhost:3000/posts/adventures-of-a-curious-richard-feynman</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/adventures-of-a-curious-richard-feynman</guid>
+            <link>https://dltn.io/posts/adventures-of-a-curious-richard-feynman</link>
+            <guid isPermaLink="true">https://dltn.io/posts/adventures-of-a-curious-richard-feynman</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Sitting around a campfire listening to stories passed on from generations brings with it a feeling of wonder and joy for the adventures told from long ago.&lt;/p&gt;
@@ -5535,8 +5571,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[The Care and Culture of Men by David Starr Jordan]]></title>
             <description><![CDATA[A collection of his speeches from the founding president of Stanford University.]]></description>
-            <link>http://localhost:3000/posts/the-care-and-culture-of-men-by-david-starr-jordan</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-care-and-culture-of-men-by-david-starr-jordan</guid>
+            <link>https://dltn.io/posts/the-care-and-culture-of-men-by-david-starr-jordan</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-care-and-culture-of-men-by-david-starr-jordan</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -5605,8 +5641,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[2 Habits for a Better Intellectual Life]]></title>
             <description><![CDATA[1. Determine between observation and opinion. 2. Be concrete.]]></description>
-            <link>http://localhost:3000/posts/2-habits-for-a-better-intellectual-life copy</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/2-habits-for-a-better-intellectual-life copy</guid>
+            <link>https://dltn.io/posts/2-habits-for-a-better-intellectual-life copy</link>
+            <guid isPermaLink="true">https://dltn.io/posts/2-habits-for-a-better-intellectual-life copy</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 05 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;User &lt;a href=&quot;https://www.lesswrong.com/posts/2GxhAyn9aHqukap2S/looking-back-on-my-alignment-phd&quot;&gt;TurnTrout&lt;/a&gt; posted their reflection on attaining a PhD in the &lt;em&gt;LessWrong&lt;/em&gt; community recently. I&amp;#39;ve been debating going back to school for a Masters and PhD but can&amp;#39;t determine the fundamental benefits other than a structured learning environment, peer group, and a bit of a social flex. I don&amp;#39;t think those are the right reasons to go back to school, but maybe they are?&lt;/p&gt;
@@ -5640,8 +5676,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[The Rise and Fall of Dinosaurs by Steven Brusatte]]></title>
             <description><![CDATA[The author's enthusiasm for dinosaurs and the mysteries of Earth 66 million years ago is contagious.]]></description>
-            <link>http://localhost:3000/posts/the-rise-and-fall-of-dinosaurs-by-steven-brusatte</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-rise-and-fall-of-dinosaurs-by-steven-brusatte</guid>
+            <link>https://dltn.io/posts/the-rise-and-fall-of-dinosaurs-by-steven-brusatte</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-rise-and-fall-of-dinosaurs-by-steven-brusatte</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 05 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -5706,8 +5742,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[Why I Read]]></title>
             <description><![CDATA[Or, On Achieving Deep Literacy]]></description>
-            <link>http://localhost:3000/posts/why-i-read</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/why-i-read</guid>
+            <link>https://dltn.io/posts/why-i-read</link>
+            <guid isPermaLink="true">https://dltn.io/posts/why-i-read</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;The world changed in 1436.&lt;/p&gt;
@@ -5735,8 +5771,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[Kevin Kelly's 103 Bits of Advice, Expanded]]></title>
             <description><![CDATA[Kevin Kelly joined]]></description>
-            <link>http://localhost:3000/posts/kevin-kellys-103-bits-of-advice-expanded</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/kevin-kellys-103-bits-of-advice-expanded</guid>
+            <link>https://dltn.io/posts/kevin-kellys-103-bits-of-advice-expanded</link>
+            <guid isPermaLink="true">https://dltn.io/posts/kevin-kellys-103-bits-of-advice-expanded</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Kevin Kelly, who arguably has written one of the most influential essays regarding the internet and the creator economy, &amp;quot;&lt;a href=&quot;https://kk.org/thetechnium/1000-true-fans/&quot;&gt;1,000 True Fans&lt;/a&gt;&amp;quot;, published &amp;quot;103 Bits of Advice I Wish I Had Known&amp;quot; on his 70th birthday. In the simple article, he gives practical advice, philosophical quips, and everything in between. I thoroughly enjoyed reading it when it came out. So much so, I printed it out and annotated bits I loved and wanted to go deeper on.&lt;/p&gt;
@@ -5772,8 +5808,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[What Do You Care What Other People Think? By Richard Feynman]]></title>
             <description><![CDATA[I have a deep admiration for Feynman's beliefs on life, knowledge, and science, but that admiration went deeper still as I followed the stories of his life told by the man himself.]]></description>
-            <link>http://localhost:3000/posts/what-do-you-care-what-other-people-think</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/what-do-you-care-what-other-people-think</guid>
+            <link>https://dltn.io/posts/what-do-you-care-what-other-people-think</link>
+            <guid isPermaLink="true">https://dltn.io/posts/what-do-you-care-what-other-people-think</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 13 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Sitting around a campfire listening to stories passed on from generations brings with it a feeling of wonder and joy for the adventures told from long ago.&lt;/p&gt;
@@ -5809,8 +5845,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[Discipline is Destiny by Ryan Holiday]]></title>
             <description><![CDATA[The overexposure to a powerful concept has watered down a powerful idea, the idea that you, and only you, control your life. This book brings the idea back into reality.]]></description>
-            <link>http://localhost:3000/posts/discipline-is-destiny-by-ryan-holiday</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/discipline-is-destiny-by-ryan-holiday</guid>
+            <link>https://dltn.io/posts/discipline-is-destiny-by-ryan-holiday</link>
+            <guid isPermaLink="true">https://dltn.io/posts/discipline-is-destiny-by-ryan-holiday</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 10 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -5884,8 +5920,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[Make learning a reality]]></title>
             <description><![CDATA[The following passage comes from *What Do You Care What Other People Think?* by Richard Feynman. It's a collection of stories from his life and curious adventures.]]></description>
-            <link>http://localhost:3000/posts/make-learning-a-reality</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/make-learning-a-reality</guid>
+            <link>https://dltn.io/posts/make-learning-a-reality</link>
+            <guid isPermaLink="true">https://dltn.io/posts/make-learning-a-reality</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 08 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;The following passage comes from &lt;em&gt;What Do You Care What Other People Think?&lt;/em&gt; by Richard Feynman. It&amp;#39;s a collection of stories from his life and curious adventures.&lt;/p&gt;
@@ -5900,8 +5936,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[The Library: A Fragile History]]></title>
             <description><![CDATA[A brief history on the institution of the library and a fascinating look at the history of books.]]></description>
-            <link>http://localhost:3000/posts/the-library-a-fragile-history</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-library-a-fragile-history</guid>
+            <link>https://dltn.io/posts/the-library-a-fragile-history</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-library-a-fragile-history</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 07 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -5964,8 +6000,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[Book Review and Summary: Revolt of the Public]]></title>
             <description><![CDATA[A descriptor of what's going on in the world today.]]></description>
-            <link>http://localhost:3000/posts/book-review-and-summary-revolt-of-the-public</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/book-review-and-summary-revolt-of-the-public</guid>
+            <link>https://dltn.io/posts/book-review-and-summary-revolt-of-the-public</link>
+            <guid isPermaLink="true">https://dltn.io/posts/book-review-and-summary-revolt-of-the-public</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 24 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;SideNote title=&quot;Notice&quot; content=&quot;This post was originally posted on my Substack.&quot; /&gt;
@@ -6048,8 +6084,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[On Writing Well by William Zinsser]]></title>
             <description><![CDATA[Book notes.]]></description>
-            <link>http://localhost:3000/posts/on-writing-well-by-william-zinsser</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/on-writing-well-by-william-zinsser</guid>
+            <link>https://dltn.io/posts/on-writing-well-by-william-zinsser</link>
+            <guid isPermaLink="true">https://dltn.io/posts/on-writing-well-by-william-zinsser</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Takeaways&lt;/h2&gt;
@@ -6166,8 +6202,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[Leadership by Henry Kissinger]]></title>
             <description><![CDATA[Book Notes]]></description>
-            <link>http://localhost:3000/posts/leadership</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/leadership</guid>
+            <link>https://dltn.io/posts/leadership</link>
+            <guid isPermaLink="true">https://dltn.io/posts/leadership</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -6272,8 +6308,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[The Man From The Future]]></title>
             <description><![CDATA[This book explores the life of a time-traveler. Someone who theorized, pondered, and invented tools that would create the lives of some and destroy the lives of many.]]></description>
-            <link>http://localhost:3000/posts/the-man-from-the-future</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-man-from-the-future</guid>
+            <link>https://dltn.io/posts/the-man-from-the-future</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-man-from-the-future</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.amazon.com/Man-Future-Visionary-Life-Neumann-ebook/dp/B098TYZN67?crid=3FM501TO8DIZ6&amp;keywords=The%20Man%20From%20The%20Future&amp;qid=1657608834&amp;sprefix=the%20man%20from%20the%20future,aps,140&amp;sr=8-1&amp;linkCode=sl1&amp;tag=slatestarcode-20&amp;linkId=90b726e6acb3d8ccb1fe7b31e3d3ab21&amp;language=en_US&amp;ref_=as_li_ss_tl&quot;&gt;The Man From the Future&lt;/a&gt;&lt;/em&gt; explores the life of a time-traveler. Someone who theorized, pondered, and invented tools that would create the lives of some and destroy the lives of many. &lt;a href=&quot;https://en.wikipedia.org/wiki/Game_theory&quot;&gt;Game theory&lt;/a&gt;, quantum mechanics, &lt;a href=&quot;https://en.wikipedia.org/wiki/Manhattan_Project&quot;&gt;The Manhattan Project&lt;/a&gt;, computers, and the &lt;a href=&quot;https://www.rand.org/&quot;&gt;RAND Corporation&lt;/a&gt; are just some of the many disciplines which von Neumann dabbled. This book explores those wide-reaching fields and the many lives they impacted.&lt;/p&gt;
@@ -6355,8 +6391,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[Dulcius Ex Asperis]]></title>
             <description><![CDATA[Sweeter after difficulty.]]></description>
-            <link>http://localhost:3000/posts/dulcius-ex-asperis</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/dulcius-ex-asperis</guid>
+            <link>https://dltn.io/posts/dulcius-ex-asperis</link>
+            <guid isPermaLink="true">https://dltn.io/posts/dulcius-ex-asperis</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Some of the kindest people in the world often have no reason to be. They&amp;#39;ve faced horrible circumstances, tough situations, and unreal pain in their life that have reshaped their worldview and, very unexpectedly, made them kinder.&lt;/p&gt;
@@ -6369,8 +6405,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[Plan for Future Conduct]]></title>
             <description><![CDATA[From Benjamin Franklin]]></description>
-            <link>http://localhost:3000/posts/plan-for-future-conduct</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/plan-for-future-conduct</guid>
+            <link>https://dltn.io/posts/plan-for-future-conduct</link>
+            <guid isPermaLink="true">https://dltn.io/posts/plan-for-future-conduct</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 11 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;At 20 years old, Ben Franklin realized most of his life up to that point had just kinda happened to him.&lt;/p&gt;
@@ -6405,8 +6441,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[Pieces of the Action]]></title>
             <description><![CDATA[The foreword to this book, written by Ben Reinhardt, puts it well by saying, 'I went into this book with little more than a name and came out with the closest thing to a mentor someone you've never met can be.']]></description>
-            <link>http://localhost:3000/posts/pieces-of-action</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/pieces-of-action</guid>
+            <link>https://dltn.io/posts/pieces-of-action</link>
+            <guid isPermaLink="true">https://dltn.io/posts/pieces-of-action</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 09 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;&lt;em&gt;You can purchase &lt;a href=&quot;https://www.amazon.com/Pieces-Action-Vannevar-Bush/dp/1953953204&quot;&gt;the book here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -6536,8 +6572,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[What It Takes To Be a Great Teacher]]></title>
             <description><![CDATA[Through teaching, students not only discover who they are, but who they want to become. It's important we get this right.]]></description>
-            <link>http://localhost:3000/posts/what-it-takes-to-be-a-great-teacher</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/what-it-takes-to-be-a-great-teacher</guid>
+            <link>https://dltn.io/posts/what-it-takes-to-be-a-great-teacher</link>
+            <guid isPermaLink="true">https://dltn.io/posts/what-it-takes-to-be-a-great-teacher</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 09 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;There are few professions that impact future generations more than being a teacher. Not only do teachers teach students about history and science, but they teach students about the world. Through this teaching, students not only discover who they are, but who they want to become.&lt;/p&gt;
@@ -6582,8 +6618,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[A Short History of Nearly Everything by Bill Bryson]]></title>
             <description><![CDATA[Book notes.]]></description>
-            <link>http://localhost:3000/posts/a-short-history-of-nearly-everything-by-bill-bryson</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/a-short-history-of-nearly-everything-by-bill-bryson</guid>
+            <link>https://dltn.io/posts/a-short-history-of-nearly-everything-by-bill-bryson</link>
+            <guid isPermaLink="true">https://dltn.io/posts/a-short-history-of-nearly-everything-by-bill-bryson</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -6640,8 +6676,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[Book Review: da Vinci]]></title>
             <description><![CDATA[Being a genius is simple: Never complete what you say you're going to and spend years perfecting every intricate detail of your work. Easy, right?]]></description>
-            <link>http://localhost:3000/posts/book-review-da-vinci</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/book-review-da-vinci</guid>
+            <link>https://dltn.io/posts/book-review-da-vinci</link>
+            <guid isPermaLink="true">https://dltn.io/posts/book-review-da-vinci</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 31 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I chose to read a 500+ page biography on a strange renaissance artist because, &lt;a href=&quot;https://www.daltonmabery.com/essays/albert-einstein&quot;&gt;much like Einstein&lt;/a&gt;, I was fascinated with how he approached the world through curiosity. I read Isaacson&amp;#39;s biography of &lt;a href=&quot;https://www.daltonmabery.com/book-notes/einstein-his-life-and-universe&quot;&gt;Einstein&lt;/a&gt; first, and he made comments about how da Vinci&amp;#39;s life was filled with even more wonder and curiosity than Einstein&amp;#39;s, and I wanted to know how, what that was like, and how I can do the same.&lt;/p&gt;
@@ -6699,8 +6735,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[The Clockwork Universe by Edward Dolnick]]></title>
             <description><![CDATA[Isaac Newton, the Royal Society, and the Birth of the Modern World.]]></description>
-            <link>http://localhost:3000/posts/the-clockwork-universe</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-clockwork-universe</guid>
+            <link>https://dltn.io/posts/the-clockwork-universe</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-clockwork-universe</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Notes&lt;/h2&gt;
@@ -6774,8 +6810,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[An attempt to understand the Kolmogorov Complexity of human values]]></title>
             <description><![CDATA[Life in a world where everything was the same, but no one had the capacity for love.]]></description>
-            <link>http://localhost:3000/posts/the-complexity-of-human-values</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-complexity-of-human-values</guid>
+            <link>https://dltn.io/posts/the-complexity-of-human-values</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-complexity-of-human-values</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Let&amp;#39;s pretend one day you find magic machine that could grant any lifestyle you asked it for. Professional golfer? Done. Star of &lt;em&gt;Pulp Fiction&lt;/em&gt;? Say no more. Enlightened writer? Easy. Any lifestyle you wished to live could be yours upon demand.&lt;/p&gt;
@@ -6814,8 +6850,8 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
         <item>
             <title><![CDATA[Revolt of the Public]]></title>
             <description><![CDATA[Book notes.]]></description>
-            <link>http://localhost:3000/posts/revolt-of-the-public</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/revolt-of-the-public</guid>
+            <link>https://dltn.io/posts/revolt-of-the-public</link>
+            <guid isPermaLink="true">https://dltn.io/posts/revolt-of-the-public</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -6846,8 +6882,8 @@ This new channel of information broadens HI&amp;#39;s field of vision to think a
         <item>
             <title><![CDATA[The Value of Science 67 Years Later]]></title>
             <description><![CDATA[In 1955, Richard Feynman gave a famous lecture on the value of science. In it, he outlined three ways science is of value to us all. In this essay, I reflect on those points and attempt to understand what they mean–67 years later.]]></description>
-            <link>http://localhost:3000/posts/the-value-of-science</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-value-of-science</guid>
+            <link>https://dltn.io/posts/the-value-of-science</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-value-of-science</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 05 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;In 1955, Professor Richard Feynman gave &lt;a href=&quot;https://calteches.library.caltech.edu/1575/1/Science.pdf&quot;&gt;one of the most famous talks on the importance of science&lt;/a&gt;. In his address, he listed three ways science is of important value and gave a strong encouragement (and a stark warning) to the future generations of scientists.&lt;/p&gt;
@@ -6896,8 +6932,8 @@ This new channel of information broadens HI&amp;#39;s field of vision to think a
         <item>
             <title><![CDATA[Where the term 'zero-sum' comes from]]></title>
             <description><![CDATA[John von Neumann and the birth of game theory.]]></description>
-            <link>http://localhost:3000/posts/where-the-term-zero-sum-comes-from</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/where-the-term-zero-sum-comes-from</guid>
+            <link>https://dltn.io/posts/where-the-term-zero-sum-comes-from</link>
+            <guid isPermaLink="true">https://dltn.io/posts/where-the-term-zero-sum-comes-from</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;In 1925, John von Neumann published one of the first papers introducing &amp;quot;game theory&amp;quot; into popular discourse. In it, he explained that most games are just a series of events. Some of those events depend entirely on chance–which von Neumann calls &amp;#39;draws&amp;#39;– and others on the decision of a player–what von Neumann calls &amp;#39;steps.&amp;#39;&lt;/p&gt;
@@ -6914,8 +6950,8 @@ This new channel of information broadens HI&amp;#39;s field of vision to think a
         <item>
             <title><![CDATA[Sometimes your room for error, isn't enough]]></title>
             <description><![CDATA[Be careful.]]></description>
-            <link>http://localhost:3000/posts/sometimes-your-room-for-error-isnt-enough</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/sometimes-your-room-for-error-isnt-enough</guid>
+            <link>https://dltn.io/posts/sometimes-your-room-for-error-isnt-enough</link>
+            <guid isPermaLink="true">https://dltn.io/posts/sometimes-your-room-for-error-isnt-enough</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 25 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;In &lt;em&gt;&lt;a href=&quot;https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness-ebook/dp/B084HJSJJ2/ref=sr_1_1?gclid=CjwKCAjw9e6SBhB2EiwA5myr9jXY7bzuqPqcpT1ilW3gPPA_BWbFdOvNKch9NdwRFotGg7292dGeDhoCfAgQAvD_BwE&amp;hvadid=241638696189&amp;hvdev=c&amp;hvlocphy=9032520&amp;hvnetw=g&amp;hvqmt=e&amp;hvrand=12203680808315375271&amp;hvtargid=kwd-816731825&amp;hydadcr=21903_10171041&amp;keywords=the+psychology+of+money&amp;qid=1650221492&amp;sr=8-1&quot;&gt;Psychology of Money&lt;/a&gt;&lt;/em&gt; by &lt;a href=&quot;https://twitter.com/morganhousel&quot;&gt;Morgan Housel&lt;/a&gt;, he writes about the idea of living with a margin of safety or room for error. It&amp;#39;s a common idea, but an uncommon practice. In the book, Housel explains living with room for error means having more cash on hand than you think may be necessary to wither the unexpected storms that life brings.&lt;/p&gt;
@@ -6928,8 +6964,8 @@ This new channel of information broadens HI&amp;#39;s field of vision to think a
         <item>
             <title><![CDATA[How to Increase the Chances of Becoming a Genius]]></title>
             <description><![CDATA[A response to miracle years.]]></description>
-            <link>http://localhost:3000/posts/on-increasing-the-likelihood-of-a-miracle-year</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/on-increasing-the-likelihood-of-a-miracle-year</guid>
+            <link>https://dltn.io/posts/on-increasing-the-likelihood-of-a-miracle-year</link>
+            <guid isPermaLink="true">https://dltn.io/posts/on-increasing-the-likelihood-of-a-miracle-year</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 23 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Earlier this week, &lt;a href=&quot;https://www.dwarkeshpatel.com/p/annus-mirabilis?s=r&quot;&gt;Dwarkesh Patel wrote an essay exploring the mystery of the miracle year&lt;/a&gt;– &amp;quot;in which [scientists] make multiple, seemingly independent breakthroughs in the span of a single year or two&amp;quot; (&lt;a href=&quot;https://www.dwarkeshpatel.com/p/annus-mirabilis?s=r&quot;&gt;source&lt;/a&gt;). Patel posits some potential explanations for the miracle year phenomenon including Selection Bias, right problem at the right time, and the amount of freedom the geniuses had at the time.&lt;/p&gt;
@@ -6990,8 +7026,8 @@ And that formula is rooted in one thing: &lt;strong&gt;curiosity.&lt;/strong&gt;
         <item>
             <title><![CDATA[Building a Custom React Form Hook]]></title>
             <description><![CDATA[Learning in public and using the Feynman technique to teach myself.]]></description>
-            <link>http://localhost:3000/posts/react-form-hook</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/react-form-hook</guid>
+            <link>https://dltn.io/posts/react-form-hook</link>
+            <guid isPermaLink="true">https://dltn.io/posts/react-form-hook</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I&amp;#39;m taking an &lt;a href=&quot;https://advancedreact.com/&quot;&gt;advanced React course&lt;/a&gt; and instead of powering through the tutorials to finish as fast as I can, I&amp;#39;m trying to slow down and make sure I understand each line of code. Naturally, I wanted to share for others to see and potentially benefit from.&lt;/p&gt;
@@ -7048,8 +7084,8 @@ And that formula is rooted in one thing: &lt;strong&gt;curiosity.&lt;/strong&gt;
         <item>
             <title><![CDATA[Season-Long Friendships]]></title>
             <description><![CDATA[Society has deemed it 'the right thing' to become life-long friends with every acquaintance you have. This can lead to too much emotional burden and shallow friendships. Instead, we need to advocate more for season-long friendships.]]></description>
-            <link>http://localhost:3000/posts/season-long-friendships</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/season-long-friendships</guid>
+            <link>https://dltn.io/posts/season-long-friendships</link>
+            <guid isPermaLink="true">https://dltn.io/posts/season-long-friendships</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Mon, 11 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Let me break a social norm: &lt;strong&gt;You don&amp;#39;t have to be life-long friends with every person you become acquainted with.&lt;/strong&gt; In fact, it&amp;#39;s probably best you don&amp;#39;t. Doing so could lead to 100 &amp;quot;friendships&amp;quot; with no depth. No one can carry the emotional burden of that many people on their shoulders.&lt;/p&gt;
@@ -7089,8 +7125,8 @@ And that formula is rooted in one thing: &lt;strong&gt;curiosity.&lt;/strong&gt;
         <item>
             <title><![CDATA[If, By Whiskey]]></title>
             <description><![CDATA['If, by whiskey' arguments are used whenever the speakers position depends on the listener's opinion. It's a great way to take a position on something without really taking a position.]]></description>
-            <link>http://localhost:3000/posts/if-by-whiskey</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/if-by-whiskey</guid>
+            <link>https://dltn.io/posts/if-by-whiskey</link>
+            <guid isPermaLink="true">https://dltn.io/posts/if-by-whiskey</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;As he was standing in the musty Mississippi courtroom, arguing for what he believed in, he got a brilliant idea. Instead of arguing for the benefits of alcohol while hoping (and maybe praying) no one on the defense brought up all of the negative effects of alcohol, he would address the effects directly. This took the defense&amp;#39;s argument right from their hands, just like a little kid in a candy shop.&lt;/p&gt;
@@ -7136,8 +7172,8 @@ hospitals and schools, then certainly I am for it.&lt;/p&gt;
         <item>
             <title><![CDATA[Reading advice from Tyler Cowen]]></title>
             <description><![CDATA[‘nough said.]]></description>
-            <link>http://localhost:3000/posts/reading-advice-from-tyler-cowen</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/reading-advice-from-tyler-cowen</guid>
+            <link>https://dltn.io/posts/reading-advice-from-tyler-cowen</link>
+            <guid isPermaLink="true">https://dltn.io/posts/reading-advice-from-tyler-cowen</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 29 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Tyler Cowen has easily risen to to the top of my &amp;quot;thinkers I like&amp;quot; list. There&amp;#39;s probably no one else I know of today that I look at and think, &amp;quot;I want to be exactly like them when I grow up&amp;quot; other than Tyler Cowen. His curisoity and breadth of knowledge is amazing.&lt;/p&gt;
@@ -7162,8 +7198,8 @@ hospitals and schools, then certainly I am for it.&lt;/p&gt;
         <item>
             <title><![CDATA[12 Rules For Life]]></title>
             <description><![CDATA[A dense book packed with tangents that (mostly) lead to some interesting insights.]]></description>
-            <link>http://localhost:3000/posts/12-rules-for-life</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/12-rules-for-life</guid>
+            <link>https://dltn.io/posts/12-rules-for-life</link>
+            <guid isPermaLink="true">https://dltn.io/posts/12-rules-for-life</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 17 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -7214,8 +7250,8 @@ hospitals and schools, then certainly I am for it.&lt;/p&gt;
         <item>
             <title><![CDATA[Popular sayings]]></title>
             <description><![CDATA[Title says it all.]]></description>
-            <link>http://localhost:3000/posts/popular-sayings</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/popular-sayings</guid>
+            <link>https://dltn.io/posts/popular-sayings</link>
+            <guid isPermaLink="true">https://dltn.io/posts/popular-sayings</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I&amp;#39;ve always been curious where popular sayings come from. While they usually have an interesting origin story, most of them also have witty clap-backs.&lt;/p&gt;
@@ -7240,8 +7276,8 @@ hospitals and schools, then certainly I am for it.&lt;/p&gt;
         <item>
             <title><![CDATA[The Ride of a Lifetime: Lessons From 15 Years as CEO of The Walt Disney Company]]></title>
             <description><![CDATA[At all costs, you must be willing to innovate the way you do business and what your company delivers; Innovate or Die mentality.]]></description>
-            <link>http://localhost:3000/posts/the-ride-of-a-lifetime-lessons-from-15-years-as-ceo-of-the-walt-disney</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-ride-of-a-lifetime-lessons-from-15-years-as-ceo-of-the-walt-disney</guid>
+            <link>https://dltn.io/posts/the-ride-of-a-lifetime-lessons-from-15-years-as-ceo-of-the-walt-disney</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-ride-of-a-lifetime-lessons-from-15-years-as-ceo-of-the-walt-disney</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;One Sentence Summary&lt;/h2&gt;
@@ -7349,8 +7385,8 @@ hospitals and schools, then certainly I am for it.&lt;/p&gt;
         <item>
             <title><![CDATA[The Tipping Point by Malcolm Gladwell]]></title>
             <description><![CDATA[Tipping Points can be caused by the right people, with the right information, in the right context; all we have to do is find those variables.]]></description>
-            <link>http://localhost:3000/posts/the-tipping-point-by-malcolm-gladwell</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-tipping-point-by-malcolm-gladwell</guid>
+            <link>https://dltn.io/posts/the-tipping-point-by-malcolm-gladwell</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-tipping-point-by-malcolm-gladwell</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;One Sentence Summary&lt;/h2&gt;
@@ -7400,8 +7436,8 @@ hospitals and schools, then certainly I am for it.&lt;/p&gt;
         <item>
             <title><![CDATA[Think Like a Rocket Scientist]]></title>
             <description><![CDATA[This is an exceptional book on thinking outside the box, innovating when others think to go with the safe route, and the necessity to think from first principles. Plus, there are some interesting behind the scenes stories of successful and failed NASA missions.]]></description>
-            <link>http://localhost:3000/posts/think-like-a-rocket-scientist</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/think-like-a-rocket-scientist</guid>
+            <link>https://dltn.io/posts/think-like-a-rocket-scientist</link>
+            <guid isPermaLink="true">https://dltn.io/posts/think-like-a-rocket-scientist</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Summary&lt;/h2&gt;
@@ -7440,8 +7476,8 @@ hospitals and schools, then certainly I am for it.&lt;/p&gt;
         <item>
             <title><![CDATA[What We See When We Read]]></title>
             <description><![CDATA[Written by a creative director, this book takes you through the ups and downs of, as the title suggests, what you see when you read. It's an interesting book with some neat ideas, but I felt it never came together. Maybe that's the point of the book, but I felt Mendelsund was trying to communicate how important it is we be aware of where the pictures in our minds come from when we read, but he never said that so directly.]]></description>
-            <link>http://localhost:3000/posts/what-we-see-when-we-read</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/what-we-see-when-we-read</guid>
+            <link>https://dltn.io/posts/what-we-see-when-we-read</link>
+            <guid isPermaLink="true">https://dltn.io/posts/what-we-see-when-we-read</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Key Insights&lt;/h2&gt;
@@ -7474,8 +7510,8 @@ hospitals and schools, then certainly I am for it.&lt;/p&gt;
         <item>
             <title><![CDATA[The Dip by Seth Godin]]></title>
             <description><![CDATA[Winners never quit is an incorrect statement; they do quit, they just know what to quit and when.]]></description>
-            <link>http://localhost:3000/posts/the-dip-by-seth-godin</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/the-dip-by-seth-godin</guid>
+            <link>https://dltn.io/posts/the-dip-by-seth-godin</link>
+            <guid isPermaLink="true">https://dltn.io/posts/the-dip-by-seth-godin</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 07 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Summary&lt;/h2&gt;
@@ -7544,8 +7580,8 @@ hospitals and schools, then certainly I am for it.&lt;/p&gt;
         <item>
             <title><![CDATA[Show Your Work by Austin Kleon]]></title>
             <description><![CDATA[A short read, but interesting nonetheless. This book doesn't have a ton of practical insights, but gives some motivation to show what you're doing in public. An interesting argument and helpful for someone like me who is so young and feel like I haven't accomplished anything yet.]]></description>
-            <link>http://localhost:3000/posts/show-your-work-by-austin-kleon</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/show-your-work-by-austin-kleon</guid>
+            <link>https://dltn.io/posts/show-your-work-by-austin-kleon</link>
+            <guid isPermaLink="true">https://dltn.io/posts/show-your-work-by-austin-kleon</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 05 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Summary&lt;/h2&gt;
@@ -7574,8 +7610,8 @@ hospitals and schools, then certainly I am for it.&lt;/p&gt;
         <item>
             <title><![CDATA[Junior: Writing Your Way Ahead in Advertising]]></title>
             <description><![CDATA[This book is very helpful for anyone who wants to get into freelance or agency marketing. It gives some practical writing advice, but it's mainly tips and strategies on how to create good campaigns inside of an agency.]]></description>
-            <link>http://localhost:3000/posts/junior-writing-your-way-ahead-in-advertising</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/junior-writing-your-way-ahead-in-advertising</guid>
+            <link>https://dltn.io/posts/junior-writing-your-way-ahead-in-advertising</link>
+            <guid isPermaLink="true">https://dltn.io/posts/junior-writing-your-way-ahead-in-advertising</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Summary&lt;/h2&gt;
@@ -7708,8 +7744,8 @@ hospitals and schools, then certainly I am for it.&lt;/p&gt;
         <item>
             <title><![CDATA[Essentialism by Greg Mckeowen]]></title>
             <description><![CDATA[he Essentialist mindset is all about doing less, but better.]]></description>
-            <link>http://localhost:3000/posts/essentialism-by-greg-mckeowen</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/essentialism-by-greg-mckeowen</guid>
+            <link>https://dltn.io/posts/essentialism-by-greg-mckeowen</link>
+            <guid isPermaLink="true">https://dltn.io/posts/essentialism-by-greg-mckeowen</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 21 May 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;One Sentence Summary&lt;/h2&gt;
@@ -7869,8 +7905,8 @@ hospitals and schools, then certainly I am for it.&lt;/p&gt;
         <item>
             <title><![CDATA[Einstein: His Life and Universe]]></title>
             <description><![CDATA[Key insights, learnings, and things that surprised me while reading Einstein's biography.]]></description>
-            <link>http://localhost:3000/posts/einstein-his-life-and-universe</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/einstein-his-life-and-universe</guid>
+            <link>https://dltn.io/posts/einstein-his-life-and-universe</link>
+            <guid isPermaLink="true">https://dltn.io/posts/einstein-his-life-and-universe</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 14 May 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h3&gt;The goal of science is to discover why the universe acts the way that it does.&lt;/h3&gt;
@@ -7925,8 +7961,8 @@ Man stands on this diminutive earth, gazes at the myriad of stars and upon billo
         <item>
             <title><![CDATA[How to Add Conditional Class Rendering in Next JS]]></title>
             <description><![CDATA[A short explanation and example of rendering conditional classes with Next JS and Tailwind.]]></description>
-            <link>http://localhost:3000/posts/how-to-add-conditional-class-rendering-in-next-js</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/how-to-add-conditional-class-rendering-in-next-js</guid>
+            <link>https://dltn.io/posts/how-to-add-conditional-class-rendering-in-next-js</link>
+            <guid isPermaLink="true">https://dltn.io/posts/how-to-add-conditional-class-rendering-in-next-js</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Conditional class rendering is pretty simple, but I&amp;#39;ve had to think through it a few times and always forget how to do it immediately. Hopefully this helps me and will help you too.&lt;/p&gt;
@@ -7955,8 +7991,8 @@ return (
         <item>
             <title><![CDATA[How to Enable Word Wrap on Only MDX in VS Code]]></title>
             <description><![CDATA[A tutorial]]></description>
-            <link>http://localhost:3000/posts/how-to-enable-word-wrap-on-only-mdx-in-vs-code</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/how-to-enable-word-wrap-on-only-mdx-in-vs-code</guid>
+            <link>https://dltn.io/posts/how-to-enable-word-wrap-on-only-mdx-in-vs-code</link>
+            <guid isPermaLink="true">https://dltn.io/posts/how-to-enable-word-wrap-on-only-mdx-in-vs-code</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I love editing in VS Code, but I couldn&amp;#39;t get my MDX files to wrap on a specific column width without affecting all my other files. I want my MDX files to wrap because that&amp;#39;s how I write blog posts, but I don&amp;#39;t want any of my JS files to wrap because it makes it much harder to read. After doing some research, I was able to piece together a solution.&lt;/p&gt;
@@ -7973,8 +8009,8 @@ return (
         <item>
             <title><![CDATA[How to Redirect Users to a Different Page After a Set Interval with Next.js]]></title>
             <description><![CDATA[The following code example came after wanting to redirect my 404 page after someone landed on it.]]></description>
-            <link>http://localhost:3000/posts/how-to-redirect-users-to-a-different-page-after-a-set-interval-with-next-js</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/how-to-redirect-users-to-a-different-page-after-a-set-interval-with-next-js</guid>
+            <link>https://dltn.io/posts/how-to-redirect-users-to-a-different-page-after-a-set-interval-with-next-js</link>
+            <guid isPermaLink="true">https://dltn.io/posts/how-to-redirect-users-to-a-different-page-after-a-set-interval-with-next-js</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;The following code example came after wanting to redirect my 404 page after someone landed on it. I&amp;#39;ve been using an astronaut for my branding and have been loving it. I found a picture of an alien beaming the astronaut into its spaceship, so wanted to &amp;#39;beam&amp;#39; the user back home. The easy way out was to use a button and have them click it, but that didn&amp;#39;t make sense to me. Since it&amp;#39;s &amp;#39;beaming&amp;#39;, it should happen automatically. So I did the following:&lt;/p&gt;
@@ -7994,8 +8030,8 @@ const Custom404 = () =&amp;gt; {
         <item>
             <title><![CDATA[Solving the vague errors]]></title>
             <description><![CDATA[No matter how much you prepare, it will never be enough.]]></description>
-            <link>http://localhost:3000/posts/solving-the-vague-errors</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/solving-the-vague-errors</guid>
+            <link>https://dltn.io/posts/solving-the-vague-errors</link>
+            <guid isPermaLink="true">https://dltn.io/posts/solving-the-vague-errors</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;When you write code, you have a local development environment you&amp;#39;re able to work on. This gives you a real-time look at what your code does and how it functions. Once you get it working as you wish in development, then you push it to production, which allows others to visit a URL and actually view it.&lt;/p&gt;
@@ -8009,8 +8045,8 @@ const Custom404 = () =&amp;gt; {
         <item>
             <title><![CDATA[15 Quotes from Albert Einstein That Reveals His Philosophy on Life]]></title>
             <description><![CDATA[Words from the white-haired-man himself that gives us insight into what he believed about philosophy, education, politics and the bigger questions of life.]]></description>
-            <link>http://localhost:3000/posts/15-quotes-from-albert-einstein-that-reveals-his-philosophy-on-life</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/15-quotes-from-albert-einstein-that-reveals-his-philosophy-on-life</guid>
+            <link>https://dltn.io/posts/15-quotes-from-albert-einstein-that-reveals-his-philosophy-on-life</link>
+            <guid isPermaLink="true">https://dltn.io/posts/15-quotes-from-albert-einstein-that-reveals-his-philosophy-on-life</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 16 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Albert Einstein was a remarkable theoretical physicist. He made discoveries about the smallest things in the world to the largest things in the world and everything in between. Not everyone can say they&amp;#39;ve done that. But while most people were distracted by his insights in science, Einstein crafted a personal philosophy on the greater questions of life. He was engaged in political matters and used his influence to change the world. As one could imagine, he cared deeply for remaining curious about life and encouraging others to do the same. The following are direct quotes from Einstein on these matters of life. They give us an insight into the humanity of one of the world&amp;#39;s greatest. I read these in &lt;a href=&quot;https://www.daltonmabery.com/essays/einstein-his-life-and-universe&quot;&gt;&lt;em&gt;Einstein: His Life and Universe&lt;/em&gt;&lt;/a&gt; by Walter Isaacson.&lt;/p&gt;
@@ -8071,8 +8107,8 @@ const Custom404 = () =&amp;gt; {
         <item>
             <title><![CDATA[2 Strategies To Help You Remember What You Read]]></title>
             <description><![CDATA[Two simple strategies to help you remember what you read an actually learn.]]></description>
-            <link>http://localhost:3000/posts/2-strategies-to-help-you-remember-what-you-read</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/2-strategies-to-help-you-remember-what-you-read</guid>
+            <link>https://dltn.io/posts/2-strategies-to-help-you-remember-what-you-read</link>
+            <guid isPermaLink="true">https://dltn.io/posts/2-strategies-to-help-you-remember-what-you-read</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 16 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;For a few years now, I&amp;#39;ve been a voracious reader. I love understanding how we got to where we are today and how that might forecast where we&amp;#39;re going in the future. I kept getting frustrated that I was reading things, but couldn&amp;#39;t remember what I read nor make connections to historical events. It took a lot of hypothesizing, experimenting, and tweaking my system, but this is what I&amp;#39;ve found works best:&lt;/p&gt;
@@ -8103,8 +8139,8 @@ Those may or may not work for you. But whatever you choose, remember, it&amp;#39
         <item>
             <title><![CDATA[How Record Players Work: The Science Behind That Beautiful Sound, Simplified]]></title>
             <description><![CDATA[This article was music to my ears.]]></description>
-            <link>http://localhost:3000/posts/how-record-players-work-the-science-behind-that-beautiful-sound-simplified</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/how-record-players-work-the-science-behind-that-beautiful-sound-simplified</guid>
+            <link>https://dltn.io/posts/how-record-players-work-the-science-behind-that-beautiful-sound-simplified</link>
+            <guid isPermaLink="true">https://dltn.io/posts/how-record-players-work-the-science-behind-that-beautiful-sound-simplified</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 16 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;The eighth wonder of the world is sitting down in the evening with a cup of whiskey on the rocks with the strum and yodel of ol&amp;#39; Hank Williams crackling through the record player. It&amp;#39;s the closest I could come to experiencing what it would be like listening to him on the radio.&lt;/p&gt;
@@ -8197,8 +8233,8 @@ Those may or may not work for you. But whatever you choose, remember, it&amp;#39
         <item>
             <title><![CDATA[Examining the Life that Communicated With the Universe - Albert Einstein]]></title>
             <description><![CDATA[This is an essay.]]></description>
-            <link>http://localhost:3000/posts/albert-einstein</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/albert-einstein</guid>
+            <link>https://dltn.io/posts/albert-einstein</link>
+            <guid isPermaLink="true">https://dltn.io/posts/albert-einstein</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;The more I read about the lives of those who have impacted our world today, the more obvious it is that one characteristic drives those people: Curiosity. Curiosity, in the form of questioning the mundane things. The things that most people simply assume work because &amp;quot;that&amp;#39;s just what happens&amp;quot;, is one of the defining attributes of the men and women who squeezed centuries of ideas and inventions into just one short life.&lt;/p&gt;
@@ -8284,8 +8320,8 @@ Those may or may not work for you. But whatever you choose, remember, it&amp;#39
         <item>
             <title><![CDATA[How the James Webb Space Telescope Will Look Back in Time]]></title>
             <description><![CDATA[The James Webb will orbit nearly ]]></description>
-            <link>http://localhost:3000/posts/how-the-james-webb-space-telescope-will-look-back-in-time</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/how-the-james-webb-space-telescope-will-look-back-in-time</guid>
+            <link>https://dltn.io/posts/how-the-james-webb-space-telescope-will-look-back-in-time</link>
+            <guid isPermaLink="true">https://dltn.io/posts/how-the-james-webb-space-telescope-will-look-back-in-time</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;On Christmas Day of last year, one of the most pivotal moments for space exploration was launched: the James Webb Space Telescope.&lt;/p&gt;
@@ -8308,8 +8344,8 @@ Those may or may not work for you. But whatever you choose, remember, it&amp;#39
         <item>
             <title><![CDATA[How to Be Great? Be Okay With Being Bad]]></title>
             <description><![CDATA[This is an essay.]]></description>
-            <link>http://localhost:3000/posts/how-to-be-great</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/how-to-be-great</guid>
+            <link>https://dltn.io/posts/how-to-be-great</link>
+            <guid isPermaLink="true">https://dltn.io/posts/how-to-be-great</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;I was leaving the golf course the other day after a &lt;em&gt;terrible&lt;/em&gt; range session and I had a revelation about something I&amp;#39;ve been feeling for awhile: &lt;strong&gt;my desire to be good at a lot of things is keeping me from being great at one.&lt;/strong&gt;&lt;/p&gt;
@@ -8352,8 +8388,8 @@ Those may or may not work for you. But whatever you choose, remember, it&amp;#39
         <item>
             <title><![CDATA[How to Change the World With Your Ideas (Like Albert Einstein)]]></title>
             <description><![CDATA[This is an essay.]]></description>
-            <link>http://localhost:3000/posts/how-to-change-the-world-with-your-ideas</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/how-to-change-the-world-with-your-ideas</guid>
+            <link>https://dltn.io/posts/how-to-change-the-world-with-your-ideas</link>
+            <guid isPermaLink="true">https://dltn.io/posts/how-to-change-the-world-with-your-ideas</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;The early life of Albert Einstein had its ups and downs.&lt;/p&gt;
@@ -8401,8 +8437,8 @@ Those may or may not work for you. But whatever you choose, remember, it&amp;#39
         <item>
             <title><![CDATA[Why Legacy Career Paths Can't Innovate]]></title>
             <description><![CDATA[This is an essay.]]></description>
-            <link>http://localhost:3000/posts/why-legacy-career-paths-cant-innovate</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/why-legacy-career-paths-cant-innovate</guid>
+            <link>https://dltn.io/posts/why-legacy-career-paths-cant-innovate</link>
+            <guid isPermaLink="true">https://dltn.io/posts/why-legacy-career-paths-cant-innovate</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;In 1718, a candlemaker set out to train his son in the business of wax-melting in hopes he would one day take over the family business. Being 12 at the time, the boy would have seven years to learn the ins and outs of candle making. &amp;quot;Perfect!&amp;quot; the dad thought.&lt;/p&gt;
@@ -8436,8 +8472,8 @@ Those may or may not work for you. But whatever you choose, remember, it&amp;#39
         <item>
             <title><![CDATA[How We Got to Now]]></title>
             <description><![CDATA[A brilliant overview of the key innovations that paved the way for others to build upon. Truly explains 'how we got to now.']]></description>
-            <link>http://localhost:3000/posts/how-we-got-to-now</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/how-we-got-to-now</guid>
+            <link>https://dltn.io/posts/how-we-got-to-now</link>
+            <guid isPermaLink="true">https://dltn.io/posts/how-we-got-to-now</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 26 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h3&gt;Summary and Review&lt;/h3&gt;
@@ -8518,8 +8554,8 @@ Those may or may not work for you. But whatever you choose, remember, it&amp;#39
         <item>
             <title><![CDATA[The Psychology of Money by Morgan Housel]]></title>
             <description><![CDATA[This is a book about money.]]></description>
-            <link>http://localhost:3000/posts/psychology-of-money</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/psychology-of-money</guid>
+            <link>https://dltn.io/posts/psychology-of-money</link>
+            <guid isPermaLink="true">https://dltn.io/posts/psychology-of-money</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 26 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
@@ -8573,8 +8609,8 @@ Those may or may not work for you. But whatever you choose, remember, it&amp;#39
         <item>
             <title><![CDATA[Range by David Epstein]]></title>
             <description><![CDATA[Being able to think and solve problems in a general sense allows for innovative breakthroughs and discoveries in a niche field.]]></description>
-            <link>http://localhost:3000/posts/range-by-david-epstein</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/range-by-david-epstein</guid>
+            <link>https://dltn.io/posts/range-by-david-epstein</link>
+            <guid isPermaLink="true">https://dltn.io/posts/range-by-david-epstein</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 26 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;h2&gt;Summary&lt;/h2&gt;
@@ -8671,8 +8707,8 @@ Those may or may not work for you. But whatever you choose, remember, it&amp;#39
         <item>
             <title><![CDATA[Book Summary - Think Again by Adam Grant]]></title>
             <description><![CDATA[When it comes to our ideas and mindsets, we're one of three personalities: the preacher, the prosecutor, or the politician.]]></description>
-            <link>http://localhost:3000/posts/book-summary-think-again</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/book-summary-think-again</guid>
+            <link>https://dltn.io/posts/book-summary-think-again</link>
+            <guid isPermaLink="true">https://dltn.io/posts/book-summary-think-again</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;When it comes to our ideas and mindsets, we&amp;#39;re one of three personalities.&lt;/p&gt;
