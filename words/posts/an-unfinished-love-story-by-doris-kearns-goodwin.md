@@ -86,7 +86,7 @@ Towards the end of their project, Mr. Goodwin's cancer became more and more aggr
 > 
 > One afternoon, Dick asked me to slowly recite one of his favorite poems, Wordsworth's "Intimations of Immortality." When I had nearly finished, he was breathing very deeply, and I thought for certain he had fallen asleep. I went on reading until the end. When I finished, he turned towards me, and from memory repeated:
 > 
-> _Though nothing can bring back the hour
+> *Though nothing can bring back the hour
 > Of splendor in the grass, or glory in the flower
 > We will grieve not, rather find
-> Strength in what remains behind
+> Strength in what remains behind*
