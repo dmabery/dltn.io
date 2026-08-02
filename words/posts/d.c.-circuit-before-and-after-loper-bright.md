@@ -1,10 +1,10 @@
 ---
 Title: D.C. Circuit Case Before and After Loper Bright
 tags:
-  - books
-  - history
-  - politics
-  - people
+  - administrative-law
+  - statutory-intepretation
+  - law
+  - supreme-court
 Date: 2026-08-02T13:09:00
 Description: Analyzing a D.C. Circuit case and its outcome before and after Loper Bright.
 Published: true
@@ -26,6 +26,8 @@ The National Labor Relations Board adopted a rule requiring new owners of a busi
 
 In the latest opinion, the D.C. Circuit now holds that the rule violates the National Labor Relations Act.
 
+The court:
+
 > Under the successor bar, when a new employer acquires a business, an incumbent union is protected from any representation challenge for up to one year. The bar thus compels the successor employer to recognize and bargain with the incumbent union, even if it lacks majority support. That rule is inconsistent with the Act's protection of employee freedom of choice and representation by majority rule. The Board therefore contravened the Act when it refused to consider the Hospital's evidence challenging the Union's majority status and ordered the Hospital to collectively bargain with the Union.
 
 The court reasoned that, aside from a one year period after a certified election, Congress did not provide other restrictions on when a union's majority status can be challenged. Applying a potentially helpful canon to post-_Loper Bright_ delegations, the court explained, "When Congress establishes a legal requirement and provides a single exception, the most natural interpretation is that an agency cannot create additional exceptions to the statutory rule."
@@ -40,7 +42,7 @@ In support of that argument, the dissent cites three post-_Chevron_ cases that i
 
 The dissent then interprets the passages in _Loper Bright_ that have created confusion about the scope of agency deference. It explains that _Loper Bright_ "preserved the distinct principle that Congress may confer discretionary authority on agencies in particular statutory schemed [sic]. The proper inquiry is not whether the statute is ambiguous, but whether 'the best reading of a statute is that it delegates discretionary authority to an agency.'" This was essentially Vermeule's point. He wrote, "What this means is that many, most or even all of the cases that were previously called '_Chevron_ deference' cases can now be relabeled as '_Loper Bright_ delegation' cases."
 ### *Loper Bright*'s Impact
-I agree with both opinions. The dissent properly states the rules from _Loper Bright_: statutory ambiguity does not call for agency deference, but nonetheless the best meaning of the statute can mean that the agency should be given deference. The problem for the dissent is with the rest of the _Loper Bright_ opinion.
+I agree with both opinions. The dissent properly states the rules from _Loper Bright_: statutory ambiguity does not call for agency deference, but nonetheless the best meaning of the statute can be one that requires the agency to be given deference. The problem for the dissent is with the rest of the _Loper Bright_ opinion.
 
 Specifically, the Chief Justice charges lower courts to police the outer bounds of Congress's delegation to agencies. And it is hard to reconcile a rule from the NLRB that conflicted with the free-choice guarantee of section 7 and the majority-rule principle of section 9(a) of the NLRA. Therefore, the delegation is contrary to law because it expressly contradicts the statutory scheme.
 
