@@ -1,15 +1,15 @@
 # About me
-I’m Dalton, a second-year law student at the University of the Pacific, McGeorge School of Law in Sacramento, California.
+I’m Dalton, a third-year law student at the University of the Pacific, McGeorge School of Law in Sacramento, California.
 
 <ImageWithCaption src="https://res.cloudinary.com/dde1q4ekv/image/upload/v1728244501/Screenshot_2024-09-21_at_7.07.38_PM_1_inyr44.png" caption="Me, reading.">
 
-Before I started law school, I was the senior digital creator and designer at [Farnam Street](https://fs.blog/). While there, I grew a YouTube channel to 250,000 subscribers, [edited a video](https://youtu.be/zEx_IGVfi7Y) that received one million views, worked on a social media campaign for a [*New York Times* bestselling book](https://fs.blog/clear/), [produced a podcast](https://fs.blog/knowledge-project-podcast/) that got over 250,000 downloads per month, and[ edited](https://www.dropbox.com/scl/fi/ekl1yfq2iecszxk2yvl2g/Model-Situation-2.mp4?rlkey=zvyy3692j35hcw2mhhwzhdtdn&dl=0) and [animated](https://www.dropbox.com/scl/fi/qnnlow9fcqcttohkhluof/Module-Overview.mp4?rlkey=q92ib56m84vlo365l0mwjyxkh&dl=0) online course videos that were taken by employees and executives at companies like Apple and Twitter.
+Before I started law school, I was the senior digital creator and designer at [Farnam Street](https://fs.blog/). While there, I grew a YouTube channel to 300,000 subscribers, [edited a video](https://youtu.be/zEx_IGVfi7Y) that received one million views, worked on a social media campaign for a [*New York Times* bestselling book](https://fs.blog/clear/), [produced a podcast](https://fs.blog/knowledge-project-podcast/) that got over 250,000 downloads per month, and[ edited](https://www.dropbox.com/scl/fi/ekl1yfq2iecszxk2yvl2g/Model-Situation-2.mp4?rlkey=zvyy3692j35hcw2mhhwzhdtdn&dl=0) and [animated](https://www.dropbox.com/scl/fi/qnnlow9fcqcttohkhluof/Module-Overview.mp4?rlkey=q92ib56m84vlo365l0mwjyxkh&dl=0) online course videos that were taken by employees and executives at companies like Apple and Twitter.
 
 I graduated from Southeastern University in 2021 with a bachelors in Digital Media and Design.
 
 In 2020, I edited and produced the video version of Morning Brew's *Business Casual* podcast.
 
-From 2017-2019, I participated in a leadership college and internship program at Bayside Church. When I graduated the program, I was hired as the Communicators Director for one of the campuses and then became the Global Social Media Manager.
+From 2017–2019, I participated in a leadership college and internship program at Bayside Church. When I graduated the program, I was hired as the Communicators Director for one of the campuses and then became the Global Social Media Manager.
 
 # About the blog
 I like to read history and biography (though I've been able to do that a lot less of that during my first year of law school.)
@@ -45,6 +45,8 @@ The legacy I hope to leave behind is similar to that of Albert Einstein's. Not h
 
 "The most thoughtful wonderer." I love that. I hope those words are used to describe me one day.
 
-# Socials
+# Get in touch
 
-You can find me on [Twitter](https://www.twitter.com/dltnio), [GitHub](https://github.com/dmabery), and [YouTube](https://www.youtube.com/@dltnio).
+Like something I wrote? Hate something I wrote? Just want to say hello? Send me an email: maberydalton at gmail dot com. (I have to spell it that way so I don't get spam emails.)
+
+

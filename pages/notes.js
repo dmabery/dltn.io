@@ -1,5 +1,4 @@
 /* eslint-disable react/no-unescaped-entities */
-import Markdown from "markdown-to-jsx";
 import Image from "next/image";
 import Link from "next/link";
 import Meta from "../components/Meta";
@@ -32,30 +31,31 @@ const NoteList = ({ posts }) => {
           <Subscribe />
         </div>
       </div>
-      <div className="flex gap-10 flex-col">
-        {posts
-          .map((post) => (
+      <div className="grid grid-cols-2 gap-x-6 gap-y-8 sm:grid-cols-3 md:grid-cols-4">
+        {posts.map((post) => (
+          <Link
+            key={post.slug}
+            href={`/posts/${post.slug}`}
+            className="group flex flex-col gap-2 hover:no-underline"
+          >
+            <div className="aspect-[2/3] w-full overflow-hidden rounded border border-gray-200 bg-white">
+              {post.image && (
+                <Image
+                  src={post.image}
+                  alt={post.title}
+                  width={200}
+                  height={300}
+                  className="h-full w-full object-cover transition-transform group-hover:scale-105"
+                />
+              )}
+            </div>
             <div>
-              <div className="mr-5 mb-3 cursor-pointer w-32 md:w-40 float-left transition-all hover:scale-105">
-                <Link
-                  href={`/posts/${post.slug}`}
-                  className="transition-all hover:scale-105"
-                  legacyBehavior>
-                  <Image
-                    key={post.id}
-                    src={post.image}
-                    layout="responsive"
-                    height={10}
-                    width={5}
-                  />
-                </Link>
-              </div>
-              <div>
-                <Link href={`/posts/${post.slug}`} className="md:text-xl hover:text-blue-900 font-semibold">{post.title}</Link>
-                <p className="text-sm mt-1 md:text-base md:mt-3"><Markdown>{`${post.excerpt.slice(0,500)}...`}</Markdown></p>
+              <div className="text-sm mb-2 font-semibold leading-snug text-[#191919] group-hover:underline">
+                {post.title}
               </div>
             </div>
-          ))}
+          </Link>
+        ))}
       </div>
     </div>
   </>;
