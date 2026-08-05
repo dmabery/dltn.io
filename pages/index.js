@@ -52,7 +52,7 @@ export default function Home({ posts, tags }) {
       <h1 className="text-2xl">Hi, I'm Dalton</h1>
         <div className="flex pb-10 border-b flex-col gap-3">
           <p>
-            I'm a third-year law student in Sacramento. I write about what I learn studying the law and reading about history.
+            I'm a third-year law student in Sacramento. I write about law, history, and the books that explain both.
           </p>
           <p>Explore my pages and posts:</p>
           <ol className="list-disc pl-4">
