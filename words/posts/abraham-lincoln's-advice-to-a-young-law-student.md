@@ -20,3 +20,5 @@ From [_Team of Rivals_ by Doris Kearns Goodwin](https://bookshop.org/p/books/tea
 It's not the amount of reading you have to do, nor how good your professor is. How often you go to office hours or how prepared you are for cold calls does not matter, either. With whom you study, or the extracurriculars in which you participate are also not important.
 
 The most important thing is _your own resolution to succeed_.
+
+Read Justice Felix Frankfurter's [letter of advice to a young person interested in going into the law here.](https://www.dltn.io/posts/Felix-Frankfurter%E2%80%99s-Letter-of-Advice-to-a-Young%20Person-Interested-in-Going-into-the-Law)

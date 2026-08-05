@@ -22,3 +22,5 @@ I found this letter [uploaded here](https://www.studocu.com/ph/document/universi
 > [Signed] Felix Frankfurter
 >
 > M. Paul Claussen, Jr
+
+Read Abraham Lincoln's [advice to a young law student here](https://www.dltn.io/posts/abraham-lincoln's-advice-to-a-young-law-student).
