@@ -3,7 +3,9 @@ I’m Dalton, a third-year law student at the University of the Pacific, McGeorg
 
 <ImageWithCaption src="https://res.cloudinary.com/dde1q4ekv/image/upload/v1728244501/Screenshot_2024-09-21_at_7.07.38_PM_1_inyr44.png" caption="Me, reading.">
 
-Before I started law school, I was the senior digital creator and designer at [Farnam Street](https://fs.blog/). While there, I grew a YouTube channel to 300,000 subscribers, [edited a video](https://youtu.be/zEx_IGVfi7Y) that received one million views, worked on a social media campaign for a [*New York Times* bestselling book](https://fs.blog/clear/), [produced a podcast](https://fs.blog/knowledge-project-podcast/) that got over 250,000 downloads per month, and[ edited](https://www.dropbox.com/scl/fi/ekl1yfq2iecszxk2yvl2g/Model-Situation-2.mp4?rlkey=zvyy3692j35hcw2mhhwzhdtdn&dl=0) and [animated](https://www.dropbox.com/scl/fi/qnnlow9fcqcttohkhluof/Module-Overview.mp4?rlkey=q92ib56m84vlo365l0mwjyxkh&dl=0) online course videos that were taken by employees and executives at companies like Apple and Twitter.
+In the fall of 2024, I entered the University of the Pacific, McGeorge School of Law, to pursue a law degree. While there, I published my [first law review article](https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1616&context=uoplawreview) and I have a forthcoming law review article on the major questions doctrine. I spent my 2L summer at [Buchalter](https://www.buchalter.com/), where I plan to return upon graduating in May 2027.
+
+Before started law school, I was the senior digital creator and designer at [Farnam Street](https://fs.blog/). While there, I grew a YouTube channel to 300,000 subscribers, [edited a video](https://youtu.be/zEx_IGVfi7Y) that received one million views, worked on a social media campaign for a [*New York Times* bestselling book](https://fs.blog/clear/), [produced a podcast](https://fs.blog/knowledge-project-podcast/) that got over 250,000 downloads per month, and[ edited](https://www.dropbox.com/scl/fi/ekl1yfq2iecszxk2yvl2g/Model-Situation-2.mp4?rlkey=zvyy3692j35hcw2mhhwzhdtdn&dl=0) and [animated](https://www.dropbox.com/scl/fi/qnnlow9fcqcttohkhluof/Module-Overview.mp4?rlkey=q92ib56m84vlo365l0mwjyxkh&dl=0) online course videos that were taken by employees and executives at companies like Apple and Twitter.
 
 I graduated from Southeastern University in 2021 with a bachelors in Digital Media and Design.
 
@@ -12,7 +14,7 @@ In 2020, I edited and produced the video version of Morning Brew's *Business Cas
 From 2017–2019, I participated in a leadership college and internship program at Bayside Church. When I graduated the program, I was hired as the Communicators Director for one of the campuses and then became the Global Social Media Manager.
 
 # About the blog
-I like to read history and biography (though I've been able to do that a lot less of that during my first year of law school.)
+I like to read history and biography (though I've been able to do that a lot less of that during my time law school).
 
 One of my favorite things about reading history is discovering little quotes and stories that either aren't popular or are lost and buried in dusty books somewhere. So, when I come across those interesting stories and quotes, I share them here. I do so because (1) I like to share them with others and (2) it helps me learn, memorize them, and have a place where I can find them all in one place.
 

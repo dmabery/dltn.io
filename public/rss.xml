@@ -9,11 +9,28 @@
             <link>http://localhost:3000</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 04:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 21:04:00 GMT</lastBuildDate>
         <atom:link href="http://localhost:3000/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></author>
-        <pubDate>Mon, 03 Aug 2026 04:29:30 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 21:04:00 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2026]]></copyright>
+        <item>
+            <title><![CDATA[Abraham Lincoln’s advice to a young law student]]></title>
+            <description><![CDATA[From [_Team of Rivals_ by Doris Kearns Goodwin](https://bookshop.org/p/books/team-of-rivals-the-political-genius-of-abraham-lincoln-doris-kearns-goodw...]]></description>
+            <link>http://localhost:3000/posts/abraham-lincoln&apos;s-advice-to-a-young-law-student</link>
+            <guid isPermaLink="true">http://localhost:3000/posts/abraham-lincoln&apos;s-advice-to-a-young-law-student</guid>
+            <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 13:09:00 GMT</pubDate>
+            <content:encoded>&lt;p&gt;From &lt;a href=&quot;https://bookshop.org/p/books/team-of-rivals-the-political-genius-of-abraham-lincoln-doris-kearns-goodwin/586230&quot;&gt;&lt;em&gt;Team of Rivals&lt;/em&gt; by Doris Kearns Goodwin&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Get the books, and read and study them,” [Lincoln] told a law student seeking advice in 1855. It did not matter, he continued, whether the reading be done in a small town or a large city, by oneself or in the company of others. “The &lt;em&gt;books&lt;/em&gt;, and your &lt;em&gt;capacity&lt;/em&gt; for understanding them, are just the same in all places. . . . Always bear in mind that your own resolution to succeed, is more important than any other one thing.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;“Always bear in mind that your own resolution to succeed, is more important than any other one thing.”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It&amp;#39;s not the amount of reading you have to do, nor how good your professor is. How often you go to office hours or how prepared you are for cold calls does not matter, either. With whom you study, or the extracurriculars in which you participate are also not important.&lt;/p&gt;
+&lt;p&gt;The most important thing is &lt;em&gt;your own resolution to succeed&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Read Justice Felix Frankfurter&amp;#39;s &lt;a href=&quot;https://www.dltn.io/posts/Felix-Frankfurter%E2%80%99s-Letter-of-Advice-to-a-Young%20Person-Interested-in-Going-into-the-Law&quot;&gt;letter of advice to a young person interested in going into the law here.&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+        </item>
         <item>
             <title><![CDATA[D.C. Circuit Case Before and After Loper Bright]]></title>
             <description><![CDATA[Analyzing a D.C. Circuit case and its outcome before and after Loper Bright.]]></description>
@@ -231,7 +248,7 @@ I was watching _[Bobby Kenn...]]></description>
             <guid isPermaLink="true">http://localhost:3000/posts/Felix-Frankfurter’s-Letter-of-Advice-to-a-Young Person-Interested-in-Going-into-the-Law</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded>&lt;p&gt;I found this letter &lt;a href=&quot;https://www.studocu.com/ph/document/university-of-san-agustin/ethics/advice-to-a-young-man-interested-in-going-into-law/37348196&quot;&gt;uploaded here&lt;/a&gt;, after it was referenced &lt;a href=&quot;https://www.cschs.org/history/california-supreme-court-justices/stanley-mosk/&quot;&gt;in a ceremony&lt;/a&gt; by Justice Stanley Mosk’s son, honoring the late Justice. I wrote about more quotes from that ceremony here.&lt;/p&gt;
+            <content:encoded>&lt;p&gt;I found this letter &lt;a href=&quot;https://www.studocu.com/ph/document/university-of-san-agustin/ethics/advice-to-a-young-man-interested-in-going-into-law/37348196&quot;&gt;uploaded here&lt;/a&gt;, after it was referenced &lt;a href=&quot;https://www.cschs.org/history/california-supreme-court-justices/stanley-mosk/&quot;&gt;in a ceremony&lt;/a&gt; by Justice Stanley Mosk’s son, honoring the late Justice. I wrote about more &lt;a href=&quot;https://www.daltonmabery.com/posts/justice-stanley-mosk&quot;&gt;quotes from that ceremony here&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;My dear Paul:&lt;/p&gt;
 &lt;p&gt;No one can be a truly competent lawyer unless he is a cultivated man. If I were you, I would forget about any technical preparation for the law. The best way to prepare for the law is to be a well-read person.&lt;/p&gt;
@@ -240,6 +257,7 @@ I was watching _[Bobby Kenn...]]></description>
 &lt;p&gt;[Signed] Felix Frankfurter&lt;/p&gt;
 &lt;p&gt;M. Paul Claussen, Jr&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;Read Abraham Lincoln&amp;#39;s &lt;a href=&quot;https://www.dltn.io/posts/abraham-lincoln&apos;s-advice-to-a-young-law-student&quot;&gt;advice to a young law student here&lt;/a&gt;.&lt;/p&gt;
 </content:encoded>
         </item>
         <item>
@@ -8303,7 +8321,7 @@ Those may or may not work for you. But whatever you choose, remember, it&amp;#39
 &lt;li&gt;Frequency&lt;/li&gt;
 &lt;li&gt;Amplitude&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;/recordPlayer/soundwave.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1785957925/soundwave_mvaqzd.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;If you have a high frequency sound vibrating the particles in the air, the particles move back and forth really, really fast. When you have a low frequency sound, the particles in the air vibrate much slower. The wavelength, frequency, and amplitude can be thought of as &amp;quot;data&amp;quot; which carries the information about what the noise sounds like. Your eardrums are able to read that &amp;quot;data&amp;quot; and tell you what something sounds like. So if someone starts talking in a higher pitched voice, the wavelength will get higher thus telling your ears, &amp;quot;This noise is a higher frequency.&amp;quot; &lt;/p&gt;
 &lt;p&gt;To recap this section:&lt;/p&gt;
 &lt;ul&gt;
@@ -8319,13 +8337,13 @@ Those may or may not work for you. But whatever you choose, remember, it&amp;#39
 &lt;p&gt;Record players are a close cousin to the gramophone, and the gramophone is a close cousin to the phonograph. Though the words are often used interchangeably, the devices are all slightly different. It&amp;#39;s similar to the difference between a truck and a car. For the most part, they&amp;#39;re the same, but the truck can do some things your average sedan can&amp;#39;t.&lt;/p&gt;
 &lt;p&gt;A phonograph was a device used to &lt;em&gt;record sounds and play the recorded sounds back.&lt;/em&gt; A horn was attached to a piece of rubber that allowed it to vibrate freely. On the other end of the horn was a needle that moved in tandem with the vibrations from the horn. Pressed against the needle was a piece of tinfoil wrapped around a metal cylinder. The metal cylinder was fixed to a hand crank which would rotate as the crank was manually turned. &lt;/p&gt;
 &lt;p&gt;When someone spoke into the horn, they produced sound waves in the air (remember how sound works?) These waves caused the horn to vibrate slightly. Those vibrations moved the needle in a corresponding fashion. As the hand crank turned, the tin-foil-wrapped cylinder rotated against the needle, allowing the needle&amp;#39;s vibrations to etch a pattern into the tinfoil.&lt;/p&gt;
-&lt;p&gt;The hand crank is an important piece to this sound puzzle. If the crank wasn’t turned, the waves would be etched right on top of the previous wave. It’s like when you write something on paper, you need to move your hand. If you don’t, your letters will just be written over one another like the leaning tower of letters. Ha.
-&lt;img src=&quot;/recordPlayer/Phonograph-drawing-3000gty-5a497bf09e9427003762958c.jpeg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The hand crank is an important piece to this sound puzzle. If the crank wasn’t turned, the waves would be etched right on top of the previous wave. It’s like when you write something on paper, you need to move your hand. If you don’t, your letters will just be written over one another like the leaning tower of letters. Ha.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1785957924/Phonograph-drawing-3000gty-5a497bf09e9427003762958c_u4kzlf.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;If you&amp;#39;re a bit confused as to where the vibrations came from and how they correspond to the actual recording of the sound, don&amp;#39;t worry because I was too. This is what held me up for a long time. But recall that all sound is, is vibrations. When you talk, you&amp;#39;re vibrating the air in a certain pitch, tone, and frequency. When someone spoke into the horn, instead of those waves vibrating someone&amp;#39;s ear canal, they vibrated the needle, matching the tone, pitch, and frequency that they were capturing.&lt;/p&gt;
 &lt;p&gt;Reminder: There was no electricity involved here. This was a purely analog piece of technology.&lt;/p&gt;
 &lt;p&gt;To play the sound back, the process is simply reversed. The needle turns the etched pattern back into vibrations, which run up the horn and plays back the sound. Pretty cool right?&lt;/p&gt;
 &lt;p&gt;Similar to the phonograph was the gramophone. The big difference between the two, though, is that the gramophone couldn&amp;#39;t record sound. It only played recorded sound back. Thinking about it in terms of the phonograph, it was only the second half of the process. As you could imagine, a gramophone looked much closer to our modern day record players than the phonograph. A gramophone was a better listening device than the phonograph because it didn&amp;#39;t have the added variable of the up-and-down movement while recording like the phonograph did, which often caused recording issues.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/recordPlayer/old-gramophone.jpeg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1785957921/old-gramophone_vpbx2r.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;The &amp;quot;disks&amp;quot; first used in gramophones were metal or shellac, which are a different material than modern-day vinyl records. And this brings us to the difference between a gramophone and a record player. A record player is a more modern gramophone and plays vinyls while a gramophone plays metal or shellac records. Though I&amp;#39;m not a stickler for the &lt;em&gt;exact&lt;/em&gt; definition of things like the &amp;quot;Don&amp;#39;t you mean Frankenstein&amp;#39;s monster&amp;quot; guy, I thought it would be helpful to break those down.&lt;/p&gt;
 &lt;p&gt;The most important thing to understand in this section is the phonograph and how it works because it answers some of the technical questions about how sound gets recorded onto a record and how modern day record players work.&lt;/p&gt;
 &lt;p&gt;Next, let&amp;#39;s move on to understanding how a record gets the sound recorded on the vinyl for later playback.&lt;/p&gt;
