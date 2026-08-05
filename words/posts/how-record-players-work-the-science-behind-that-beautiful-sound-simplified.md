@@ -40,7 +40,7 @@ Sound waves have three characteristics:
 - Frequency
 - Amplitude
 
-![](/recordPlayer/soundwave.png)
+![](https://res.cloudinary.com/dde1q4ekv/image/upload/v1785957925/soundwave_mvaqzd.png)
 
 If you have a high frequency sound vibrating the particles in the air, the particles move back and forth really, really fast. When you have a low frequency sound, the particles in the air vibrate much slower. The wavelength, frequency, and amplitude can be thought of as "data" which carries the information about what the noise sounds like. Your eardrums are able to read that "data" and tell you what something sounds like. So if someone starts talking in a higher pitched voice, the wavelength will get higher thus telling your ears, "This noise is a higher frequency." 
 
@@ -65,7 +65,8 @@ A phonograph was a device used to *record sounds and play the recorded sounds ba
 When someone spoke into the horn, they produced sound waves in the air (remember how sound works?) These waves caused the horn to vibrate slightly. Those vibrations moved the needle in a corresponding fashion. As the hand crank turned, the tin-foil-wrapped cylinder rotated against the needle, allowing the needle's vibrations to etch a pattern into the tinfoil.
 
 The hand crank is an important piece to this sound puzzle. If the crank wasn’t turned, the waves would be etched right on top of the previous wave. It’s like when you write something on paper, you need to move your hand. If you don’t, your letters will just be written over one another like the leaning tower of letters. Ha.
-![](/recordPlayer/Phonograph-drawing-3000gty-5a497bf09e9427003762958c.jpeg)
+
+![](https://res.cloudinary.com/dde1q4ekv/image/upload/v1785957924/Phonograph-drawing-3000gty-5a497bf09e9427003762958c_u4kzlf.jpg)
 
 If you're a bit confused as to where the vibrations came from and how they correspond to the actual recording of the sound, don't worry because I was too. This is what held me up for a long time. But recall that all sound is, is vibrations. When you talk, you're vibrating the air in a certain pitch, tone, and frequency. When someone spoke into the horn, instead of those waves vibrating someone's ear canal, they vibrated the needle, matching the tone, pitch, and frequency that they were capturing.
 
@@ -75,7 +76,7 @@ To play the sound back, the process is simply reversed. The needle turns the etc
 
 Similar to the phonograph was the gramophone. The big difference between the two, though, is that the gramophone couldn't record sound. It only played recorded sound back. Thinking about it in terms of the phonograph, it was only the second half of the process. As you could imagine, a gramophone looked much closer to our modern day record players than the phonograph. A gramophone was a better listening device than the phonograph because it didn't have the added variable of the up-and-down movement while recording like the phonograph did, which often caused recording issues.
 
-![](/recordPlayer/old-gramophone.jpeg)
+![](https://res.cloudinary.com/dde1q4ekv/image/upload/v1785957921/old-gramophone_vpbx2r.jpg)
 
 The "disks" first used in gramophones were metal or shellac, which are a different material than modern-day vinyl records. And this brings us to the difference between a gramophone and a record player. A record player is a more modern gramophone and plays vinyls while a gramophone plays metal or shellac records. Though I'm not a stickler for the *exact* definition of things like the "Don't you mean Frankenstein's monster" guy, I thought it would be helpful to break those down.
 
