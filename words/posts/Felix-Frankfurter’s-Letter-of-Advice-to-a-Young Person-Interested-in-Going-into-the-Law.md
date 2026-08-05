@@ -9,7 +9,7 @@ Published: true
 Slug: 1L
 Type: Essay
 ---
-I found this letter [uploaded here](https://www.studocu.com/ph/document/university-of-san-agustin/ethics/advice-to-a-young-man-interested-in-going-into-law/37348196), after it was referenced [in a ceremony](https://www.cschs.org/history/california-supreme-court-justices/stanley-mosk/) by Justice Stanley Mosk’s son, honoring the late Justice. I wrote about more quotes from that ceremony here.
+I found this letter [uploaded here](https://www.studocu.com/ph/document/university-of-san-agustin/ethics/advice-to-a-young-man-interested-in-going-into-law/37348196), after it was referenced [in a ceremony](https://www.cschs.org/history/california-supreme-court-justices/stanley-mosk/) by Justice Stanley Mosk’s son, honoring the late Justice. I wrote about more [quotes from that ceremony here](https://www.daltonmabery.com/posts/justice-stanley-mosk).
 
 > My dear Paul:
 >
