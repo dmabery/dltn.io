@@ -18,7 +18,7 @@ The legacy I hope to leave behind is similar to that of Albert Einstein's. Not h
 > Man stands on this diminutive earth, gazes at the myriad of stars and upon billowing ocean and tossing trees--and wonders. What does it all mean? How did it come about? The most thoughtful wonderer who appeared among us in three centuries has passed on in the person of Albert Einstein.
 
 # About the blog
-I share quotes, stories, lessons, and ideas from the books I read and the people that I read about. I do so because I like to share them with others and it helps me learn.
+I share quotes, stories, lessons, and ideas from the books I read and the people I read about.
 
 I echo what Will Durant said:
 
