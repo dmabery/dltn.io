@@ -9,10 +9,10 @@
             <link>http://localhost:3000</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 03:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 03:18:37 GMT</lastBuildDate>
         <atom:link href="http://localhost:3000/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></author>
-        <pubDate>Thu, 06 Aug 2026 03:13:46 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 03:18:37 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2026]]></copyright>
         <item>
             <title><![CDATA[Abraham Lincoln’s advice to a young law student]]></title>
@@ -134,12 +134,12 @@ Strength in what remains behind&lt;/em&gt;&lt;/p&gt;
         <item>
             <title><![CDATA[Chief Justice Roberts on Humphrey's Executor in 2009 and 2026]]></title>
             <description><![CDATA[
-The following remarks made at oral argument in *[Free Enterprise Fund v. Public Accounting Oversight Board](https://www.supremecourt.gov/opinions/25p...]]></description>
+The following remarks made at oral argument in *[Free Enterprise Fund v. Public Accounting Oversight Board](https://www.oyez.org/cases/2009/08-861)* ...]]></description>
             <link>http://localhost:3000/posts/chief-justice-roberts-on-humphreys-in-pcaob</link>
             <guid isPermaLink="true">http://localhost:3000/posts/chief-justice-roberts-on-humphreys-in-pcaob</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded>&lt;p&gt;The following remarks made at oral argument in &lt;em&gt;&lt;a href=&quot;https://www.supremecourt.gov/opinions/25pdf/25-332_qn12.pdf&quot;&gt;Free Enterprise Fund v. Public Accounting Oversight Board&lt;/a&gt;&lt;/em&gt; seemed timely given the nature of Chief Justice Roberts&amp;#39; majority opinion in &lt;a href=&quot;https://www.supremecourt.gov/opinions/25pdf/25-332_qn12.pdf&quot;&gt;&lt;em&gt;Trump v. Slaughter&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
+            <content:encoded>&lt;p&gt;The following remarks made at oral argument in &lt;em&gt;&lt;a href=&quot;https://www.oyez.org/cases/2009/08-861&quot;&gt;Free Enterprise Fund v. Public Accounting Oversight Board&lt;/a&gt;&lt;/em&gt; seemed timely given the nature of Chief Justice Roberts&amp;#39; majority opinion in &lt;a href=&quot;https://www.supremecourt.gov/opinions/25pdf/25-332_qn12.pdf&quot;&gt;&lt;em&gt;Trump v. Slaughter&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Solicitor General Elena Kagan:&lt;/strong&gt; I understand the temptation to say something like, well, we don&amp;#39;t really much like Humphrey&amp;#39;s Executor, but we are stuck with it, but not an inch further.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Chief Justice Roberts:&lt;/strong&gt; I didn&amp;#39;t say anything bad about Humphrey&amp;#39;s Executor.&lt;/p&gt;
