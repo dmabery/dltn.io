@@ -31,7 +31,7 @@ I echo what Will Durant said:
 Read [those posts here](https://www.dltn.io/). I primarily read history and biography books. You can find [my notes on over 45 books here](https://www.dltn.io/notes).
 
 # Colophon
-This site is built with NextJS and Tailwind. It's hosted on Vercel. I write my posts in Obsidian. The typeface is Inter.
+This site is built with NextJS and Tailwind. It's hosted on Vercel. I write my posts in Obsidian. The body type is Source Serif and the heading type is Inter.
 
 <ImageWithCaption src="https://res.cloudinary.com/dde1q4ekv/image/upload/v1694125177/F5Ye6EeWoAAQkRl_anmgdw.jpg" caption="Rembrandt van Rijn (1606 - 1669): The Storm on the Sea of Galilee - 1633 - Oil on canvas" />
 
