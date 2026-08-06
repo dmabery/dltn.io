@@ -122,16 +122,6 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "647b8e764dcf5ff1",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
