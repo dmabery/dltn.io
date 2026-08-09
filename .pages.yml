@@ -9,3 +9,12 @@ content:
         type: string
       - name: body
         type: rich-text
+      - name: tags
+        type: select
+        options:
+          multiple: true
+      - name: date
+        type: date
+        options:
+        format: yyyy-MM-dd
+        
