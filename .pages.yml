@@ -7,6 +7,8 @@ content:
     fields:
       - name: Title
         type: string
+      - name: Slug
+        type: string
       - name: tags
         type: select
         options:
