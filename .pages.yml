@@ -1,0 +1,11 @@
+media: media
+content:
+  - name: pages
+    label: Pages
+    type: collection
+    path: words/posts
+    fields:
+      - name: title
+        type: string
+      - name: body
+        type: rich-text
