@@ -5,7 +5,7 @@ content:
     type: collection
     path: words/posts
     fields:
-      - name: title
+      - name: Title
         type: string
       - name: body
         type: rich-text
