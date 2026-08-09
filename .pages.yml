@@ -5,10 +5,10 @@ content:
     type: collection
     path: words/posts
     fields:
-      - name: title
+      - name: Title
         type: string
-      - name: body
-        type: rich-text
+      - name: Slug
+        type: string
       - name: tags
         type: select
         options:
@@ -17,4 +17,6 @@ content:
         type: date
         options:
         format: yyyy-MM-dd
+       - name: body
+        type: rich-text
         
