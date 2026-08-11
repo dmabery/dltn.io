@@ -24,7 +24,7 @@ nav {
 }
 
 .prose {
-  color: #191919;
+  color: #3f3f3f;
 }
 
 .prose a {
@@ -32,8 +32,7 @@ nav {
 }
 
 .prose blockquote {
-  color: black;
-
+  color: #3f3f3f;
 }
 
 

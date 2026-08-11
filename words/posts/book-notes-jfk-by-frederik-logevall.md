@@ -68,10 +68,6 @@ A friend of Jack’s, Ralph “Rip” Horton noticed that, the author writes, �
 
 ---
 
-Jack was…humorous in his letters relating the events that took place in his hospital rooms. From joking about a nurse who asked to give him a “workout,” to describing an incident when a “‘doctor came in just after I had woken up and was reclining with a semi [erection] on due to the cold weather. His plan was to stick his finger under my pickle and have me cough. His plan quickly change however when he drew back the covers and there was ‘JJ Maher’ quivering with life.’ (Jack had named his penis after his detested Choate housemaster.) The ‘very unsexy’ night nurse, meanwhile, ‘is continually trying to goose me so I always have to be on my guard.’”
-
----
-
 After Jack’s visit to Europe, and seeing the Old-World up-close, a trait that had been visible from his childhood started to emerge more strongly. Notably, his ability to form independent judgements, often which contradicted those of his own father’s. “Most portentously, once sees in the young Kennedy that summer an emerging capacity an willingness to view world affairs in contextual, dispassionate terms–a contrast with his father, who tended always to view the outside world mostly in terms of what it meant for himself and his family.”
 
 ---

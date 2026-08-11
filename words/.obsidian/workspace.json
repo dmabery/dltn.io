@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2026-07-11-chief-justice-roberts-on-humphreys-in-pcaob.md",
+                "file": "posts/book-notes-jfk-by-frederik-logevall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-11-chief-justice-roberts-on-humphreys-in-pcaob"
+              "title": "book-notes-jfk-by-frederik-logevall"
             }
           }
         ],
@@ -121,6 +121,19 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "eac139cc65e7e32e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -216,6 +229,7 @@
   },
   "active": "a5d5350e564b3042",
   "lastOpenFiles": [
+    "posts/2026-07-11-chief-justice-roberts-on-humphreys-in-pcaob.md",
     "posts/abraham-lincoln's-advice-to-a-young-law-student.md",
     "posts/Felix-Frankfurter’s-Letter-of-Advice-to-a-Young Person-Interested-in-Going-into-the-Law.md",
     "Codename Nemo.md",
@@ -223,7 +237,6 @@
     "posts/d.c.-circuit-before-and-after-loper-bright.md",
     "posts/how-record-players-work-the-science-behind-that-beautiful-sound-simplified.md",
     "posts/an-unfinished-love-story-by-doris-kearns-goodwin.md",
-    "posts/2026-07-11-chief-justice-roberts-on-humphreys-in-pcaob.md",
     "posts/chief-justice-john-roberts-baker-institute.md",
     "posts/thomas-jefferson-by-jon-meacham.md",
     "posts/2026-05-21-presidential-candidates-and-their-dogs.md",
