@@ -50,7 +50,7 @@ export default function Home({ posts, tags }) {
     <div className="flex flex-col">
       <div className="flex flex-col gap-2">
       <h1 className="text-2xl">Hi, I'm Dalton</h1>
-        <div className="flex pb-10 border-b flex-col gap-3 text-[#333333]">
+        <div className="flex pb-10 border-b flex-col gap-3 text-[#222222]">
           <p>
             I'm a third-year law student in Sacramento. I write about law, history, and the books, people, and ideas that explore both.
           </p>
