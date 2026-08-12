@@ -8,10 +8,7 @@ Published: true
 Slug: "the-rise-and-fall-of-dinosaurs-by-steven-brusatte"
 Type: "Book Notes"
 ---
-## Impressions
-I was inspired to buy this book after [hearing the author's conversation on *Armchair Expert*](https://armchairexpertpod.com/pods/steve-brusatte). His enthusiasm for dinosaurs and the mysteries of earth 66 million years ago was contagious. I was hoping for a creatively written book about dinosaurs that helped me learn a lot about their origin. I wasn't disappointed with that notion in mind, but I also wasn't thrilled with the book. At the end, I still felt there was a lot of information missing about how dinosaurs were created, but perhaps that because *no one actually knows.* Either way, I think Brusatte is a good writer and is able to mix academic knowledge with engaging writing, but I was hoping for more academic knowledge and less engaging writing. That said, it was a fun book and I'd recommend it to anyone wanting to learn a bit about dinosaurs, their evolutionary processes, and what the hell happened to all those magnificent creatures.
 
-## Notes
 - 252 million years ago, the Permian period of the world ended with a massive mass extinction underneath Siberia. It wiped out 90% of the living things in the world and lasted for a few million years.
 - Body fossils, the most popular type, are when parts of the actual animal or plant become fossilized. Trace fossils are when a footprint, bite mark, or something of the like become fossilized. These are valuable because they show how the animal interacted with the environment around them.
 - Dinosaurs lived through three periods of geological history: the Triassic, Jurassic, and Cretaceous, which are together known as the Mesozoic Era.

@@ -8,10 +8,7 @@ Published: true
 Slug: "12-rules-for-life"
 Type: "Book Notes"
 ---
-## Impressions
-I began reading this book when it came out and stopped about 3/4 of the way through. It just wasn't for me at the time. But it was a delightful read now. Peterson talks about some really interesting ideas in the book that it didn't think were applicable, but apparently they were. At times, the writing was a bit dense and too heady, but that's what you get from an intelligent college professor.
 
-## Actionable Takeaways
 1. Nature and the world are not static. Therefore, anything or anyone that acts like it is static will eventually come to ruin. Instead, nature and the environment is dynamic. It begs for a constant tango between the inhabitants of the world as it mutates. Companies, ideas, and people that worked awhile ago aren't going to work today if they keep doing the same thing.
 2. Anxiety and depression cannot be treated easily if the person has unpredictable daily routines. The system in the body that regulates those emotions and feelings are closely linked to the circadian rhythm. Ensuring you're sleep habits are regular can be a great place to start.
 3. Life is a constant battle fighting to maintain order, but learning how to thrive in chaos.
@@ -44,7 +41,3 @@ I began reading this book when it came out and stopped about 3/4 of the way thro
 - Someone living a life-lie is attempting to manipulate reality with perception, thought, and action, so that only some narrowly desired and pre-defined outcome is allowed to exist.
 - "A naively formulated goal transmutes, with time, into the sinister form of the life-lie."
 - If you don't believe in brick walls, you will still be hurt when you run headlong into one. Then you will curse reality itself for producing the wall.
-
-## Questions
-- Are you so sure the person crying out to be saved has not decided a thousand times to accept his lot of pointless and worsening suffering, simply because it is easier than shouldering any true responsibility?
-- What have I done wrong and what can I do to make things at least a little bit more right?

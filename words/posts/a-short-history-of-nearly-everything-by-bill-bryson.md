@@ -8,10 +8,7 @@ Published: true
 Slug: "a-short-history-of-nearly-everything-by-bill-bryson"
 Type: "Book Notes"
 ---
-## Impressions
-I’ve been wanting to read this book for quite some time now. The title got me hooked because one of the main questions I seek to answer in life is, “How did we get here?” And “Where are we going?” This book did a pretty good job of shedding some light on that topic, but not as much as I’d hoped it would. It talked a lot about the people who made discoveries and the drama between them more so than it did about actual information about “nearly everything.” The stories about the people who made certain discoveries were important and interesting, just not what I was expecting. It was also about 100 pages too long. Nonetheless, I learned some interesting things.
 
-## Insights
 - Before the universe began, there was nothing. There was no space outside the singularity, the really small dot of matter composed of material that was about to bang, and there was no time. So there was no "where" and there was no "before".
 - The first remittance of the Big Bang was discovered, unknowingly, in 1965 by two scientists. At the time, they didn't know what they were hearing, but it was in fact light that had travelled across the universe and stretched so much it was now microwaves.
 - Inflation Theory - Proposed by Alan Guth, this theory says moments after the Bang, the universe inflated from something you can hold in your hand to something that was the size of Earth today. This explains the ripples and eddies in our world.

@@ -1,12 +1,14 @@
 ---
-Title: "Think Like a Rocket Scientist"
-Tags: [“books", “science"]
-Date: "2022-06-12"
-Description: "This is an exceptional book on thinking outside the box, innovating when others think to go with the safe route, and the necessity to think from first principles. Plus, there are some interesting behind the scenes stories of successful and failed NASA missions."
-Image: "https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097383/41QlcVuSX8L._AC_SY780__y7swdm.jpg"
+Title: Think Like a Rocket Scientist
+Tags:
+  - books
+  - science
+Date: 2022-06-12
+Description: This is an exceptional book on thinking outside the box, innovating when others think to go with the safe route, and the necessity to think from first principles. Plus, there are some interesting behind the scenes stories of successful and failed NASA missions.
+Image: https://res.cloudinary.com/dde1q4ekv/image/upload/v1670097383/41QlcVuSX8L._AC_SY780__y7swdm.jpg
 Published: true
-Slug: "think-like-a-rocket-scientist"
-Type: "Book Notes"
+Slug: think-like-a-rocket-scientist
+Type: Book Notes
 ---
 Summary
 -------

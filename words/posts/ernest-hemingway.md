@@ -8,16 +8,7 @@ Published: true
 Slug: "ernest-hemingway"
 Type: "Book Notes"
 ---
-## Impressions
-Though *The Washington Post* touted this book as "The most fully faceted portrait of Hemingway now available", I was unimpressed. The content of the book is detailed, but the writing was rigid. Facts about Ernest's life were written out in a matter-of-fact manner. The stories told, though few, lacked drama or failed to engage one’s imagination. Letters were mentioned and quoted, but you never saw them shown in full detail. I learned more about Hemingway's obsession with bullfighting than I did about his writing habits or philosophy, spare the mention of the *Kansas City Star* writing guide (mentioned below in the notes). I suppose that's what people want though. They want *the man and life behind* the writing, not the writing. I think it’s a well-written book, it just was not what I was expecting and hoping for.
 
-It was also assumed you've read (and memorized) all of Hemingway's works. A plot in a story was mentioned and I'd have to Google what the book was about or how the character acted because it was never explained. A new person in Hemingway's life would be introduced and a passing reference would be made to how they would later become *character X* in one of his novels, but that was it. There was no further commentary about how, or why, or anything.
-
-I’m always hesitant to say any work of art is “bad.” All I can think about is the time and energy the creator put into the piece, and then imagining them reading a review (like I really even matter as a reviewer) saying it’s bad. No work is ever really bad, sometimes it’s just not what we expect, or not something we like. And that’s okay. Because with the 7 billion people in the world, I’m sure lots would love this book. I’m just one of the few who didn’t.
-
-However, I did learn interesting details about the Hemingway-Paris-writers era, which I've long been enchanted by. I closed the book with a fuller understanding of the man who called himself Ernest than I did when I opened it, which is what you hope for when you read a biography. A phrase that might sum up his life: *don't meet your heroes, kid.*
-
-## Notes
 - Ernest's grandmother told him that the only regrets she had in life were the things that she hadn't done.
 - If you make something easy and fun, you're more likely to do it. Ernest, early on in his writing career, wrote short humorous stories for the school newspaper.
 - Jazz, at the time of Ernest's upbringing was shifting to mean the music it refers to now, from a word that originally meant sexual intercourse.
