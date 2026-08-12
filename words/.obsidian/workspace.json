@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/book-notes-jfk-by-frederik-logevall.md",
+                "file": "posts/judge-oldham's-roadmaps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "book-notes-jfk-by-frederik-logevall"
+              "title": "judge-oldham's-roadmaps"
             }
           }
         ],
@@ -227,8 +227,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5d5350e564b3042",
+  "active": "eea3e51b295ff6f3",
   "lastOpenFiles": [
+    "new(ish)-site-design.md",
+    "posts/book-notes-jfk-by-frederik-logevall.md",
     "posts/abraham-lincoln's-advice-to-a-young-law-student.md",
     "posts/d.c.-circuit-before-and-after-loper-bright.md",
     "posts/an-unfinished-love-story-by-doris-kearns-goodwin.md",
@@ -253,8 +255,6 @@
     "unposts/2024-10-07-static-site-printer.md",
     "unposts/2024-10-03-site-should-do-what-you-want.md",
     "unposts/2024-10-10-my-blogs-identity-crisis.md",
-    "posts/2024-09-18-probably-your-fault.md",
-    "posts/2024-09-29-markdwown-sans-front-matter.md",
     "unposts",
     "Clippings",
     "Screenshot 2024-07-21 at 4.01.26 PM.png",

@@ -11,9 +11,9 @@ Slug: judge-oldham's-roadmaps
 Type: Essay
 Image:
 ---
-I like Judge Oldham's roadmaps. Instead of writing, “This opinion will first interpret the statute. It will then apply it.” Or something along those lines, Judge Oldham is much more fluid.
+I like Judge Oldham's roadmaps. Instead of writing something cumbersome like: “This opinion will first interpret the statute. It will then apply it.” Judge Oldham is more fluid.
 
-He writes:
+He [writes](https://www.ca5.uscourts.gov/opinions/pub/21/21-60626-CV0.pdf):
 
 > This case arises from three rules proposed by Nasdaq and approved by SEC. We (A) explain the statutory framework governing exchange rule changes. Next, we (B) explain the rule changes Nasdaq proposed. Then we (C) explain SEC's approval decisions. Last, we (D) explain the background to these proceedings.
 
