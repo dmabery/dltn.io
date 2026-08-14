@@ -53,7 +53,7 @@ This following few quotes are from [McCullough's interview with *The Paris Revie
 
 > The chances of finding a new piece are fairly remote—though I’ve never written a book where I didn’t find something new—but it’s more likely you see something that’s been around a long time that others haven’t seen. Sometimes it derives from your own nature, your own interests. More often, it’s just that nobody bothered to look closely enough.
 
-On McCullough's strategy for writing, specifically about a young Theodore Roosevelt in *Mornings on Horseback*:
+On McCullough's strategy for writing, specifically about a young Theodore Roosevelt in [*Mornings on Horseback*](https://www.dltn.io/posts/mornings-on-horseback-by-david-mccullough):
 
 > There’s another scene in Mornings on Horseback that I felt was crucial to understanding Roosevelt’s character, which might not be considered important by conventional standards. The family was taking a trip up the Nile, and young Theodore, who was an amateur taxidermist, shot and stuffed a number of birds. So I went out and found out how taxidermy is done. It takes patience and dexterity, and it’s smelly and grubby—a kind of work that would be very difficult for a child. And if you do it on a boat with your whole family present, you upstage them all. **There’s a paragraph or two in the book about the process of stuffing a bird, because I thought that would show a lot about the boy. I didn’t want to say, “He was a bright boy who did things other boys couldn’t.” I wanted the reader to know it.**
 
