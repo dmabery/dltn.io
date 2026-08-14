@@ -41,7 +41,7 @@ Some good advice:
 
 > Be generous. Give of yourselves. Count kindness as all-important in life. Take interest in those around you. Try to keep in mind that everyone you encounter along the way, no matter their background or station in life, knows something you don’t. Get in the habit of asking people about themselves, their lives, their interests, and listen to them. It’s amazing what you can learn by listening.
 
-This following few quotes are is from [McCullough's interview with *The Paris Review*](https://www.theparisreview.org/interviews/894/the-art-of-biography-no-2-david-mccullough).
+This following few quotes are from [McCullough's interview with *The Paris Review*](https://www.theparisreview.org/interviews/894/the-art-of-biography-no-2-david-mccullough).
 
 > **Interviewer:** Would you tell us about the motto tacked over your desk?
 > 
