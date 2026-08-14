@@ -11,7 +11,7 @@ Slug: history-maters-by-david-mccullough
 Type: Book Notes
 Image: https://res.cloudinary.com/dde1q4ekv/image/upload/v1786727534/9781668098998_e6dmij.webp
 ---
-After David McCullough passed away, his daughter published a collection of his various speeches and writings into a book called [*History Matters*](https://bookshop.org/p/books/history-matters-david-mccullough/080b74a6afda5a44). The picture on the cover is one of the most inspiring photographs of some one at work. 
+After David McCullough passed away, his daughter published a collection of his various speeches and writings into a book called [*History Matters*](https://bookshop.org/p/books/history-matters-david-mccullough/080b74a6afda5a44). The picture on the cover is one of the most inspiring photographs of someone at work. 
 
 ![](https://res.cloudinary.com/dde1q4ekv/image/upload/v1786726798/david-mccullough-facebook-photo-e1660042267818_lstius.webp)
 
