@@ -85,7 +85,7 @@ Listen to your editors—especially when they are your spouse.
 
 > Yes, I make a little mark, or she does. Once when she [Rosalee McCullough] was reading one of the last chapters of Mornings on Horseback, she stopped and said, “There’s something wrong with that sentence.” I said, “Read it again.” She read it again, “There’s something wrong there.” I said, “Give it to me, you’re not reading it right,” and I read it out loud and said, “See?” Well, a year or so later, when the book was published, Gore Vidal reviewed it in The New York Review of Books. It was a favorable review, and I was very pleased, except that, out of the whole book, he singled out one sentence as an example that my writing wasn’t always the best. And it was that sentence! The only one he quoted!
 
-I think I'll use this line when someone asks what is my favorite book—the one I'm reading now, of course.
+I think I'll use this line when someone asks what my favorite book is—the one I'm reading now, of course.
 
 > I’m often asked which is my favorite book, and it’s always the same: the one I’m working on. And I feel that now. I really look forward to going out there tomorrow morning and working on chapter three. The time will fly.
 

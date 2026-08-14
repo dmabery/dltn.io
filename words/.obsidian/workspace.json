@@ -113,7 +113,7 @@
               "state": {
                 "sortOrder": "byCreatedTime",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
