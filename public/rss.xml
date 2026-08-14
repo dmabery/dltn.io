@@ -9,11 +9,31 @@
             <link>http://localhost:3000</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 03:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 17:17:52 GMT</lastBuildDate>
         <atom:link href="http://localhost:3000/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></author>
-        <pubDate>Thu, 06 Aug 2026 03:18:37 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 17:17:51 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2026]]></copyright>
+        <item>
+            <title><![CDATA[Judge Oldham's Roadmaps]]></title>
+            <description><![CDATA[Judge Oldham [writes](https://www.ca5.uscourts.gov/opinions/pub/21/21-60626-CV0.pdf):
+
+> This case arises from three rules proposed by Nasdaq and appr...]]></description>
+            <link>http://localhost:3000/posts/judge-oldham&apos;s-roadmaps</link>
+            <guid isPermaLink="true">http://localhost:3000/posts/judge-oldham&apos;s-roadmaps</guid>
+            <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 13:09:00 GMT</pubDate>
+            <content:encoded>&lt;p&gt;Judge Oldham &lt;a href=&quot;https://www.ca5.uscourts.gov/opinions/pub/21/21-60626-CV0.pdf&quot;&gt;writes&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This case arises from three rules proposed by Nasdaq and approved by SEC. We (A) explain the statutory framework governing exchange rule changes. Next, we (B) explain the rule changes Nasdaq proposed. Then we (C) explain SEC&amp;#39;s approval decisions. Last, we (D) explain the background to these proceedings.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;He maintains this pattern throughout his opinion, including additional roadmaps before each sub-section.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We (1) explain the doctrine and then (2) hold that no part of the Exchange Act even hints at SEC&amp;#39;s purported power to remake corporate boards using diversity factors.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I like how clear and fluid they are.&lt;/p&gt;
+</content:encoded>
+        </item>
         <item>
             <title><![CDATA[Abraham Lincoln’s advice to a young law student]]></title>
             <description><![CDATA[From [_Team of Rivals_ by Doris Kearns Goodwin](https://bookshop.org/p/books/team-of-rivals-the-political-genius-of-abraham-lincoln-doris-kearns-goodw...]]></description>
@@ -820,140 +840,6 @@ No profession, trade, or calling, is overcrowded in the upper story. Wherever yo
 </content:encoded>
         </item>
         <item>
-            <title><![CDATA[A New Coat of Paint]]></title>
-            <description><![CDATA[
-If you read this blog on dltn.io, you might have noticed a new coat of paint recently. I didn’t do anything too drastic, but I *love* the new look. I...]]></description>
-            <link>http://localhost:3000/posts/paint</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/paint</guid>
-            <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
-            <pubDate>Sat, 12 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded>&lt;p&gt;If you read this blog on dltn.io, you might have noticed a new coat of paint recently. I didn’t do anything too drastic, but I &lt;em&gt;love&lt;/em&gt; the new look. It’s simple, elegant, and timeless.&lt;/p&gt;
-&lt;p&gt;Here’s what’s new.&lt;/p&gt;
-&lt;h2&gt;Design&lt;/h2&gt;
-&lt;p&gt;I changed the background color from a blue-white to a pure white. There are still tones of blue, but not as much. The current color is #FAFAFA and the previous one was #FAFBFF.&lt;/p&gt;
-&lt;p&gt;The color of the links are now a deeper shade of blue. I like this look because it’s more typical of what the color of a link is “thought” to be.&lt;/p&gt;
-&lt;h2&gt;Homepage layout&lt;/h2&gt;
-&lt;p&gt;The biggest structural change was to my homepage. I removed the loop of tags because the list of tags and the list of posts brought my eye to too many different places at once. I liked that someone visiting the site for the first time instantly got an idea of what I wrote about, but it was just too much.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1728876280/Screenshot_2024-10-13_at_8.13.45_PM_z4xw4s.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;In its stead, I made this simple list of my favorite tags to write about, which just so happens to also be the tags that contain the majority of the posts. This gives me the benefit of having someone see what I write about when they first land on the page without being overwhelmed.&lt;/p&gt;
-&lt;p&gt;In a big change, I removed my subscribe callout. There are two reasons for this:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;It wasn’t converting. I don’t know if my language wasn’t right or if people just don’t read stuff on the homepage, but I’d only get three or four signups per month.&lt;/li&gt;
-&lt;li&gt;I’m not sending my newsletter as frequently. When I first started blogging, everyone and their mother had a newsletter, but I could never quite find my rhythm with it. I’d rather just blog about what I want, when I want, and not worry about “bothering” people with my posts. I might add the signup form in the footer, or add a separate subscribe page eventually, but for now it’s gone. (You can still &lt;a href=&quot;https://www.dltn.io/rss&quot;&gt;subscribe via RSS&lt;/a&gt;.)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;I’ve been trying for months now to create a design I liked more than what I had before, but every time I came up with something new, I always just liked what I had before, better. I was always basing my re-designs on what I saw other people were doing on their sites, and I think I never allowed myself to just sit down and code to see what I came up with until I worked on this design.&lt;/p&gt;
-&lt;p&gt;One day, I sat down after a long day of school with nothing but time and the clear intention to just get something fresh and new pushed to main so I could get back to studying (because I have been slightly distracted by re-designing this lately). Since I was free of any time constraints, and wasn’t worried about staying up too late, I just got into the zone and made something. I think that speaks to trusting yourself when it comes to creative projects. Mood boards and inspiration are good, but don’t let those things replace your creative brain!&lt;/p&gt;
-&lt;h2&gt;Why the “boring-ness?”&lt;/h2&gt;
-&lt;p&gt;The reason I like the white background, black text, and blue links is because of my ideal career. I know I can do more “fun” things with my site, and it probably doesn’t really matter, but if a potential firm or client lands on my blog, I want to project an image of sturdiness and seriousness. Admittedly that sounds cheesy, but I  believe it, and it’s what’s keeping me from &lt;a href=&quot;https://www.dltn.io/posts/my-blogs-identity-crisis&quot;&gt;having a dark blue background and light blue text&lt;/a&gt;. I &lt;em&gt;love&lt;/em&gt; that look, but I just can’t pull it off right now.&lt;/p&gt;
-&lt;p&gt;That’s also why I’ve been debating using a serif typeface. Serifs are serious and educated and academic. I love all of those things, but when I read a short blog post on my phone in a typeface that looks like it belongs in a newspaper, something just feels “off.” I’ve yet to find a good looking but not too serious serif typeface. So, for the time being, I’ll continue using my trusty Inter.&lt;/p&gt;
-&lt;h2&gt;New feature: Links!&lt;/h2&gt;
-&lt;p&gt;Inspired by &lt;a href=&quot;https://notes.jim-nielsen.com/&quot;&gt;Jim Nielsen&lt;/a&gt; and &lt;a href=&quot;https://rknight.me/links/&quot;&gt;Robb Knight&lt;/a&gt;, I’ve decided to build out a /links page. I’m not really using social media anymore, but I still have a desire to share what I read and learn with others. Sometimes I blog about things, but other times I just have a quick thought I want to share along with a great quote. That isn’t enough content for me to make a full blog post, but now I can make a new link post.&lt;/p&gt;
-&lt;h3&gt;How it works&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Technically:&lt;/strong&gt; I have two folders in my repo: &lt;code&gt;posts&lt;/code&gt; and &lt;code&gt;links&lt;/code&gt;. When I want to post a new link, I make a new page in iA Writer and type the title of the article as an H1. Then I highlight the H1 and paste the link to the article. In the body I add quotes and thoughts. Finally, I name the file the current date and time: &lt;code&gt;2024-10-12T14:54&lt;/code&gt;. My backend strips the first H1 and saves it to a &lt;code&gt;title&lt;/code&gt; property, the link gets stripped and saved to a  &lt;code&gt;link&lt;/code&gt; property and the file name minus the extension becomes the &lt;code&gt;id&lt;/code&gt;. (This is all based on &lt;a href=&quot;https://blog.jim-nielsen.com/2023/how-i-take-and-publish-notes/&quot;&gt;Jim’s process&lt;/a&gt;.)&lt;/p&gt;
-&lt;p&gt;On my /links page, I loop over every file in the &lt;code&gt;links&lt;/code&gt; directory and pass the properties to a &lt;code&gt;LinksDisplay&lt;/code&gt; component. I use &lt;code&gt;psl&lt;/code&gt; to &lt;a href=&quot;https://www.npmjs.com/package/psl&quot;&gt;strip the domain name&lt;/a&gt; from the &lt;code&gt;link&lt;/code&gt; variable, which is how it’s displayed on the page.&lt;/p&gt;
-&lt;p&gt;So, this file in iA writer...&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1728876726/Screenshot_2024-10-13_at_8.31.44_PM_gkhtqt.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;...&lt;a href=&quot;https://www.dltn.io/links#2024-10-12T13:52&quot;&gt;becomes this&lt;/a&gt; on my site...&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1728876727/Screenshot_2024-10-13_at_8.31.57_PM_gafiz5.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Procedurally:&lt;/strong&gt; I read every article on &lt;a href=&quot;https://readwise.io/read&quot;&gt;Readwise’s Reader&lt;/a&gt; app. (It’s great, check it out.) Highlights and notes I take from articles automatically get saved to Obsidian. When I have some time to sort through my notes, I open Obsidian and find any quotes that still resonate with me. When I find one, I follow the process above.&lt;/p&gt;
-&lt;p&gt;There is probably a way to automate this by pointing my /links directory to my Readwise folder, which actually could be a very fun, tough project to work on. But part of the learning process is re-examining what I saved and realizing much of it is not worth internalizing. Separating the wheat from the chaff is a slow but valuable process when it comes to retaining information.&lt;/p&gt;
-&lt;p&gt;As Jim points out, the benefit of having everything in one page is that, if you need to find a quote, you can simply do a CMND + F search of &lt;em&gt;all&lt;/em&gt; your notes, which would be super valuable when you’re on the go.&lt;/p&gt;
-&lt;h2&gt;New layout: Notes!&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1728876280/Screenshot_2024-10-13_at_8.22.28_PM_fdzvlo.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;I’ve slightly altered my &lt;a href=&quot;https://www.dltn.io/notes&quot;&gt;/notes&lt;/a&gt; page. Before, it was just a three-column grid of book covers. It worked; it was simple and clear. But I wanted to add more information about the books before someone clicked on one because some book covers are ambiguous.&lt;/p&gt;
-&lt;p&gt;I haven’t been posting new book notes as frequently as I would like to because writing new notes takes &lt;em&gt;a lot&lt;/em&gt; of time, and my “fun” reading time has substantially diminished since starting law school. I think I need to limit myself to how long I spend on one book, and whatever I have written down when time runs out goes on the site. I have a backlog of about 40+ books to post, and that number is only increasing.&lt;/p&gt;
-&lt;p&gt;I think this is the most differentiated part of my site because most people who post notes just copy and paste their Kindle highlights from the book. That works, but it doesn’t give anyone reading the notes context for the information. I like trying to introduce each quote and provide actual lessons about history and people that I learn from the books. I don’t know if I’ll keep blogging for the rest of my life, but I’ll certainly continue reading books and sharing what I learn, so I really want to prioritize this part of my site.&lt;/p&gt;
-&lt;p&gt;(I say I don’t have time but really I haven’t made the time. I need to block off an hour or two every week to work on a book. At that rate, I could probably post a new book every three weeks or so.)&lt;/p&gt;
-&lt;p&gt;I also updated my &lt;a href=&quot;https://www.daltonmabery.com/about&quot;&gt;about page&lt;/a&gt;.&lt;/p&gt;
-</content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[My blog’s identity crisis]]></title>
-            <description><![CDATA[
-Now that I have officially decided to keep my blog built with Next, I thought my blog tinkering time was over and I could just go back to sitting dow...]]></description>
-            <link>http://localhost:3000/posts/my-blogs-identity-crisis</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/my-blogs-identity-crisis</guid>
-            <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
-            <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded>&lt;p&gt;Now that I have officially decided to keep my blog built with Next, I thought my blog tinkering time was over and I could just go back to sitting down and writing posts.&lt;/p&gt;
-&lt;p&gt;But then I realized I can still mess with the design...duh!&lt;/p&gt;
-&lt;p&gt;The blog has been pretty much this same design since its inception: white background, black text, using Inter. It’s clean, easy to read, and looks great on any device.&lt;/p&gt;
-&lt;p&gt;But it is a bit boring. I resonated with what &lt;a href=&quot;https://thejollyteapot.com/2023/10/11/on-a-blogs-visual-identity&quot;&gt;The Jelly Teapot wrote&lt;/a&gt; about a site’s visual identity:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;When I visit [certain] websites...I don’t need to read a single word, know the URL or the name of the site to know the one I am viewing. Same when I see the entries from Michael Tsai, Kev Quirk, or Quanta Magazine in my newsreader: they stand out in the feed and I know from which blog or website it’s from, as I recognise their icon.&lt;/p&gt;
-&lt;p&gt;I feel like my blog currently lacks this kind of visual identity. Its current icon — or rather its lack of an icon — feels a little like other feeds I am subscribed to, coming from Mastodon or Medium which all share the same favicon: generic, anonymous, and doesn’t stand out visually from the others.&lt;/p&gt;
-&lt;p&gt;Like I wrote in a previous post, There is no place like home: Why I love my blog, I know what makes my blog mine, what its identity is: bare-bones design, minimal style, tiny footprint, etc. But for the casual reader, for someone stumbling upon one of my posts, it can definitely feel a bit plain, boring, forgettable.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Might feels plain, boring, and forgettable. Like Magand’s though, that’s sort of the point? I like how easy everything is to read. But, still, I think I’m ready for something new.&lt;/p&gt;
-&lt;p&gt;I’ve tried using serif fonts in the past because since I write about history and books a lot, I wanted my site to feel more serious and studious. &lt;a href=&quot;https://fonts.google.com/specimen/Crimson+Text&quot;&gt;Crimson&lt;/a&gt; is an amazing typeface for that vibe. But the result was almost too serious and studios; when I read shorter posts from the archive, it just felt out of place.&lt;/p&gt;
-&lt;p&gt;Here are some renditions I’ve been working on.&lt;/p&gt;
-&lt;p&gt;Here’s a futuristic space vibe, inspired by &lt;a href=&quot;https://www.lkhrs.com/&quot;&gt;Luke Harris’s site&lt;/a&gt;. I love the colors and the typeface, but my wife and I both agree that it doesn’t fit the overall content of my site very much. I do like it, a lot though.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1728516658/Screenshot_2024-10-09_at_4.11.08_PM_o6wz4y.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;And light mode&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1728516659/Screenshot_2024-10-09_at_4.10.50_PM_fesrcb.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;I think I’m going to remove the entire list of tags and posts from the /index because there are just too many things to click on. I’ll just build out a separate /tags page. So I think I’ll stick with this layout, I just don’t know which vibe to go with.&lt;/p&gt;
-&lt;p&gt;Here are some serif options.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1728516658/Screenshot_2024-10-09_at_4.30.41_PM_rjrmwc.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1728516659/Screenshot_2024-10-09_at_4.10.37_PM_uqdfx2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;And, of course I had to see what the genius-professor-too-busy-to-write-CSS was like. (I actually really love it.)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1728516658/Screenshot_2024-10-09_at_4.12.16_PM_hkesbt.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;I also tried a pure black background with Verdana. My reasoning with trying Verdana was that it’s so classic and timeless that it looks studios and serious, but it’s not &lt;em&gt;too&lt;/em&gt; serious to be out of place on a personal blog.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dde1q4ekv/image/upload/v1728516658/Screenshot_2024-10-09_at_4.11.33_PM_u9mdi5.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Still, every time I’ve tried a new color scheme or layout in the past, I always end up liking it &lt;em&gt;less&lt;/em&gt; than what I currently have. I don’t know if that’s because what I have is familiar, or what I have &lt;em&gt;actually&lt;/em&gt; just works really well. (Either way, thanks, &lt;a href=&quot;https://stephango.com/&quot;&gt;Steph for the inspiration&lt;/a&gt;.)&lt;/p&gt;
-&lt;p&gt;For now the designs will sit in limbo in a GitHub branch, maybe never seeing the light of day.&lt;/p&gt;
-</content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Static blogs are like printers]]></title>
-            <description><![CDATA[
-From [Jack Baty](https://archive.baty.net/2017/wordpress-is-a-typewriter/):
-
-> The problem I have with publishing a static site is that creating and ...]]></description>
-            <link>http://localhost:3000/posts/static-site-printer</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/static-site-printer</guid>
-            <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
-            <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded>&lt;p&gt;From &lt;a href=&quot;https://archive.baty.net/2017/wordpress-is-a-typewriter/&quot;&gt;Jack Baty&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The problem I have with publishing a static site is that creating and editing content is too far removed from the actual rendered page.&lt;/p&gt;
-&lt;p&gt;I fly pretty fast and loose with my writing. I publish things I’m interested in and am eager to share. I’m impatient. If I had to write three drafts of every post before putting it out there I’d never publish anything. This is why I like using WordPress.&lt;/p&gt;
-&lt;p&gt;Using WordPress makes me feel like that boy at the Type-In. I feel like the words are going right onto the paper. Sure, the metaphor is a little thin, but the point is that when writing with WordPress (or any CMS, really), the distance between what I’m typing and what I’m publishing is very short. The only thing closer is editing HTML directly on a live page, but that’s something only crazy people do.&lt;/p&gt;
-&lt;p&gt;On the other hand, publishing a static site is like sending a document to a printer. I have to make sure everything is connected, that there’s paper in the machine, and then wait for the job to finish before seeing the output. If something needs editing, and something always needs editing, the whole process starts over.&lt;/p&gt;
-&lt;p&gt;So I struggle with choosing publishing tools. I much prefer the idea of statically rendered websites, but in practice I’d rather use WordPress.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I’ve been struggling with this back and forth for about two years and have never been able to put it so succinctly. (Thanks, &lt;a href=&quot;https://www.lkhrs.com/blog/2021/12/hugo/&quot;&gt;Luke Harris&lt;/a&gt;!)&lt;/p&gt;
-&lt;p&gt;It’s my eternal struggle when it comes to blogging. Having markdown files safely stored on my machine, with all of the code and everything else that makes my site run seems, to me, to far outweigh any inconvenience from actually &lt;em&gt;writing&lt;/em&gt; a new post. Plus, I’ve &lt;a href=&quot;https://www.dltn.io/posts/markdwown-sans-front-matter&quot;&gt;done some things&lt;/a&gt; to make just a tad bit easier.&lt;/p&gt;
-&lt;p&gt;But still, nothing is as nice as opening a browser window, typing some words in a big blank text area, and then hitting publish. Plus, the fact that WordPress lets you highlight text and then automatically link to other posts on your blog is an insanely nice feature that I haven’t seen elsewhere.&lt;/p&gt;
-&lt;p&gt;But WordPress and other site builders still limit what you can do. They either limit it expressly, by making certain areas of functionality closed off, or limit it implicitly by making it extremely difficult to do certain things.&lt;/p&gt;
-&lt;p&gt;With all of the WordPress drama going on lately, I’m happy to have my site &lt;em&gt;not&lt;/em&gt; relying on their technology–or anyone else’s (except Vercel). But, I still resonate with Baty’s well-put observation.&lt;/p&gt;
-&lt;p&gt;To quote him, brb, gotta check the printer.&lt;/p&gt;
-</content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Your site should let you do what you want]]></title>
-            <description><![CDATA[For the last few months, I debated switching my site to a headless CMS using WordPress. I liked—nay, loved—how easy it was to open a browser window, t...]]></description>
-            <link>http://localhost:3000/posts/site-should-do-what-you-want</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/site-should-do-what-you-want</guid>
-            <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
-            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded>&lt;p&gt;For the last few months, I debated switching my site to a headless CMS using WordPress. I liked—nay, loved—how easy it was to open a browser window, type words, add images, and make a new post. It was much simpler than pushing to GitHub, dealing with front matter, and all those things.&lt;/p&gt;
-&lt;p&gt;As I was working on the api calls, I thought, “Why not just move my &lt;em&gt;entire&lt;/em&gt; site to WordPress?” I reasoned that it would be nice to make pages with the same ease I made posts with, I could reasonably rely on WordPress being around for a bit, I was already hosting the site, and I found a &lt;a href=&quot;https://andersnoren.se/teman/mcluhan-wordpress-theme/&quot;&gt;theme&lt;/a&gt; that was minimal and elegant.&lt;/p&gt;
-&lt;p&gt;I thought about that idea for a weekend, but decided against it. Although the theme was really nice, and making new pages was easy, it proved so much harder than I wanted it to be to add anything that didn’t already exist. I don’t know the WordPress ecosystem like I do Next’s, but I just wanted to write some code that fetched my book notes and displayed the cover images. Admittedly, I never sat down with an intentional focus to work on that problem, but I just &lt;em&gt;could not&lt;/em&gt; figure out how to do it in WordPress.&lt;/p&gt;
-&lt;p&gt;I also wanted to add a few simple sentences to my /index, and that proved more difficult than I thought it should be. I had the markup written correctly, and my CSS properly written with classes styled, but I couldn’t for the life of me get the styles to be applied. Also, the browser on my phone was still using the original theme more than four days after I changed the original CSS. It must have been some sort of caching problem, but I couldn’t figure it out.&lt;/p&gt;
-&lt;p&gt;But I shouldn’t &lt;em&gt;have&lt;/em&gt; to figure it out. I kept thinking to myself, “You know, your current site already has all of these features.” There were a few times I got the functionality &lt;em&gt;close&lt;/em&gt; to what I wanted, but I realized with a personal site, I don’t want it &lt;em&gt;to be close&lt;/em&gt;, I want the site to look and feel &lt;em&gt;exactly&lt;/em&gt; how I want it to look and feel.&lt;/p&gt;
-&lt;p&gt;This is a major benefit of having a site built from scratch that I didn’t recognize before. I was focused on “owning” my content and ensuring there were as little “middle men” between my content and my content existing online that I was blinded of the huge blessing that having a site do, be, look, and perform exactly how I want.&lt;/p&gt;
-&lt;p&gt;I liked how &lt;a href=&quot;https://aworkinglibrary.com/writing/coming-home&quot;&gt;Mandy Brown put it in her post&lt;/a&gt; “Coming Home:”&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[having a personal website] allowed me to cultivate the soil to suit my purposes—rather than having to adapt my garden to the soil I was given&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;When you have a personal site that you control, you can make it &lt;em&gt;whatever&lt;/em&gt; you want it to be. If you want to build yourself a mini Twitter feed, &lt;a href=&quot;https://stream.thesephist.com/&quot;&gt;build yourself a mini Twitter feed&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;The only real limitation to this is your technical ability, but once you have a site live and working, ChatGPT can help you build just about anything. And when you run into errors or bugs, it’s an amazing troubleshooter.&lt;/p&gt;
-&lt;p&gt;Yeah, having a site built from scratch and writing posts in markdown files isn’t near as convenient as using something that builds the entire site for you, but I finally realized that tradeoff is worth it to me. I’ll take a bit more friction to write posts if it means that I have 100% control over &lt;em&gt;everything&lt;/em&gt; about my site.&lt;/p&gt;
-&lt;p&gt;If you have a personal site, whatever tool, software, or system you use, it should allow you to do &lt;em&gt;exactly&lt;/em&gt; what you want.&lt;/p&gt;
-&lt;p&gt;If that’s &lt;em&gt;not&lt;/em&gt; worth it to you, and you want a site that hosts words, looks great, and lets you write, I recommend &lt;a href=&quot;https://pika.page/&quot;&gt;Pika&lt;/a&gt;.&lt;/p&gt;
-</content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Justice Holmes]]></title>
             <description><![CDATA[
 One of the reasons I went to law school was because of Oliver Wendell Holmes, Jr. It’s not like a had a conversation with him...obviously. He’s long ...]]></description>
@@ -1026,29 +912,6 @@ One of the reasons I’ve been tempted to switch—and in fact have switched a f
 &lt;p&gt;I’m not saying that just because you’re struggling or are unhappy in a certain area in your life that it’s 100% your fault, because that’s just simply not true. But, I bet there are a few things—a good amount of things maybe—that you do cause, or at least add to the causing, through your behavior somehow. I know I have those things for me.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ask yourself:&lt;/strong&gt; How am I complicit in creating the conditions I say I don’t want?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;And then ask:&lt;/strong&gt; What am I going to do about it?&lt;/p&gt;
-</content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ambiguity is where the work is]]></title>
-            <description><![CDATA[
-I just finished my second week of law school, and when people say it's a lot of reading...it's a lot of reading—even for someone who loves to read li...]]></description>
-            <link>http://localhost:3000/posts/ambiguity-is-where-the-work-is</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/ambiguity-is-where-the-work-is</guid>
-            <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
-            <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded>&lt;p&gt;I just finished my second week of law school, and when people say it&amp;#39;s a lot of reading...it&amp;#39;s a lot of reading—even for someone who loves to read like me.&lt;/p&gt;
-&lt;p&gt;But I&amp;#39;ve been explaining to people that, so far, the material isn&amp;#39;t hard, it&amp;#39;s the volume. It doesn&amp;#39;t take the same type of brain power that learning calculus does, but the amount of information you&amp;#39;re expected to absorb (and retain) is a lot.&lt;/p&gt;
-&lt;p&gt;But that&amp;#39;s not what this post is about.&lt;/p&gt;
-&lt;p&gt;I had very little formal training or experience in the law before going to law school. I had a laymen&amp;#39;s understanding of the Constitution and knew that we live in a common law system, but I still expected most of the &amp;quot;rules&amp;quot; that govern society to be somewhat clear.&lt;/p&gt;
-&lt;p&gt;They&amp;#39;re not.&lt;/p&gt;
-&lt;p&gt;For the ten days I&amp;#39;ve been in school, this was frustrating to me for nine of them. When we&amp;#39;re given cases to read, I want to be able to finish the case and understand that rule completely. I felt like I could do that the first week, but then during the second week we read so many cases that essentially reversed the rules we read in the first week, or changed them so drastically, that those cases aren&amp;#39;t as clear as I thought they were.&lt;/p&gt;
-&lt;p&gt;On the face of it, that isn&amp;#39;t too difficult to understand. It&amp;#39;s important to know how the law has changed over the years because it will change again. The difficult part is that the new cases don&amp;#39;t &amp;quot;wipe away&amp;quot; the old ones every time. They&amp;#39;re only applicable sometimes...and other times the original ones apply...and sometimes &lt;em&gt;none&lt;/em&gt; of them apply! Can you see how this becomes difficult?&lt;/p&gt;
-&lt;p&gt;This was really starting to confuse me until one of my professors made an off-hand comment that is going to be my motto for the rest of my time in law school—and maybe even after I graduate.&lt;/p&gt;
-&lt;p&gt;A student was trying to get clarification for when we&amp;#39;re supposed to use one standard over another, and my professor kind of took a deep breath and said something alone the lines of: &lt;em&gt;You guys want me to give you a bright line answer. If I could give you a bright line answer, I&amp;#39;d be on the Supreme Court because I could say &amp;#39;This is the law now, move on.&amp;#39; But practicing law is not like that. Ambiguity is where the work is. If there wasn&amp;#39;t ambiguity, we wouldn&amp;#39;t have jobs.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ambiguity is where the work is.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I immediately wrote that phrase down in my notebook and have been thinking about it all week. Before, the ambiguity was frustrating; now, it&amp;#39;s exciting. Yes! Ambiguity—that means I get to research this problem and think deeply about what I think should happen (or shouldn&amp;#39;t happen), come up with an argument for why, and then argue that. Ambiguity is where the work (and the money) is. If the law was black and white, and anyone could easily figure out what to do, there would be no need for lawyers. And the little need there would be for them wouldn&amp;#39;t create the range of &amp;quot;Ok&amp;quot; lawyers, &amp;quot;good&amp;quot; lawyers, and &amp;quot;great&amp;quot; lawyers that we have today. Ambiguity gives me the opportunity to become great.&lt;/p&gt;
-&lt;p&gt;This isn&amp;#39;t just in the legal field, though. Many people now are some sort of &amp;quot;knowledge worker.&amp;quot; They don&amp;#39;t work with their hands, they make proposals and sit in meetings and create strategy decks and figure out how to run their department. All of those situations are full of ambiguity. If there was a playbook, they wouldn&amp;#39;t need to pay you! They could pay some kid who knows how to flip burgers at McDonald&amp;#39;s to &amp;quot;flip burgers&amp;quot;—follow the exact steps laid out for them by &amp;quot;best practices&amp;quot; or something—in their marketing department.&lt;/p&gt;
-&lt;p&gt;Embrace the ambiguity. That&amp;#39;s where the work (and the money) is.&lt;/p&gt;
 </content:encoded>
         </item>
         <item>
@@ -2410,8 +2273,6 @@ Are you becoming the over-protective snowplow parent, ensuring your sweet little
 &lt;p&gt;‘Jack read a great deal but not to the point he was burdensome about it,’ Horton remembered. ‘I think he could read quite fast, and, yes, he read a great deal but not ostentatiously…He seemed to absorb what he read much better than the rest of us. He also, which I think is rather indicative of his future, always read &lt;em&gt;The New York Times.&lt;/em&gt; He read that every single day from cover to cover, and I think that gave him a great insight into the political scene and international activities which he was so interested in.”&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;“History teacher Russell Ayers remarked in the fall of 1933 that Jack possessed ‘one of the few great minds’ he had in history class.”&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Jack was…humorous in his letters relating the events that took place in his hospital rooms. From joking about a nurse who asked to give him a “workout,” to describing an incident when a “‘doctor came in just after I had woken up and was reclining with a semi [erection] on due to the cold weather. His plan was to stick his finger under my pickle and have me cough. His plan quickly change however when he drew back the covers and there was ‘JJ Maher’ quivering with life.’ (Jack had named his penis after his detested Choate housemaster.) The ‘very unsexy’ night nurse, meanwhile, ‘is continually trying to goose me so I always have to be on my guard.’”&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;After Jack’s visit to Europe, and seeing the Old-World up-close, a trait that had been visible from his childhood started to emerge more strongly. Notably, his ability to form independent judgements, often which contradicted those of his own father’s. “Most portentously, once sees in the young Kennedy that summer an emerging capacity an willingness to view world affairs in contextual, dispassionate terms–a contrast with his father, who tended always to view the outside world mostly in terms of what it meant for himself and his family.”&lt;/p&gt;
 &lt;hr&gt;
@@ -5064,35 +4925,6 @@ If you break it, repair it!&lt;/li&gt;
 </content:encoded>
         </item>
         <item>
-            <title><![CDATA[Reflections on Calculus]]></title>
-            <description><![CDATA[I enjoyed it.]]></description>
-            <link>http://localhost:3000/posts/reflections-on-calculus</link>
-            <guid isPermaLink="true">http://localhost:3000/posts/reflections-on-calculus</guid>
-            <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
-            <pubDate>Tue, 20 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded>&lt;h2&gt;Simple reflections&lt;/h2&gt;
-&lt;p&gt;When you study Algebra, you study the rules of equations and polynomials. Algebra is used when there is some unknown variable or number in an equation.&lt;/p&gt;
-&lt;p&gt;Geometry deals with the study of shapes like triangles, squares, hexagons, and polygons. &lt;/p&gt;
-&lt;p&gt;Calculus, while using techniques taught in both algebra and geometry, focuses on the rates of change of functions and the area and slope of curves.&lt;/p&gt;
-&lt;p&gt;For example, say you have an equation that, when graphed, is a straight line &lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;y = 3x - 5.&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Using the slope intercept formula taught in algebra tells you the slope of that function is 3.&lt;/p&gt;
-&lt;p&gt;So what do you do if you need to calculate the slope of a parabolic function, like  &lt;em&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;y = x^2 + x - 3?&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/em&gt; This is where calculus comes in.&lt;/p&gt;
-&lt;p&gt;First, you take the derivative of the function. The derivative of &lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;y = x^2 + x - 3&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt; is &lt;em&gt;f’(x)&lt;/em&gt; &lt;em&gt;= 2x + 1&lt;/em&gt;. Once you have the derivative function, you take the point you want to find the slope of and plug it in. If the point is (1, 3), you’d calculate f’(3) = 2(1) + 1 = 3 (This function is saying “when &lt;em&gt;x&lt;/em&gt; is &lt;em&gt;3&lt;/em&gt;, what is &lt;em&gt;y&lt;/em&gt;?. So at the point (1, 3), the slope of our function is 3. &lt;/p&gt;
-&lt;p&gt;Calculus also becomes useful when you want to find the area under a curve. A classic problem is where you have a plot of land that borders a river on one side, and a straight road on all the others. Since this isn’t a proper square, the formula for calculating the area of a square won’t work, but if you have the function of the curve of the river (which I know is unlikely to come on the deed of the property), you can calculate the area.&lt;/p&gt;
-&lt;p&gt;Another part of calculus deals with the instantaneous rate of change of an object. Let’s say you were going on a road trip and you were traveling at a constant speed of 60mph for the entire trip. If the trip took two hours, it’s easy to calculate that we went 120 miles.&lt;/p&gt;
-&lt;p&gt;But if your speed &lt;em&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;wasn’t&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/em&gt; constant and instead averaged at 60mph, which meant you were going 70mph at some points and 50 mph at others, you can use calculus to determine how fast you were going at &lt;em&gt;&lt;strong&gt;any&lt;/strong&gt;&lt;/em&gt; point in time on your trip. Pretty cool!&lt;/p&gt;
-&lt;h2&gt;Reflections on how I learned it&lt;/h2&gt;
-&lt;p&gt;I took Math 104 (Calculus 1) on &lt;a href=&quot;http://Study.com&quot;&gt;Study.com&lt;/a&gt; as a prerequisite to a Computer Science program I’d like to attend. I was accepted, but just needed to get this course out of the way. It was…daunting…to say the least. I hadn’t taken a proper math class in about a year and the last one I took was more of a logic-math, not pure math.&lt;/p&gt;
-&lt;p&gt;Surprisingly, I really enjoyed it. I told myself all through high school that I was bad at math (Algebra was the only class I got a C in) and had always been more of a words guy. Turns out I was wrong. I simply didn’t have the desire to get good at math, nor have the resources available to help me when I was stuck. Though I had YouTube, I didn’t really know how to use YouTube for help at the time. The main limiting factor, though, was my desire: there wasn’t any. I had no need for algebra in my life and didn’t see how it would be useful for my career as a video editor/graphic designer. But now I have the desire.&lt;/p&gt;
-&lt;p&gt;As my curiosity has grown over the last few years, I’ve become more interested in science and especially physics. Most of physics is math. I also am pursuing a degree in Computer Science, which is a math heavy degree. Therefore, in an effort to understand armchair physics better and graduate with a degree in Computer Science, my desire to get good at math sprouted.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://Study.com&quot;&gt;Study.com&lt;/a&gt; was helpful because after each video I had to take a 5 question quiz. If I got more than one answer wrong, I was forced to retake it in order to get actual credit for the course. This rapid learn-then-test-yourself environment prevents you from fooling yourself by saying you understand something when you really don’t.&lt;/p&gt;
-&lt;p&gt;The course had 124 quizzes, which I had to get an 80% or better on. When I finished the quizzes, I had to take a proctored exam. The exam was easier than I expected, thanks in no small part to the unlimited practice exams I could take. To study for the exam, I took a practice exam, saw what types of questions I didn’t understand well, study those, retake the exam, and repeat until I felt ready to take the final.&lt;/p&gt;
-&lt;p&gt;The downside of taking the exam on &lt;a href=&quot;http://Study.com&quot;&gt;Study.com&lt;/a&gt; is that it takes two weeks to get your official results back because proctors watch the video back to ensure there were no shenanigans. It makes sense, but I feel like they could give you the official score and then come back if there are any problems. I also feel like you could easily train an AI model to exam the videos and flag any odd behavior for a human to double-check.&lt;/p&gt;
-&lt;h2&gt;In conclusion&lt;/h2&gt;
-&lt;p&gt;I’m excited I did it. I’m excited I learned. I’m excited for the rest of my learning journey. Thanks for following along.&lt;/p&gt;
-</content:encoded>
-        </item>
-        <item>
             <title><![CDATA[American Moonshot by Douglas Brinkley]]></title>
             <description><![CDATA[An intense saga of politics and space.]]></description>
             <link>http://localhost:3000/posts/book-notes-american-moonshot</link>
@@ -5473,13 +5305,7 @@ params: {
             <guid isPermaLink="true">http://localhost:3000/posts/ernest-hemingway</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
-&lt;p&gt;Though &lt;em&gt;The Washington Post&lt;/em&gt; touted this book as &amp;quot;The most fully faceted portrait of Hemingway now available&amp;quot;, I was unimpressed. The content of the book is detailed, but the writing was rigid. Facts about Ernest&amp;#39;s life were written out in a matter-of-fact manner. The stories told, though few, lacked drama or failed to engage one’s imagination. Letters were mentioned and quoted, but you never saw them shown in full detail. I learned more about Hemingway&amp;#39;s obsession with bullfighting than I did about his writing habits or philosophy, spare the mention of the &lt;em&gt;Kansas City Star&lt;/em&gt; writing guide (mentioned below in the notes). I suppose that&amp;#39;s what people want though. They want &lt;em&gt;the man and life behind&lt;/em&gt; the writing, not the writing. I think it’s a well-written book, it just was not what I was expecting and hoping for.&lt;/p&gt;
-&lt;p&gt;It was also assumed you&amp;#39;ve read (and memorized) all of Hemingway&amp;#39;s works. A plot in a story was mentioned and I&amp;#39;d have to Google what the book was about or how the character acted because it was never explained. A new person in Hemingway&amp;#39;s life would be introduced and a passing reference would be made to how they would later become &lt;em&gt;character X&lt;/em&gt; in one of his novels, but that was it. There was no further commentary about how, or why, or anything.&lt;/p&gt;
-&lt;p&gt;I’m always hesitant to say any work of art is “bad.” All I can think about is the time and energy the creator put into the piece, and then imagining them reading a review (like I really even matter as a reviewer) saying it’s bad. No work is ever really bad, sometimes it’s just not what we expect, or not something we like. And that’s okay. Because with the 7 billion people in the world, I’m sure lots would love this book. I’m just one of the few who didn’t.&lt;/p&gt;
-&lt;p&gt;However, I did learn interesting details about the Hemingway-Paris-writers era, which I&amp;#39;ve long been enchanted by. I closed the book with a fuller understanding of the man who called himself Ernest than I did when I opened it, which is what you hope for when you read a biography. A phrase that might sum up his life: &lt;em&gt;don&amp;#39;t meet your heroes, kid.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Notes&lt;/h2&gt;
-&lt;ul&gt;
+            <content:encoded>&lt;ul&gt;
 &lt;li&gt;Ernest&amp;#39;s grandmother told him that the only regrets she had in life were the things that she hadn&amp;#39;t done.&lt;/li&gt;
 &lt;li&gt;If you make something easy and fun, you&amp;#39;re more likely to do it. Ernest, early on in his writing career, wrote short humorous stories for the school newspaper.&lt;/li&gt;
 &lt;li&gt;Jazz, at the time of Ernest&amp;#39;s upbringing was shifting to mean the music it refers to now, from a word that originally meant sexual intercourse.&lt;/li&gt;
@@ -5803,7 +5629,7 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
 &lt;p&gt;When people speak to you, mark their arguments as &lt;em&gt;observations&lt;/em&gt; or as &lt;em&gt;inferences&lt;/em&gt;. Keep the types &lt;em&gt;separate&lt;/em&gt;. I&amp;#39;ve gained &lt;em&gt;so much&lt;/em&gt; from this simple practice.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;I like the idea here, but I&amp;#39;d change &amp;quot;inference&amp;quot; to &amp;quot;opinion.&amp;quot;&lt;/p&gt;
-&lt;p&gt;This echoes something I tweeted about last week about the importance of Twitter and other &amp;quot;thinking&amp;quot; out loud&amp;quot; tools being seen as a laboratory for testing conjectures and not a battleground for opinions. When an influential person tweets, inevitably they don&amp;#39;t account for all of the nuance. It&amp;#39;s impossible to do so with 280 characters.  Also inevitably, everyone starts attacking the user for not mentioning their specific, niche life story that this tweet wouldn&amp;#39;t apply to. It&amp;#39;s annoying.&lt;/p&gt;
+&lt;p&gt;This echoes something I tweeted about last week about the importance of Twitter and other &amp;quot;thinking out loud&amp;quot; tools being seen as a laboratory for testing conjectures and not a battleground for opinions. When an influential person tweets, inevitably they don&amp;#39;t account for all of the nuance. It&amp;#39;s impossible to do so with 280 characters.  Also inevitably, everyone starts attacking the user for not mentioning their specific, niche life story that this tweet wouldn&amp;#39;t apply to. It&amp;#39;s annoying.&lt;/p&gt;
 &lt;p&gt;It would do well for people online to differentiate between an observation made about the world and an inference into how that world actually works.&lt;/p&gt;
 &lt;p&gt;This would be good for dinner conversations with family, especially those with opposing political views. I ask risky questions to people with protected opinions all the time because I want to understand what they think and how they see the world. I love running thought experiments. With the topic of abortion being front and center now, instead of arguing over whether the government should be involved or this view vs. that view, I&amp;#39;ll pitch a thought experiment outlining a situation and then request we go through the experiment as if abortion were legal and if abortion weren&amp;#39;t legal.  What&amp;#39;s the right thing to do? How would someone be feeling in that situation?&lt;/p&gt;
 &lt;p&gt;The benefit of this is that it allows you to run through some fringe scenario that would probably never happen. Since the problem is exaggerated, the solutions are exaggerated. Often, it illuminates one path as better than another because of how it plays out in the exaggerated situation.&lt;/p&gt;
@@ -5830,10 +5656,7 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
             <guid isPermaLink="true">http://localhost:3000/posts/the-rise-and-fall-of-dinosaurs-by-steven-brusatte</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Sat, 05 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
-&lt;p&gt;I was inspired to buy this book after &lt;a href=&quot;https://armchairexpertpod.com/pods/steve-brusatte&quot;&gt;hearing the author&amp;#39;s conversation on &lt;em&gt;Armchair Expert&lt;/em&gt;&lt;/a&gt;. His enthusiasm for dinosaurs and the mysteries of earth 66 million years ago was contagious. I was hoping for a creatively written book about dinosaurs that helped me learn a lot about their origin. I wasn&amp;#39;t disappointed with that notion in mind, but I also wasn&amp;#39;t thrilled with the book. At the end, I still felt there was a lot of information missing about how dinosaurs were created, but perhaps that because &lt;em&gt;no one actually knows.&lt;/em&gt; Either way, I think Brusatte is a good writer and is able to mix academic knowledge with engaging writing, but I was hoping for more academic knowledge and less engaging writing. That said, it was a fun book and I&amp;#39;d recommend it to anyone wanting to learn a bit about dinosaurs, their evolutionary processes, and what the hell happened to all those magnificent creatures.&lt;/p&gt;
-&lt;h2&gt;Notes&lt;/h2&gt;
-&lt;ul&gt;
+            <content:encoded>&lt;ul&gt;
 &lt;li&gt;252 million years ago, the Permian period of the world ended with a massive mass extinction underneath Siberia. It wiped out 90% of the living things in the world and lasted for a few million years.&lt;/li&gt;
 &lt;li&gt;Body fossils, the most popular type, are when parts of the actual animal or plant become fossilized. Trace fossils are when a footprint, bite mark, or something of the like become fossilized. These are valuable because they show how the animal interacted with the environment around them.&lt;/li&gt;
 &lt;li&gt;Dinosaurs lived through three periods of geological history: the Triassic, Jurassic, and Cretaceous, which are together known as the Mesozoic Era.&lt;/li&gt;
@@ -6772,10 +6595,7 @@ He named a number too complicated for me to multiply in my head. &amp;quot;Three
             <guid isPermaLink="true">http://localhost:3000/posts/a-short-history-of-nearly-everything-by-bill-bryson</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
-&lt;p&gt;I’ve been wanting to read this book for quite some time now. The title got me hooked because one of the main questions I seek to answer in life is, “How did we get here?” And “Where are we going?” This book did a pretty good job of shedding some light on that topic, but not as much as I’d hoped it would. It talked a lot about the people who made discoveries and the drama between them more so than it did about actual information about “nearly everything.” The stories about the people who made certain discoveries were important and interesting, just not what I was expecting. It was also about 100 pages too long. Nonetheless, I learned some interesting things.&lt;/p&gt;
-&lt;h2&gt;Insights&lt;/h2&gt;
-&lt;ul&gt;
+            <content:encoded>&lt;ul&gt;
 &lt;li&gt;Before the universe began, there was nothing. There was no space outside the singularity, the really small dot of matter composed of material that was about to bang, and there was no time. So there was no &amp;quot;where&amp;quot; and there was no &amp;quot;before&amp;quot;.&lt;/li&gt;
 &lt;li&gt;The first remittance of the Big Bang was discovered, unknowingly, in 1965 by two scientists. At the time, they didn&amp;#39;t know what they were hearing, but it was in fact light that had travelled across the universe and stretched so much it was now microwaves.&lt;/li&gt;
 &lt;li&gt;Inflation Theory - Proposed by Alan Guth, this theory says moments after the Bang, the universe inflated from something you can hold in your hand to something that was the size of Earth today. This explains the ripples and eddies in our world.&lt;/li&gt;
@@ -7352,10 +7172,7 @@ hospitals and schools, then certainly I am for it.&lt;/p&gt;
             <guid isPermaLink="true">http://localhost:3000/posts/12-rules-for-life</guid>
             <dc:creator><![CDATA[maberydalton@gmail.com | Dalton Mabery]]></dc:creator>
             <pubDate>Fri, 17 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded>&lt;h2&gt;Impressions&lt;/h2&gt;
-&lt;p&gt;I began reading this book when it came out and stopped about 3/4 of the way through. It just wasn&amp;#39;t for me at the time. But it was a delightful read now. Peterson talks about some really interesting ideas in the book that it didn&amp;#39;t think were applicable, but apparently they were. At times, the writing was a bit dense and too heady, but that&amp;#39;s what you get from an intelligent college professor.&lt;/p&gt;
-&lt;h2&gt;Actionable Takeaways&lt;/h2&gt;
-&lt;ol&gt;
+            <content:encoded>&lt;ol&gt;
 &lt;li&gt;Nature and the world are not static. Therefore, anything or anyone that acts like it is static will eventually come to ruin. Instead, nature and the environment is dynamic. It begs for a constant tango between the inhabitants of the world as it mutates. Companies, ideas, and people that worked awhile ago aren&amp;#39;t going to work today if they keep doing the same thing.&lt;/li&gt;
 &lt;li&gt;Anxiety and depression cannot be treated easily if the person has unpredictable daily routines. The system in the body that regulates those emotions and feelings are closely linked to the circadian rhythm. Ensuring you&amp;#39;re sleep habits are regular can be a great place to start.&lt;/li&gt;
 &lt;li&gt;Life is a constant battle fighting to maintain order, but learning how to thrive in chaos.&lt;/li&gt;
@@ -7389,11 +7206,6 @@ hospitals and schools, then certainly I am for it.&lt;/p&gt;
 &lt;li&gt;Someone living a life-lie is attempting to manipulate reality with perception, thought, and action, so that only some narrowly desired and pre-defined outcome is allowed to exist.&lt;/li&gt;
 &lt;li&gt;&amp;quot;A naively formulated goal transmutes, with time, into the sinister form of the life-lie.&amp;quot;&lt;/li&gt;
 &lt;li&gt;If you don&amp;#39;t believe in brick walls, you will still be hurt when you run headlong into one. Then you will curse reality itself for producing the wall.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Questions&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Are you so sure the person crying out to be saved has not decided a thousand times to accept his lot of pointless and worsening suffering, simply because it is easier than shouldering any true responsibility?&lt;/li&gt;
-&lt;li&gt;What have I done wrong and what can I do to make things at least a little bit more right?&lt;/li&gt;
 &lt;/ul&gt;
 </content:encoded>
         </item>
