@@ -11,7 +11,7 @@ Type: "Book Notes"
 ## Impressions
 I didn't have many impressions before reading this book, other than being excited by the beautiful design and color theory. I also assumed it to be of some importance because Stripe Press was the publisher. I'm happy to say it did not disappoint.
 
-I wrote about this in [my summary/review of this book](https://www.daltonmabery.com/essays/book-review-and-summary-revolt-of-the-public), but Gurri's writing helped me navigate the world as I see it today, which will be invaluable for navigating the world in the future. It combines geopolitics, social phenomena, and historical events into a cohesive narrative about the world. It also gave me language to talk about certain political situations.
+I wrote about this in [my summary/review of this book](https://www.dltn.io/posts/book-review-and-summary-revolt-of-the-public), but Gurri's writing helped me navigate the world as I see it today, which will be invaluable for navigating the world in the future. It combines geopolitics, social phenomena, and historical events into a cohesive narrative about the world. It also gave me language to talk about certain political situations.
 
 ## Key Learnings
 Under conditions of scarcity, sources of information become authoritative. Increase the access to information and you decrease the authority of any one person on that topic.

@@ -7,7 +7,7 @@ Published: true
 Slug: "book-review-da-vinci"
 Type: "Essay"
 ---
-I chose to read a 500+ page biography on a strange renaissance artist because, [much like Einstein](https://www.daltonmabery.com/essays/albert-einstein), I was fascinated with how he approached the world through curiosity. I read Isaacson's biography of [Einstein](https://www.daltonmabery.com/book-notes/einstein-his-life-and-universe) first, and he made comments about how da Vinci's life was filled with even more wonder and curiosity than Einstein's, and I wanted to know how, what that was like, and how I can do the same.
+I chose to read a 500+ page biography on a strange renaissance artist because, [much like Einstein](https://www.dltn.io/posts/albert-einstein), I was fascinated with how he approached the world through curiosity. I read Isaacson's biography of [Einstein](https://www.dltn.io/posts/einstein-his-life-and-universe) first, and he made comments about how da Vinci's life was filled with even more wonder and curiosity than Einstein's, and I wanted to know how, what that was like, and how I can do the same.
 
 It turns out it's simple: Never complete what you say you're going to and spend years perfecting every intricate detail of your work. Easy, right?
 

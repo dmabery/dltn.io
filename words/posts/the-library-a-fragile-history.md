@@ -23,7 +23,7 @@ I do wish the contents were organized in a more structured timeline. I don't get
 
 ## Notes
 - [Pliny the Elder](https://en.wikipedia.org/wiki/Pliny_the_Elder), when talking about [Asinius](https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio), the friend of Julius Cesear who would bring Ceser's plan for a library in Rome to fruition, said Asinius was "the first to make the genius of man public property." I quite like that description for a library.
-- "A monk who works is troubled by only one devil, while a monk who is idle is troubled by many." This is similar to Newton's quote about resisting temptation by keeping busy with intellectual practices in *[The Clockwork Universe](https://www.daltonmabery.com/book-notes/the-clockwork-universe)*.
+- "A monk who works is troubled by only one devil, while a monk who is idle is troubled by many." This is similar to Newton's quote about resisting temptation by keeping busy with intellectual practices in *[The Clockwork Universe](https://www.dltn.io/posts/the-clockwork-universe)*.
 - After the fall of the Roman Empire disrupted the papyrus supply throughout the Mediterranean, parchment became the standard replacement. It was more expensive, but lasted longer and could be written on on both sides.
 - The importance of books in the monastic life could be symbolized through the existence of the scriptorium or writing room. For no one ever dedicated a room to something that wasn't important.
 - Around the twelfth century, monasteries lost their monopoly on book collections and creations and universities took the reins.
