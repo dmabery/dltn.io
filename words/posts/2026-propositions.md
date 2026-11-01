@@ -10,9 +10,7 @@ Type: Essay
 ---
 This is a friendly reminder to vote. California [allows you to track your ballot](https://www.sos.ca.gov/elections/ballot-status/wheres-my-ballot), so you can know exactly where it is and when it is counted.
 
-On the ballot this year are 14 propositions. Propositions are legislative or citizen-initiated constitutional amendments or other proposals to change the law in California. I was lucky enough to be part of a class that spent the semester writing objective analyses of every proposition, which [you can find here](https://www.pacific.edu/law/publications/california-initiative-review). We also presented every proposition during a public forum. The video for that is linked below. (I do not know why it is age restricted.)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ILJvSMbSR4A?si=oAK9RkpJIs8DG_PC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+On the ballot this year are 14 propositions. Propositions are legislative or citizen-initiated constitutional amendments or other proposals to change the law in California. I was lucky enough to be part of a class that spent the semester writing objective analyses of every proposition, which [you can find here](https://www.pacific.edu/law/publications/california-initiative-review). We also presented every proposition [during a public forum](https://www.youtube.com/live/ILJvSMbSR4A?si=l_1gEugJI_4en-fP).
 
 My group wrote on Proposition 3 and Proposition 5. Proposition 3 will make permanent the state's existing 10.3%, 11.3%, and 12.3% tax rates on income over $371,000 for single filers and $743,000 for joint filers.
 
