@@ -9,9 +9,9 @@ Published: true
 Slug: 65-book-recommendations-from-david-mccullough
 Type: Essay
 ---
-David McCullough loved to read. He also liked to tell people about what he read and the books that impacted his life and style as a writer the most.
+*[History Matters](https://www.dltn.io/posts/history-maters-by-david-mccullough)*, a collection of David McCullough's speeches and writings published by his daughter, is filled with his book recommendations. The last few chapters are specifically dedicated to the books that influenced McCullough the most, but such recommendations are scattered throughout the entire book in his various speeches. So I went through the book and collected a list of all of the books McCullough mentioned or recommended in order to compile a complete list of his recommendations.
 
-*[History Matters](https://www.dltn.io/posts/history-maters-by-david-mccullough)*, a collection of his speeches and writings published by his daughter, is filled with such references. The last few chapters are specifically dedicated to the books that influenced him the most, but there are such references and recommendations scattered throughout the entire book. So I went through the book and collected a list of all of the books he mentioned or recommended. Enjoy, and happy reading.
+Enjoy, and happy reading.
 
 ## Fiction
 
