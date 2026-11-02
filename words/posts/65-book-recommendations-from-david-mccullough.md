@@ -1,5 +1,5 @@
 ---
-Title: 65 Book Recommendations from David McCullough
+Title: 65 Book Recommendations From David McCullough
 Tags:
   - books
   - people
