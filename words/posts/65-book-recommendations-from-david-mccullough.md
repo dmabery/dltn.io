@@ -1,12 +1,12 @@
 ---
-Title: 65 Book Recommendations by David McCullough
+Title: 65 Book Recommendations from David McCullough
 Tags:
   - books
   - people
 Date: 2026-11-02T00:00:00
 Description:
 Published: true
-Slug: 65-book-recommendations-by-david-mccullough
+Slug: 65-book-recommendations-from-david-mccullough
 Type: Essay
 ---
 David McCullough loved to read. He also liked to tell people about what he read and the books that impacted his life and style as a writer the most.
