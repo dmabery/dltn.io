@@ -3,14 +3,16 @@ import Image from "next/image";
 import Link from "next/link";
 import Meta from "../components/Meta";
 import Subscribe from "../components/Subscribe";
-import { getAllPosts } from "../lib/getMarkdownFiles";
+import { getAllPosts, toSummary } from "../lib/getMarkdownFiles";
 
 
 export const getStaticProps = async () => {
   const posts = await getAllPosts();
 
   return {
-    props: {posts: posts.filter((post) => post.type === "Book Notes")}
+    props: {
+      posts: posts.filter((post) => post.type === "Book Notes").map(toSummary),
+    },
   };
 };
 

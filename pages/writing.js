@@ -2,12 +2,12 @@ import ImageWithCaption from "../components/ImageWithCaption";
 import Meta from "../components/Meta";
 import PageTitle from "../components/PageTitle";
 import PostListSimple from "../components/PostListSimple";
-import { getAllPosts } from "../lib/getMarkdownFiles";
+import { getAllPosts, toSummary } from "../lib/getMarkdownFiles";
 
 export const getStaticProps = async () => {
   const posts = await getAllPosts();
   return {
-    props: { posts},
+    props: { posts: posts.map(toSummary) },
   }};
 
 const Writing = ({ posts }) => (

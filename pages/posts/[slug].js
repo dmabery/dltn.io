@@ -33,7 +33,9 @@ export async function getStaticProps({ params: { slug } }) {
   return {
     props: {
       frontmatter: {
-        ...post,
+        title: post.title,
+        excerpt: post.excerpt,
+        featuredImage: post.featuredImage ?? null,
         tags: tags, // Ensure tags are an array of strings
         date: post.date, // Ensure date is serialized as string
       },

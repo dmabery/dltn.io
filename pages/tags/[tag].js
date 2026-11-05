@@ -1,14 +1,14 @@
 import Meta from "../../components/Meta";
 import PageTitle from "../../components/PageTitle";
 import PostListSimple from "../../components/PostListSimple";
-import { getPostsByTags, getTags } from "../../lib/getMarkdownFiles";
+import { getPostsByTags, getTags, toSummary } from "../../lib/getMarkdownFiles";
 
 export const getStaticProps = async ({ params }) => {
   const posts = await getPostsByTags(params.tag);
 
   return {
     props: {
-      posts,
+      posts: posts.map(toSummary),
       tag: params.tag,
     },
   };

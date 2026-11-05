@@ -1,20 +1,19 @@
 /* eslint-disable react/no-unescaped-entities */
 import Link from "next/link";
 import Meta from "../components/Meta";
-import { getAllPosts, getTags } from "../lib/getMarkdownFiles";
+import { getAllPosts, toSummary } from "../lib/getMarkdownFiles";
 import generateRssFeed from "../utils/rss";
 
 export const getStaticProps = async () => {
   const posts = await getAllPosts();
-  const tags = await getTags();
 
   generateRssFeed(posts);
 
   return {
-    props: { posts, tags },
+    props: { posts: posts.map(toSummary) },
   }};
 
-export default function Home({ posts, tags }) {
+export default function Home({ posts }) {
   if (!posts) return <h1>No posts</h1>;
 
   const posts2026 = posts.filter(item => {
