@@ -19,7 +19,7 @@ Justice Barrett asked the State of Colorado why it has the nondiscrimination man
   
 Justice Barrett had a hard time believing that secular schools were rampantly discriminating, the import of which would mean that Colorado created the policy to target religious schools. Such targeting would trigger strict scrutiny. Justice Kagan did not think this was the case, as there was evidence in the record that religious schools—even Catholic religious schools—were participating in the program. As such, to her, it seemed as if Colorado was simply trying to combat discrimination.
 
-While Justice Alito does not thing overturning Smith is on the table in this case, he nonetheless expressed his disappointment with its outcomes:
+While Justice Alito does not think overturning *Smith* is on the table in this case, he nonetheless expressed his disappointment with its outcomes:
 
 > **Justice Alito:** One of the things it would allow is our imposition of a rule that says nobody could stand where you stand now with his or her head covered. So Orthodox Jewish men and many Muslim women would not be allowed to argue here. It would allow a rule that says that every slaughterhouse must render the animal unconscious before being killed, which would outlaw kosher and halal slaughterhouses, which is done in some European countries. It would mean that a governmental entity could prohibit circumcision, which is also done in some European countries.
 
